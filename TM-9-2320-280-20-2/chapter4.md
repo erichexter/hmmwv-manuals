@@ -1,142 +1,143 @@
 
 <a name="chapter-4"></a>
 # Chapter 4 Electrical System Maintenance
-| Chapter 4  |  Systems Maintenance TASK SUMMARY 
-|------------|-------------------------------
-| TASK       | PROCEDURES
-| [4-1 ](#4-1)          | 
-| [4-2 ](#4-2)          | 
-| [4-3 ](#4-3)          | 
-| [4-4 ](#4-4)          | 
-| [4-5 ](#4-5)          | 
-| [4-6 ](#4-6)          | 
-| [4-7 ](#4-7)          | 
-| [4-8 ](#4-8)          | 
-| [4-9 ](#4-9)          | 
-| [4-10](#4-10)         | 
-| [4-11](#4-11)         | 
-| [4-12](#4-12)         | 
-| [4-13](#4-13)         | 
-| [4-14](#4-14)         | 
-| [4-15](#4-15)         | 
-| [4-16](#4-16)         | 
-| [4-17](#4-17)         | 
-| [4-18](#4-18)         | 
-| [4-19](#4-19)         | 
-| [4-20](#4-20)         | 
-| [4-21](#4-21)         | 
-| [4-22](#4-22)         | 
-| [4-23](#4-23)         | 
-| [4-24](#4-24)         | 
-| [4-25](#4-25)         | 
-| [4-26](#4-26)         | 
-| [4-27](#4-27)         | 
-| [4-28](#4-28)         | 
-| [4-29](#4-29)         | 
-| [4-30](#4-30)         | 
-| [4-31](#4-31)         | 
-| [4-32](#4-32)         | 
-| [4-33](#4-33)         | 
-| [4-34](#4-34)         | 
-| [4-35](#4-35)         | 
-| [4-36](#4-36)         | 
-| [4-37](#4-37)         | 
-| [4-38](#4-38)         | 
-| [4-39](#4-39)         | 
-| [4-40](#4-40)         | 
-| [4-41](#4-41)         | 
-| [4-42](#4-42)         | 
-| [4-43](#4-43)         | 
-| [4-44](#4-44)         | 
-| [4-45](#4-45)         | 
-| [4-46](#4-46)         | 
-| [4-47](#4-47)         | 
-| [4-48](#4-48)         | 
-| [4-49](#4-49)         | 
-| [4-50](#4-50)         | 
-| [4-51](#4-51)         | 
-| [4-52](#4-52)         | 
-| [4-53](#4-53)         | 
-| [4-54](#4-54)         | 
-| [4-55](#4-55)         | 
-| [4-56](#4-56)         | 
-| [4-57](#4-57)         | 
-| [4-58](#4-58)         | 
-| [4-59](#4-59)         | 
-| [4-60](#4-60)         | 
-| [4-61](#4-61)         | 
-| [4-62](#4-62)         | 
-| [4-63](#4-63)         | 
-| [4-64](#4-64)         | 
-| [4-65](#4-65)         | 
-| [4-66](#4-66)         | 
-| [4-67](#4-67)         | 
-| [4-68](#4-68)         | 
-| [4-69](#4-69)         | 
-| [4-70](#4-70)         | 
-| [4-71](#4-71)         | 
-| [4-72](#4-72)         | 
-| [4-73](#4-73)         | 
-| [4-74](#4-74)         | 
-| [4-75](#4-75)         | 
-| [4-76](#4-76)         | 
-| [4-77](#4-77)         | 
-| [4-78](#4-78)         | 
-| [4-79](#4-79)         | 
-| [4-80](#4-80)         | 
-| [4-81](#4-81)         | 
-| [4-82](#4-82)         | 
-| [4-83](#4-83)         | 
-| [4-84](#4-84)         | 
-| [4-85](#4-85)         | 
-| [4-86](#4-86)         | 
-| [4-87](#4-87)         | 
-| [4-88](#4-88)         | 
-| [4-89](#4-89)         | 
-| [4-90](#4-90)         | 
-| [4-91](#4-91)         | 
-| [4-92](#4-92)         | 
-| [4-93](#4-93)         | 
-| [4-94](#4-94)         | 
-| [4-95](#4-95)         | 
-| [4-96](#4-96)         | 
-| [4-97](#4-97)         | 
-| [4-98](#4-98)         | 
-| [4-99](#4-99)         | 
-| [4-100](#4-100)       | 
-| [4-101](#4-101)       | 
-| [4-102](#4-102)       | 
-| [4-103](#4-103)       | 
-| [4-104](#4-104)       | 
-| [4-105](#4-105)       | 
-| [4-106](#4-106)       | 
-| [4-107](#4-107)       | 
-| [4-108](#4-108)       | 
-| [4-109](#4-109)       | 
-| [4-110](#4-110)       | 
-| [4-111](#4-111)       | 
-| [4-112](#4-112)       | 
-| [4-113](#4-113)       | 
-| [4-114](#4-114)       | 
-| [4-115](#4-115)       | 
-| [4-116](#4-116)       | 
-| [4-117](#4-117)       | 
-| [4-118](#4-118)       | 
-| [4-119](#4-119)       | 
-| [4-120](#4-120)       | 
-| [4-121](#4-121)       | 
-| [4-122](#4-122)       | 
-| [4-123](#4-123)       | 
-| [4-124](#4-124)       | 
-| [4-125](#4-125)       | 
-| [4-126](#4-126)       | 
-| [4-127](#4-127)       | 
-| [4-128](#4-128)       | 
-| [4-129](#4-129)       | 
-
 
 <a name="chapter-4-section-i"></a>
 Section I. GENERATING AND PROTECTIVE CONTROL BOX SYSTEM MAINTENANCE
+
+
+| Chapter 4             |  Systems Maintenance TASK SUMMARY 
+|------------           |-------------------------------
+| TASK                  | PROCEDURES
+| [4-2 ](#4-2)          | 60 Ampere Alternator Maintenance
+| [4-3 ](#4-3)          | Alternator Pulley Replacement
+| [4-4 ](#4-4)          | Alternator Mounting Brackets Replacement (Cont'D)
+| [4-5 ](#4-5)          | Protective Control Box Maintenance
+| [4-6 ](#4-6)          | Starter And Starting Control System Maintenance Task Summary
+| [4-7 ](#4-7)          | Rotary Switch Replacement
+| [4-8 ](#4-8)          | Starter Replacement
+| [4-9 ](#4-9)          | Circuit Breaker Replacement
+| [4-10](#4-10)         | INSTRUMENTS, SENDING UNITS, SWITCHES, AND HORN MAINTENANCE TASK
+| [4-11](#4-11)         | Instrument Cluster Replacement
+| [4-12](#4-12)         | Instrument Panel Replacement
+| [4-13](#4-13)         | Electrical Gauge Replacement
+| [4-14](#4-14)         | Speedometer/Odometer Replacement (Cont'D)
+| [4-15](#4-15)         | Speedometer Cable And Core (12338428) Replacement
+| [4-16](#4-16)         | Instrument Cluster Light Replacement
+| [4-17](#4-17)         | Wait-To-Start Lamp Replacement (Cont'D)
+| [4-18](#4-18)         | High Beam Lamp Replacement
+| [4-19](#4-19)         | Parking Brake Switch Replacement
+| [4-20](#4-20)         | Horn Switch Replacement
+| [4-21](#4-21)         | Horn Control Brush Replacement
+| [4-22](#4-22)         | Horn Replacement
+| [4-23](#4-23)         | Horn Mounting Bracket Replacement
+| [4-24](#4-24)         | Engine Temperature Sending Unit Replacement
+| [4-25](#4-25)         | Oil Pressure Sending Unit Replacement
+| [4-26](#4-26)         | Fuel Pressure Transducer Replacement
+| [4-27](#4-27)         | Cold Advance Switch Replacement
+| [4-28](#4-28)         | Fuel Level Sending Unit Replacement
+| [4-29](#4-29)         | Glow Plug Controller/Temperature Sensor Replacement
+| [4-30](#4-30)         | Fan Temperature Switch Replacement
+| [4-31](#4-31)         | Time Delay Module Replacement
+| [4-32](#4-32)         | Rpm Sensor Replacement
+| [4-33](#4-33)         | Engine Rpm Sensor Replacement
+| [4-34](#4-34)         | Backup Light Switch Replacement
+| [4-35](#4-35)         |
+| [4-36](#4-36)         | Transfer Case Indicator Switch Replacement
+| [4-37](#4-37)         | Transfer Case Indicator Lamp Cable Assembly Replacement
+| [4-38](#4-38)         | Transfer Case Indicator Lamp Assembly Replacement
+| [4-39](#4-39)         | Transmission Indicator Lamp Assembly Replacement (4L80-E)
+| [4-40](#4-40)         | Transmission Circuit Breakers And Jumper Leads Replacement (4L80-E)
+| [4-41](#4-41)         | Transmission Relay Replacement (4L80-E)
+| [4-42](#4-42)         |
+| [4-43](#4-43)         | Kick-Down Switch Maintenance (3L80) (Cont'D)
+| [4-44](#4-44)         | Fan Cut-Off Switch Replacement (4L80-E)
+| [4-45](#4-45)         |
+| [4-46](#4-46)         | Transmission Input Speed Sensor (Tiss) And Output Speed Sensor
+| [4-47](#4-47)         |
+| [4-48](#4-48)         |
+| [4-49](#4-49)         | Service Headlight Assembly Replacement
+| [4-50](#4-50)         | Blackout Drive Light Assembly Replacement
+| [4-51](#4-51)         | Blackout Drive Light Lamp Replacement
+| [4-52](#4-52)         | Front Composite Light Assembly Replacement
+| [4-53](#4-53)         | Front Composite Light Lamp Replacement
+| [4-54](#4-54)         | Side Marker Light Lens And Lamp Replacement
+| [4-55](#4-55)         | Side Marker Light Assembly Replacement
+| [4-56](#4-56)         | Rear Composite Light Assembly Replacement
+| [4-57](#4-57)         | Rear Composite Light Lamp Replacement
+| [4-58](#4-58)         | Headlight Beam Selector Switch And Bracket Replacement
+| [4-59](#4-59)         | Main Light Switch Replacement
+| [4-60](#4-60)         | Stoplight Switch (11663279) Maintenance
+| [4-61](#4-61)         | Stoplight Switch (Rcsk 17810) Maintenance
+| [4-62](#4-62)         | Directional Signal Flasher Replacement
+| [4-63](#4-63)         |
+| [4-64](#4-64)         | Directional Signal Control (12339312-1) Maintenance
+| [4-65](#4-65)         |
+| [4-66](#4-66)         |
+| [4-67](#4-67)         | Service Headlight And Blackout Drive Light Electrical Connector And Grommet Replacement
+| [4-68](#4-68)         | Backup Light Lamp Replacement
+| [4-69](#4-69)         | Backup Light Assembly Replacement
+| [4-70](#4-70)         | Backup Light Bracket Replacement
+| [4-71](#4-71)         |
+| [4-72](#4-72)         | Battery Cable Terminal Clamp Replacement (Cont'D)
+| [4-73](#4-73)         | Battery Cable Maintenance
+| [4-74](#4-74)         | Power Feed Through Stud Replacement
+| [4-75](#4-75)         | 12 Volt Alternator Cable Replacement
+| [4-76](#4-76)         | Buss Bar Replacement
+| [4-77](#4-77)         | Starter Power Cables Replacement
+| [4-78](#4-78)         | Battery Holddown Replacement
+| [4-79](#4-79)         | Battery Replacement And Servicing
+| [4-80](#4-80)         | Battery Tray Maintenance
+| [4-81](#4-81)         | Slave Receptacle And Cable Maintenance
+| [4-82](#4-82)         | Winch Power Cable Replacement
+| [4-83](#4-83)         | Shunt Replacement
+| [4-84](#4-84)         | Hood Wiring Harness Replacement
+| [4-85](#4-85)         | Wiring Harness Connector Repair
+| [4-86](#4-86)         | Electrical System Maintenance Task Summary (Cont'D)
+| [4-87](#4-87)         | Ceiling Light Assembly Maintenance
+| [4-88](#4-88)         | Spotlight Assembly Maintenance
+| [4-89](#4-89)         | Spotlight Socket Maintenance
+| [4-90](#4-90)         | Electrical Outlet/Bracket Maintenance
+| [4-91](#4-91)         | Rear Steps Blackout Switch Bracket Replacement
+| [4-92](#4-92)         | Rear Steps Blackout Switch Replacement
+| [4-93](#4-93)         | Rear Door Blackout Switch/Bracket Maintenance
+| [4-94](#4-94)         | Bulkhead Door Blackout Switch And Bracket Maintenance
+| [4-95](#4-95)         | Backup Light Assembly Maintenance (M996, M996A1, M997, M997A1, M997A2)
+| [4-96](#4-96)         | Control Box Assembly Replacement (M997, M997A1, M997A2)
+| [4-97](#4-97)         | Control Box Assembly Replacement (M996, M996A1)
+| [4-98](#4-98)         | Control Box Power Cables Replacement
+| [4-99](#4-99)         | Nbc Control Box And Wiring Harness Replacement (M996, M996A1)
+| [4-100](#4-100)       | Nbc Control Box And Wiring Harness Replacement (M997, M997A1, M997A2)
+| [4-101](#4-101)       | **Interior Lighting Harness Assembly Replacement (M997, M997A1, M997A2)**
+| [4-102](#4-102)       | Interior Lighting Harness Assembly Replacement (M996, M996A1)
+| [4-103](#4-103)       | Wiring Harness Duct Assembly Replacement
+| [4-104](#4-104)       | Resuscitator/Aspirator Cable Replacement
+| [4-105](#4-105)       | Antenna Cables Replacement (M996, M996A1)
+| [4-106](#4-106)       | Antenna Cables Replacement (M997, M997A1, M997A2)
+| [4-107](#4-107)       | Intercom Cable Replacement (M996, M996A1)
+| [4-108](#4-108)       | Intercom Cable Replacement (M997, M997A1, M997A2)
+| [4-109](#4-109)       | 200 Ampere Alternator (Aa0013036Aa) Replacement
+| [4-110](#4-110)       | 200 Ampere Alternator (12338796-1) Replacement (6.2L)
+| [4-111](#4-111)       | 200 Ampere Alternator Cable (12446825) Replacement
+| [4-112](#4-112)       | 200 Ampere Alternator Cable (12339317) Replacement
+| [4-113](#4-113)       | 200 Ampere Umbilical Power Cable Replacement
+| [4-114](#4-114)       | 200 Ampere Regulator (A0013036Aa) Replacement
+| [4-115](#4-115)       | 200 Ampere Regulator (12338796-1, S-311) Replacement
+| [4-116](#4-116)       | Control Box Terminal Block And Mounting Buss Replacement
+| [4-117](#4-117)       | Control Box Fuse Block And Relay Socket Replacement
+| [4-118](#4-118)       | Control Box Light Switch Replacement
+| [4-119](#4-119)       | Control Box Electrical Plug And Receptacle Replacement
+| [4-120](#4-120)       | Control Box Relay Replacement
+| [4-121](#4-121)       | Condenser Fan/Pressure Switch Wiring Harness Replacement (M997, M997A1, M997A2)
+| [4-122](#4-122)       | Compressor/Heater Fuel Pump Wiring Harness Replacement (M997, M997A1, M997A2)
+| [4-123](#4-123)       | Heater/Vent System Control Box And Wiring Harness Replacement
+| [4-124](#4-124)       | Nbc Control Panel Replacement
+| [4-125](#4-125)       | Heat/Vent Control Panel Removal (M996, M996A1)
+| [4-126](#4-126)       | Heat/Vent Control Panel Relay And Switch Maintenance (M996, M996A1)
+| [4-127](#4-127)       | Heat/Air-Conditioning Control Panel Relay And Switch Maintenance (M997, M997A1, M997A2)
+| [4-128](#4-128)       |
+| [4-129](#4-129)       |
+
 
 | All vehicles except: M997A2, M1025A2, TM 9\-2320\-280\-24P                                              |
 |---------------------------------------------------------------------------------------------------------|
@@ -204,7 +205,7 @@ Perform step 2 for vehicles with revised configurations.
 
 # 4-2.  60 Ampere Alternator Maintenance (Cont'D)
 
-![175_image_0.png](175_image_0.png)
+![175_image_0.png](images/175_image_0.png)
 
 ## 4 - 2 . 60 Ampere Alt E R N Ator Maintenance (Cont'D)
 
@@ -258,7 +259,7 @@ Ensure terminals are clean before connections are made.
 
 # 4-2.  60 Ampere Alternator Maintenance (Cont'D)
 
-![177_image_0.png](177_image_0.png)
+![177_image_0.png](images/177_image_0.png)
 
 ## 4 - 2 . 60 Ampere Alt E R N Ator Maintenance (Cont'D)
 
@@ -289,7 +290,7 @@ Battery ground cable must be removed (para. 4-73).
 
 # 4-2. 60 Ampere Alternator Maintenance (Cont'D)
 
-![179_image_0.png](179_image_0.png)
+![179_image_0.png](images/179_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - • - Lower and secure hood (TM 9-2320-280-10).
@@ -322,11 +323,11 @@ Equipment Condition **__________________**
 
 # 4-2.1.  60 Ampere Alternator Regulator Replacement (Cont'D)
 
-![181_image_0.png](181_image_0.png)
+![181_image_0.png](images/181_image_0.png)
 
 .
 
-![181_image_1.png](181_image_1.png)
+![181_image_1.png](images/181_image_1.png)
 
 FOLLOW-ON TASK:    Install alternator (para. 4-2).
 
@@ -364,7 +365,7 @@ TM 9-2320-280-10 TM 9-2320-280-24P
 
 # 4-2.2. 100/200 Ampere Alternator Cable Replacement(Cont'D)
 
-![183_image_0.png](183_image_0.png)
+![183_image_0.png](images/183_image_0.png)
 
 ## 4-2.2. 100/200 Ampere Alt E R N Ator Cable Replacement ( Co N T ' D )
 
@@ -388,7 +389,7 @@ lockwasher (16), nut (17), clamp (9), and screw (10).
 
 4-2.2. 100/200 AMPERE ALTERNATOR CABLE REPLACEMENT(Cont'd)
 
-![185_image_0.png](185_image_0.png)
+![185_image_0.png](images/185_image_0.png)
 
 ## 4-2.2. 100/200 Ampere Alt E R N Ator Cable Replacement ( Co N T ' D )
 
@@ -401,7 +402,7 @@ to 10-15 lb-ft (14-20 N•m).
 
 # 4-2.2. 100/200 Ampere Alternator Cable Replacement(Cont'D)
 
-![187_image_0.png](187_image_0.png)
+![187_image_0.png](images/187_image_0.png)
 
 # 4-2.2. 100/200 Ampere Alt E R N Ator Cable Replacement ( Co N T ' D )
 
@@ -419,7 +420,7 @@ Discard lockwasher (15).
 
 # 4-2.2. 100/200 Ampere Alternator Cable Replacement(Cont'D)
 
-![189_image_0.png](189_image_0.png)
+![189_image_0.png](images/189_image_0.png)
 
 ## 4-2.2. 100/200 Ampere Alt E R N Ator Cable Replacement ( Co N T ' D )
 
@@ -431,7 +432,7 @@ Discard lockwasher (15).
 
 1. Position cable (2) in approximate mounting location through hole in battery box (8). 2. Install cables (4), (3), and (2) on terminal clamp (6) with screw (1) and nut (5). 3. Fill battery terminal boot (7) with lubricating oil. 4. Install cap (9) on terminal boot (7). 5. Install cables (2) and (3) and clamps (16) and (21) on bracket (22) and body (18) with washer (20),
 
-![190_image_0.png](190_image_0.png)
+![190_image_0.png](images/190_image_0.png)
 
 screw (19), lockwasher (23), nut (24), and screw (17).
 
@@ -443,7 +444,7 @@ screw (19), lockwasher (23), nut (24), and screw (17).
 
 # 4-2.2. 100/200 Ampere Alternator Cable Replacement(Cont'D)
 
-![191_image_0.png](191_image_0.png)
+![191_image_0.png](images/191_image_0.png)
 
 ## 4-2.2. 100/200 Ampere Alt E R N Ator Cable Maintenance( Co N T ' D )
 
@@ -467,7 +468,7 @@ e. 100/200 Ampere Alternator Ground Cable Removal
 
 # 4-2.2. 100/200 Ampere Alt E R N Ator Cable Replacement ( Co N T ' D )
 
-![193_Image_0.Png](193_Image_0.Png)
+![193_Image_0.png](images/193_Image_0.Png)
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 
@@ -519,9 +520,9 @@ For 200 amp alternators (12447109 or 12338796-1), tighten locknut to 115-125 lb-
 
 5. Tighten locknut (4) to 95 ± 5 lb-ft (129 ± 7 N•m). 6. Remove pulley (2) and alternator (1) from vise.
 
-![195_image_0.png](195_image_0.png)
+![195_image_0.png](images/195_image_0.png)
 
-![195_image_1.png](195_image_1.png)
+![195_image_1.png](images/195_image_1.png)
 
 FOLLOW-ON TASKS: - Install 60 amp alternator (para. 4-2).
 
@@ -607,7 +608,7 @@ lockwasher (5), and capscrew (4).
 
 Install washer (23), lockwasher (24), and capscrew (25) in power steering bracket (3). Tighten
 
-![197_image_0.png](197_image_0.png)
+![197_image_0.png](images/197_image_0.png)
 
 · Install alternator, 100 ampere (para. 12-23 or 12-24).
 · Install alternator, 200 ampere (para. 4-109 or 4-110).
@@ -634,7 +635,7 @@ b. Installation Install mounting bracket (1) on engine (4) with two short bolts 
 
 # 4-4.1. Alternator/Power Steering Mounting Bracket Replacement (Cont'D)
 
-![199_image_0.png](199_image_0.png)
+![199_image_0.png](images/199_image_0.png)
 
 FOLLOW-ON TASKS: - • Install power steering pump (para. 8-24).
 
@@ -675,9 +676,9 @@ a. Removal c. Installation
 
 # 4-5.  Protective Control Box Maintenance (Cont'D)
 
-![201_image_0.png](201_image_0.png)
+![201_image_0.png](images/201_image_0.png)
 
-![201_image_1.png](201_image_1.png)
+![201_image_1.png](images/201_image_1.png)
 
 FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
@@ -708,9 +709,9 @@ to 71 lb-in. (8 N•m).
 
 # 4-5.1. Distribution Box Maintenance (Cont'D)
 
-![203_image_0.png](203_image_0.png)
+![203_image_0.png](images/203_image_0.png)
 
-![203_image_1.png](203_image_1.png)
+![203_image_1.png](images/203_image_1.png)
 
 FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
@@ -777,7 +778,7 @@ Alternator must be supported during removal. Failure to support alternator may c
 
 4-5.3.  100 AMPERE DUAL VOLTAGE ALTERNATOR (12447110) REPLACEMENT(Cont'd)
 
-![206_image_0.png](206_image_0.png)
+![206_image_0.png](images/206_image_0.png)
 
 # 4-5.3. 100 Ampere Dual Voltage Alternator (12447110) Replacement (C O Nt' D )
 
@@ -802,7 +803,7 @@ and screw (18). Tighten screw (18) to 8-12 lb-ft (11-16 N•m).
 
 # 4-5.3.  100 Ampere Dual Voltage Alternator (12447110) Replacementcont'D)
 
-![208_image_0.png](208_image_0.png)
+![208_image_0.png](images/208_image_0.png)
 
 FOLLOW-ON TASKS: - • Install voltage regulator (para. 4-5.6).
 
@@ -876,7 +877,7 @@ lockwasher (21), and nut (22).
 4-12.10 Change 3 4-5.4.  100 AMPERE DUAL VOLTAGE ATERNATOR (12447110) CABLE REPLACEMENT
 (Cont'd)
 
-![210_image_0.png](210_image_0.png)
+![210_image_0.png](images/210_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 · Install engine access cover (para. 10-15).
@@ -931,7 +932,7 @@ Discard lockwashers (16).
 4-5.5.  100 AMPERE DUAL VOLTAGE ATERNATOR (12447110) UMBILICAL POWER
 CABLE REPLACEMENT (Cont'd)
 
-![212_image_0.png](212_image_0.png)
+![212_image_0.png](images/212_image_0.png)
 
 4 - 5 . 5 . 100 AMPERE DUAL VOLTAGE ALT E R N ATOR (12447110) UMBILICAL POWER
 
@@ -964,7 +965,7 @@ Tighten nuts (17) to 65 lb-ft (88 N•m ) .
 
 CABLE REPLACEMENT (Cont'd)
 
-![214_image_0.png](214_image_0.png)
+![214_image_0.png](images/214_image_0.png)
 
 4-5.6. 100 AMPERE DUAL VOLTAGE ALTERNATOR REGULATOR (PART OF 12447110)
 
@@ -1014,7 +1015,7 @@ over terminal (11).
 4-5.6.  100 AMPERE DUAL VOLTAGE ATTERNATOR REGULATOR (PART OF 12447110)
 REPLACEMENT (Cont'd)
 
-![216_image_0.png](216_image_0.png)
+![216_image_0.png](images/216_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 - • - • - Lower and secure hood (TM 9-2320-280-10).
@@ -1059,7 +1060,7 @@ Alternator must be supported during removal. Failure to support alternator may c
 
  4-5.7. (6.5L) 200 AMPERE DUAL VOLTAGE ALTERNATOR (12447109) REPLACEMENT (Cont'd)
 
-![218_image_0.png](218_image_0.png)
+![218_image_0.png](images/218_image_0.png)
 
 # 4-5.7. (6.5L) 200 Ampere Dual Voltage Alternator (12447109) Replacement (Cont'D)
 
@@ -1085,7 +1086,7 @@ and nut (26). Tighten nut (26) to 8-12 lb-ft (11-16 N•m).
 
  4-5.7. (6.5L) 200 AMPERE DUAL VOLTAGE ALTERNATOR (12447109) REPLACEMENT (Cont'd)
 
-![220_image_0.png](220_image_0.png)
+![220_image_0.png](images/220_image_0.png)
 
 # 4-5.8. (6.5L) 200 Ampere Dual Voltage Alternator (12447109) Cable Replacement
 
@@ -1149,7 +1150,7 @@ screw (17), lockwasher (21), and nut (22).
 4-5.8.  (6.5L) 200 AMPERE DUAL VOLTAGE ALTERNATOR (12447109) CABLE REPLACEMENT
 (Cont'd)
 
-![222_image_0.png](222_image_0.png)
+![222_image_0.png](images/222_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 
@@ -1222,7 +1223,7 @@ and nuts (15).
 
 # Cable Replacement (Confd)
 
-![224_image_0.png](224_image_0.png)
+![224_image_0.png](images/224_image_0.png)
 
 FOLLOW-ON TASKS: - Install fixed rear door (para. 10-14).
 - Install batteries (para. - Install batteries (para. 4-79).
@@ -1268,7 +1269,7 @@ terminal (7).
 
 # Replacement (Cont'D)
 
-![226_image_0.png](226_image_0.png)
+![226_image_0.png](images/226_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 
@@ -1323,7 +1324,7 @@ lockwashers (18), and screws (19) . Tighten screws (19) to 30-34 lb-in. (3-4 N�
 4-5.11.  (6.5L) 400 AMPERE DUAL VOLTAGE REGULATOR ( PRT OF 12446760) REPLACEMENT
 (Cont'd)
 
-![228_image_0.png](228_image_0.png)
+![228_image_0.png](images/228_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 
@@ -1380,9 +1381,9 @@ Discard lockwasher (29).
 4-5.12.  (6.5L) 400 AMPERE DUAL VOLTAGE ATERNATOR (PART OF 12446760) CABLE
  REPLACEMENT (Conf d)
 
-![230_image_0.png](230_image_0.png)
+![230_image_0.png](images/230_image_0.png)
 
-![230_image_1.png](230_image_1.png)
+![230_image_1.png](images/230_image_1.png)
 
 ## 4-5.12.  (6.5L) 400 Ampere Dual Voltage Aternator (Part Of 12446760) Cable Replacement (Conf D)
 
@@ -1396,9 +1397,9 @@ Discard lockwasher (29).
 
 Remove nut (6), screw (7), cable (2), and clamp (8) from oil pan bracket (1). Remove nut (3), lockwasher (4), and cable (2) from positive terminal (5). Discard lockwasher (4). Remove nut (11), lockwasher (12), washer (13), clamp (9), and cable (2) from stud (10) on thermostat housing (14). Discard lockwasher (12). Remove nut (15), washer (16), clamp (18), and cable (2) from stud (17).
 
-![231_image_0.png](231_image_0.png)
+![231_image_0.png](images/231_image_0.png)
 
-![231_image_1.png](231_image_1.png)
+![231_image_1.png](images/231_image_1.png)
 
 ## 4-5.12.  (6.5L) 400 Ampere Dual Voltage Aternator (Part Of 12446760) Cable Replacement (Cont'D)
 
@@ -1418,9 +1419,9 @@ and (36) from alternator (19). Discard lockwasher (32). Slide back rubber boot (
 
 and (36) from alternator (19). Discard lockwasher (39).
 
-![232_image_0.png](232_image_0.png)
+![232_image_0.png](images/232_image_0.png)
 
-![232_image_1.png](232_image_1.png)
+![232_image_1.png](images/232_image_1.png)
 
 4 - 5 . 1 2 . (6.5L) 400 AMPERE DUAL VOLTAGE ALT E R N ATOR (PA RT OF 12446760) CABLE
 
@@ -1439,11 +1440,11 @@ with washer (18), lockwasher (20), and screw (19).
 
 4. Install cables (25) and (21) to rear negative terminal (26) on alternator (1) with washer (24),
 
-![233_image_0.png](233_image_0.png)
+![233_image_0.png](images/233_image_0.png)
 
 lockwasher (23), and screw (22).
 
-![233_image_1.png](233_image_1.png)
+![233_image_1.png](images/233_image_1.png)
 
 4-5.12. (6.5L) 400 AMPERE DUAL VOLTAGE ATERNATOR (PART OF 12446760) CABLE
 
@@ -1462,15 +1463,15 @@ Install cable (9) on positive terminal (41) of starter (44) with lockwasher (39)
 
 8.
 
-![234_image_0.png](234_image_0.png)
+![234_image_0.png](images/234_image_0.png)
 
-![234_image_1.png](234_image_1.png)
+![234_image_1.png](images/234_image_1.png)
 
 ## 4 - 5 . 1 2 . (6.5L) 400 Ampere Dual Voltage Alt E R N Ator (Pa Rt Of 12446760) Cable Replacement ( C O N T ' D )
 
 9. Install grommet (12) on battery box side panel (5) and route cable (8) through grommet (12) and
 
-![235_image_0.png](235_image_0.png)
+![235_image_0.png](images/235_image_0.png)
 
 battery box side panel (5).
 
@@ -1486,7 +1487,7 @@ and nut (31).
 4-5.12.  (6.5L) 400 AMPERE DUAL VOLTAGE ATERNATOR (PART OF 12446760) CABLE
 REPLACEMENT (Cont'd)
 
-![236_image_0.png](236_image_0.png)
+![236_image_0.png](images/236_image_0.png)
 
 FOLLOW-ON TASKS:
 -  Install engine access cover (para. 10-15).
@@ -1548,7 +1549,7 @@ with washer (20), screw (19), washer (22), lockwasher (23), and nut (24). Do not
 4-5.13. (6.5L) 400 AMPERE DUAL VOLTAGE ALTERNATOR (12446760) REPLACEMENT
 (Cont'd)
 
-![238_image_0.png](238_image_0.png)
+![238_image_0.png](images/238_image_0.png)
 
 FOLLOW-ON TASKS: - Install alternator cables (para. 4-5.12).
 
@@ -1593,7 +1594,7 @@ Prior to removal, tag leads and note position of lever for installation.
 
 # 4-7. Rotary Switch Replacement (Cont'D)
 
-![240_image_0.png](240_image_0.png)
+![240_image_0.png](images/240_image_0.png)
 
 FOLLOW-ON   TASKS:  - Connect battery ground cable (para. 4-73).
  - • - • Check rotary switch operation (TM 9-2320-280-10).
@@ -1656,7 +1657,7 @@ NOTE
 
 # 4-8. Starter Replacement (Cont'D)
 
-![242_image_0.png](242_image_0.png)
+![242_image_0.png](images/242_image_0.png)
 
 ## 4-8. Starter Replacement (Cont'D)
 
@@ -1688,7 +1689,7 @@ to 25-30 lb-ft (34-41 N•m).
 
 # 4-8. Starter Replacement (Cont'D)
 
-![244_image_0.png](244_image_0.png)
+![244_image_0.png](images/244_image_0.png)
 
 FOLLOW-ON TASKS: - Install converter housing cover (para. 5-19).
 
@@ -1723,9 +1724,9 @@ Discard lockwasher (5).
 
 # 4-9. Circuit Breaker Replacement (Cont'D)
 
-![246_image_0.png](246_image_0.png)
+![246_image_0.png](images/246_image_0.png)
 
-![246_image_1.png](246_image_1.png)
+![246_image_1.png](images/246_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -1810,7 +1811,7 @@ Prior to removal, tag leads for installation.
 
 5. Remove screw (12.1), lockwasher (11.1), and ground lead 57G (16) from instrument cluster (7) and
 
-![248_image_0.png](248_image_0.png)
+![248_image_0.png](images/248_image_0.png)
 
 remove instrument cluster (7).
 
@@ -1826,7 +1827,7 @@ with lockwasher (11.1) and screw (12.1).
 
 4. Connect speedometer cable (4) to speedometer (1) ensuring core (2) engages with square hole in speedometer (1) and secure with nut (5).
 
-![249_image_0.png](249_image_0.png)
+![249_image_0.png](images/249_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - Check operation of instrument cluster components (TM 9-2320-280-10).
@@ -1902,11 +1903,11 @@ Install instrument panel (2) to body (1) with two washers (13), capscrews (12), 
 
 Install cannon plug (11) to main light switch (10). Raise steering column (3) and tighten nut (9) to 31 lb-ft (42 N*m).
 
-![251_image_0.png](251_image_0.png)
+![251_image_0.png](images/251_image_0.png)
 
 # 4-12. Instrument Panel Replacement (Cont'D)
 
-![251_image_1.png](251_image_1.png)
+![251_image_1.png](images/251_image_1.png)
 
 FOLLOW-ON TASKS: - Install heater cables (para. 10-89).
 
@@ -1944,7 +1945,7 @@ and nuts (3). Tighten nuts (3) to 8 lb-in. (1 N•m).
 
 # 4-13. Electrical Gauge Replacement (Cont'D)
 
-![253_image_0.png](253_image_0.png)
+![253_image_0.png](images/253_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -1998,7 +1999,7 @@ lockwashers (3), and screws (4).
 
 10. Install engine harness plug (2) to tachometer connector (1).
 
-![255_image_0.png](255_image_0.png)
+![255_image_0.png](images/255_image_0.png)
 
 FOLLOW-ON TASKS: - Install engine access cover (para. 10-15).
 
@@ -2068,7 +2069,7 @@ and screw (8).
 Install cable connector wire lead 12 (15) to terminal post SIG (3) on tachometer (1) with washer (14)
 and screw (13).
 
-![257_image_0.png](257_image_0.png)
+![257_image_0.png](images/257_image_0.png)
 
 FOLLOW-ON TASK: Install tachometer (para. 4-13.1).
 
@@ -2091,7 +2092,7 @@ FOLLOW-ON TASK: Install tachometer (para. 4-13.1).
 
 # 4-14. Speedometer/Odometer Replacement (Cont'D)
 
-![259_image_0.png](259_image_0.png)
+![259_image_0.png](images/259_image_0.png)
 
 FOLLOW-ON TASK: Check operation of speedometer (TM9-2320-280-10).
 
@@ -2133,7 +2134,7 @@ If vehicle is equipped with speedometer cable (12338428-2), refer to para. 4-15.
 
 # 4-15. Speedometer Cable And Core (12338428) Replacement (Cont'D)
 
-![261_image_0.png](261_image_0.png)
+![261_image_0.png](images/261_image_0.png)
 
 FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
@@ -2181,7 +2182,7 @@ Discard plain-assembled nut (7).
 
 9. Remove speedometer cable (1) from under alternator (15).
 
-![263_image_0.png](263_image_0.png)
+![263_image_0.png](images/263_image_0.png)
 
 4-15.1. SPEEDOMETER CABLE AND CORE (12338428-2) REPLACEMENT (Cont'd)
 
@@ -2193,9 +2194,9 @@ b. Installation 1. Install speedometer cable (2) into adapter (5) on transfer ca
 
 2. Install speedometer cable (2) through standoff bracket (8) on transfer case (6).
 
-![264_image_0.png](264_image_0.png) 3. Install speedometer cable (2) on transmission (3) with clamp (1) and screw (4).
+![264_image_0.png](images/264_image_0.png) 3. Install speedometer cable (2) on transmission (3) with clamp (1) and screw (4).
 
-![264_image_1.png](264_image_1.png)
+![264_image_1.png](images/264_image_1.png)
 
 # 4-15.1. Speedometer Cable And Core (12338428-2) Replacement (Cont'D)
 
@@ -2204,7 +2205,7 @@ If installing speedometer cable (12338428-2) for the first time, perform steps 4
 
 4. Install plug (9) in existing hole (10) located in left inner cowl (11).
 
-![265_image_0.png](265_image_0.png)
+![265_image_0.png](images/265_image_0.png)
 
 # 4-15.1. Speedometer Cable And Core (12338428-2) Replacement (Cont'D)
 
@@ -2221,11 +2222,11 @@ and nut (14).
 
 12. Install speedometer cable (4) and grommet (21) into cowl (22). 13. Install speedometer cable (4) on speedometer (1). 14. Install instrument cluster (9) on instrument panel (8) with four capscrews (10). 15. Install tiedown strap (24) on speedometer cable (4) and wiring harness (23) behind instrument
 
-![266_image_0.png](266_image_0.png)
+![266_image_0.png](images/266_image_0.png)
 
 4-15.1. SPEEDOMETER CABLE AND CORE (12338428-2) REPLACEMENT (Cont'd)
 
-![267_image_0.png](267_image_0.png)
+![267_image_0.png](images/267_image_0.png)
 
 FOLLOW-ON-TASK: - ● Install left splash shield (para. 10-17).
 
@@ -2254,7 +2255,7 @@ Manual References TM 9-2320-280-10 TM 9-2320-280-24P
 
 1. Install lamp (3) into light assembly (4).
 
-![268_image_0.png](268_image_0.png) 2. Install gasket (2) and lens (1) to light assembly (4).
+![268_image_0.png](images/268_image_0.png) 2. Install gasket (2) and lens (1) to light assembly (4).
 
 a. Lamp Removal c. Light Assembly Removal b. Lamp Installation **d. Light Assembly Installation**
 Tools **Equipment Condition**
@@ -2288,7 +2289,7 @@ Install two gaskets (2) and light lenses (1) on light assemblies (4).
 
 6.
 
-![269_image_0.png](269_image_0.png)
+![269_image_0.png](images/269_image_0.png)
 
 FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
@@ -2333,7 +2334,7 @@ Prior to removal, tag leads and note position for installation.
 
 # 4-17.  Wait-To-Start Lamp Replacement (Cont'D)
 
-![271_image_0.png](271_image_0.png)
+![271_image_0.png](images/271_image_0.png)
 
 FOLLOW-ON TASKS: - Install instrument cluster (para. 4-11).
 
@@ -2367,9 +2368,9 @@ Place tape around lead wires to keep lamp in proper position during installation
 
 # 4-17.1. Brake Warning Lamp Replacement (Gnt'D)
 
-![273_image_0.png](273_image_0.png)
+![273_image_0.png](images/273_image_0.png)
 
-![273_image_1.png](273_image_1.png)
+![273_image_1.png](images/273_image_1.png)
 
 FOLLOW-ON TASKS: - Install air restriction gauge (para. 3-17).
 
@@ -2406,7 +2407,7 @@ Prior to removal, tag leads for installation.
 
 2. Connect harness lead 57L (1) and lead 178 (2) to high beam lamp (5). 3. Install instrument cluster (6) on instrument cluster back panel (4).
 
-![274_image_0.png](274_image_0.png) 4. Install two light lenses (7) on instrument cluster back panel (4).
+![274_image_0.png](images/274_image_0.png) 4. Install two light lenses (7) on instrument cluster back panel (4).
 
 FOLLOW-ON TASKS: Install speedometer/odometer (para. 4-14).
 
@@ -2434,7 +2435,7 @@ and 67E (4).
 
 b. Installation 1.
 
-![275_image_0.png](275_image_0.png)
+![275_image_0.png](images/275_image_0.png)
 
 2.
 
@@ -2468,7 +2469,7 @@ Check parking brake switch operation (TM 9-2320-280-10).
 
 1. Apply sealing compound to bushing (6).
 
-![276_image_0.png](276_image_0.png) 2. Connect lead 25A (3) to horn switch (4) and push into steering shaft (2). 3. Install snapring (5) on horn switch (4) and steering wheel (1).
+![276_image_0.png](images/276_image_0.png) 2. Connect lead 25A (3) to horn switch (4) and push into steering shaft (2). 3. Install snapring (5) on horn switch (4) and steering wheel (1).
 
 FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
@@ -2494,7 +2495,7 @@ This task covers:
 
 1. Apply sealing to bottom of horn control brush (4).
 
-![277_image_0.png](277_image_0.png)
+![277_image_0.png](images/277_image_0.png)
 
 2. Install horn control brush (4) into steering column (5) with two screws (2). 3. Connect lead 25A (3) to horn control brush (4). 4. Raise steering column (5) and tighten nut (1) to 31 lb-ft (42 Nom).
 
@@ -2522,7 +2523,7 @@ a. Removal 1. Remove two capscrews (4), lockwashers (5) and horn (2) from bracke
 
 b. Installation 1. Connect leads 25A (1) and 26A (6) to horn (2).
 
-![278_image_0.png](278_image_0.png)
+![278_image_0.png](images/278_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -2538,7 +2539,7 @@ This Task Covers:
 | vehicles                                |
 | Tools                                   |
 
-![279_image_0.png](279_image_0.png)
+![279_image_0.png](images/279_image_0.png)
 
 | Manual References    |
 |----------------------|
@@ -2560,7 +2561,7 @@ FOLLOW-ON TASK: Install horn (para. 4-22).
 
 This task covers:
 
-![280_image_0.png](280_image_0.png)
+![280_image_0.png](images/280_image_0.png)
 
 a. Removal **b. Installation**
 
@@ -2628,7 +2629,7 @@ before installing on engine.
 
 2. Install oil pressure sending unit (2) to elbow (3).
 
-![281_image_0.png](281_image_0.png) 3. Connect lead 36A (1) to oil pressure sending unit (2).
+![281_image_0.png](images/281_image_0.png) 3. Connect lead 36A (1) to oil pressure sending unit (2).
 
 FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
@@ -2661,7 +2662,7 @@ The fuel pressure transducer is a sensor unit for diagnostic testing. It is moun
 
 b. Installation 1. Apply sealing compound to threads of fuel pressure transducer (1).
 
-![282_image_0.png](282_image_0.png) 2. Install fuel pressure transducer (1) to fuel filter (4). 3. Connect multiple connector (2) to STE/ICE-R wiring harness (3).
+![282_image_0.png](images/282_image_0.png) 2. Install fuel pressure transducer (1) to fuel filter (4). 3. Connect multiple connector (2) to STE/ICE-R wiring harness (3).
 
 FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
@@ -2674,7 +2675,7 @@ Lower and secure hood (TM 9-2320-280-10).
 This task covers:
 INITIAL SETUP:
 
-![283_image_0.png](283_image_0.png)
+![283_image_0.png](images/283_image_0.png)
 
 General mechanic's tool kit: TM 9-2320-280-24P
 automotive (Appendix B, Item 1)
@@ -2745,7 +2746,7 @@ to 32 lb-in. (4 N•m).
 
 # 4-28. Fuel Level Sending Unit Replacement (Cont'D)
 
-![285_image_0.png](285_image_0.png)
+![285_image_0.png](images/285_image_0.png)
 
 FOLLOW-ON TASKS:  - Install fuel tank (para. 3-24).
 - • Check fuel gauge for proper operation (TM 9-2320-280-10).
@@ -2791,7 +2792,7 @@ b. Installation
 
 # 4-29. Glow Plug Controller/Temperature Sensor Replacement (Cont'D)
 
-![287_image_0.png](287_image_0.png)
+![287_image_0.png](images/287_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -2818,7 +2819,7 @@ a. Removal 1. Disconnect engine harness leads 458A (4) and 458B (3) from fan tem
 
 b. Installation 1. Apply sealing compound to threads of fan temperature switch (1). Install fan temperature switch (1)
 
-![288_image_0.png](288_image_0.png)
+![288_image_0.png](images/288_image_0.png)
 
 to water crossover (2).
 
@@ -2842,7 +2843,7 @@ Manual References TM 9-2320-280-10 TM 9-2320-280-24P
 
 b. Installation 1. Install time delay module (7) on cowl (6) with two screws (1).
 
-![289_image_0.png](289_image_0.png)
+![289_image_0.png](images/289_image_0.png)
 
 2. Connect connector plug (2) to engine harness (4).
 
@@ -2880,7 +2881,7 @@ b. Installation 1. Align tab (3) on RPM sensor (1) with slot (7) in oil pump dri
 
 2. Comect RPM sensor connector (4) to harness connector (5).
 
-![290_image_0.png](290_image_0.png)
+![290_image_0.png](images/290_image_0.png)
 
 FOLLOW-ON TASK: Install engine access cover (para. 10-15).
 
@@ -2904,7 +2905,7 @@ automotive (Appendix B, Item 1) Hood raised and secured (TM 9-2320-280-10).
 
 b. Installation 1. Install RPM sensor (4) in front cover (5) with capscrew (3).
 
-![291_image_0.png](291_image_0.png) 2. Connector RPM sensor leads (2) to engine harness leads (1).
+![291_image_0.png](images/291_image_0.png) 2. Connector RPM sensor leads (2) to engine harness leads (1).
 
 FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73)
 Lower and secure hood (TM 9-2320-280-10)
@@ -2954,9 +2955,9 @@ Position leads from neutral start switch (2), backup light switch (3), and shift
 
 # 4-34. Backup Light Switch Replacement (Cont'D)
 
-![293_image_0.png](293_image_0.png)
+![293_image_0.png](images/293_image_0.png)
 
-![293_image_1.png](293_image_1.png)
+![293_image_1.png](images/293_image_1.png)
 
 FOLLOW-ON TASK: Install shift controls housing (para. 5-7 or 5-11).
 
@@ -3005,7 +3006,7 @@ automotive (Appendix B, Item 1)
 
 b. Installation 1. Install indicator switch (2) on transfer case (1).
 
-![295_image_0.png](295_image_0.png)
+![295_image_0.png](images/295_image_0.png)
 
 2. Connect leads 511A (4) and 511B (5) to indicator switch leads (3).
 
@@ -3034,7 +3035,7 @@ This task covers:
 
 3. Connect lead 511A (8) to lamp assembly lead (9). 4. Connect leads 511B (7) and 511A (6) to indicator switch leads (5) on transfer case (3). 5. Deleted.
 
-![297_image_0.png](297_image_0.png)
+![297_image_0.png](images/297_image_0.png)
 
 FOLLOW-ON TASKS: - • Install engine access cover (para. 10-15).
 - • - • Connect battery ground cable (para. 4-73).
@@ -3066,7 +3067,7 @@ automotive (Appendix B, Item 1) Engine access cover removed (para. 10-15).
 
 1. Install lamp assembly (7) to body (1) with two screws (6).
 
-![298_image_0.png](298_image_0.png)
+![298_image_0.png](images/298_image_0.png)
 
 2. Install ground lead (2) to engine (8) with screw (3). 3. Connect lead 511A (5) to lamp assembly lead (4).
 
@@ -3095,7 +3096,7 @@ a. Removal 1. Disconnect lead 657 (4) from lamp assembly lead (3).
 
 b. Installation 1. Install lamp assembly (5) to body (1) with two screws (2).
 
-![299_image_0.png](299_image_0.png)
+![299_image_0.png](images/299_image_0.png)
 
 2. Connect lead 657 (4) to lamp assembly lead (3).
 
@@ -3162,7 +3163,7 @@ Repeat step 1 for circuit breakers (15) and (16).
 
 # 4-40. Transmission Circuit Breakers And Jumper Leads Replacement (4L80-E) (Cont'D)
 
-![301_image_0.png](301_image_0.png)
+![301_image_0.png](images/301_image_0.png)
 
 FOLLOW-ON TASK: Connect battery ground cables (para. 4-73).
 
@@ -3188,7 +3189,7 @@ a. Removal 1. Remove five capscrews (2), two washers (4) and coverplate (1) from
 
 b. Installation 1. Install relay (8) on coverplate (1) with two capscrews (7), washers (10), and nuts (9).
 
-![302_image_0.png](302_image_0.png) 2. Connect four relay leads (6) to leads (5). 3. Install coverplate (1) to "B" beam (3) with two washers (4) and five capscrews (2).
+![302_image_0.png](images/302_image_0.png) 2. Connect four relay leads (6) to leads (5). 3. Install coverplate (1) to "B" beam (3) with two washers (4) and five capscrews (2).
 
 FOLLOW-ON TASK: Connect battery ground cables (para. 4-73).
 # 4 - 4 2 . Transmission Control Module (Tcm) Replacement (4L80-E)
@@ -3212,7 +3213,7 @@ Ensure that ignition switch is OFF before disconnecting or reconnecting the Tran
 
 b. Installation 1. Install TCM (2) on body (5) with four washers (3) and nuts (4).
 
-![303_image_0.png](303_image_0.png) 2. Connect harness connector (1) to TCM (2).
+![303_image_0.png](images/303_image_0.png) 2. Connect harness connector (1) to TCM (2).
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 
@@ -3257,7 +3258,7 @@ For proper calibration of E-PROM to transmission, ensure E-PROM is the same prod
 
 # 4-42.1. E-Prom Replacement (Contd)
 
-![305_image_0.png](305_image_0.png)
+![305_image_0.png](images/305_image_0.png)
 
 FOLLOW-ON TASKS: - • Connect negative battery cables (para. 4-73).
 - • - • - Install left rear seat compartment cover (para. 10-43).
@@ -3304,7 +3305,7 @@ ensuring feeler gauge does not touch screw (8).
 6. Move throttle shaft lever (7) to wide open position so throttle shaft lever (7) rests on feeler gauge. 7. Rotate kick-down switch (3) slowly until multimeter reads continuity through kick-down switch (3)
 and tighten capscrews (1).
 
-![307_image_0.png](307_image_0.png)
+![307_image_0.png](images/307_image_0.png)
 
 # 4-43. Kick-Down Switch Maintenance (3L80) (Cont'D)
 
@@ -3352,9 +3353,9 @@ and nuts (13). Do not tighten nuts (13).
 
 # 4-44. Fan Cut-Off Switch Replacement (4L80-E) (Cont'D)
 
-![309_image_0.png](309_image_0.png)
+![309_image_0.png](images/309_image_0.png)
 
-![309_image_1.png](309_image_1.png)
+![309_image_1.png](images/309_image_1.png)
 
 FOLLOW-ON TASKS:
 - Install engine access cover (para. 10-15).
@@ -3419,7 +3420,7 @@ slowly toward front of vehicle (clockwise direction) until voltmeter indicates v
 
 12. Remove gauge block. 13. Connect body wiring harness connector (3) to TP sensor connector (4).
 
-![311_image_0.png](311_image_0.png) 14. Connect body harness connector (11) and engine harness connector (12).
+![311_image_0.png](images/311_image_0.png) 14. Connect body harness connector (11) and engine harness connector (12).
 
 FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
@@ -3452,7 +3453,7 @@ c. Installation 1. Lubricate packing retainer (4) with hydraulic fluid and insta
 4-46. TRANSMISSION INPUT SPEED SENSOR (TISS) AND OUTPUT SPEED SENSOR
 (TOSS) MAINTENANCE (4L80-E) (Cont'd)
 
-![313_image_0.png](313_image_0.png)
+![313_image_0.png](images/313_image_0.png)
 
 · Connect battery ground cable (para. 4-73).
 
@@ -3508,7 +3509,7 @@ Circuit numbers are marked on housing.
 
 1. Connect leads 17 (4), 18 (6), and 91 (7) to headlight housing (5). 2. Install lamp (3) to housing (5) and secure with retaining ring (2) and three screws (1).
 
-![315_image_0.png](315_image_0.png) 3. Connect battery ground cable (para. 4-73).
+![315_image_0.png](images/315_image_0.png) 3. Connect battery ground cable (para. 4-73).
 
 # 4 - 4 8 . S E Rvice Headlight Lamp Maintenance (Cont'D)
 
@@ -3525,7 +3526,7 @@ c. Adjustment
 
 10. Repeat steps 8 and 9 for other lamp (3).
 
-![316_image_0.png](316_image_0.png)
+![316_image_0.png](images/316_image_0.png)
 
 FOLLOW-ON TASK: Check headlight lamp for proper operation (TM 9-2320-280-10).
 
@@ -3562,7 +3563,7 @@ Circuit numbers are marked on headlight next to respective connector.
 
 # 4-49. Service Headlight Assembly Replacement (Cont'D)
 
-![318_image_0.png](318_image_0.png)
+![318_image_0.png](images/318_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -3622,7 +3623,7 @@ Some vehicles may have screws in place of studs securing bracket and plate to ho
 
 # 4-50. Blackout Drive Light Assemlby Replacement (Cont'D)
 
-![320_image_0.png](320_image_0.png)
+![320_image_0.png](images/320_image_0.png)
 
 FOLLOW-ON TASKS: · · Connect battery ground cable (para. 4-73).
 
@@ -3660,7 +3661,7 @@ To prevent moisture from entering light assembly, tighten all screws evenly.
 
 # 4-51. Blackout Drive Light Lamp Replacement (Cont'D)
 
-![322_image_0.png](322_image_0.png)
+![322_image_0.png](images/322_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -3694,11 +3695,11 @@ To prevent water from accumulating between the composite light access cover and 
 
 2. Connect lead 20 (5), 461 (12), and 491 (11) to hood wiring harness (6). 3. Install close-off cover (3) to hood (4) with four washers (2) and screws (1).
 
-![324_image_0.png](324_image_0.png)
+![324_image_0.png](images/324_image_0.png)
 
 # 4-52. Front Composite Light Assembly Replacement (Cont'D)
 
-![324_image_1.png](324_image_1.png)
+![324_image_1.png](images/324_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - • - • Lower and secure hood (TM 9-2320-280-10).
@@ -3724,7 +3725,7 @@ To prevent moisture from entering light assembly, tighten all screws evenly.
 
 2. Install O-ring (5) and light door (2) on light body (3) with five retaining screws (1). 3. Apply thin coat of sealant to seam between light body (3) and light door (2).
 
-![325_image_0.png](325_image_0.png)
+![325_image_0.png](images/325_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -3756,7 +3757,7 @@ Manual References TM 9-2320-280-10 TM 9-2320-280-24P
 
 b. Lens and LamII Installation 1.
 
-![326_image_0.png](326_image_0.png)
+![326_image_0.png](images/326_image_0.png)
 
 2.
 
@@ -3795,11 +3796,11 @@ washers (6), and locknuts (5) ensuring ground 92 (7) is under washers (6).
 
 2. Install lens (11) and door (12) on side marker light (9) with two screws (13). 3. Connect lead 489 (14) to hood wiring harness (15). 4. Install close-off cover (3) to hood (4) with four washers (2) and screws (1).
 
-![328_image_0.png](328_image_0.png)
+![328_image_0.png](images/328_image_0.png)
 
 # 4-55. Side Marker Light Assembly Replacement (Cont'D)
 
-![328_image_1.png](328_image_1.png)
+![328_image_1.png](images/328_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -3832,11 +3833,11 @@ Discard lockwashers (16).
 
 1. Install composite light (18) on housing (17). 2. Connect leads 21 (7), 23 (8), 24 (9), and 22-461 (10) to body harness (13). 3. Install clamp (11) on shield (1) with screw (2) and nut (12). 4. Install shield (1) on "D" beam (14) with two capscrews (15) and lockwashers (16). 5. Install ground strap (6) and ground 95B (5) on housing (17) with two washers (4) and capscrews (3).
 
-![330_image_0.png](330_image_0.png)
+![330_image_0.png](images/330_image_0.png)
 
 4-56. REAR COMPOSITE LIGHT ASSEMBLY REPLACEMENT (Cont'd)
 
-![330_image_1.png](330_image_1.png)
+![330_image_1.png](images/330_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - • - • Check rear composite light for proper operation (TM 9-2320-280-10).
@@ -3864,7 +3865,7 @@ To prevent moisture from entering light assembly, tighten all screws evenly.
 
 2. Install O-ring (5) and composite light door (4) on composite light (1) with six screws (3). 3. Apply a thin coat of sealant to seam between composite light (1) and composite light door (4).
 
-![331_image_0.png](331_image_0.png)
+![331_image_0.png](images/331_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -3895,7 +3896,7 @@ Equipment Condition Battery ground cables disconnected (para. 4-73).
 
 2. Disconnect leads 16A (2), 17A (1), and 18A (10) from switch (3).
 
-![332_image_0.png](332_image_0.png)
+![332_image_0.png](images/332_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 
@@ -3929,7 +3930,7 @@ b. Installation 1. With single position lever shaft (9) at top of switch (8), in
 
 # 4-59. Main Light Switch Replacement (Cont'D)
 
-![334_image_0.png](334_image_0.png)
+![334_image_0.png](images/334_image_0.png)
 
 FOLLOW ON TASKS: - • Connect battery ground cable (para. 4-73).
 - • - • - • Check main light switch for proper operation (TM 9-2320-280-10).
@@ -3970,7 +3971,7 @@ and nuts (6).
 
 4-60. STOPLIGHT SWITCH (11663279) MAINTENANCE (Cont'd)
 
-![336_image_0.png](336_image_0.png)
+![336_image_0.png](images/336_image_0.png)
 
 # 4-61. Stoplight Switch (Rcsk 17810) Maintenance
 
@@ -4022,7 +4023,7 @@ washers (4), and assembled locknuts (6).
 
 # 4-61.  Stoplight Switch (Rcsk 17810) Maintenance (Cont'D)
 
-![338_image_0.png](338_image_0.png)
+![338_image_0.png](images/338_image_0.png)
 
 # 4-62. Directional Signal Flasher Replacement
 
@@ -4047,7 +4048,7 @@ a. Removal 1. Remove cannon plug (1) from main light switch (2). 2. Remove conne
 
 b. Installation 1. Install flasher (5) on instrument panel (8) with two screws (6) and nuts (3). 2. Apply silicone compound to threads of connector plug (7). Install connector plug (7) on flasher (5). 3. Connect cannon plug (1) to main light switch (2).
 
-![339_image_0.png](339_image_0.png)
+![339_image_0.png](images/339_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -4069,7 +4070,7 @@ a. Removal 1. Push turn signal indicator lever (1) in the four-way flasher posit
 
 b. Installation 1. Install lamp (2) into directional control unit (4).
 
-![340_image_0.png](340_image_0.png) 2. Install light lens (3) into directional control unit (4).
+![340_image_0.png](images/340_image_0.png) 2. Install light lens (3) into directional control unit (4).
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -4111,9 +4112,9 @@ c. Installation 1. Install directional signal control (3) on clamp (1) with four
 
 l
 
-![342_image_0.png](342_image_0.png)
+![342_image_0.png](images/342_image_0.png)
 
-![342_image_1.png](342_image_1.png)
+![342_image_1.png](images/342_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -4142,7 +4143,7 @@ a. Removal 1. Loosen connector nut (6) and remove connector plug (7) from direct
 
 b. Installation 1. Place lever (5) in HAZARD position. 2. Install directional signal control (4) on bracket (1) with four screws (2). Do not tighten screws (2).
 
-![343_image_0.png](343_image_0.png) 3 . Rotate steering wheel ensuring pin (3) mates with directional signal control (4) and tighten screws (2)
+![343_image_0.png](images/343_image_0.png) 3 . Rotate steering wheel ensuring pin (3) mates with directional signal control (4) and tighten screws (2)
 to 22-26 lb-in. (2.5-2.9 N•m ) .
 
 4. Install connector plug (7) on directional signal control (4) and tighten connector nut (6).
@@ -4180,7 +4181,7 @@ Cancelling ring pin must be positioned 90° ± 5° from directional signal contr
 > Note
 Gauge posts found on new cancelling rings are there to ensure proper
 
-![344_image_0.png](344_image_0.png) installation only. Gauge posts must be removed after installation of cancelling ring to permit proper operation of directional signal control.
+![344_image_0.png](images/344_image_0.png) installation only. Gauge posts must be removed after installation of cancelling ring to permit proper operation of directional signal control.
 
 3. Cut gauge posts (3) off within 1/4 in. (6 mm) of base.
 
@@ -4203,7 +4204,7 @@ a. Removal Remove connector (3) from grommet (1) and remove grommet (1) from hea
 
 b. Installation Install grommet (1) to headlight housing (2) and install connector (3) to grommet (1).
 
-![345_image_0.png](345_image_0.png)
+![345_image_0.png](images/345_image_0.png)
 
 FOLLOW-ON TASK: Install service headlight lamp (para. 4-48).
 
@@ -4228,7 +4229,7 @@ a. Removal 1. Remove two screws (5), bezel (4), lens (3), and gasket (2) from ho
 
 b. Installation 1. Install lamp (6) in housing (1). 2. Install gasket (2), lens (3), and bezel (4) on housing (1) with two screws (5).
 
-![346_image_0.png](346_image_0.png)
+![346_image_0.png](images/346_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -4271,7 +4272,7 @@ b. Installation
 
 # 4-69.  Backup Light Assembly Replacement (Cont'D)
 
-![348_image_0.png](348_image_0.png)
+![348_image_0.png](images/348_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - Check backup light for proper operation (TM 9-2320-280-10).
@@ -4292,7 +4293,7 @@ a. Removal Remove two nuts (5), lockwashers (4), washers (3), capscrews (1) and 
 
 b. Installation Install bracket (6) on "D" beam (2) with two capscrews (1), washers (3), lockwashers (4), and nuts (5).
 
-![349_image_0.png](349_image_0.png)
+![349_image_0.png](images/349_image_0.png)
 
 FOLLOW-ON TASK: Install backup light assembly (para. 4-69).
 
@@ -4366,7 +4367,7 @@ with screw (2) and nut (5).
 
 # 4-72. Battery Cable Terminal Clamp Replacement (Cont'D)
 
-![352_image_0.png](352_image_0.png)
+![352_image_0.png](images/352_image_0.png)
 
 FOLLOW-ON TASK: Install battery box cover (para. 10-35).
 
@@ -4440,7 +4441,7 @@ and nut (3).
 
 6. Install ground cable (1) and leads (14) and (13) on terminal clamp (15) with screw (16) and nut (12).
 
-![354_image_0.png](354_image_0.png) 7. Install ground cable (1) on terminal clamp (15) with screw (16) and nut (12).
+![354_image_0.png](images/354_image_0.png) 7. Install ground cable (1) on terminal clamp (15) with screw (16) and nut (12).
 
 # 4-73. Battery Cable Maintenance (Cont'D)
 
@@ -4461,7 +4462,7 @@ Perform step 2 for M997A2, M1025A2, M1035A2, M1043A2, M1045A2, and M1097A2 vehic
 
 2. Install ground cable (4) on terminal clamp (8) with screw (9), leads (7) and (6), and nut (5).
 
-![355_image_0.png](355_image_0.png) 3. Install ground cable (4) on terminal clamp (8) with screw (9) and nut (5).
+![355_image_0.png](images/355_image_0.png) 3. Install ground cable (4) on terminal clamp (8) with screw (9) and nut (5).
 
 NOTE
 All vehicles except M997A2, M1025A2, M1035A2, M1043A2, M1045A2, and M1097A2 vehicles have two caps and boots.
@@ -4500,7 +4501,7 @@ Perform steps 3 and 4 for M997A2, M1025A2, M1035A2, M1043A2, M1045A2, and M1097A
 
 6. Install two terminal clamps (17) on terminal posts (11) and tighten nuts (12). 7. Fill battery terminal boot (20) with lubricating oil. 8. Install cap (19) to battery terminal boot (20).
 
-![356_image_0.png](356_image_0.png)
+![356_image_0.png](images/356_image_0.png)
 
 #### 4-73. Battery Cable Maintenance (Cont'D) H. Positive Cable Removal
 
@@ -4548,7 +4549,7 @@ Connect battery ground cable (para. 4-73.c).
 
 # 4-73. Battery Cable Maintenance (Cont'D)
 
-![358_image_0.png](358_image_0.png)
+![358_image_0.png](images/358_image_0.png)
 
 FOLLOW-ON TASK: Install battery box cover (para. 10-35).
 
@@ -4592,7 +4593,7 @@ Step 2 applies to all vehicles except M997A2, M1025A2, M1035A2, M1043A2, M1045A2
 
 # 4-74. Power Feed Through Stud Replacement
 
-![360_image_0.png](360_image_0.png)
+![360_image_0.png](images/360_image_0.png)
 
 FOLLOW-ON TASK: - Install buss bar (para. 4-76).
 
@@ -4621,13 +4622,13 @@ Prior to removal, tag leads for installation.
 
 1. Slide back rubber boot (9) and remove nut (8), washer (7), and cable (1) from regulator (6). 2. Remove capscrew (3) securing clamp (4) and cable (1) to bracket (2). 3. Remove two tiedown straps (10) from cable (1). Discard tiedown straps (10). 4. Remove nut (15), screw (11), cable (1), leads (12), and cable (13) from terminal clamp(14) and
 
-![361_image_0.png](361_image_0.png)
+![361_image_0.png](images/361_image_0.png)
 
 remove cable (1) from battery box (16) and engine (5).
 
-![362_image_0.png](362_image_0.png)
+![362_image_0.png](images/362_image_0.png)
 
-![362_image_1.png](362_image_1.png)
+![362_image_1.png](images/362_image_1.png)
 
 4-75. 12 VOLT ALTERNATOR CABLE REPLACEMENT (Cont'd)
 
@@ -4643,7 +4644,7 @@ remove cable (1) from battery box (16) and engine (5).
 
 4. Install cable (1) and clamp (4) on bracket (2) with capscrew (3).
 
-![363_image_0.png](363_image_0.png) 5. Install cable (1) on regulator (6) with washer (7) and nut (8). Tighten nut (8) to 18-22 lb-in.
+![363_image_0.png](images/363_image_0.png) 5. Install cable (1) on regulator (6) with washer (7) and nut (8). Tighten nut (8) to 18-22 lb-in.
 
 2.0-2.5 N·m). lide rubber boot (9) over nut (8).
 
@@ -4683,7 +4684,7 @@ Discard lockwasher (4).
 
 3. Apply silicone compound to buss bar (2), so that all exposed metallic surfaces are coated.
 
-![364_image_0.png](364_image_0.png)
+![364_image_0.png](images/364_image_0.png)
 
 # 4-77. Starter Power Cables Replacement
 
@@ -4741,7 +4742,7 @@ Discard tiedown strap (22).
 13. Remove coil (31), positive cable (3), and ground cable (5) slowly while routing STE/ICE-R harness (29)
 and compressor harness (16) (M997 and M997A1 vehicles only) through coil (31).
 
-![366_image_0.png](366_image_0.png)
+![366_image_0.png](images/366_image_0.png)
 
 "A2" series vehicles
 
@@ -4779,7 +4780,7 @@ Perform steps 11 through 14 for M997, M997A1, and M997A2 vehicles only.
 
 # 4-77. Starter Power Cables Replacement (Cont'D)
 
-![368_image_0.png](368_image_0.png)
+![368_image_0.png](images/368_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73)
 · Lower and secure hood (TM 9-2320-280-10).
@@ -4828,7 +4829,7 @@ and nut (8).
 
 # 4-78. Battery Holddown Replacement (Cont'D)
 
-![370_image_0.png](370_image_0.png)
+![370_image_0.png](images/370_image_0.png)
 
 FOLLOW-ON TASKS: •	Connect battery interconnecting cable and positive cable (para. 4-73)
 - Connect battery ground cable (para. 4-73).
@@ -4869,7 +4870,7 @@ For battery testing and servicing instructions refer to TM 9-6140-200-14.
 
 # 4-79. Battery Replacement And Servicing (Cont'D)
 
-![372_image_0.png](372_image_0.png)
+![372_image_0.png](images/372_image_0.png)
 
 FOLLOW-ON TASK: Install battery holddown (para. 4-78).
 
@@ -4909,9 +4910,9 @@ d. Installation Install battery tray (3) on battery box (5) with four washers (2
 
 # 4-80. Battery Tray Maintenance (Cont'D)
 
-![374_image_0.png](374_image_0.png)
+![374_image_0.png](images/374_image_0.png)
 
-![374_image_1.png](374_image_1.png)
+![374_image_1.png](images/374_image_1.png)
 
 HOLE DIAGRAM
 
@@ -4970,7 +4971,7 @@ from power feed stud (2). Discard lockwasher (6).
 
 # 4-81. Slave Receptacle And Cable Maintenance (Cont'D)
 
-![376_image_0.png](376_image_0.png)
+![376_image_0.png](images/376_image_0.png)
 
 # 4-81. Slave Receptacle And Cable Maintenance (Cont'D)
 
@@ -5001,7 +5002,7 @@ lockwasher (6), and nut (7). Tighten nut (7) 26 lb-ft (35 N•m).
 12. Attach battery negative cable (11) and slave negative cable (10) to shunt (1) with lockwasher (9)
 and capscrew (8). Tighten capscrew (8) 96 lb-in. (11 N•m).
 
-![378_image_0.png](378_image_0.png)
+![378_image_0.png](images/378_image_0.png)
 
 # 4-81. Slave Receptacle And Cable Maintenance (Cont'D)
 
@@ -5049,7 +5050,7 @@ Equipment Condition Battery ground cable disconnected (para. 4-73).
 
 # 4-82. Winch Power Cable Replacement (Cont'D)
 
-![380_image_0.png](380_image_0.png)
+![380_image_0.png](images/380_image_0.png)
 
 # 4-83. Shunt Replacement
 
@@ -5097,7 +5098,7 @@ to 18 to 22 lb-ft (24-30 N•m).
 
 # 4-83. Shunt Replacement (Cont'D)
 
-![382_image_0.png](382_image_0.png)
+![382_image_0.png](images/382_image_0.png)
 
 # 4-84. Hood Wiring Harness Replacement
 
@@ -5128,11 +5129,11 @@ Prior to removal, tag leads for installation.
 
 7. Remove capscrew (14), washer (13), and left composite light ground 92B (17) from bus bar (18).
 
-![383_image_0.png](383_image_0.png)
+![383_image_0.png](images/383_image_0.png)
 
 # 4-84. Hood Wiring Harness Replacement (Cont'D)
 
-![384_image_0.png](384_image_0.png)
+![384_image_0.png](images/384_image_0.png)
 
 ## 4-84. Hood Wiring Harness Replacement (Cont'D)
 
@@ -5148,7 +5149,7 @@ Use care when removing harness. Failure to do so will cause damage to harness.
 
 18. Remove grommet (24) and harness (21) from hood (5).
 
-![385_image_0.png](385_image_0.png)
+![385_image_0.png](images/385_image_0.png)
 
 # 4-84. Hood Wiring Harness Replacement (Cont'D)
 
@@ -5172,7 +5173,7 @@ Connect harness leads 17E (22), 18C (23), and 91D (25) at left headlight conneto
 
 6.
 
-![386_image_0.png](386_image_0.png)
+![386_image_0.png](images/386_image_0.png)
 
 Connect harness leads 17F (22), 18D (23), and 91C (25) at right headlight connectors (26). Secure harness (21) to hood (5) with three washers (29), clamps (28), and screws (27). Finger tighten screws (27). Secure harness (21) to hood (5) with two screw and washer assemblies (19) and clamps (20). Finger tighten screw and washer assemblies (19).
 
@@ -5186,11 +5187,11 @@ Connect harness leads 17F (22), 18D (23), and 91C (25) at right headlight connec
 
 10. Connect harness lead 489C (9) at left side marker light terminal (8). 11. Insert harness lead 19B (12) and harness lead 92E (13) through opening in hood (16). 12. Install leads (12) and (13) with two clips (17) on left cover plate (18). 13. Install left cover plate (18) with four washers (19) and capscrews (20).
 
-![387_image_0.png](387_image_0.png)
+![387_image_0.png](images/387_image_0.png)
 
 4-84. HOOD WIRING HARNESS REPLACEMENT (Cont'd)
 
-![388_image_0.png](388_image_0.png)
+![388_image_0.png](images/388_image_0.png)
 
 ## 4-84. Hood Wiring Harness Replacement (Cont'D)
 
@@ -5200,13 +5201,13 @@ Connect harness leads 17F (22), 18D (23), and 91C (25) at right headlight connec
 
 16. Connect harness leads 20F (9), 460B (10), and 491D (11) at right composite light terminals (8). 17. Connect harness lead 489D (1) at right side marker light terminal (2). 18. Secure leads with two clips (18) and install clips (18) on right cover plate (17). 19. Install right cover plate (17) to hood (14) with three washers (16) and capscrews (15). 20. Connect connector plug (20) to connector receptacle (19). 21. Tighten all clamps securing harness.
 
-![389_image_0.png](389_image_0.png)
+![389_image_0.png](images/389_image_0.png)
 
 # 4-84. Hood Wiring Harness Replacement (Cont'D)
 
-![390_image_0.png](390_image_0.png)
+![390_image_0.png](images/390_image_0.png)
 
-![390_image_1.png](390_image_1.png)
+![390_image_1.png](images/390_image_1.png)
 
 FOLLOW-ON TASKS: - Install side marker light lenses and lamp (para. 4-54).
 - • Install drive blackout light (para. 4-50).
@@ -5233,7 +5234,7 @@ Remove all jewelry such as rings dog tags, bracelets, etc. If jewelry or disconn
 
 2. Slide insulator (3) over cable insulation (1).
 
-![391_image_0.png](391_image_0.png) 3. Insert cable (2) into terminal well (4) and crimp. 4. Slide insulator (3) over crimped end of terminal (5).
+![391_image_0.png](images/391_image_0.png) 3. Insert cable (2) into terminal well (4) and crimp. 4. Slide insulator (3) over crimped end of terminal (5).
 
 #### B. Male Cable Connector Repair
 
@@ -5241,7 +5242,7 @@ Remove all jewelry such as rings dog tags, bracelets, etc. If jewelry or disconn
 
 2. Slide shell (8) over cable insulation (6). 3. Insert cable (7) into terminal well (10) and crimp.
 
-![391_image_1.png](391_image_1.png) 4. Place slotted washer (9) over crimped junction at terminal (11).
+![391_image_1.png](images/391_image_1.png) 4. Place slotted washer (9) over crimped junction at terminal (11).
 
 5. Slide shell (8) over slotted washer (9) and terminal (11).
 
@@ -5253,7 +5254,7 @@ c. Female Cable Connector Repair 1. Strip cable insulation (12) from cable (13) 
 
 4. Slide shell (14) and sleeve (15) over terminal (17).
 
-![392_image_0.png](392_image_0.png)
+![392_image_0.png](images/392_image_0.png)
 
 d. Connector Assembly Repair
 
@@ -5269,7 +5270,7 @@ Refer to TB SIG-222 for soldering instructions.
 
 5. Screw grommet retaining nut (19) into shell assembly (23) until seated.
 
-![392_image_1.png](392_image_1.png)
+![392_image_1.png](images/392_image_1.png)
 
 # 4-85. Wiring Harness Connector Repair (Cont'D)
 
@@ -5287,7 +5288,7 @@ Slide cable ends (3) through grommet retaining nut (2) and grommet (4).
 
 Place cable ends (3) into solder wells (5) and solder. Slide grommet (4) over inserts (5) and press into receptacle (7) until seated.
 
-![393_image_0.png](393_image_0.png)
+![393_image_0.png](images/393_image_0.png)
 
 Screw grommet retaining nut (2) into receptacle (7) until seated.
 
@@ -5313,7 +5314,7 @@ Screw grommet retaining nut (9) into shell assembly (12) until seated.
 
 5.
 
-![393_image_1.png](393_image_1.png)
+![393_image_1.png](images/393_image_1.png)
 
 6.
 
@@ -5387,7 +5388,7 @@ For removal and installation of rivets, refer to para. 10-66.
 
 2. Install light assembly (4) to duct (1) with four rivets (7).
 
-![396_image_0.png](396_image_0.png) 3. Install lens (6) to light assembly (4) with two screws (5).
+![396_image_0.png](images/396_image_0.png) 3. Install lens (6) to light assembly (4) with two screws (5).
 
 FOLLOW-ON TASK: Check operation of ceiling light (TM 9-2320-280-10).
 
@@ -5418,7 +5419,7 @@ b. Installation 1. Install light assembly (9) on quick disconnect base (10) and 
 
 # 4-88. Spotlight Assembly Maintenance (Cont'D)
 
-![398_image_0.png](398_image_0.png)
+![398_image_0.png](images/398_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -5444,7 +5445,7 @@ c. Adjustment Adjust detent screw (3) for proper positioning of spotlight (5).
 
 # 4-89. Spotlight Socket Maintenance (Cont'D)
 
-![400_image_0.png](400_image_0.png)
+![400_image_0.png](images/400_image_0.png)
 
 5
 
@@ -5492,9 +5493,9 @@ Perform step 5 only if removing bracket.
 
 4-90. ELECTRICAL OUTLET/BRACKET MAINTENANCE (Cont'd)
 
-![402_image_0.png](402_image_0.png)
+![402_image_0.png](images/402_image_0.png)
 
-![402_image_1.png](402_image_1.png)
+![402_image_1.png](images/402_image_1.png)
 
 # 4-91. Rear Steps Blackout Switch Bracket Replacement
 
@@ -5518,7 +5519,7 @@ b. Installation Install bracket (2) on body (3) with two rivets (1).
 
 # 4-91. Rear Steps Blackout Switch Bracket Replacement (Cont'D)
 
-![404_image_0.png](404_image_0.png)
+![404_image_0.png](images/404_image_0.png)
 
 FOLLOW-ON TASK: Install blackout switch (para. 4-93).
 
@@ -5556,7 +5557,7 @@ Prior to removal, tag leads for installation.
 
 4-92. REAR STEPS BLACKOUT SWITCH REPLACEMENT (Cont'd)
 
-![406_image_0.png](406_image_0.png)
+![406_image_0.png](images/406_image_0.png)
 
 FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
@@ -5607,9 +5608,9 @@ washers (12), and nuts (13).
 
 4-93. REAR DOOR BLACKOUT SWITCH/BRACKET MAINTENANCE (Cont'd)
 
-![408_image_0.png](408_image_0.png)
+![408_image_0.png](images/408_image_0.png)
 
-![408_image_1.png](408_image_1.png)
+![408_image_1.png](images/408_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -5653,7 +5654,7 @@ Discard lockwashers (2).
 
 # 4-94. Bulkhead Door Blackout Switch And Bracket Maintenance (Cont'D)
 
-![410_image_0.png](410_image_0.png)
+![410_image_0.png](images/410_image_0.png)
 
 FOLLOW-ON TASKS: - · Connect battery ground cable (para. 4-73).
 
@@ -5693,7 +5694,7 @@ b. Light Assembly Installation 1. Install housing (5) and lead (7) on plate (6) 
 4-95. BACKUP LIGHT ASSEMBLY MAINTENANCE (M996, M996A1, M997, M997A1, M997A2)
 (Cont'd)
 
-![412_image_0.png](412_image_0.png)
+![412_image_0.png](images/412_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -5744,7 +5745,7 @@ from screw (18). Discard plain-assembled nut (15).
 
 4-96.  CONTROL BOX ASSEMBLY REPLACEMENT (M997, M997A1, M997A2) (Cont'd)
 
-![414_image_0.png](414_image_0.png)
+![414_image_0.png](images/414_image_0.png)
 
 ## 4-96. Control Box Assembly Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -5754,7 +5755,7 @@ from screw (18). Discard plain-assembled nut (15).
 
 17. Remove three screws (19), lockwashers (18), and control box (17) from body (37). Discard
 
-![415_image_0.png](415_image_0.png)
+![415_image_0.png](images/415_image_0.png)
 
 lockwashers (18).
 
@@ -5769,7 +5770,7 @@ and nut (25).
 
 10. Install ground cable (20) on ground stud (41) with nut (22).
 
-![416_image_0.png](416_image_0.png)
+![416_image_0.png](images/416_image_0.png)
 
 ## 4-96. Control Box Assembly Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -5781,11 +5782,11 @@ and nut (25).
 
 16. Install cover (14) on control box (13) with four lockwashers (16) and screws (15).
 
-![417_image_0.png](417_image_0.png)
+![417_image_0.png](images/417_image_0.png)
 
 4-96. CONTROL BOX ASSEMBLY REPLACEMENT (M997, M997A1, M997A2) (Cont'd)
 
-![418_image_0.png](418_image_0.png)
+![418_image_0.png](images/418_image_0.png)
 
  FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
@@ -5830,7 +5831,7 @@ Grommet must be removed through top of control box.
 
 # 4-97. Control Box Assembly Replacement (M996, M996A1) (Cont'D)
 
-![420_image_0.png](420_image_0.png)
+![420_image_0.png](images/420_image_0.png)
 
 ## 4-97. Control Box Assembly Replacement (M996, M996A1) (Cont'D)
 
@@ -5855,7 +5856,7 @@ and (10), on control box stud (17) with plain-assembled nut (15).
 
 # 4-97. Control Box Assembly Replacement (M996, M996A1) (Cont'D)
 
-![422_image_0.png](422_image_0.png)
+![422_image_0.png](images/422_image_0.png)
 
 I
 
@@ -5871,11 +5872,11 @@ I
 
 10. Install seven light harness leads (11) on terminal block (2) with seven screws (12). 11. Install cover (14) on control box (13) with four lockwashers (16) and screws (15).
 
-![423_image_0.png](423_image_0.png)
+![423_image_0.png](images/423_image_0.png)
 
 4-97. CONTROL BOX ASSEMBLY REPLACEMENT (M996, M996A1) (Cont'd)
 
-![424_image_0.png](424_image_0.png)
+![424_image_0.png](images/424_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -5913,7 +5914,7 @@ Steps 6 thru 8 apply to M996 and M996A1 vehicles only.
 
 4-98.  CONTROL BOX POWER CABLES REPLACEMENT (Cont'd)
 
-![426_image_0.png](426_image_0.png)
+![426_image_0.png](images/426_image_0.png)
 
 ## 4-98. Control Box Power Cables Replacement (Cont'D)
 
@@ -5975,7 +5976,7 @@ Install clamp (7), power harness (8), and resuscitator harness clamp (3) on body
 
 # 4-98. Control Box Power Cables Replacement (Cont'D)
 
-![428_image_0.png](428_image_0.png)
+![428_image_0.png](images/428_image_0.png)
 
 ## 4-98. Control Box Power Cables Replacement (Cont'D)
 
@@ -5987,7 +5988,7 @@ Install clamp (7), power harness (8), and resuscitator harness clamp (3) on body
 
 NOTE
 
-![429_image_0.png](429_image_0.png)
+![429_image_0.png](images/429_image_0.png)
 
 Step 14 applies to M996 and M996A1 vehicles only.
 
@@ -5997,7 +5998,7 @@ Step 14 applies to M996 and M996A1 vehicles only.
 
 M996, M996A1 ONLY
 
-![430_image_0.png](430_image_0.png)
+![430_image_0.png](images/430_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -6039,7 +6040,7 @@ Prior to removal, tag all leads for installation.
 
 6. Remove four screws (8), clamps (7), NBC harness (4), and heater harness (6) from body (5). 7. Remove two screws (15), washers (16), retainer (17), and grommet (19) from body (5) and remove retainer (17) and grommet (19) from NBC harness (4).
 
-![432_image_0.png](432_image_0.png)
+![432_image_0.png](images/432_image_0.png)
 
 4-99. NBC CONTROL BOX AND WIRING HARNESS REPLACEMENT (M996, M996A1) Cont'd)
 
@@ -6061,7 +6062,7 @@ Discard lockwashers (16).
 
 17. Remove screw (31) and ground (29) from NBC heaters and filter assembly (28). 18. Disconnect connector (30) from NBC heater and filter assembly (28). 19. Remove grommet (23) and harness (3) from body (27).
 
-![434_image_0.png](434_image_0.png)
+![434_image_0.png](images/434_image_0.png)
 
 4-99. NBC CONTROL BOX AND WIRING HARNESS REPLACEMENT (M996, M996A1) Cont'd)
 
@@ -6111,7 +6112,7 @@ Connect harness (28) to NBC heater and filter assembly (26).
 
 4-99. NBC CONTROL BOX AND WIRING HARNESS REPLACEMENT (M996, M996A1) Cont'd)
 
-![436_image_0.png](436_image_0.png)
+![436_image_0.png](images/436_image_0.png)
 
 ## 4-99. Nbc Control Box And Wiring Harness Replacement (M996, M996A1) Cont'D)
 
@@ -6125,11 +6126,11 @@ Connect harness (28) to NBC heater and filter assembly (26).
 
 26. Install cover (27) on control box (20) with four lockwashers (28) and screws (29).
 
-![437_image_0.png](437_image_0.png)
+![437_image_0.png](images/437_image_0.png)
 
 4-99. NBC CONTROL BOX AND WIRING HARNESS REPLACEMENT (M996, M996A1) Cont'd)
 
-![438_image_0.png](438_image_0.png)
+![438_image_0.png](images/438_image_0.png)
 
 FOLLOW-ON TASK: NBC control panel installed (para. 4-124).
 
@@ -6167,7 +6168,7 @@ Prior to removal, tag leads for installation.
 
 4-100.  NBC CONTROL BOX AND WIRING HARNESS REPLACEMENT (M997, M997A 1, M997A2)  (Cont'd)
 
-![440_image_0.png](440_image_0.png)
+![440_image_0.png](images/440_image_0.png)
 
 ## 4-100. Nbc Control Box And Wiring Harness Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6188,7 +6189,7 @@ heater (33).
 
 18. Remove locknut (43), washer (17), capscrew (18), washer (17), and leads 796B and 796A (42) from
 
-![441_image_0.png](441_image_0.png)
+![441_image_0.png](images/441_image_0.png)
 
 NBC heater (44). Discard locknut (43).
 
@@ -6197,7 +6198,7 @@ retainer (23), harness (7), and intercom cable (24) from body (21). Discard asse
 
 4-100.  NBC CONTROL BOX AND WIRING HARNESS REPLACEMENT (M997, M997A1, M997A2) (Cont'd)
 
-![442_image_0.png](442_image_0.png)
+![442_image_0.png](images/442_image_0.png)
 
 ## 4-100. Nbc Control Box And Wiring Harness Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6260,7 +6261,7 @@ Install two clamps (21), harness (11), and intercom cable (12), on body (14) wit
 Install cover (18) over harness (11) and intercom cable (12), and to body (14) with three screws (13)
 17.
 
-![444_image_0.png](444_image_0.png)
+![444_image_0.png](images/444_image_0.png)
 
 ## 4-100. Nbc Control Box And Wiring Harness Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6281,7 +6282,7 @@ and nut (14).
 
 4-100.  NBC CONTROL BOX AND WIRING HARNESS REPLACEMENT (M997, M997A1, M997A2) (Cont'd)
 
-![446_image_0.png](446_image_0.png)
+![446_image_0.png](images/446_image_0.png)
 
 ## 4-100. Nbc Control Box And Wiring Harness Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6290,7 +6291,7 @@ and nut (14).
 4-100.  NBC CONTROL BOX AND WIRING HARNESS REPLACEMENT (M997, M997A I,
  M997A2) (Cont'd)
 
-![448_image_0.png](448_image_0.png)
+![448_image_0.png](images/448_image_0.png)
 
 FOLLOW-ON TASKS: - Install control panel (para. 4-124).
 
@@ -6331,7 +6332,7 @@ Prior to removal, tag leads for installation.
 
  M997A2) (Cont'd)
 
-![450_image_0.png](450_image_0.png)
+![450_image_0.png](images/450_image_0.png)
 
 ## 4-101. Interior Lighting Harness Assembly Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6339,13 +6340,13 @@ Prior to removal, tag leads for installation.
 
 16. Disconnect harness lead 21H (21) from light harness 21G (20). 17. Remove grommet (12) and harness (3) from body (4). 18. Remove screw (5) and clamp (11) from harness (3) and body (4). 19. Remove two nuts (8), screws (6), and clamps (7) from harness (3) and body (4). Discard nuts (8). 20. Disconnect two harness leads (10) from blackout switch leads (9). 21. Remove six screws (23) and clamps (22) from harness (3) and body (24).
 
-![451_image_0.png](451_image_0.png)
+![451_image_0.png](images/451_image_0.png)
 
 4-101.  INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M997, M997A1, M997A2  (Cont'd)
 
-![452_image_0.png](452_image_0.png)
+![452_image_0.png](images/452_image_0.png)
 
-![452_image_1.png](452_image_1.png)
+![452_image_1.png](images/452_image_1.png)
 
 ## 4-101. Interior Lighting Harness Assembly Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6363,7 +6364,7 @@ Use care when routing harness. Failure to do so will cause damage to harness.
 
 3. Connect four harness leads (5) to light leads (4). 4. Install two clamps (11) and light harnesses (11.1) on cover (6) with screw (10) and nut (3). 5. Install cover (6) on body (14) with four screws (7). 6. Install six clamps (15) on harness (1) and body (17) with six screws (16).
 
-![454_image_0.png](454_image_0.png)
+![454_image_0.png](images/454_image_0.png)
 
 4-101. INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M997, M997A1, M997A2) (Cont'd)
 
@@ -6373,11 +6374,11 @@ Use care when routing harness. Failure to do so will cause damage to harness.
 
 10. Install grommet (12) and harness (3) in body (4). 11. Connect harness lead 24H (21) to lead 21G (20). 12. Install backup light cover (17) on body (16) with four lockwashers (18) and screws (19). 13. Install two grommets (13) on harness (3) and body (4). 14. Install two clamps (14) on harness (3) and body (4) with two screws (15). 15. Install seven clamps (2) on harness (3) and body (4) with seven screws (1).
 
-![455_image_0.png](455_image_0.png)
+![455_image_0.png](images/455_image_0.png)
 
 4-101. INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M997, M997A1, M997A2)  (Cont'd)
 
-![456_image_0.png](456_image_0.png)
+![456_image_0.png](images/456_image_0.png)
 
 ## 4-101. Interior Lighting Harness Assembly Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6386,13 +6387,13 @@ and (11).
 
 18. Install clamp (17) and cover (14) on body (8) and harness (2) with ten screws (10). 19. Install two clamps (12) on light harnesses (9) and cover (3) with screw (13) and nut (7). 20. Install cover (3) and clamp (3.1) on body (8) with four screws (15). 21. Deleted. 22. Install two clamps (21) on harness (2) and duct (20) with two screws (22). 23. Connect lead 791B (32) to NBC harness lead 791A (30). 24. Install eight leads (23) on terminal block (29) and ground buss (31) with eight screws (24). 25. Install grommet (33) on control box (28). 26. Install cover (25) on control box (28) with four screws (26) and lockwashers (27).
 
-![457_image_0.png](457_image_0.png)
+![457_image_0.png](images/457_image_0.png)
 
 4-101. INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M997, M997A1, M997A2)  (Cont'd)
 
-![458_image_0.png](458_image_0.png)
+![458_image_0.png](images/458_image_0.png)
 
-![458_image_1.png](458_image_1.png)
+![458_image_1.png](images/458_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -6435,7 +6436,7 @@ Prior to removal, tag leads for installation.
 
 12. Disconnect six harness leads (21) from light leads (26). Remove harness cover (29). 13. Disconnect two harness leads (20) from light leads (22).
 
-![460_image_0.png](460_image_0.png)
+![460_image_0.png](images/460_image_0.png)
 
 4-102.  INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M996, M996A1) (Cont'd)
 
@@ -6445,11 +6446,11 @@ Prior to removal, tag leads for installation.
 
 18. Disconnect harness lead 21H (21) from light harness 21G (20). 19. Remove grommet (12) from harness (2) and body (4). 20. Remove screw (5) and clamp (6) from harness (2) and body (4). 21. Remove two nuts (11), screws (8), and clamps (7) from harness (2) and body (4) 22. Disconnect two harness leads (10) from blackout switch leads (9). 23. Remove six screws (23) and clamps (22) from harness (2) and body (24). 
 
-![461_image_0.png](461_image_0.png)
+![461_image_0.png](images/461_image_0.png)
 
 4-102. INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M996, M996A1) (Cont'd)
 
-![462_image_0.png](462_image_0.png)
+![462_image_0.png](images/462_image_0.png)
 
 ## 4-102. Interior Lighting Harness Assembly Replacement (M996, M996A1) (Cont'D)
 
@@ -6467,7 +6468,7 @@ Use care when routing harness. Failure to do so will cause damage to harness.
 
 3. Connect two harness leads (5) to light leads (4). 4. Install grommet (9) on cover (8). 5. Install clamp (11) and light harness (14) on cover (6) with screw (10) and nut (3). 6. Install cover (6) on body (15) with four screws (7). 7. Install six clamps (16) and harness (1) on body (18) with six screws (17).
 
-![464_image_0.png](464_image_0.png)
+![464_image_0.png](images/464_image_0.png)
 
 l
 4-102. INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M996, M996A1) (Cont'd)
@@ -6478,23 +6479,23 @@ l
 
 10. Install clamp (6) and harness (2) on body (4) with screw (5). 11. Install grommet (12) on harness (2) and body (4). 12. Connect harness lead 24H (21) to lead 21G (20). 13. Install backup light cover (17) on body (16) with four lockwashers (18) and screws (19). 14. Install grommet (13) on harness (2) and body (4). 15. Install two clamps (14) and harness (2) on body (4) with two screws (15). 16. Install seven clamps (3) and harness (2) on body (4) with seven screws (1).
 
-![465_image_0.png](465_image_0.png)
+![465_image_0.png](images/465_image_0.png)
 
 4-102. INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M996, M996A1) (Cont'd)
 
-![466_image_0.png](466_image_0.png)
+![466_image_0.png](images/466_image_0.png)
 
 # 4-102. Interior Lighting Harness Assembly Replacement (M996, M996A1) (Cont'D)
 
 17. Connect two harness leads (3) on light harness leads (4). 18. Install grommet (10.1) on cover (11). 19. Position cover (11) and connect six harness leads (1) to light leads (14). 20. Install cover (11) on body (6) with ten screws (8). 21. Install clamp (9) on light harness (7) and cover (13) with screw (10) and nut (5). 22. Install cover (13) and clamp (2.1) on body (6) with four screws (12). 23. Install grommet (15) on harness (16). 24. Position grommet (19) and harness (16) in control box (25). 25. Install cover (17) on body (6) with four screws (18). 26. Connect lead 791B (29) to NBC harness lead 791A (27). 27. Install eight leads (20) on terminal block (26) and ground buss (28) with eight screws (21). 28. Install cover (22) on control box (25) with four screws (23) and lockwashers (24).
 
-![467_image_0.png](467_image_0.png)
+![467_image_0.png](images/467_image_0.png)
 
 4-102. INTERIOR LIGHTING HARNESS ASSEMBLY REPLACEMENT (M996, M996A1) (Cont'd)
 
-![468_image_0.png](468_image_0.png)
+![468_image_0.png](images/468_image_0.png)
 
-![468_image_1.png](468_image_1.png)
+![468_image_1.png](images/468_image_1.png)
 
 FOLLOW-ON TASKS: - Install rear close out panel (para. 11-182)
 · Connect battery ground cable (para. 4-73). · Check operation of interior dome lights (TM 9-2320-280-10).
@@ -6537,7 +6538,7 @@ Harness duct replacement for M996, M996A1, M997, M997A1, and M997A2 are basicall
 
 # 4-103. Wiring Harness Duct Assembly Replacement (Cont'D)
 
-![470_image_0.png](470_image_0.png)
+![470_image_0.png](images/470_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -6562,9 +6563,9 @@ a. Removal 1. Remove two screws (3), clamps (7), and cable (1) from body (2) and
 1. Install grommet (11) in floor (6). 2. Route cable (1) through grommet (11) in floor (6) and position in approximate mounting location. 3. Connect cable (1) to resuscitator and power source. (Leave slack at each end of cable before clamping to connect resuscitation equipment if not installed.)
 4. Install two clamps (7) and cable (1) on body (2) and floor (6) with two screws (3). 5. Install cable duct (5) over cable (1) and slide to right under heat duct to mounting position. 6. Install cable duct (5) on floor (6) with nine rivets (4). 7. Install two clamps (10), cable (1), and power harness clamp (8) on body (2) with two screws (9).
 
-![472_image_0.png](472_image_0.png)
+![472_image_0.png](images/472_image_0.png)
 
-![472_image_1.png](472_image_1.png)
+![472_image_1.png](images/472_image_1.png)
 
 # 4-104. Resuscitator/Aspirator Cable Replacement (Cont'D)
 
@@ -6622,11 +6623,11 @@ and capscrew (3). (Tighten capscrew (3) 6 lb-ft (8 N•m).
 
 4. Remove capscrew (14), washer (13), clamp (9), two antenna cables (8) and intercom cable (7) from plate (15) and windshield (12).
 
-![474_image_0.png](474_image_0.png)
+![474_image_0.png](images/474_image_0.png)
 
 4-105. ANTENNA CABLES REPLACEMENT (M996, M996A1) (Cont'd)
 
-![474_image_1.png](474_image_1.png)
+![474_image_1.png](images/474_image_1.png)
 
 FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
@@ -6674,9 +6675,9 @@ Discard tiedown straps (5).
 
 4-106.  ANTENNA CABLES REPLACEMENT (M997, M997A1, M997A2) (Cont'd)
 
-![476_image_0.png](476_image_0.png)
+![476_image_0.png](images/476_image_0.png)
 
-![476_image_1.png](476_image_1.png)
+![476_image_1.png](images/476_image_1.png)
 
 ## 4-106. Antenna Cables Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6703,7 +6704,7 @@ from antenna (7) and body (8). Discard lockwashers (21).
 
 4-106.  ANTENNA CABLES REPLACEMENT (M997, M997A I, M997A2) (Cont'd)
 
-![478_image_0.png](478_image_0.png)
+![478_image_0.png](images/478_image_0.png)
 
 ## 4-106. Antenna Cables Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6726,7 +6727,7 @@ capscrews (24), and assembled locknuts (31).
 
 9. Install clamp (35) to antenna cables (4) and intercom cable (16) on plate (34) with washer (33) and
 
-![479_image_0.png](479_image_0.png)
+![479_image_0.png](images/479_image_0.png)
 
 capscrew (32). Tighten capscrew (32) 72 lb-in. (8 N•m).
 
@@ -6740,7 +6741,7 @@ on radio rack (42).
 
 # 4-106.  Antenna Cables Replacement (M997, M997A1, M997A2) (Cont'D)
 
-![480_image_0.png](480_image_0.png)
+![480_image_0.png](images/480_image_0.png)
 
 FOLLOW-ON TASKS: -   Connect battery ground cable (para. 4-73).
 - •  -  - 
@@ -6749,7 +6750,7 @@ FOLLOW-ON TASKS: -   Connect battery ground cable (para. 4-73).
 
 This task covers:
 
-![481_image_0.png](481_image_0.png)
+![481_image_0.png](images/481_image_0.png)
 
 INITIAL SETUP
 
@@ -6794,7 +6795,7 @@ Discard tiedown straps (3).
 
 4-107. INTERCOM CABLE REPLACEMENT (M996, M996A1) (Cont'd)
 
-![482_image_0.png](482_image_0.png)
+![482_image_0.png](images/482_image_0.png)
 
 ## 4-107. Intercom Cable Replacement (M996, M996A1) (Cont'D)
 
@@ -6823,7 +6824,7 @@ heater (31). Discard plain-assembled nut (26.1).
 
 10. Install ground wire (2) on precleaner (3) with screw (1). 11. Connect electrical harness lead (20) to precleaner (3). 12. Install two hose assemblies (11) to filter canisters (10) with two clamps (12).
 
-![484_image_0.png](484_image_0.png)
+![484_image_0.png](images/484_image_0.png)
 
 4-107. INTERCOM CABLE REPLACEMENT (M996, M996A1) (Cont'd)
 
@@ -6834,7 +6835,7 @@ capscrews (6), and assembled locknuts (1).
 
 14. Install two clamps (9) and intercom cable (7) on body (2) with two screws (8). 15. Install clamp (13), intercom cable (7), and two antenna cables (16) on plate (12) and windshield (17)
 
-![485_image_0.png](485_image_0.png)
+![485_image_0.png](images/485_image_0.png)
 
 with washer (11) and capscrew (10). Tighten capscrew (10) to 6 lb-ft (8 N•m).
 
@@ -6846,9 +6847,9 @@ with washer (11) and capscrew (10). Tighten capscrew (10) to 6 lb-ft (8 N•m).
 
 4-107. INTERCOM CABLE REPLACEMENT (M996, M996A1) (Cont'd)
 
-![486_image_0.png](486_image_0.png)
+![486_image_0.png](images/486_image_0.png)
 
-![486_image_1.png](486_image_1.png)
+![486_image_1.png](images/486_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - Test NBC system operation (TM 9-2320-280-10)
@@ -6902,7 +6903,7 @@ intercom cable (4), wiring harness (23), two antenna cables (6), and clamp (22) 
 
 4-108.  INTERCOM CABLE REPLACEMENT (M997, M997A1, M997A2) (Cont'd)
 
-![488_image_0.png](488_image_0.png)
+![488_image_0.png](images/488_image_0.png)
 
 ## 4-108. Intercom Cable Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6920,13 +6921,13 @@ b. Installation 1. Install intercom cable (1) on intercom (14). 2. Route interco
 
 5. Install two clamps (5), intercom cable (1), and wiring harness (8) on body (6) with two screws (4).
 
-![489_image_0.png](489_image_0.png) 6. Install cover (2), intercom cable (1), and wiring harness (8) on body (6) with three capscrews (7) and assembled locknuts (3).
+![489_image_0.png](images/489_image_0.png) 6. Install cover (2), intercom cable (1), and wiring harness (8) on body (6) with three capscrews (7) and assembled locknuts (3).
 
 # 4-108.  Intercom Cable Replacement (M997, M997A1, M997A2) Cont'D)
 
-![490_image_0.png](490_image_0.png)
+![490_image_0.png](images/490_image_0.png)
 
-![490_image_1.png](490_image_1.png)
+![490_image_1.png](images/490_image_1.png)
 
 ## 4-108. Intercom Cable Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -6944,15 +6945,15 @@ and capscrew (25). Tighten capscrew (25) to 71 lb-in. (8 N•m).
 
 12. Secure intercom cable (2), antenna cables (6), and power cable (24) together with two tiedown
 
-![491_image_0.png](491_image_0.png)
+![491_image_0.png](images/491_image_0.png)
 
 straps (22) on radio rack (23).
 
-![492_image_0.png](492_image_0.png)
+![492_image_0.png](images/492_image_0.png)
 
 4-108.  INTERCOM CABLE REPLACEMENT (M997, M997A1, M997A2) (Cont'd)
 
-![492_image_1.png](492_image_1.png)
+![492_image_1.png](images/492_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -7000,7 +7001,7 @@ Discard lockwasher (34).
 
 4-109.  200 AMPERE ALTERNATOR (AA0013036AA) REPLACEMENT (Cont'd)
 
-![494_image_0.png](494_image_0.png)
+![494_image_0.png](images/494_image_0.png)
 
 l
 
@@ -7047,7 +7048,7 @@ power steering lines bracket (21), support bracket (23), and mounting bracket (1
 
 # 4-109.  200 Ampere Alternator (Aa0013036Aa) Replacement (Cont'D)
 
-![496_image_0.png](496_image_0.png)
+![496_image_0.png](images/496_image_0.png)
 
 # 4-109. 200 Ampere Alternator (Aa0013036Aa) Replacement (Cont'D)
 
@@ -7065,11 +7066,11 @@ Perform step 10 for vehicles equipped with deep water fording kits.
 
 11. Tighten two capscrews (9) on alternator mounting bracket (6) to 40 lb-ft. (54 N•m). 12. Install three drivebelts (7) on alternator pulley (8). 13. Install lead 5A (14) to stud (5) with washer (16), nut (14.1), and nut (15). 14. Install lead 2A (11) to stud (10) with washer (11.1), lockwasher (12), and nut (13). 15. Install rubber wedge (17) in opening in regulator (4). 16. Install gasket (3) and cover (2) to regulator (4) with four lockwashers (21) and screws (1). 15. Connect lead 568A (19) to harness lead (20) and secure to leads 2A (11) and 5A (14) using tiedown straps (18).
 
-![498_image_0.png](498_image_0.png)
+![498_image_0.png](images/498_image_0.png)
 
 # 4-109.  200 Ampere Alternator (Aa0013036Aa) Replacement (Cont'D)
 
-![498_image_1.png](498_image_1.png)
+![498_image_1.png](images/498_image_1.png)
 
 FOLLOW-ON TASKS: - Adjust alternator belts (para. 3-82).
 
@@ -7119,7 +7120,7 @@ Alternator must be supported during removal and installation. Failure to support
 
 4-110.  200 AMPERE ALTERNATOR (12338796-1) REPLACEMENT (6.2L) (Cont'd)
 
-![500_image_0.png](500_image_0.png)
+![500_image_0.png](images/500_image_0.png)
 
 # 4 - 1 1 0 . 200 Ampere Alt E R N Ator (12338796-1) Replacement (6.2L) (Cont'D)
 
@@ -7178,7 +7179,7 @@ lockwasher (33), and nut (34). Tighten nut (34) to 96-144 lb-in. (11-16 N•m).
 
 # 4-110.  200 Ampere Alternator (12338796-1) Replacement (6.2L) (Cont'D)
 
-![502_image_0.png](502_image_0.png)
+![502_image_0.png](images/502_image_0.png)
 
 FOLLOW-ON TASKS: - Install 200 amp regulator (para. 4-115).
 
@@ -7234,9 +7235,9 @@ Discard lockwasher (18).
 
 4-110.1.  200 AMPERE ALTERNATOR (12447109) REPLACEMENT  (6.5L) (Cont'd)
 
-![504_image_0.png](504_image_0.png)
+![504_image_0.png](images/504_image_0.png)
 
-![504_image_1.png](504_image_1.png)
+![504_image_1.png](images/504_image_1.png)
 
 ## 4-110.1. 200 Ampere Alternator (12447109) Replacement (6.5L) (Cont'D)
 
@@ -7261,7 +7262,7 @@ Tighten nut (29) to 8-12 lb-ft (11-16 N•m).
 
 # 4-110.1. 200 Ampere Alternator (12447109) Replacement (6.5L) (Cont'D)
 
-![506_image_0.png](506_image_0.png)
+![506_image_0.png](images/506_image_0.png)
 
 # 4-111. 200 Ampere Alternator Cable (12446825) Replacement
 
@@ -7298,11 +7299,11 @@ Ensure terminals are clean before connections are made.
 3. Apply sealant to positive stud (9) and cable (7) so all exposed metallic surfaces are coated. 4. Install bushing (8), cable (7), fuse (2), and insulator (6) on positive stud (9) with washer (5),
 lockwasher (4), and nut (3). Tighten nut (3) to 10-15 lb-ft (14-20 N•m). Slide rubber boot (1) over nut (3).
 
-![508_image_0.png](508_image_0.png)
+![508_image_0.png](images/508_image_0.png)
 
 # 4-111.  200 Ampere Alternator Cable (12446825) Replacement (Cont'D)
 
-![508_image_1.png](508_image_1.png)
+![508_image_1.png](images/508_image_1.png)
 
 FOLLOW-ON TASKS: - Install engine access cover (para. 10-15).
 
@@ -7380,7 +7381,7 @@ Step 6 applies to M997 and M997A1 vehicles only. Step 7 applies to M996 and M996
 
 7. Install clamp (28) on cable (8) and oil pan bracket (26) with bolt (24) and assembled locknut (29). 8. Install cable (8) on starter (33) with clip (32) and screw (31). Connect tiedown strap (30). 9. Apply sealant to screw (31) and cable (8) so that all exposed metallic surfaces are coated. The
 
-![510_image_0.png](510_image_0.png)
+![510_image_0.png](images/510_image_0.png)
 
 - Connect battery ground cable (para. 4-73). - Start engine and check operation of voltmeter gauge 
 (TM 9-2320-280-10)
@@ -7429,7 +7430,7 @@ Discard lockwashers (17).
 
 Discard lockwasher (6).
 
-![512_image_0.png](512_image_0.png)
+![512_image_0.png](images/512_image_0.png)
 
 4-113. 200 AMPERE UMBILICAL POWER CABLE REPLACEMENT (Cont'd)
 
@@ -7490,7 +7491,7 @@ Install positive power cable (7) on power stud (8) with lockwasher (6) and nut (
 
 # 4-113. 200 Ampere Umbilical Power Cable Replacement (Cont'D)
 
-![514_image_0.png](514_image_0.png)
+![514_image_0.png](images/514_image_0.png)
 
 | Materials/Parts   |
 |-------------------|
@@ -7542,7 +7543,7 @@ Prior to removal, tag leads for installation.
 
 4-114. 200 AMPERE REGULATOR (A0013036AA) REPLACEMENT (Cont'd)
 
-![516_image_0.png](516_image_0.png)
+![516_image_0.png](images/516_image_0.png)
 
 FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
@@ -7610,7 +7611,7 @@ Perform steps 4 and 5 for M997A2, M1025A2, M1035A2, M1043A2, M1045A2, and M1097A
 
 (2.0-2.5 N.m). Slide rubber boot (5) over terminal (9).
 
-![518_image_0.png](518_image_0.png)
+![518_image_0.png](images/518_image_0.png)
 
 # 4-116. Control Box Terminal Block And Mounting Buss Replacement
 
@@ -7644,7 +7645,7 @@ Discard plain-assembled nuts (10).
 
 # 4-116. Control Box Terminal Block And Mounting Buss Replacement
 
-![520_image_0.png](520_image_0.png)
+![520_image_0.png](images/520_image_0.png)
 
 FOLLOW-ON TASK: Install control box (para. 4-96 or 4-97).
 
@@ -7690,7 +7691,7 @@ b. Installation 1. Connect six leads (7) to fuse block (4). 2. Install fuse bloc
 
 # 4-117. Control Box Fuse Block And Relay Socket Replacement (Cont'D)
 
-![522_image_0.png](522_image_0.png)
+![522_image_0.png](images/522_image_0.png)
 
 FOLLOW-ON TASKS: - If relay socket was replaced: install relays (para. 4-120).
 
@@ -7735,7 +7736,7 @@ Prior to removal, tag leads for installation.
 
 4. Remove five screws (14) and washers (13) from leads (12) and switch terminals (11) and remove switch (10).
 
-![524_image_0.png](524_image_0.png)
+![524_image_0.png](images/524_image_0.png)
 
 # 4-118. Control Box Light Switch Replacement (Cont'D)
 
@@ -7788,7 +7789,7 @@ d. Receptacle Installation 1. Install two leads (2) on receptacle (3) with two s
 
 # 4-119. Control Box Electrical Plug And Receptacle Replacement (Cont'D)
 
-![526_image_0.png](526_image_0.png)
+![526_image_0.png](images/526_image_0.png)
 
  FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
@@ -7810,7 +7811,7 @@ b. Installation 1. Install relay (6) in relay socket (5). 2. Install cover (2) o
 
 # 4-120. Control Box Relay Replacement (Cont'D)
 
-![528_image_0.png](528_image_0.png)
+![528_image_0.png](images/528_image_0.png)
 
 # 4-121. Condenser Fan/Pressure Switch Wiring Harness Replacement (M997, M997A1, M997A2)
 
@@ -7842,7 +7843,7 @@ capscrew (19), washer (4), and nut (5).
 
 # (M997, M997A1, M997A2) (Cont'D)
 
-![530_image_0.png](530_image_0.png)
+![530_image_0.png](images/530_image_0.png)
 
 FOLLOW-ON TASKS: - Install air intake compartment panels (para. 11-184).
 
@@ -7885,7 +7886,7 @@ Prior to removal, tag leads for installation.
 4-122.  COMPRESSOR/HEATER FUEL PUMP WIRING HARNESS REPLACEMENT
 (M997, M997A1 , M997A2) (Cont'd)
 
-![532_image_0.png](532_image_0.png)
+![532_image_0.png](images/532_image_0.png)
 
 # 4-122. Compressor/Heater Fuel Pump Wiring Harness Replacement (M997, M997A1, M997A2) (Cont'D)
 
@@ -7914,9 +7915,9 @@ and nut (11).
 4-122. COMPRESSOR/HEATER FUEL PUMP WIRING HARNESS REPLACEMENT
 (M997, M997A1, M997A2) (Cont'd)
 
-![534_image_0.png](534_image_0.png)
+![534_image_0.png](images/534_image_0.png)
 
-![534_image_1.png](534_image_1.png)
+![534_image_1.png](images/534_image_1.png)
 
 # 4-122. Compressor/Heater Fuel Pump Wiring Harness Replacement
 
@@ -7933,12 +7934,12 @@ lockwasher (26), and capscrew (25).
 
 16. Deleted. 17. Install grommet (34) on tunnel (35) and harness (17).
 
-![535_image_0.png](535_image_0.png)
+![535_image_0.png](images/535_image_0.png)
 
 4-122. COMPRESSOR/HEATER FUEL PUMP WIRING HARNESS REPLACEMENT
 (M997, M997A1, M997A2) (Cont'd)
 
-![536_image_0.png](536_image_0.png)
+![536_image_0.png](images/536_image_0.png)
 
 # 4-123. Heater/Vent System Control Box And Wiring Harness Replacement
 
@@ -7972,7 +7973,7 @@ from fuel pump (16) and bracket (17). Discard locknut (1).
 
 7. Route harness (10) up through grommet (20) into patient compartment.
 
-![538_image_0.png](538_image_0.png)
+![538_image_0.png](images/538_image_0.png)
 
 4-123. HEATER/VENT SYSTEM CONTROL BOX AND WIRING HARNESS
 REPLACEMENT (Cont'd)
@@ -8008,7 +8009,7 @@ with four screws (23).
 4-123. HEATER/VENT SYSTEM CONTROL BOX AND WIRING HARNESS
 REPLACEMENT (Cont'd)
 
-![540_image_0.png](540_image_0.png)
+![540_image_0.png](images/540_image_0.png)
 
 # 4-123. Heater/Vent System Control Box And Wiring Harness Replacement (Cont'D)
 
@@ -8021,13 +8022,13 @@ capscrew (8), washer (2), and locknut (1).
 
 17. Install grommet (18) on harness (21) and into tunnel (27).
 
-![541_image_0.png](541_image_0.png) 18. Install harness (21) in two clamps (19) on body (22) with two screws (23). 19. Install harness (21) on resuscitator harness (24) with tiedown strap (25).
+![541_image_0.png](images/541_image_0.png) 18. Install harness (21) in two clamps (19) on body (22) with two screws (23). 19. Install harness (21) on resuscitator harness (24) with tiedown strap (25).
 
 4-123. HEATER/VENT SYSTEM CONTROL BOX AND WIRING HARNESS
 
 # Replacement (Cont'D)
 
-![542_image_0.png](542_image_0.png)
+![542_image_0.png](images/542_image_0.png)
 
 FOLLOW-ON TASK: Blower assembly installed (para. 11-212).
 
@@ -8079,7 +8080,7 @@ Prior to removal, tag all leads for installation.
 
 # 4-124. Nbc Control Panel Replacement (Cont'D)
 
-![544_image_0.png](544_image_0.png)
+![544_image_0.png](images/544_image_0.png)
 
 ___
 
@@ -8111,9 +8112,9 @@ Use care when removing lead clips from NBC control panel fuse block to prevent d
 
 # 4-124. Nbc Control Panel Replacement (Cont'D)
 
-![546_image_0.png](546_image_0.png)
+![546_image_0.png](images/546_image_0.png)
 
-![546_image_1.png](546_image_1.png)
+![546_image_1.png](images/546_image_1.png)
 
 # 4-124. Nbc Control Panel Replacement (Cont'D)
 
@@ -8127,7 +8128,7 @@ Leads 785 and 786 have two way jumpers connecting fuses for heaters 1 & 2 and 3 
 
 # 4-124. Nbc Control Panel Replacement (Cont'D)
 
-![548_image_0.png](548_image_0.png)
+![548_image_0.png](images/548_image_0.png)
 
 # 4-124. Nbc Control Panel Replacement (Cont'D)
 
@@ -8164,11 +8165,11 @@ M996 and M996A1 ambulances have three leads, 785, 786, and 787, secured to NBC c
 
 # 4-124. Nbc Control Panel Replacement (Cont'D)
 
-![550_image_0.png](550_image_0.png)
+![550_image_0.png](images/550_image_0.png)
 
 ੇ
 
-![550_image_1.png](550_image_1.png)
+![550_image_1.png](images/550_image_1.png)
 
 Q
 
@@ -8180,7 +8181,7 @@ Leads 785 and 786 have two way jumpers connecting fuses for heaters 1 & 2 and 3 
 
 15. Install leads 787 (1) and 787A (2) on NBC fuse block (5) for heater fuse \#5.
 
-![551_image_0.png](551_image_0.png) 16. Install lead 786B (6) on NBC fuse block (5) for heater fuse \#4. 17. Install leads 786 (4) and 786A (7) on NBC fuse block (5) for heater fuse \#3. 18. Install lead 785A (9) on NBC fuse block (5) for heater fuse \#2. 19. Install leads 785 (3) and 785B (8) on NBC fuse block (5) for heater fuse \#1.
+![551_image_0.png](images/551_image_0.png) 16. Install lead 786B (6) on NBC fuse block (5) for heater fuse \#4. 17. Install leads 786 (4) and 786A (7) on NBC fuse block (5) for heater fuse \#3. 18. Install lead 785A (9) on NBC fuse block (5) for heater fuse \#2. 19. Install leads 785 (3) and 785B (8) on NBC fuse block (5) for heater fuse \#1.
 
 # 4-124. Nbc Control Panel Replacement (Cont'D)
 
@@ -8189,7 +8190,7 @@ Leads 785 and 786 have two way jumpers connecting fuses for heaters 1 & 2 and 3 
 NOTE
 M996 and M996A1 ambulances will not have cushioned wire
 
-![552_image_0.png](552_image_0.png)
+![552_image_0.png](images/552_image_0.png)
 
 clamp on ceiling.
 
@@ -8216,11 +8217,11 @@ b. Installation 1. Connect control arm (2) to switch lever assembly (4) and inst
 
 2. Connect vent door control arm (3) to switch lever assembly (4).
 
-![553_image_0.png](553_image_0.png) 3. Install control arm (2) on blower duct arm (5) with plug button (1).
+![553_image_0.png](images/553_image_0.png) 3. Install control arm (2) on blower duct arm (5) with plug button (1).
 
 # 4-125. Heat/Vent Control Panel Removal (M996, M996A1) (Cont'D)
 
-![554_image_0.png](554_image_0.png)
+![554_image_0.png](images/554_image_0.png)
 
 FOLLOW-ON TASKS:
 .
@@ -8265,7 +8266,7 @@ Three plain-assembled nuts
 (Appendix G, Item 201)
 4-126. HEAT/VENT CONTROL PANEL RELAY AND SWITCH MAINTENANCE
 
-![556_image_0.png](556_image_0.png)
+![556_image_0.png](images/556_image_0.png)
 
 4-126. HEAT/VENT CONTROL PANEL RELAY AND SWITCH MAINTENANCE
 (M996, M996A1) (Cont'd)
@@ -8273,7 +8274,7 @@ c. 24-Volt Relay Removal Remove 24-volt relay (1) from relay mounting socket (2)
 
 d. 24-Volt Relay Installation Install 24-volt relay (1) on relay mounting socket (2).
 
-![557_image_0.png](557_image_0.png)
+![557_image_0.png](images/557_image_0.png)
 
 # 4-126. Heat/Vent Control Panel Relay And Switch Maintenance (M996, M996A1) (Cont'D)
 
@@ -8283,7 +8284,7 @@ e. Relay Socket Removal 1. Remove screw (3), washer (2), plain-assembled nut (7)
 
 f. Relay Socket Installation 1. Install five terminals (5) and 24-volt relay (1) on relay mounting socket (4). 2. Install relay mounting socket (4) on bracket (6) with screw (3), washer (2), and plain-assembled nut (7).
 
-![558_image_0.png](558_image_0.png)
+![558_image_0.png](images/558_image_0.png)
 
 ## 4-126. Heat/Vent Control Panel Relay And Switch Maintenance (M996, M996A1) (Cont'D)
 
@@ -8299,7 +8300,7 @@ Discard lockwasher (8).
 
 2. Install light terminal (6) and terminal (9) on HI-LOW switch (10) with lockwasher (8) and screw (7).
 
-![559_image_0.png](559_image_0.png)
+![559_image_0.png](images/559_image_0.png)
 
 # 4-126. Heat/Vent Control Panel Relay And Switch Maintenance (M996, M996A1) (Cont'D)
 
@@ -8310,7 +8311,7 @@ i. Spot Vent Switch Removal 1. Remove two screws (6), washers (5.1), plain-assem
 
 j. Spot Vent Switch Installation 1. Install four terminals (5) on switch (4) with lockwashers (2) and screws (1). 2. Install switch (4) on lever bracket (7) with two screws (6), washers (5.1), and plain-assembled nuts (3).
 
-![560_image_0.png](560_image_0.png)
+![560_image_0.png](images/560_image_0.png)
 
 #### 4-126. Heat/Vent Control Panel Relay And Switch Maintenance
 
@@ -8321,7 +8322,7 @@ j. Spot Vent Switch Installation 1. Install four terminals (5) on switch (4) wit
 
 1. Install three terminals (6) on switch (1) with two lockwashers (8) and screws (7).
 
-![561_image_0.png](561_image_0.png) 2. Install nut (2), washer (3), and switch (1) on panel (4) with nut (5).
+![561_image_0.png](images/561_image_0.png) 2. Install nut (2), washer (3), and switch (1) on panel (4) with nut (5).
 
 # 4-126. Heat/Vent Control Panel Relay And Switch Maintenance (M996, M996A1) (Cont'D)
 
@@ -8333,7 +8334,7 @@ n. Fan Hi-Low Switch Installation 1. Install six terminals (2) on switch (4) wit
 
 2. Install nut (8), washer (7), and switch (4) on panel (6) with nut (5).
 
-![562_image_0.png](562_image_0.png)
+![562_image_0.png](images/562_image_0.png)
 
 # 4-126. Heat/Vent Control Panel, Relay And Switch Maintenance (M996, M996A1) (Cont'D)
 
@@ -8347,7 +8348,7 @@ n. Fan Hi-Low Switch Installation 1. Install six terminals (2) on switch (4) wit
 
 1. Install two terminals (2) on heater RUN-START switch (5) with lockwasher (3) and screw (4).
 
-![563_image_0.png](563_image_0.png)
+![563_image_0.png](images/563_image_0.png)
 
 2. Connect harness lead (8) to rollover switch lead (7) and snap in rollover switch (1) in switch bracket (6).
 
@@ -8375,7 +8376,7 @@ Check for loose or disconnected wires before installing panel.
 
 Install panel (2) on harness bracket (4) and control box (3) with two lockwashers (5), bolts (6), and four screws (1).
 
-![564_image_0.png](564_image_0.png)
+![564_image_0.png](images/564_image_0.png)
 
 # 4-127. Heat/Air-Conditioning Control Panel Relay And Switch Maintenance (M997, M997A1, M997A2) (Cont'D)
 
@@ -8389,7 +8390,7 @@ Prior to removal, tag leads for installation.
 
 2. Install switch (6) on panel (2) with two screws (1).
 
-![565_image_0.png](565_image_0.png)
+![565_image_0.png](images/565_image_0.png)
 
 # 4-127. Heat/Air-Conditioning Control Panel Relay And Switch Maintenance (M997, M997A1, M997A2) (Cont'D)
 
@@ -8403,7 +8404,7 @@ Prior to removal, tag leads for installation.
 
 1. Install light (3) on panel (2) with two screws (1) and connect relay lead (5) to light lead (4).
 
-![566_image_0.png](566_image_0.png)
+![566_image_0.png](images/566_image_0.png)
 
 2. Install light terminal (7) on heater run-start switch (6) with lockwasher (8) and screw (9).
 
@@ -8418,7 +8419,7 @@ Position toggle switch in low position.
 
 2. Install nut (7), washer (8), and switch (6) on panel (2) with nut (1).
 
-![567_image_0.png](567_image_0.png)
+![567_image_0.png](images/567_image_0.png)
 
 # 4-127. Heat/Air-Conditioning Control Panel Relay And Switch Maintenance (M997, M997A1, M997A2) (Cont'D)
 
@@ -8434,7 +8435,7 @@ j. Fan Hi-Low Switch Installation 1. Connect four terminals (6) to switch (5).
 
 2. Install nut (4), washer (3), and switch (5) on panel (2) with nut (1).
 
-![568_image_0.png](568_image_0.png)
+![568_image_0.png](images/568_image_0.png)
 
 # 4-127. Heat/Air-Conditioning Control Panel Relay And Switch Maintenance [M997, M997A1, M997A2) (Cont'D)
 
@@ -8446,7 +8447,7 @@ Prior to removal, tag leads for installation.
 
 1. Connect four terminals (6) to switch (5).
 
-![569_image_0.png](569_image_0.png) 2. Install nut (4), washer (3), and switch (5) on panel (2) with nut (1).
+![569_image_0.png](images/569_image_0.png) 2. Install nut (4), washer (3), and switch (5) on panel (2) with nut (1).
 
 # 4-127. Heat/Air-Conditioning Control Panel Relay And Switch Maintenance (M997, M997A1, M997A2) (Cont'D)
 
@@ -8457,7 +8458,7 @@ m. Rollover Switch Removal Disconnect two rollover switch leads (4) from harness
 
 n. Rollover Switch Installation Connect two harness leads (3) to rollover switch leads (4) and snap in rollover switch (2) into
 
-![570_image_0.png](570_image_0.png)
+![570_image_0.png](images/570_image_0.png)
 
 switch bracket (1).
 
