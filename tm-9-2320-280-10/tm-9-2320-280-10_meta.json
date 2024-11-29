@@ -1,0 +1,4575 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "pdf_toc": [
+        {
+            "title": "TABLE OF CONTENTS",
+            "level": 0,
+            "page": 18
+        },
+        {
+            "title": "LAST CHANGE",
+            "level": 0,
+            "page": 6
+        },
+        {
+            "title": "WARNING",
+            "level": 0,
+            "page": 2
+        },
+        {
+            "title": "CHAPTERS",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "CHAPTER 1",
+            "level": 1,
+            "page": 19
+        },
+        {
+            "title": "PARA 1-4",
+            "level": 2,
+            "page": 20
+        },
+        {
+            "title": "CHAPTER 2",
+            "level": 1,
+            "page": 55
+        },
+        {
+            "title": "PARA 2-2",
+            "level": 2,
+            "page": 56
+        },
+        {
+            "title": "PARA 2-4",
+            "level": 2,
+            "page": 114
+        },
+        {
+            "title": "PARA 2-6",
+            "level": 2,
+            "page": 117
+        },
+        {
+            "title": "PARA 2-9",
+            "level": 2,
+            "page": 162
+        },
+        {
+            "title": "PARA 2-10",
+            "level": 2,
+            "page": 162
+        },
+        {
+            "title": "PARA 2-11",
+            "level": 2,
+            "page": 165
+        },
+        {
+            "title": "PARA 2-12",
+            "level": 2,
+            "page": 167
+        },
+        {
+            "title": "PARA 2-13",
+            "level": 2,
+            "page": 169
+        },
+        {
+            "title": "PARA 2-14",
+            "level": 2,
+            "page": 171
+        },
+        {
+            "title": "PARA 2-15",
+            "level": 2,
+            "page": 172
+        },
+        {
+            "title": "PARA 2-16",
+            "level": 2,
+            "page": 173
+        },
+        {
+            "title": "PARA 2-21",
+            "level": 2,
+            "page": 178
+        },
+        {
+            "title": "PARA 2-23",
+            "level": 2,
+            "page": 184
+        },
+        {
+            "title": "PARA 2-26",
+            "level": 2,
+            "page": 194
+        },
+        {
+            "title": "PARA 2-26.1",
+            "level": 2,
+            "page": 196
+        },
+        {
+            "title": "PARA 2-27",
+            "level": 2,
+            "page": 200
+        },
+        {
+            "title": "PARA 2-29",
+            "level": 2,
+            "page": 202
+        },
+        {
+            "title": "PARA 2-30",
+            "level": 2,
+            "page": 203
+        },
+        {
+            "title": "PARA 2-37",
+            "level": 2,
+            "page": 212
+        },
+        {
+            "title": "PARA 2-39",
+            "level": 2,
+            "page": 220
+        },
+        {
+            "title": "PARA 2-41",
+            "level": 2,
+            "page": 228
+        },
+        {
+            "title": "PARA 2-44",
+            "level": 2,
+            "page": 231
+        },
+        {
+            "title": "PARA 2-46",
+            "level": 2,
+            "page": 232
+        },
+        {
+            "title": "PARA 2-48",
+            "level": 2,
+            "page": 238
+        },
+        {
+            "title": "PARA 2-54",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "PARA 2-59",
+            "level": 2,
+            "page": 259
+        },
+        {
+            "title": "PARA 2-61",
+            "level": 2,
+            "page": 264
+        },
+        {
+            "title": "CHAPTER 3",
+            "level": 1,
+            "page": 284
+        },
+        {
+            "title": "PARA 3-8",
+            "level": 2,
+            "page": 293
+        },
+        {
+            "title": "PARA 3-9",
+            "level": 2,
+            "page": 295
+        },
+        {
+            "title": "PARA 3-10",
+            "level": 2,
+            "page": 296
+        },
+        {
+            "title": "PARA 3-13",
+            "level": 2,
+            "page": 300
+        },
+        {
+            "title": "PARA 3-15",
+            "level": 2,
+            "page": 301
+        },
+        {
+            "title": "PARA 3-16",
+            "level": 2,
+            "page": 304
+        },
+        {
+            "title": "PARA 3-17",
+            "level": 2,
+            "page": 305
+        },
+        {
+            "title": "PARA 3-18",
+            "level": 2,
+            "page": 306
+        },
+        {
+            "title": "PARA 3-19",
+            "level": 2,
+            "page": 307
+        },
+        {
+            "title": "PARA 3-20",
+            "level": 2,
+            "page": 308
+        },
+        {
+            "title": "PARA 3-22",
+            "level": 2,
+            "page": 311
+        },
+        {
+            "title": "PARA 3-23",
+            "level": 2,
+            "page": 315
+        },
+        {
+            "title": "PARA 3-24",
+            "level": 2,
+            "page": 316
+        },
+        {
+            "title": "PARA 3-26",
+            "level": 2,
+            "page": 318
+        },
+        {
+            "title": "PARA 3-27",
+            "level": 2,
+            "page": 319
+        },
+        {
+            "title": "PARA 3-28",
+            "level": 2,
+            "page": 323
+        },
+        {
+            "title": "TABLES",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "TABLE 1-1",
+            "level": 1,
+            "page": 40
+        },
+        {
+            "title": "TABLE 1-2",
+            "level": 1,
+            "page": 41
+        },
+        {
+            "title": "TABLE 1-3",
+            "level": 1,
+            "page": 42
+        },
+        {
+            "title": "TABLE 1-4",
+            "level": 1,
+            "page": 43
+        },
+        {
+            "title": "TABLE 1-5",
+            "level": 1,
+            "page": 43
+        },
+        {
+            "title": "TABLE 1-6",
+            "level": 1,
+            "page": 43
+        },
+        {
+            "title": "TABLE 1-7",
+            "level": 1,
+            "page": 44
+        },
+        {
+            "title": "TABLE 1-8",
+            "level": 1,
+            "page": 44
+        },
+        {
+            "title": "TABLE 1-9",
+            "level": 1,
+            "page": 45
+        },
+        {
+            "title": "TABLE 1-10",
+            "level": 1,
+            "page": 46
+        },
+        {
+            "title": "TABLE 1-11",
+            "level": 1,
+            "page": 47
+        },
+        {
+            "title": "TABLE 1-12",
+            "level": 1,
+            "page": 47
+        },
+        {
+            "title": "TABLE 1-13",
+            "level": 1,
+            "page": 48
+        },
+        {
+            "title": "TABLE 1-14",
+            "level": 1,
+            "page": 49
+        },
+        {
+            "title": "TABLE 1-15",
+            "level": 1,
+            "page": 50
+        },
+        {
+            "title": "TABLE 1-16",
+            "level": 1,
+            "page": 51
+        },
+        {
+            "title": "TABLE 1-17",
+            "level": 1,
+            "page": 51
+        },
+        {
+            "title": "TABLE 1-17.1",
+            "level": 1,
+            "page": 51
+        },
+        {
+            "title": "TABLE 1-18",
+            "level": 1,
+            "page": 52
+        },
+        {
+            "title": "TABLE 1-19",
+            "level": 1,
+            "page": 52
+        },
+        {
+            "title": "TABLE 1-20",
+            "level": 1,
+            "page": 53
+        },
+        {
+            "title": "TABLE 2-1",
+            "level": 1,
+            "page": 115
+        },
+        {
+            "title": "TABLE 2-2",
+            "level": 1,
+            "page": 118
+        },
+        {
+            "title": "TABLE 2-3",
+            "level": 1,
+            "page": 185
+        },
+        {
+            "title": "TABLE 2-3.1",
+            "level": 1,
+            "page": 193
+        },
+        {
+            "title": "TABLE 2-4",
+            "level": 1,
+            "page": 220
+        },
+        {
+            "title": "TABLE 3-1",
+            "level": 1,
+            "page": 286
+        },
+        {
+            "title": "TABLE 3-2",
+            "level": 1,
+            "page": 301
+        },
+        {
+            "title": "TABLE G-1",
+            "level": 1,
+            "page": 391
+        },
+        {
+            "title": "APPENDICES",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "APPENDIX A",
+            "level": 1,
+            "page": 326
+        },
+        {
+            "title": "APPENDIX B",
+            "level": 1,
+            "page": 328
+        },
+        {
+            "title": "APPENDIX C",
+            "level": 1,
+            "page": 342
+        },
+        {
+            "title": "APPENDIX D",
+            "level": 1,
+            "page": 348
+        },
+        {
+            "title": "APPENDIX E",
+            "level": 1,
+            "page": 354
+        },
+        {
+            "title": "APPENDIX F",
+            "level": 1,
+            "page": 366
+        },
+        {
+            "title": "APPENDIX G",
+            "level": 1,
+            "page": 389
+        },
+        {
+            "title": "INDEX",
+            "level": 0,
+            "page": 405
+        },
+        {
+            "title": "PAGES",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "PAGE WARNING A",
+            "level": 1,
+            "page": 2
+        },
+        {
+            "title": "PAGE WARNING D",
+            "level": 1,
+            "page": 5
+        },
+        {
+            "title": "PAGE A",
+            "level": 1,
+            "page": 15
+        },
+        {
+            "title": "PAGE B",
+            "level": 1,
+            "page": 16
+        },
+        {
+            "title": "PAGE I",
+            "level": 1,
+            "page": 17
+        },
+        {
+            "title": "PAGE II",
+            "level": 1,
+            "page": 18
+        },
+        {
+            "title": "PAGE 1-1",
+            "level": 1,
+            "page": 19
+        },
+        {
+            "title": "PAGE 1-3",
+            "level": 1,
+            "page": 21
+        },
+        {
+            "title": "PAGE 1-4",
+            "level": 1,
+            "page": 22
+        },
+        {
+            "title": "PAGE 1-10",
+            "level": 1,
+            "page": 28
+        },
+        {
+            "title": "PAGE 1-21",
+            "level": 1,
+            "page": 39
+        },
+        {
+            "title": "PAGE 1-23",
+            "level": 1,
+            "page": 41
+        },
+        {
+            "title": "PAGE 1-24",
+            "level": 1,
+            "page": 42
+        },
+        {
+            "title": "PAGE 1-26",
+            "level": 1,
+            "page": 44
+        },
+        {
+            "title": "PAGE 1-29",
+            "level": 1,
+            "page": 47
+        },
+        {
+            "title": "PAGE 1-33",
+            "level": 1,
+            "page": 51
+        },
+        {
+            "title": "PAGE 1-34",
+            "level": 1,
+            "page": 52
+        },
+        {
+            "title": "PAGE 1-35",
+            "level": 1,
+            "page": 53
+        },
+        {
+            "title": "PAGE 1-36",
+            "level": 1,
+            "page": 54
+        },
+        {
+            "title": "PAGE 2-1",
+            "level": 1,
+            "page": 55
+        },
+        {
+            "title": "PAGE 2-3",
+            "level": 1,
+            "page": 57
+        },
+        {
+            "title": "PAGE 2-8",
+            "level": 1,
+            "page": 62
+        },
+        {
+            "title": "PAGE 2-25",
+            "level": 1,
+            "page": 79
+        },
+        {
+            "title": "PAGE 2-28",
+            "level": 1,
+            "page": 82
+        },
+        {
+            "title": "PAGE 2-29",
+            "level": 1,
+            "page": 83
+        },
+        {
+            "title": "PAGE 2-30",
+            "level": 1,
+            "page": 84
+        },
+        {
+            "title": "PAGE 2-31",
+            "level": 1,
+            "page": 85
+        },
+        {
+            "title": "PAGE 2-34",
+            "level": 1,
+            "page": 88
+        },
+        {
+            "title": "PAGE 2-41",
+            "level": 1,
+            "page": 95
+        },
+        {
+            "title": "PAGE 2-46",
+            "level": 1,
+            "page": 100
+        },
+        {
+            "title": "PAGE 2-60",
+            "level": 1,
+            "page": 114
+        },
+        {
+            "title": "PAGE 2-61",
+            "level": 1,
+            "page": 115
+        },
+        {
+            "title": "PAGE 2-62",
+            "level": 1,
+            "page": 116
+        },
+        {
+            "title": "PAGE 2-65",
+            "level": 1,
+            "page": 119
+        },
+        {
+            "title": "PAGE 2-69",
+            "level": 1,
+            "page": 123
+        },
+        {
+            "title": "PAGE 2-70",
+            "level": 1,
+            "page": 124
+        },
+        {
+            "title": "PAGE 2-73",
+            "level": 1,
+            "page": 127
+        },
+        {
+            "title": "PAGE 2-78",
+            "level": 1,
+            "page": 132
+        },
+        {
+            "title": "PAGE 2-80",
+            "level": 1,
+            "page": 134
+        },
+        {
+            "title": "PAGE 2-83",
+            "level": 1,
+            "page": 137
+        },
+        {
+            "title": "PAGE 2-87",
+            "level": 1,
+            "page": 141
+        },
+        {
+            "title": "PAGE 2-94",
+            "level": 1,
+            "page": 148
+        },
+        {
+            "title": "PAGE 2-99",
+            "level": 1,
+            "page": 153
+        },
+        {
+            "title": "PAGE 2-100",
+            "level": 1,
+            "page": 154
+        },
+        {
+            "title": "PAGE 2-104.1",
+            "level": 1,
+            "page": 159
+        },
+        {
+            "title": "PAGE 2-104.2",
+            "level": 1,
+            "page": 160
+        },
+        {
+            "title": "PAGE 2-105",
+            "level": 1,
+            "page": 162
+        },
+        {
+            "title": "PAGE 2-106",
+            "level": 1,
+            "page": 163
+        },
+        {
+            "title": "PAGE 2-112",
+            "level": 1,
+            "page": 169
+        },
+        {
+            "title": "PAGE 2-121",
+            "level": 1,
+            "page": 178
+        },
+        {
+            "title": "PAGE 2-122",
+            "level": 1,
+            "page": 179
+        },
+        {
+            "title": "PAGE 2-124.1",
+            "level": 1,
+            "page": 182
+        },
+        {
+            "title": "PAGE 2-125",
+            "level": 1,
+            "page": 184
+        },
+        {
+            "title": "PAGE 2-126",
+            "level": 1,
+            "page": 185
+        },
+        {
+            "title": "PAGE 2-132.1",
+            "level": 1,
+            "page": 192
+        },
+        {
+            "title": "PAGE 2-134",
+            "level": 1,
+            "page": 194
+        },
+        {
+            "title": "PAGE 2-134.1",
+            "level": 1,
+            "page": 195
+        },
+        {
+            "title": "PAGE 2-134.4",
+            "level": 1,
+            "page": 198
+        },
+        {
+            "title": "PAGE 2-135",
+            "level": 1,
+            "page": 199
+        },
+        {
+            "title": "PAGE 2-136",
+            "level": 1,
+            "page": 200
+        },
+        {
+            "title": "PAGE 2-137",
+            "level": 1,
+            "page": 201
+        },
+        {
+            "title": "PAGE 2-146",
+            "level": 1,
+            "page": 210
+        },
+        {
+            "title": "PAGE 2-151",
+            "level": 1,
+            "page": 215
+        },
+        {
+            "title": "PAGE 2-156",
+            "level": 1,
+            "page": 220
+        },
+        {
+            "title": "PAGE 2-165",
+            "level": 1,
+            "page": 229
+        },
+        {
+            "title": "PAGE 2-166",
+            "level": 1,
+            "page": 230
+        },
+        {
+            "title": "PAGE 2-168",
+            "level": 1,
+            "page": 232
+        },
+        {
+            "title": "PAGE 2-171",
+            "level": 1,
+            "page": 235
+        },
+        {
+            "title": "PAGE 2-172",
+            "level": 1,
+            "page": 236
+        },
+        {
+            "title": "PAGE 2-179",
+            "level": 1,
+            "page": 243
+        },
+        {
+            "title": "PAGE 2-180",
+            "level": 1,
+            "page": 244
+        },
+        {
+            "title": "PAGE 2-182.1",
+            "level": 1,
+            "page": 247
+        },
+        {
+            "title": "PAGE 2-184",
+            "level": 1,
+            "page": 250
+        },
+        {
+            "title": "PAGE 2-191",
+            "level": 1,
+            "page": 257
+        },
+        {
+            "title": "PAGE 3-1",
+            "level": 1,
+            "page": 284
+        },
+        {
+            "title": "PAGE 3-2",
+            "level": 1,
+            "page": 285
+        },
+        {
+            "title": "PAGE 3-3",
+            "level": 1,
+            "page": 286
+        },
+        {
+            "title": "PAGE 3-6",
+            "level": 1,
+            "page": 289
+        },
+        {
+            "title": "PAGE 3-9",
+            "level": 1,
+            "page": 292
+        },
+        {
+            "title": "PAGE 3-10",
+            "level": 1,
+            "page": 293
+        },
+        {
+            "title": "PAGE 3-12",
+            "level": 1,
+            "page": 295
+        },
+        {
+            "title": "PAGE 3-15",
+            "level": 1,
+            "page": 298
+        },
+        {
+            "title": "PAGE 3-24",
+            "level": 1,
+            "page": 307
+        },
+        {
+            "title": "PAGE 3-27",
+            "level": 1,
+            "page": 310
+        },
+        {
+            "title": "PAGE 3-33",
+            "level": 1,
+            "page": 318
+        },
+        {
+            "title": "PAGE 3-34",
+            "level": 1,
+            "page": 319
+        },
+        {
+            "title": "PAGE 3-39",
+            "level": 1,
+            "page": 324
+        },
+        {
+            "title": "PAGE 3-40",
+            "level": 1,
+            "page": 325
+        },
+        {
+            "title": "PAGE A-1",
+            "level": 1,
+            "page": 326
+        },
+        {
+            "title": "PAGE A-2",
+            "level": 1,
+            "page": 327
+        },
+        {
+            "title": "PAGE B-1",
+            "level": 1,
+            "page": 328
+        },
+        {
+            "title": "PAGE B-2",
+            "level": 1,
+            "page": 329
+        },
+        {
+            "title": "PAGE B-3",
+            "level": 1,
+            "page": 330
+        },
+        {
+            "title": "PAGE B-10",
+            "level": 1,
+            "page": 337
+        },
+        {
+            "title": "PAGE B-11",
+            "level": 1,
+            "page": 338
+        },
+        {
+            "title": "PAGE B-14",
+            "level": 1,
+            "page": 341
+        },
+        {
+            "title": "PAGE C-1",
+            "level": 1,
+            "page": 342
+        },
+        {
+            "title": "PAGE C-2",
+            "level": 1,
+            "page": 343
+        },
+        {
+            "title": "PAGE C-4",
+            "level": 1,
+            "page": 345
+        },
+        {
+            "title": "PAGE C-5",
+            "level": 1,
+            "page": 346
+        },
+        {
+            "title": "PAGE C-6",
+            "level": 1,
+            "page": 347
+        },
+        {
+            "title": "PAGE D-1",
+            "level": 1,
+            "page": 348
+        },
+        {
+            "title": "PAGE D-2",
+            "level": 1,
+            "page": 349
+        },
+        {
+            "title": "PAGE D-3",
+            "level": 1,
+            "page": 350
+        },
+        {
+            "title": "PAGE D-4",
+            "level": 1,
+            "page": 351
+        },
+        {
+            "title": "PAGE D-6",
+            "level": 1,
+            "page": 353
+        },
+        {
+            "title": "PAGE E-1",
+            "level": 1,
+            "page": 354
+        },
+        {
+            "title": "PAGE E-2",
+            "level": 1,
+            "page": 355
+        },
+        {
+            "title": "PAGE E-7",
+            "level": 1,
+            "page": 360
+        },
+        {
+            "title": "PAGE E-8",
+            "level": 1,
+            "page": 361
+        },
+        {
+            "title": "PAGE E-11",
+            "level": 1,
+            "page": 364
+        },
+        {
+            "title": "PAGE E-12",
+            "level": 1,
+            "page": 365
+        },
+        {
+            "title": "PAGE F-1",
+            "level": 1,
+            "page": 366
+        },
+        {
+            "title": "PAGE F-7",
+            "level": 1,
+            "page": 372
+        },
+        {
+            "title": "PAGE F-10",
+            "level": 1,
+            "page": 375
+        },
+        {
+            "title": "PAGE F-18",
+            "level": 1,
+            "page": 383
+        },
+        {
+            "title": "PAGE F-21",
+            "level": 1,
+            "page": 386
+        },
+        {
+            "title": "PAGE F-23",
+            "level": 1,
+            "page": 388
+        },
+        {
+            "title": "PAGE G-1",
+            "level": 1,
+            "page": 389
+        },
+        {
+            "title": "PAGE G-3",
+            "level": 1,
+            "page": 391
+        },
+        {
+            "title": "PAGE G-6",
+            "level": 1,
+            "page": 394
+        },
+        {
+            "title": "PAGE G-8",
+            "level": 1,
+            "page": 396
+        },
+        {
+            "title": "PAGE G-11",
+            "level": 1,
+            "page": 399
+        },
+        {
+            "title": "PAGE G-13",
+            "level": 1,
+            "page": 401
+        },
+        {
+            "title": "PAGE G-15",
+            "level": 1,
+            "page": 403
+        },
+        {
+            "title": "PAGE G-16",
+            "level": 1,
+            "page": 404
+        },
+        {
+            "title": "PAGE INDEX-1",
+            "level": 1,
+            "page": 405
+        },
+        {
+            "title": "PAGE INDEX-2",
+            "level": 1,
+            "page": 406
+        },
+        {
+            "title": "PAGE INDEX-5",
+            "level": 1,
+            "page": 409
+        },
+        {
+            "title": "PAGE INDEX-6",
+            "level": 1,
+            "page": 410
+        },
+        {
+            "title": "PAGE INDEX-7",
+            "level": 1,
+            "page": 411
+        }
+    ],
+    "pages": 420,
+    "ocr_stats": {
+        "ocr_pages": 61,
+        "ocr_failed": 0,
+        "ocr_success": 61,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 302,
+        "code": 1,
+        "table": 149,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "computed_toc": [
+        {
+            "title": "ARMY TM 9-2320-280-10\nAIR FORCE TO 36A12-1A-2091-1\nMARINE CORPS TM 2320-10/6B",
+            "level": 1,
+            "page": 0
+        },
+        {
+            "title": ".WARNING.",
+            "level": 2,
+            "page": 2
+        },
+        {
+            "title": "EXHAUST GASES CAN KILL",
+            "level": 2,
+            "page": 2
+        },
+        {
+            "title": "WARNING SUMMARY",
+            "level": 2,
+            "page": 3
+        },
+        {
+            "title": "WARNING SUMMARY (Cont'd)",
+            "level": 2,
+            "page": 4
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 5
+        },
+        {
+            "title": "WARNING SUMMARY (Cont'd)",
+            "level": 2,
+            "page": 5
+        },
+        {
+            "title": "OPERATOR'S MANUAL",
+            "level": 2,
+            "page": 6
+        },
+        {
+            "title": "OPERATOR'S MANUAL ",
+            "level": 2,
+            "page": 9
+        },
+        {
+            "title": "OPERATOR'S MANUAL",
+            "level": 2,
+            "page": 12
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 15
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES",
+            "level": 2,
+            "page": 15
+        },
+        {
+            "title": "",
+            "level": 4,
+            "page": 16
+        },
+        {
+            "title": "OPERATOR'S MANUAL",
+            "level": 2,
+            "page": 17
+        },
+        {
+            "title": "CHAPTER 1\nINTRODUCTION",
+            "level": 1,
+            "page": 19
+        },
+        {
+            "title": "Section I. GENERAL INFORMATION",
+            "level": 2,
+            "page": 19
+        },
+        {
+            "title": "1-1. SCOPE",
+            "level": 2,
+            "page": 19
+        },
+        {
+            "title": "1-2. MAINTENANCE FORMS AND RECORDS",
+            "level": 2,
+            "page": 20
+        },
+        {
+            "title": "1-3. HAND RECEIPT MANUAL",
+            "level": 2,
+            "page": 20
+        },
+        {
+            "title": "1-4. REPORTING EQUIPMENT IMPROVEMENT\nRECOMMENDATIONS (EIR)",
+            "level": 2,
+            "page": 20
+        },
+        {
+            "title": "1-5. EQUIPMENT IMPROVEMENT REPORT \nAND MAINTENANCE DIGEST (EIR MD)",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "1-6. BREAK-IN SERVICE",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "Section II. EQUIPMENT DESCRIPTION",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "1-7. EQUIPMENT CHARACTERISTICS, CAPABILITIES,\nAND FEATURES",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "1-8. METRIC SYSTEM",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "1-9. CARGO/TROOP CARRIERS",
+            "level": 2,
+            "page": 22
+        },
+        {
+            "title": "(M998, M998A1, M1038, AND M1038A1)",
+            "level": 2,
+            "page": 22
+        },
+        {
+            "title": "1-10. HEAVY VARIANT CARGO/TROOP CARRIERS\n(M1097, M1097A1, M1097A2, AND M1123)",
+            "level": 2,
+            "page": 24
+        },
+        {
+            "title": "1-11. TOW CARRIERS, ARMORED \n(M966, M966A1, M1036, AND M1121)",
+            "level": 2,
+            "page": 26
+        },
+        {
+            "title": "1-8 Change 1",
+            "level": 4,
+            "page": 26
+        },
+        {
+            "title": "1-12. TOW CARRIERS, W/SUPPLEMENTAL ARMOR (M1045,\nM1045A1, M1045A2, M1046, AND M1046A1)",
+            "level": 4,
+            "page": 28
+        },
+        {
+            "title": "1-13. ARMAMENT CARRIERS, ARMORED (M1025,\nM1025A1, M1025A2, M1026, AND M1026A1)",
+            "level": 4,
+            "page": 30
+        },
+        {
+            "title": "1-14. ARMAMENT CARRIERS, W/SUPPLEMENTAL ARMOR\n(M1043, M1043A1, M1043A2, M1044, AND M1044A1)",
+            "level": 4,
+            "page": 32
+        },
+        {
+            "title": "1-15. S250 SHELTER CARRIERS (M1037 AND M1042)",
+            "level": 4,
+            "page": 34
+        },
+        {
+            "title": "b. Purpose of the Vehicle.",
+            "level": 4,
+            "page": 36
+        },
+        {
+            "title": "1-18",
+            "level": 4,
+            "page": 36
+        },
+        {
+            "title": "1-17. 2-LITTER AMBULANCES, SOFT TOP\n(M1035, M1035A1, AND M1035A2)",
+            "level": 4,
+            "page": 38
+        },
+        {
+            "title": "1-18. TABULATED DATA",
+            "level": 2,
+            "page": 40
+        },
+        {
+            "title": "Table 1-5. Engine Data (6.5 L)",
+            "level": 4,
+            "page": 43
+        },
+        {
+            "title": "Table 1-6. Cooling System Data",
+            "level": 4,
+            "page": 43
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 44
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 48
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 49
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 50
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 52
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 52
+        },
+        {
+            "title": "CHAPTER 2\nOPERATING INSTRUCTIONS",
+            "level": 4,
+            "page": 55
+        },
+        {
+            "title": "Section I. DESCRIPTION AND USE OF OPERATOR'S\nCONTROLS AND INDICATORS",
+            "level": 4,
+            "page": 55
+        },
+        {
+            "title": "2-1. KNOW YOUR CONTROLS AND INDICATORS",
+            "level": 4,
+            "page": 55
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 55
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 55
+        },
+        {
+            "title": "2-1",
+            "level": 4,
+            "page": 55
+        },
+        {
+            "title": "2-2. CONTROLS, INDICATORS, AND EQUIPMENT",
+            "level": 4,
+            "page": 56
+        },
+        {
+            "title": "a. Driver's Compartment.\n\n![56_image_0.png](56_image_0.png)\n\n",
+            "level": 4,
+            "page": 56
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 56
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 57
+        },
+        {
+            "title": "2-4 Change 1",
+            "level": 4,
+            "page": 58
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 59
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 60
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 60
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 62
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 63
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 64
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 65
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 67
+        },
+        {
+            "title": "d. TOW Carrier (M966, M996A1, M1036, M1045, M1045A1, M1045A2, M1046, and M1046A1) \nEquipment.",
+            "level": 4,
+            "page": 68
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 68
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 68
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 68
+        },
+        {
+            "title": "2-14",
+            "level": 4,
+            "page": 68
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![70_image_0.png](70_image_0.png)\n\n",
+            "level": 4,
+            "page": 70
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![71_image_0.png](71_image_0.png)\n\n",
+            "level": 4,
+            "page": 71
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![72_image_0.png](72_image_0.png)\n\n",
+            "level": 4,
+            "page": 72
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![73_image_0.png](73_image_0.png)\n\n",
+            "level": 4,
+            "page": 73
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![74_image_0.png](74_image_0.png)\n\n",
+            "level": 4,
+            "page": 74
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 75
+        },
+        {
+            "title": "2-21",
+            "level": 4,
+            "page": 75
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 76
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 77
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 78
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 78
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![79_image_0.png](79_image_0.png)\n\n",
+            "level": 4,
+            "page": 79
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 80
+        },
+        {
+            "title": "2-26 Change 1",
+            "level": 4,
+            "page": 80
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 81
+        },
+        {
+            "title": "f. 81 MM Mortar Carrier (M998, M998A1, M1038, and M1038A1) Equipment.",
+            "level": 4,
+            "page": 82
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 82
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 83
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 84
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 84
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 84
+        },
+        {
+            "title": "2-30 Change 3",
+            "level": 4,
+            "page": 84
+        },
+        {
+            "title": "h. Soft Top Ambulance (M1035, M1035A1, and M1035A2) Equipment.",
+            "level": 4,
+            "page": 85
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 85
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 86
+        },
+        {
+            "title": "i. Four-Litter Ambulance (M997, M997A1, and M997A2) Equipment.",
+            "level": 4,
+            "page": 86
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 86
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 88
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 90
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 92
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![94_image_0.png](94_image_0.png)\n\n",
+            "level": 4,
+            "page": 94
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![95_image_0.png](95_image_0.png)\n\n",
+            "level": 4,
+            "page": 95
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 96
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![97_image_0.png](97_image_0.png)\n\n",
+            "level": 4,
+            "page": 97
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 97
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 98
+        },
+        {
+            "title": "j. Two-Litter Ambulance (M996 and M996A1) Equipment.\nKEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 98
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 100
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 102
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 104
+        },
+        {
+            "title": "2-50",
+            "level": 4,
+            "page": 104
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 105
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 105
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![106_image_0.png](106_image_0.png)\n\n",
+            "level": 4,
+            "page": 106
+        },
+        {
+            "title": "2-52",
+            "level": 4,
+            "page": 106
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![107_image_0.png](107_image_0.png)\n\n",
+            "level": 4,
+            "page": 107
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 107
+        },
+        {
+            "title": "2-53",
+            "level": 4,
+            "page": 107
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 108
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION\n\n![109_image_0.png](109_image_0.png)\n\n",
+            "level": 4,
+            "page": 109
+        },
+        {
+            "title": "2-55",
+            "level": 4,
+            "page": 109
+        },
+        {
+            "title": "k. Troop/Cargo Winterization Kit Equipment.",
+            "level": 4,
+            "page": 110
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 110
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 111
+        },
+        {
+            "title": "2-57",
+            "level": 4,
+            "page": 111
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 112
+        },
+        {
+            "title": "KEY ITEM AND FUNCTION",
+            "level": 4,
+            "page": 113
+        },
+        {
+            "title": "SECTION II. PREVENTIVE MAINTENANCE CHECKS AND SERVICES",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "2-3. GENERAL",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "2-4. CLEANING INSTRUCTIONS",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "2-60",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "2-5. PREVENTIVE MAINTENANCE CHECKS AND SERVICES (PMCS)",
+            "level": 2,
+            "page": 116
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 116
+        },
+        {
+            "title": "c. Troublespots.",
+            "level": 4,
+            "page": 116
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 116
+        },
+        {
+            "title": "2-5. PREVENTATIVE MAINTENANCE CHECKS AND SERVICES (PMCS)",
+            "level": 4,
+            "page": 117
+        },
+        {
+            "title": "(Cont'd)",
+            "level": 4,
+            "page": 117
+        },
+        {
+            "title": "2-6. FLUID LEAKAGE.",
+            "level": 2,
+            "page": 117
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 117
+        },
+        {
+            "title": "2-7. LUBRICATION REQUIREMENTS",
+            "level": 4,
+            "page": 117
+        },
+        {
+            "title": "Section III. OPERATION UNDER USUAL CONDITIONS",
+            "level": 2,
+            "page": 162
+        },
+        {
+            "title": "2-8. GENERAL",
+            "level": 2,
+            "page": 162
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 162
+        },
+        {
+            "title": "2-9. BREAK-IN SERVICE",
+            "level": 2,
+            "page": 162
+        },
+        {
+            "title": "2-10. STARTING THE ENGINE",
+            "level": 2,
+            "page": 162
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 162
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 163
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 163
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 163
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 163
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 163
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 164
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 164
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 164
+        },
+        {
+            "title": "2-107",
+            "level": 4,
+            "page": 164
+        },
+        {
+            "title": "2-11. PLACING VEHICLE IN MOTION",
+            "level": 2,
+            "page": 165
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 165
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 165
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 165
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 165
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 165
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "2-12. STOPPING THE VEHICLE AND ENGINE",
+            "level": 2,
+            "page": 167
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 167
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 167
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 167
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 167
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 167
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 168
+        },
+        {
+            "title": "2-13. OPERATION OF VEHICLE LIGHT SWITCH",
+            "level": 2,
+            "page": 169
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 169
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 171
+        },
+        {
+            "title": "2-114",
+            "level": 4,
+            "page": 171
+        },
+        {
+            "title": "2-15. COMPANION SEAT ASSEMBLY AND BATTERY BOX COVER REPLACEMENT",
+            "level": 4,
+            "page": 172
+        },
+        {
+            "title": "2-115",
+            "level": 4,
+            "page": 172
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 173
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 173
+        },
+        {
+            "title": "2-116",
+            "level": 4,
+            "page": 173
+        },
+        {
+            "title": "2-17. DEFROSTER OPERATION (ALL EXCEPT A2 VEHICLES)",
+            "level": 4,
+            "page": 174
+        },
+        {
+            "title": "a. To defrost windshield:",
+            "level": 4,
+            "page": 174
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 174
+        },
+        {
+            "title": "2-18. DEFROSTER OPERATION (A2 VEHICLES)",
+            "level": 4,
+            "page": 175
+        },
+        {
+            "title": "2-118",
+            "level": 4,
+            "page": 175
+        },
+        {
+            "title": "2-19. HEATER OPERATION (ALL EXCEPT A2 VEHICLES)",
+            "level": 4,
+            "page": 176
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 176
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 176
+        },
+        {
+            "title": "2-119",
+            "level": 4,
+            "page": 176
+        },
+        {
+            "title": "2-20. HEATER OPERATION (A2 VEHICLES)",
+            "level": 4,
+            "page": 177
+        },
+        {
+            "title": "NOTE\n\n![177_image_0.png](177_image_0.png)\n\n",
+            "level": 4,
+            "page": 177
+        },
+        {
+            "title": "2-120",
+            "level": 4,
+            "page": 177
+        },
+        {
+            "title": "2-21. TAILGATE OPERATION",
+            "level": 2,
+            "page": 178
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 178
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 178
+        },
+        {
+            "title": "a. Tool Stowage Rack Removal.",
+            "level": 4,
+            "page": 179
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 179
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 179
+        },
+        {
+            "title": "c. Tool Installation.",
+            "level": 4,
+            "page": 179
+        },
+        {
+            "title": "d.  Tool Stowage Rack Installation.",
+            "level": 1,
+            "page": 181
+        },
+        {
+            "title": "2 - 2 2 . 1 . MAX TOOL KIT STOWAGE OPERAT I O N",
+            "level": 2,
+            "page": 182
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 182
+        },
+        {
+            "title": "a. Tool Removal.",
+            "level": 4,
+            "page": 182
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 182
+        },
+        {
+            "title": "b. Reversible Rake/Hoe Attachment.",
+            "level": 4,
+            "page": 183
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 183
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 183
+        },
+        {
+            "title": "2-124.2 Change 1",
+            "level": 4,
+            "page": 183
+        },
+        {
+            "title": "2-23. SLAVE STARTING OPERATION",
+            "level": 2,
+            "page": 184
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 184
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 184
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 184
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 184
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 184
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 184
+        },
+        {
+            "title": "2-24. TOWING OPERATION",
+            "level": 2,
+            "page": 185
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 185
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 185
+        },
+        {
+            "title": "a. Towing Vehicle from Front (Four Wheels on Ground).",
+            "level": 4,
+            "page": 185
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 185
+        },
+        {
+            "title": "b. Towing Vehicle from Front (Front Wheels Up).",
+            "level": 4,
+            "page": 187
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 187
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 187
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 188
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 188
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 188
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": " 2-131",
+            "level": 1,
+            "page": 190
+        },
+        {
+            "title": "e. Towing M996, M996A1, M997, M997A1, and M997A2 Ambulance Vehicles from Rear (Rear Wheels",
+            "level": 4,
+            "page": 191
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 191
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 191
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 191
+        },
+        {
+            "title": "2-132",
+            "level": 4,
+            "page": 191
+        },
+        {
+            "title": "2-25. TRAILER TOWING",
+            "level": 2,
+            "page": 192
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 192
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 192
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 192
+        },
+        {
+            "title": "2-26. ELECTRIC WINCH OPERATION",
+            "level": 2,
+            "page": 194
+        },
+        {
+            "title": "b. Preparation for Use.",
+            "level": 4,
+            "page": 194
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 194
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 194
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 194
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 194
+        },
+        {
+            "title": "d. Pulling Load.",
+            "level": 4,
+            "page": 194
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 194
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 194
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 195
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 195
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 195
+        },
+        {
+            "title": "Change 1 2-134.1",
+            "level": 4,
+            "page": 195
+        },
+        {
+            "title": "2-26.1. HYDRAULIC WINCH OPERATION",
+            "level": 2,
+            "page": 196
+        },
+        {
+            "title": "b. Preparation for Use.",
+            "level": 4,
+            "page": 196
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 196
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 196
+        },
+        {
+            "title": "2-134.2 Change 3",
+            "level": 4,
+            "page": 196
+        },
+        {
+            "title": "d. Powering Winch In and Out.\nCAUTION",
+            "level": 4,
+            "page": 198
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 198
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 198
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 198
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 198
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 198
+        },
+        {
+            "title": "e. Securing Winch After Operation.",
+            "level": 4,
+            "page": 199
+        },
+        {
+            "title": "2-27. FIRE EXTINGUISHER OPERATION",
+            "level": 2,
+            "page": 200
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 200
+        },
+        {
+            "title": "b. During Operation.",
+            "level": 4,
+            "page": 200
+        },
+        {
+            "title": "c. After Operation.",
+            "level": 4,
+            "page": 200
+        },
+        {
+            "title": "Section IV. OPERATION UNDER UNUSUAL CONDITIONS",
+            "level": 2,
+            "page": 201
+        },
+        {
+            "title": "2-28. SPECIAL INSTRUCTIONS",
+            "level": 2,
+            "page": 201
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 202
+        },
+        {
+            "title": "2-29. OPERATING ON UNUSUAL TERRAIN",
+            "level": 4,
+            "page": 202
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 202
+        },
+        {
+            "title": "2-138",
+            "level": 4,
+            "page": 202
+        },
+        {
+            "title": "b. Unusual Terrain Driving Techniques\nCAUTION",
+            "level": 4,
+            "page": 203
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 203
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 203
+        },
+        {
+            "title": "2-30. COLD WEATHER STARTING BELOW +32°F (0°C)",
+            "level": 2,
+            "page": 203
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 203
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 203
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 203
+        },
+        {
+            "title": "2-31. OPERATING IN EXTREME COLD, ON ICE, OR SNOW",
+            "level": 2,
+            "page": 204
+        },
+        {
+            "title": "a. Before Operation.",
+            "level": 4,
+            "page": 204
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 204
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 204
+        },
+        {
+            "title": "2-32. OPERATING IN DUSTY, SANDY AREAS",
+            "level": 2,
+            "page": 205
+        },
+        {
+            "title": "b. Before Operation.",
+            "level": 4,
+            "page": 205
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 205
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 205
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 205
+        },
+        {
+            "title": "d. After Operation.",
+            "level": 4,
+            "page": 205
+        },
+        {
+            "title": "2-33. OPERATING IN MUD",
+            "level": 2,
+            "page": 206
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 206
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 206
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 206
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 206
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 207
+        },
+        {
+            "title": "2-34. OPERATING IN EXTREME HEAT",
+            "level": 2,
+            "page": 207
+        },
+        {
+            "title": "c. During Operation.",
+            "level": 4,
+            "page": 208
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 208
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 208
+        },
+        {
+            "title": "2-35. OPERATING IN RAINY OR HUMID CONDITIONS",
+            "level": 2,
+            "page": 208
+        },
+        {
+            "title": "2-36. SHALLOW WATER FORDING OPERATION",
+            "level": 4,
+            "page": 209
+        },
+        {
+            "title": "WARNING\n\n![209_image_0.png](209_image_0.png)\n\n",
+            "level": 4,
+            "page": 209
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 209
+        },
+        {
+            "title": "c. During Operation.",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "d. After Operation.",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "WARNING\n\n![211_image_0.png](211_image_0.png)\n\n",
+            "level": 4,
+            "page": 211
+        },
+        {
+            "title": "2-147",
+            "level": 4,
+            "page": 211
+        },
+        {
+            "title": "2-37. DEEP WATER FORDING OPERATION",
+            "level": 4,
+            "page": 212
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 212
+        },
+        {
+            "title": "b. Before Operation.",
+            "level": 4,
+            "page": 212
+        },
+        {
+            "title": "NOTE\nRetain all parts removed for reuse.",
+            "level": 4,
+            "page": 212
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 214
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 215
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 215
+        },
+        {
+            "title": "c. During Operation.",
+            "level": 4,
+            "page": 216
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 216
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 216
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 216
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 217
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 217
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 217
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 217
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 218
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 219
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 219
+        },
+        {
+            "title": "2-155",
+            "level": 4,
+            "page": 219
+        },
+        {
+            "title": "2-38. RUNFLAT OPERATIONS",
+            "level": 2,
+            "page": 220
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 220
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 220
+        },
+        {
+            "title": "2-39. ARCTIC OPERATION (ALL EXCEPT M1123 AND A2 VEHICLES)",
+            "level": 2,
+            "page": 220
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 220
+        },
+        {
+            "title": "b. Starting Arctic Heater.",
+            "level": 4,
+            "page": 221
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 222
+        },
+        {
+            "title": "e. Defrosting Windshield in Ambient Temperatures Above -25°F (-32°C).",
+            "level": 4,
+            "page": 222
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 222
+        },
+        {
+            "title": "f. Defrosting Windshield in Ambient Temperatures from -25°F (-32°C) to 50°F (-46°C).",
+            "level": 4,
+            "page": 222
+        },
+        {
+            "title": "g. Heating Cab with Arctic Heater.",
+            "level": 4,
+            "page": 223
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 223
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 224
+        },
+        {
+            "title": "b. Starting Arctic Heater.",
+            "level": 4,
+            "page": 224
+        },
+        {
+            "title": "c. Starting Engine With Arctic Heater Assistance.",
+            "level": 4,
+            "page": 224
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 224
+        },
+        {
+            "title": "CAUTION",
+            "level": 1,
+            "page": 225
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 226
+        },
+        {
+            "title": "2-162",
+            "level": 4,
+            "page": 226
+        },
+        {
+            "title": "g. Heating Cab with Arctic Heater.",
+            "level": 4,
+            "page": 227
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 227
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 228
+        },
+        {
+            "title": "b. Starting Heater.",
+            "level": 4,
+            "page": 228
+        },
+        {
+            "title": "c. If Heater Fails to Start:",
+            "level": 4,
+            "page": 228
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 228
+        },
+        {
+            "title": "d. Shutting Heater Off.",
+            "level": 4,
+            "page": 228
+        },
+        {
+            "title": "Section V. CARGO/TROOP CARRIER AND\nS250 SHELTER CARRIER OPERATION",
+            "level": 2,
+            "page": 230
+        },
+        {
+            "title": "2-42. GENERAL",
+            "level": 2,
+            "page": 230
+        },
+        {
+            "title": "2-43. WINDSHIELD ASSEMBLY OPERATION",
+            "level": 2,
+            "page": 230
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 230
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 230
+        },
+        {
+            "title": "a. Lowering Windshield Assembly.",
+            "level": 4,
+            "page": 230
+        },
+        {
+            "title": "2-44. TROOP SEAT KIT OPERATION",
+            "level": 2,
+            "page": 231
+        },
+        {
+            "title": "2-45. CARGO TIEDOWN OPERATION",
+            "level": 2,
+            "page": 231
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 231
+        },
+        {
+            "title": "2-46. REMOVAL AND INSTALLATION OF TWO-MAN CREW AREA\nSOFT TOP ENCLOSURE",
+            "level": 4,
+            "page": 232
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 232
+        },
+        {
+            "title": "b. Removal of Soft Top Doors.",
+            "level": 4,
+            "page": 232
+        },
+        {
+            "title": "c. Removal of Cab Roof Cover, Rails, and Bow Assembly.",
+            "level": 4,
+            "page": 232
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 234
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 234
+        },
+        {
+            "title": "g. Installation of Soft Top Doors.",
+            "level": 4,
+            "page": 236
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 236
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 236
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 236
+        },
+        {
+            "title": "d. Installation of Troop Area Enclosure.",
+            "level": 4,
+            "page": 237
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 237
+        },
+        {
+            "title": "2-173",
+            "level": 4,
+            "page": 237
+        },
+        {
+            "title": "2-48. REMOVAL AND INSTALLATION OF FOUR-MAN CREW AREA\nSOFT TOP AND ARCTIC SOFT TOP ENCLOSURES",
+            "level": 4,
+            "page": 238
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 238
+        },
+        {
+            "title": "b. Removal of Cab Roof Cover, Rails, and Bow Assemblies.",
+            "level": 4,
+            "page": 238
+        },
+        {
+            "title": "c. Installation of Rails, Bow Assemblies, and Cab Roof Cover.",
+            "level": 4,
+            "page": 239
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 239
+        },
+        {
+            "title": "2-175",
+            "level": 4,
+            "page": 239
+        },
+        {
+            "title": "d. Removal of Rear Curtain.",
+            "level": 4,
+            "page": 240
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 240
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 240
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 240
+        },
+        {
+            "title": "2-176",
+            "level": 4,
+            "page": 240
+        },
+        {
+            "title": "2-49. REMOVAL AND INSTALLATION OF FOUR-MAN CARGO AREA\nSOFT TOP ENCLOSURE",
+            "level": 4,
+            "page": 242
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 242
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 242
+        },
+        {
+            "title": "a. Removal of Cargo Enclosure.\n\n![242_image_0.png](242_image_0.png)\n\n",
+            "level": 4,
+            "page": 242
+        },
+        {
+            "title": "b. Removal of Bows.",
+            "level": 4,
+            "page": 242
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 242
+        },
+        {
+            "title": "c. Installation of Bows.",
+            "level": 4,
+            "page": 243
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 243
+        },
+        {
+            "title": "2-179",
+            "level": 4,
+            "page": 243
+        },
+        {
+            "title": "2-50. REMOVAL AND INSTALLATION OF S250 SHELTER CARRIER\nREAR SUSPENSION TIEDOWN KIT",
+            "level": 2,
+            "page": 244
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 244
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 244
+        },
+        {
+            "title": "a. Removal of S250 Rear Suspension Tiedown Kit.",
+            "level": 4,
+            "page": 244
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 244
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 244
+        },
+        {
+            "title": "2-180 Change 3",
+            "level": 4,
+            "page": 244
+        },
+        {
+            "title": "EXTENSION",
+            "level": 4,
+            "page": 246
+        },
+        {
+            "title": "2-51. REMOVAL AND INSTALLATION OF CARGO BARRIER",
+            "level": 4,
+            "page": 246
+        },
+        {
+            "title": "a. Removal of Cargo Barrier Extension.",
+            "level": 4,
+            "page": 246
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 246
+        },
+        {
+            "title": "2-51.1. REMOVAL AND INSTALLATION OF CARGO BARRIER AND NET",
+            "level": 2,
+            "page": 248
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 248
+        },
+        {
+            "title": "a. Removal of Cargo Barrier and Net.",
+            "level": 4,
+            "page": 248
+        },
+        {
+            "title": "b. Installation of Cargo Barrier and Net.",
+            "level": 4,
+            "page": 249
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 249
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 249
+        },
+        {
+            "title": "Section VI. TOW/ARMAMENT CARRIER OPERATION",
+            "level": 2,
+            "page": 250
+        },
+        {
+            "title": "2-52. GENERAL",
+            "level": 2,
+            "page": 250
+        },
+        {
+            "title": "2-53. CARGO SHELL DOOR OPERATION",
+            "level": 2,
+            "page": 250
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 250
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 250
+        },
+        {
+            "title": "b. Raising and Lowering Rear End of Cargo Shell Door.",
+            "level": 4,
+            "page": 250
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 252
+        },
+        {
+            "title": "2-54. TOW WEAPON STATION OPERATION",
+            "level": 4,
+            "page": 254
+        },
+        {
+            "title": "a. Before Operation.",
+            "level": 4,
+            "page": 254
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 254
+        },
+        {
+            "title": "b. After Operation.",
+            "level": 4,
+            "page": 254
+        },
+        {
+            "title": "2-55. ARMAMENT WEAPON STATION OPERATION",
+            "level": 4,
+            "page": 255
+        },
+        {
+            "title": "a. Before Operation.",
+            "level": 4,
+            "page": 255
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 255
+        },
+        {
+            "title": "b. After Operation.",
+            "level": 4,
+            "page": 255
+        },
+        {
+            "title": "2-189",
+            "level": 4,
+            "page": 255
+        },
+        {
+            "title": "2-56. GUNNER'S PLATFORM OPERATION",
+            "level": 4,
+            "page": 256
+        },
+        {
+            "title": "a. Before Operation.",
+            "level": 4,
+            "page": 256
+        },
+        {
+            "title": "b. After Operation.",
+            "level": 4,
+            "page": 256
+        },
+        {
+            "title": "SECTION VII. AMBULANCE OPERATION",
+            "level": 4,
+            "page": 257
+        },
+        {
+            "title": "2-57. GENERAL",
+            "level": 4,
+            "page": 257
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 257
+        },
+        {
+            "title": "2-58. SOFT TOP AMBULANCE (M1035, M1035A1,\nAND M1035A2) LITER RACK OPERATION",
+            "level": 4,
+            "page": 257
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 257
+        },
+        {
+            "title": "a. Unloading Litters from Litter Rack.",
+            "level": 4,
+            "page": 257
+        },
+        {
+            "title": "b. Loading Litters on Litter Racks",
+            "level": 4,
+            "page": 258
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 258
+        },
+        {
+            "title": "2-194",
+            "level": 4,
+            "page": 260
+        },
+        {
+            "title": "2-195",
+            "level": 4,
+            "page": 261
+        },
+        {
+            "title": "2-196",
+            "level": 4,
+            "page": 262
+        },
+        {
+            "title": "2-60. AMBULANCE REAR STEP ASSEMBLY OPERATION",
+            "level": 4,
+            "page": 263
+        },
+        {
+            "title": "a. Lowering Rear Steps.",
+            "level": 4,
+            "page": 263
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 263
+        },
+        {
+            "title": "b. Raising Rear Steps.",
+            "level": 4,
+            "page": 263
+        },
+        {
+            "title": "2-61. AMBULANCE INTERIOR ELECTRICAL CONTROLS",
+            "level": 4,
+            "page": 264
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 264
+        },
+        {
+            "title": "b. White Light Operation.",
+            "level": 4,
+            "page": 264
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 265
+        },
+        {
+            "title": "f. M996 and M996A1 Heater Operation.",
+            "level": 4,
+            "page": 266
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 266
+        },
+        {
+            "title": "g. M996 and M996A1 Vent Operation.",
+            "level": 4,
+            "page": 266
+        },
+        {
+            "title": "h. M997, M997A1, and M997A2 Heater Operation.",
+            "level": 4,
+            "page": 267
+        },
+        {
+            "title": "i. M997, M997A1, and M997A2 Air-Conditioner Operation.",
+            "level": 4,
+            "page": 267
+        },
+        {
+            "title": "j. M997, M997A1, and M997A2 Vent Operation.",
+            "level": 4,
+            "page": 267
+        },
+        {
+            "title": "a. Assembling Litter Rail Extension.",
+            "level": 4,
+            "page": 268
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 268
+        },
+        {
+            "title": "b. Unloading Litters from Lower Litter Rack.",
+            "level": 4,
+            "page": 268
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 268
+        },
+        {
+            "title": "c. Loading Litters on Lower Litter Rack.",
+            "level": 4,
+            "page": 269
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 269
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 269
+        },
+        {
+            "title": "2-203",
+            "level": 4,
+            "page": 269
+        },
+        {
+            "title": "d. Unloading Litters from Upper Litter Racks.",
+            "level": 4,
+            "page": 270
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 270
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 270
+        },
+        {
+            "title": "2-204",
+            "level": 4,
+            "page": 270
+        },
+        {
+            "title": "e. Loading Litters on Upper Litter Racks.",
+            "level": 4,
+            "page": 271
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 271
+        },
+        {
+            "title": "2-205",
+            "level": 4,
+            "page": 271
+        },
+        {
+            "title": "f.\nFolding Upper Litter Rack to the Backrest Position.",
+            "level": 1,
+            "page": 272
+        },
+        {
+            "title": "g. Fold and Stow Litter Rail Extension.",
+            "level": 4,
+            "page": 274
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 274
+        },
+        {
+            "title": "h. Opening Patient Seat to Accommodate Ambulatory Patients.",
+            "level": 4,
+            "page": 276
+        },
+        {
+            "title": "i. Closing Patient Seat to Accommodate Litter Patients.",
+            "level": 4,
+            "page": 277
+        },
+        {
+            "title": "2-211",
+            "level": 4,
+            "page": 277
+        },
+        {
+            "title": "a. General",
+            "level": 4,
+            "page": 278
+        },
+        {
+            "title": "b. Component Location and Identification.",
+            "level": 4,
+            "page": 278
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 278
+        },
+        {
+            "title": "c. NBC System Operation.",
+            "level": 4,
+            "page": 282
+        },
+        {
+            "title": "CHAPTER 3\nMAINTENANCE INSTRUCTIONS\nSECTION I. LUBRICATION",
+            "level": 4,
+            "page": 284
+        },
+        {
+            "title": "3-1. LUBRICATION INSTRUCTIONS",
+            "level": 4,
+            "page": 284
+        },
+        {
+            "title": "3-2. GENERAL LUBRICATION INSTRUCTIONS",
+            "level": 4,
+            "page": 284
+        },
+        {
+            "title": "3-3. GENERAL LUBRICATING INSTRUCTIONS UNDER\nUNUSUAL CONDITIONS",
+            "level": 4,
+            "page": 284
+        },
+        {
+            "title": "3-4. LUBRICATION FOR CONTINUED OPERATION\nBELOW 0°F (-18°C)",
+            "level": 4,
+            "page": 284
+        },
+        {
+            "title": "3-1",
+            "level": 4,
+            "page": 284
+        },
+        {
+            "title": "SECTION II. TROUBLESHOOTING",
+            "level": 4,
+            "page": 285
+        },
+        {
+            "title": "3-5. GENERAL",
+            "level": 4,
+            "page": 285
+        },
+        {
+            "title": "3-6. TROUBLESHOOTING PROCEDURES",
+            "level": 4,
+            "page": 285
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 285
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 285
+        },
+        {
+            "title": "3-2",
+            "level": 4,
+            "page": 285
+        },
+        {
+            "title": "Table 3-1. Troubleshooting",
+            "level": 4,
+            "page": 286
+        },
+        {
+            "title": "ENGINE",
+            "level": 2,
+            "page": 286
+        },
+        {
+            "title": "1. ENGINE FAILS TO CRANK",
+            "level": 4,
+            "page": 286
+        },
+        {
+            "title": "2. ENGINE CRANKS SLOWLY",
+            "level": 4,
+            "page": 286
+        },
+        {
+            "title": "3. ENGINE CRANKS BUT DOES NOT START",
+            "level": 4,
+            "page": 286
+        },
+        {
+            "title": "4. VEHICLE NOT CHARGING ACCORDING TO VOLTMETER",
+            "level": 4,
+            "page": 286
+        },
+        {
+            "title": "3-4",
+            "level": 4,
+            "page": 287
+        },
+        {
+            "title": "Table 3-1. Troubleshooting (Cont'd)",
+            "level": 4,
+            "page": 288
+        },
+        {
+            "title": "HEATING SYSTEM",
+            "level": 2,
+            "page": 288
+        },
+        {
+            "title": "TRANSMISSION",
+            "level": 2,
+            "page": 288
+        },
+        {
+            "title": "10. NO RESPONSE TO SHIFT LEVER MOVEMENT",
+            "level": 4,
+            "page": 288
+        },
+        {
+            "title": "TRANSFER CASE",
+            "level": 2,
+            "page": 288
+        },
+        {
+            "title": "14. TRANSFER CASE SHIFT LEVER WILL NOT SHIFT",
+            "level": 4,
+            "page": 288
+        },
+        {
+            "title": "BRAKES",
+            "level": 4,
+            "page": 289
+        },
+        {
+            "title": "17. BRAKE WARNING LAMP ASSEMBLY ON",
+            "level": 4,
+            "page": 289
+        },
+        {
+            "title": "WHEELS AND TIRES",
+            "level": 4,
+            "page": 289
+        },
+        {
+            "title": "19. WHEELS WOBBLE OR SHIMMY",
+            "level": 4,
+            "page": 289
+        },
+        {
+            "title": "STEERING",
+            "level": 4,
+            "page": 290
+        },
+        {
+            "title": "22. HARD STEERING",
+            "level": 4,
+            "page": 290
+        },
+        {
+            "title": "WINCH",
+            "level": 4,
+            "page": 290
+        },
+        {
+            "title": "23. WINCH STOPS DURING NORMAL OPERATION",
+            "level": 4,
+            "page": 290
+        },
+        {
+            "title": "SPECIAL PURPOSE BODIES\nTOW/ARMAMENT CARRIER",
+            "level": 4,
+            "page": 290
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 4,
+            "page": 291
+        },
+        {
+            "title": "26. ALL CEILING WHITE UGHTS, BLACKOUT UGHTS, AND SPOTLIGHTS FAIL TO\nILLUMINATE",
+            "level": 4,
+            "page": 291
+        },
+        {
+            "title": "27. LEFT OR RIGHT CEILING WHITE LIGHTS AND BLACKOUT LIGHT FAIL TO",
+            "level": 4,
+            "page": 291
+        },
+        {
+            "title": "28. CEIUNG WHITE UGHT OR BLACKOUT UGHT FAILS TO ILLUMINATE",
+            "level": 4,
+            "page": 291
+        },
+        {
+            "title": "29. SPOTUGHT FAILS TO ILLUMINATE",
+            "level": 4,
+            "page": 291
+        },
+        {
+            "title": "3-8",
+            "level": 4,
+            "page": 291
+        },
+        {
+            "title": "3-9",
+            "level": 4,
+            "page": 292
+        },
+        {
+            "title": "Section III. MAINTENANCE PROCEDURES",
+            "level": 2,
+            "page": 293
+        },
+        {
+            "title": "3-7. GENERAL",
+            "level": 2,
+            "page": 293
+        },
+        {
+            "title": "3-8. RAISING AND SECURING HOOD",
+            "level": 2,
+            "page": 293
+        },
+        {
+            "title": "W A R N I N G",
+            "level": 4,
+            "page": 293
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 293
+        },
+        {
+            "title": "3 - 1 0 Change 1",
+            "level": 4,
+            "page": 293
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 294
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 294
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 294
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 295
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 296
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 296
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 297
+        },
+        {
+            "title": "b. Check electrolyte level.",
+            "level": 4,
+            "page": 297
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 298
+        },
+        {
+            "title": "a. First-aid Kit Removal.",
+            "level": 4,
+            "page": 298
+        },
+        {
+            "title": "b. First-aid Kit Cleaning.",
+            "level": 4,
+            "page": 298
+        },
+        {
+            "title": "c. First-aid Kit Installation.",
+            "level": 4,
+            "page": 299
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 299
+        },
+        {
+            "title": "3-14. SERVICING WINDSHIELD WASHER RESERVOIR",
+            "level": 2,
+            "page": 301
+        },
+        {
+            "title": "3-15. AIR CLEANER SERVICING (EMERGENCY PROCEDURE)",
+            "level": 2,
+            "page": 301
+        },
+        {
+            "title": "W A R N I N G",
+            "level": 4,
+            "page": 302
+        },
+        {
+            "title": "Change 1 3 - 1 9",
+            "level": 4,
+            "page": 302
+        },
+        {
+            "title": "c. Air Filter Element Cleaning.",
+            "level": 4,
+            "page": 303
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 303
+        },
+        {
+            "title": "d. Filter Element Installation.",
+            "level": 4,
+            "page": 303
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 303
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 303
+        },
+        {
+            "title": "3-16. AIR CLEANER DUMP VALVE SERVICING\n\n![304_image_0.png](304_image_0.png)\n\n",
+            "level": 2,
+            "page": 304
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 304
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 305
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 305
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 305
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 305
+        },
+        {
+            "title": "3-18. PLASTIC WINDOW CLEANING\n\n![306_image_0.png](306_image_0.png)\n\n",
+            "level": 2,
+            "page": 306
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 306
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 306
+        },
+        {
+            "title": "a. Plastic Window Cleaning.",
+            "level": 4,
+            "page": 306
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 306
+        },
+        {
+            "title": "3-19. TRANSMISSION FLUID SERVICING",
+            "level": 4,
+            "page": 307
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 307
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 307
+        },
+        {
+            "title": "CAUTION\n\n![307_image_1.png](307_image_1.png)\n\n",
+            "level": 4,
+            "page": 307
+        },
+        {
+            "title": "3-20. POWER STEERING FLUID SERVICING",
+            "level": 4,
+            "page": 308
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 308
+        },
+        {
+            "title": "3-25",
+            "level": 4,
+            "page": 308
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 309
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 309
+        },
+        {
+            "title": "CAUTION\n\n![309_image_0.png](309_image_0.png)\n\n",
+            "level": 4,
+            "page": 309
+        },
+        {
+            "title": "3-26",
+            "level": 4,
+            "page": 309
+        },
+        {
+            "title": "3-22. TIRE CHAIN INSTALLATION AND REMOVAL",
+            "level": 2,
+            "page": 311
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 311
+        },
+        {
+            "title": "a. Radial Tire Chain Installation.",
+            "level": 4,
+            "page": 311
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 312
+        },
+        {
+            "title": "c. Bias Ply Tire Chain Installation.\nCAUTION",
+            "level": 4,
+            "page": 313
+        },
+        {
+            "title": "d. Bias Ply Tire Chain Removal.",
+            "level": 4,
+            "page": 314
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 314
+        },
+        {
+            "title": "3-23. EMERGENCY FAN CLUTCH OVERRIDE",
+            "level": 4,
+            "page": 315
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 315
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 316
+        },
+        {
+            "title": "3-25. REARVIEW MIRROR ADJUSTMENT (FOR VEHICLE\nSERIAL NUMBER 100,000 AND ABOVE)",
+            "level": 2,
+            "page": 317
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 317
+        },
+        {
+            "title": "3-26. WHEEL ASSEMBLY REPLACEMENT",
+            "level": 2,
+            "page": 318
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 318
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 318
+        },
+        {
+            "title": "a. Wheel Assembly Removal.",
+            "level": 4,
+            "page": 318
+        },
+        {
+            "title": "b. Wheel Assembly Installation.",
+            "level": 4,
+            "page": 319
+        },
+        {
+            "title": "3-27. HEATING, VENTILATION, AND AIR-CONDITIONING \nAIR INTAKE FILTER SERVICE",
+            "level": 2,
+            "page": 319
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 319
+        },
+        {
+            "title": "a. M996 and M996A1 Filter Removal.",
+            "level": 4,
+            "page": 319
+        },
+        {
+            "title": "3-28. AMBULANCE INTERIOR LIGHT BULB REPLACEMENT",
+            "level": 4,
+            "page": 323
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 323
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 323
+        },
+        {
+            "title": "3-29. RESTRAINING NET INSTALLATION",
+            "level": 2,
+            "page": 325
+        },
+        {
+            "title": "3 - 4 0 Change 1",
+            "level": 4,
+            "page": 325
+        },
+        {
+            "title": "APPENDIX A\nREFERENCES",
+            "level": 1,
+            "page": 326
+        },
+        {
+            "title": "A-1. SCOPE",
+            "level": 2,
+            "page": 326
+        },
+        {
+            "title": "A-2. DEPARTMENT OF THE ARMY PAMPHLETS",
+            "level": 2,
+            "page": 326
+        },
+        {
+            "title": "A-3. FORMS",
+            "level": 2,
+            "page": 326
+        },
+        {
+            "title": "A-4. FIELD MANUALS",
+            "level": 2,
+            "page": 326
+        },
+        {
+            "title": "A-5. TECHNICAL MANUALS",
+            "level": 2,
+            "page": 327
+        },
+        {
+            "title": "A-6. TECHNICAL BULLETINS",
+            "level": 2,
+            "page": 327
+        },
+        {
+            "title": "A-7. MISCELLANEOUS PUBLICATIONS",
+            "level": 2,
+            "page": 327
+        },
+        {
+            "title": "A-8. ARMY REGULATIONS",
+            "level": 2,
+            "page": 327
+        },
+        {
+            "title": "APPENDIX B\nCOMPONENTS OF END ITEM\nAND BASIC ISSUE ITEMS LISTS",
+            "level": 1,
+            "page": 328
+        },
+        {
+            "title": "B-1. SCOPE",
+            "level": 2,
+            "page": 328
+        },
+        {
+            "title": "B-2. GENERAL",
+            "level": 2,
+            "page": 328
+        },
+        {
+            "title": "B-3. EXPLANATION OF COLUMNS",
+            "level": 2,
+            "page": 328
+        },
+        {
+            "title": "Section II. COMPONENTS OF END ITEM",
+            "level": 2,
+            "page": 329
+        },
+        {
+            "title": "APPENDIX C\nADDITIONAL AUTHORIZATION LIST",
+            "level": 1,
+            "page": 342
+        },
+        {
+            "title": "C-2. GENERAL",
+            "level": 2,
+            "page": 342
+        },
+        {
+            "title": "C-3. EXPLANATION OF LISTING",
+            "level": 2,
+            "page": 342
+        },
+        {
+            "title": "APPENDIX D\nEXPENDABLE/DURABLE SUPPLIES AND MATERIALS UST\nSECTION I. INTRODUCTION",
+            "level": 4,
+            "page": 348
+        },
+        {
+            "title": "D-1. SCOPE",
+            "level": 4,
+            "page": 348
+        },
+        {
+            "title": "D-2. EXPLANATION OF COLUMNS",
+            "level": 4,
+            "page": 348
+        },
+        {
+            "title": "IGN GUIDE\nIWAGE /",
+            "level": 2,
+            "page": 354
+        },
+        {
+            "title": "E-1. SCOPE",
+            "level": 1,
+            "page": 354
+        },
+        {
+            "title": "E-2. GENERAL",
+            "level": 1,
+            "page": 354
+        },
+        {
+            "title": "E-3. STOWAGE LOCATIONS",
+            "level": 1,
+            "page": 354
+        },
+        {
+            "title": "Change 1",
+            "level": 1,
+            "page": 354
+        },
+        {
+            "title": "E-4. SIGN GUIDE",
+            "level": 2,
+            "page": 355
+        },
+        {
+            "title": "E-4. SIGN GUIDE (Cont'd)",
+            "level": 4,
+            "page": 357
+        },
+        {
+            "title": "E-4. SIGN GUIDE (Cont'd)",
+            "level": 4,
+            "page": 358
+        },
+        {
+            "title": "",
+            "level": 4,
+            "page": 361
+        },
+        {
+            "title": "APPENDIX F\nON-VEHICLE EQUIPMENT LOADING PLANS",
+            "level": 1,
+            "page": 366
+        },
+        {
+            "title": "F-1. SCOPE",
+            "level": 2,
+            "page": 366
+        },
+        {
+            "title": "F-2. TOW CARRIER LOAD PLAN",
+            "level": 2,
+            "page": 366
+        },
+        {
+            "title": "F-3. ARMAMENT CARRIERS W/SUPPLEMENTAL\nARMOR LOAD PLAN",
+            "level": 4,
+            "page": 371
+        },
+        {
+            "title": "F-4. ARMAMENT CARRIERS W/SUPPLEMENTAL\nARMOR LOAD PLAN A2 VEHICLES",
+            "level": 2,
+            "page": 373
+        },
+        {
+            "title": "F-5. ARMAMENT CARRIERS LOAD PLAN (USAF) (MK19/M60\nMACHINE GUN)",
+            "level": 2,
+            "page": 375
+        },
+        {
+            "title": "ARMAMENT CARRIER\nSTOWAGE PLAN (USAF) (MK19/M60 MACHINE GUN)",
+            "level": 2,
+            "page": 375
+        },
+        {
+            "title": "INTERNAL TOP VIEW",
+            "level": 1,
+            "page": 376
+        },
+        {
+            "title": "F-6. ARMAMENT CARRIER LOAD PLAN (MK19/40 MM)",
+            "level": 2,
+            "page": 377
+        },
+        {
+            "title": "INTERNAL TOP VIEW",
+            "level": 1,
+            "page": 378
+        },
+        {
+            "title": "F-7. ARMAMENT CARRIER LOAD PLAN (M2/.50 CAL)",
+            "level": 2,
+            "page": 379
+        },
+        {
+            "title": "ARMAMENT CARRIER (M2/.50 CAL)\nARMY STOWAGE PLAN",
+            "level": 2,
+            "page": 379
+        },
+        {
+            "title": "INTERNAL TOP VIEW",
+            "level": 1,
+            "page": 380
+        },
+        {
+            "title": "F-8. ARMAMENT CARRIER LOAD PLAN (M60/7.62 MM)",
+            "level": 2,
+            "page": 381
+        },
+        {
+            "title": "INTERNAL TOP VIEW",
+            "level": 1,
+            "page": 382
+        },
+        {
+            "title": "F-9. M997, M997A1, AND M997A2 AMBULANCE LOAD PLAN",
+            "level": 4,
+            "page": 383
+        },
+        {
+            "title": "AMBULANCE STOWAGE PLAN",
+            "level": 4,
+            "page": 383
+        },
+        {
+            "title": "F-18",
+            "level": 4,
+            "page": 383
+        },
+        {
+            "title": "F-10. M996 AND M996A1 AMBULANCE LOAD PLAN",
+            "level": 2,
+            "page": 385
+        },
+        {
+            "title": "F-11. HEAVY VARIANT STOWAGE PLAN",
+            "level": 2,
+            "page": 387
+        },
+        {
+            "title": "Change 1",
+            "level": 1,
+            "page": 388
+        },
+        {
+            "title": "APPENDIX G\nLUBRICATION INSTRUCTIONS",
+            "level": 4,
+            "page": 389
+        },
+        {
+            "title": "G-1",
+            "level": 4,
+            "page": 389
+        },
+        {
+            "title": "G-3. LUBRICATION INTERVALS",
+            "level": 2,
+            "page": 390
+        },
+        {
+            "title": "G - 4 . L U B R I C ATION FOR OPERATION UNDER EXTREME TEMPERAT U R E S",
+            "level": 2,
+            "page": 390
+        },
+        {
+            "title": "G-5. CORROSION CONTROL",
+            "level": 2,
+            "page": 390
+        },
+        {
+            "title": "G - 2 Change 1",
+            "level": 4,
+            "page": 390
+        },
+        {
+            "title": "LUBRICATION POINTS\n\n![393_image_0.png](393_image_0.png)\n\n",
+            "level": 2,
+            "page": 393
+        },
+        {
+            "title": "LUBRICATION POINTS (Cont'd)",
+            "level": 2,
+            "page": 394
+        },
+        {
+            "title": "LUBRICATION POINTS (Cont'd)\n\n![395_image_0.png](395_image_0.png)\n\n\n\n![395_image_1.png](395_image_1.png)\n\n",
+            "level": 2,
+            "page": 395
+        },
+        {
+            "title": "G-9",
+            "level": 1,
+            "page": 397
+        },
+        {
+            "title": "NOTES",
+            "level": 2,
+            "page": 403
+        },
+        {
+            "title": "1. Oil Can Points.",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": "2. Winch Wire Rope.",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": ".WARNING.",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": "3. Pintle.",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": "4. Steering System.\nCAUTION",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": "5. Power Steering Reservoir.",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": "NOTES",
+            "level": 2,
+            "page": 404
+        },
+        {
+            "title": "6. Transmission.\nCAUTION",
+            "level": 4,
+            "page": 404
+        },
+        {
+            "title": "7. Crankcase Oil Level.\nCAUTION",
+            "level": 4,
+            "page": 404
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 404
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 406
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 408
+        },
+        {
+            "title": "TM 9-2320-280-10",
+            "level": 4,
+            "page": 410
+        },
+        {
+            "title": "THE METRIC SYSTEM AND EQUIVALENTS",
+            "level": 1,
+            "page": 418
+        },
+        {
+            "title": "APPROXIMATE CONVERSION FACTORS",
+            "level": 2,
+            "page": 418
+        }
+    ]
+}

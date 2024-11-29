@@ -1,0 +1,3735 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "pdf_toc": [
+        {
+            "title": "TABLE OF CONTENTS",
+            "level": 0,
+            "page": 9
+        },
+        {
+            "title": "LAST CHANGE",
+            "level": 0,
+            "page": 3
+        },
+        {
+            "title": "WARNING",
+            "level": 0,
+            "page": 1
+        },
+        {
+            "title": "CHAPTERS",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "CHAPTER 1",
+            "level": 1,
+            "page": 10
+        },
+        {
+            "title": "PARA 1-10",
+            "level": 2,
+            "page": 11
+        },
+        {
+            "title": "CHAPTER 2",
+            "level": 1,
+            "page": 15
+        },
+        {
+            "title": "PARA 2-7",
+            "level": 2,
+            "page": 16
+        },
+        {
+            "title": "PARA 2-9",
+            "level": 2,
+            "page": 17
+        },
+        {
+            "title": "PARA 2-10",
+            "level": 2,
+            "page": 18
+        },
+        {
+            "title": "PARA 2-11",
+            "level": 2,
+            "page": 19
+        },
+        {
+            "title": "PARA 2-12",
+            "level": 2,
+            "page": 20
+        },
+        {
+            "title": "PARA 2-13.1",
+            "level": 2,
+            "page": 22
+        },
+        {
+            "title": "PARA 2-14",
+            "level": 2,
+            "page": 24
+        },
+        {
+            "title": "PARA 2-15",
+            "level": 2,
+            "page": 26
+        },
+        {
+            "title": "PARA 2-16",
+            "level": 2,
+            "page": 58
+        },
+        {
+            "title": "PARA 2-17",
+            "level": 2,
+            "page": 70
+        },
+        {
+            "title": "PARA 2-18",
+            "level": 2,
+            "page": 72
+        },
+        {
+            "title": "PARA 2-19",
+            "level": 2,
+            "page": 76
+        },
+        {
+            "title": "PARA 2-20",
+            "level": 2,
+            "page": 78
+        },
+        {
+            "title": "PARA 2-21",
+            "level": 2,
+            "page": 80
+        },
+        {
+            "title": "PARA 2-22",
+            "level": 2,
+            "page": 90
+        },
+        {
+            "title": "PARA 2-23",
+            "level": 2,
+            "page": 92
+        },
+        {
+            "title": "PARA 2-24",
+            "level": 2,
+            "page": 93
+        },
+        {
+            "title": "PARA 2-25",
+            "level": 2,
+            "page": 94
+        },
+        {
+            "title": "PARA 2-26",
+            "level": 2,
+            "page": 95
+        },
+        {
+            "title": "PARA 2-27",
+            "level": 2,
+            "page": 96
+        },
+        {
+            "title": "PARA 2-28",
+            "level": 2,
+            "page": 100
+        },
+        {
+            "title": "PARA 2-29",
+            "level": 2,
+            "page": 101
+        },
+        {
+            "title": "PARA 2-30",
+            "level": 2,
+            "page": 102
+        },
+        {
+            "title": "PARA 2-31",
+            "level": 2,
+            "page": 103
+        },
+        {
+            "title": "PARA 2-32",
+            "level": 2,
+            "page": 104
+        },
+        {
+            "title": "PARA 2-33",
+            "level": 2,
+            "page": 146
+        },
+        {
+            "title": "PARA 2-34",
+            "level": 2,
+            "page": 151
+        },
+        {
+            "title": "PARA 2-35",
+            "level": 2,
+            "page": 156
+        },
+        {
+            "title": "PARA 2-35.1",
+            "level": 2,
+            "page": 161
+        },
+        {
+            "title": "PARA 2-35.2",
+            "level": 2,
+            "page": 166
+        },
+        {
+            "title": "PARA 2-35.3",
+            "level": 2,
+            "page": 172
+        },
+        {
+            "title": "PARA 2-36",
+            "level": 2,
+            "page": 186
+        },
+        {
+            "title": "PARA 2-37",
+            "level": 2,
+            "page": 187
+        },
+        {
+            "title": "PARA 2-38",
+            "level": 2,
+            "page": 189
+        },
+        {
+            "title": "PARA 2-39",
+            "level": 2,
+            "page": 191
+        },
+        {
+            "title": "PARA 2-40",
+            "level": 2,
+            "page": 193
+        },
+        {
+            "title": "PARA 2-41",
+            "level": 2,
+            "page": 198
+        },
+        {
+            "title": "PARA 2-43",
+            "level": 2,
+            "page": 235
+        },
+        {
+            "title": "PARA 2-45",
+            "level": 2,
+            "page": 237
+        },
+        {
+            "title": "FIGURES",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "FIGURE C-1",
+            "level": 1,
+            "page": 246
+        },
+        {
+            "title": "FIGURE C-2",
+            "level": 1,
+            "page": 247
+        },
+        {
+            "title": "FIGURE C-3",
+            "level": 1,
+            "page": 247
+        },
+        {
+            "title": "FIGURE C-4",
+            "level": 1,
+            "page": 248
+        },
+        {
+            "title": "FIGURE C-5",
+            "level": 1,
+            "page": 248
+        },
+        {
+            "title": "TABLES",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "TABLE 1-1",
+            "level": 1,
+            "page": 13
+        },
+        {
+            "title": "TABLE 2-2",
+            "level": 1,
+            "page": 237
+        },
+        {
+            "title": "TABLE 2-3",
+            "level": 1,
+            "page": 238
+        },
+        {
+            "title": "TABLE 2-4",
+            "level": 1,
+            "page": 240
+        },
+        {
+            "title": "TABLE 2-5",
+            "level": 1,
+            "page": 240
+        },
+        {
+            "title": "TABLE F-1",
+            "level": 1,
+            "page": 257
+        },
+        {
+            "title": "TABLE F-2",
+            "level": 1,
+            "page": 258
+        },
+        {
+            "title": "APPENDICES",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "APPENDIX A",
+            "level": 1,
+            "page": 241
+        },
+        {
+            "title": "APPENDIX B",
+            "level": 1,
+            "page": 243
+        },
+        {
+            "title": "APPENDIX C",
+            "level": 1,
+            "page": 246
+        },
+        {
+            "title": "APPENDIX D",
+            "level": 1,
+            "page": 249
+        },
+        {
+            "title": "APPENDIX E",
+            "level": 1,
+            "page": 252
+        },
+        {
+            "title": "APPENDIX F",
+            "level": 1,
+            "page": 256
+        },
+        {
+            "title": "INDEX",
+            "level": 0,
+            "page": 259
+        },
+        {
+            "title": "PAGES",
+            "level": 0,
+            "page": null
+        },
+        {
+            "title": "PAGE WARNING A",
+            "level": 1,
+            "page": 1
+        },
+        {
+            "title": "PAGE WARNING B",
+            "level": 1,
+            "page": 2
+        },
+        {
+            "title": "PAGE A",
+            "level": 1,
+            "page": 7
+        },
+        {
+            "title": "PAGE I",
+            "level": 1,
+            "page": 8
+        },
+        {
+            "title": "PAGE II",
+            "level": 1,
+            "page": 9
+        },
+        {
+            "title": "PAGE 1-1",
+            "level": 1,
+            "page": 10
+        },
+        {
+            "title": "PAGE 1-2",
+            "level": 1,
+            "page": 11
+        },
+        {
+            "title": "PAGE 1-3",
+            "level": 1,
+            "page": 12
+        },
+        {
+            "title": "PAGE 1-4",
+            "level": 1,
+            "page": 13
+        },
+        {
+            "title": "PAGE 2-1",
+            "level": 1,
+            "page": 15
+        },
+        {
+            "title": "PAGE 2-2",
+            "level": 1,
+            "page": 16
+        },
+        {
+            "title": "PAGE 2-3",
+            "level": 1,
+            "page": 17
+        },
+        {
+            "title": "PAGE 2-4",
+            "level": 1,
+            "page": 18
+        },
+        {
+            "title": "PAGE 2-5",
+            "level": 1,
+            "page": 19
+        },
+        {
+            "title": "PAGE 2-6",
+            "level": 1,
+            "page": 20
+        },
+        {
+            "title": "PAGE 2-6.1",
+            "level": 1,
+            "page": 21
+        },
+        {
+            "title": "PAGE 2-6.2",
+            "level": 1,
+            "page": 22
+        },
+        {
+            "title": "PAGE 2-7",
+            "level": 1,
+            "page": 23
+        },
+        {
+            "title": "PAGE 2-18",
+            "level": 1,
+            "page": 36
+        },
+        {
+            "title": "PAGE 2-23",
+            "level": 1,
+            "page": 41
+        },
+        {
+            "title": "PAGE 2-24",
+            "level": 1,
+            "page": 42
+        },
+        {
+            "title": "PAGE 2-26",
+            "level": 1,
+            "page": 44
+        },
+        {
+            "title": "PAGE 2-31",
+            "level": 1,
+            "page": 49
+        },
+        {
+            "title": "PAGE 2-34",
+            "level": 1,
+            "page": 52
+        },
+        {
+            "title": "PAGE 2-37",
+            "level": 1,
+            "page": 55
+        },
+        {
+            "title": "PAGE 2-48",
+            "level": 1,
+            "page": 66
+        },
+        {
+            "title": "PAGE 2-53",
+            "level": 1,
+            "page": 71
+        },
+        {
+            "title": "PAGE 2-56",
+            "level": 1,
+            "page": 74
+        },
+        {
+            "title": "PAGE 2-83",
+            "level": 1,
+            "page": 101
+        },
+        {
+            "title": "PAGE 2-84",
+            "level": 1,
+            "page": 102
+        },
+        {
+            "title": "PAGE 2-85",
+            "level": 1,
+            "page": 103
+        },
+        {
+            "title": "PAGE 2-90",
+            "level": 1,
+            "page": 110
+        },
+        {
+            "title": "PAGE 2-101",
+            "level": 1,
+            "page": 121
+        },
+        {
+            "title": "PAGE 2-102",
+            "level": 1,
+            "page": 122
+        },
+        {
+            "title": "PAGE 2-113",
+            "level": 1,
+            "page": 133
+        },
+        {
+            "title": "PAGE 2-114",
+            "level": 1,
+            "page": 134
+        },
+        {
+            "title": "PAGE 2-117",
+            "level": 1,
+            "page": 137
+        },
+        {
+            "title": "PAGE 2-120",
+            "level": 1,
+            "page": 140
+        },
+        {
+            "title": "PAGE 2-125",
+            "level": 1,
+            "page": 145
+        },
+        {
+            "title": "PAGE 2-126",
+            "level": 1,
+            "page": 146
+        },
+        {
+            "title": "PAGE 2-140.1",
+            "level": 1,
+            "page": 161
+        },
+        {
+            "title": "PAGE 2-140.25",
+            "level": 1,
+            "page": 185
+        },
+        {
+            "title": "PAGE 2-153",
+            "level": 1,
+            "page": 198
+        },
+        {
+            "title": "PAGE 2-155",
+            "level": 1,
+            "page": 200
+        },
+        {
+            "title": "PAGE 2-156",
+            "level": 1,
+            "page": 201
+        },
+        {
+            "title": "PAGE 2-169",
+            "level": 1,
+            "page": 214
+        },
+        {
+            "title": "PAGE 2-170",
+            "level": 1,
+            "page": 215
+        },
+        {
+            "title": "PAGE 2-173",
+            "level": 1,
+            "page": 218
+        },
+        {
+            "title": "PAGE 2-174",
+            "level": 1,
+            "page": 219
+        },
+        {
+            "title": "PAGE 2-183",
+            "level": 1,
+            "page": 228
+        },
+        {
+            "title": "PAGE 2-186",
+            "level": 1,
+            "page": 233
+        },
+        {
+            "title": "PAGE 2-188",
+            "level": 1,
+            "page": 235
+        },
+        {
+            "title": "PAGE 2-189",
+            "level": 1,
+            "page": 236
+        },
+        {
+            "title": "PAGE 2-190",
+            "level": 1,
+            "page": 237
+        },
+        {
+            "title": "PAGE 2-193",
+            "level": 1,
+            "page": 240
+        },
+        {
+            "title": "PAGE A-1",
+            "level": 1,
+            "page": 241
+        },
+        {
+            "title": "PAGE A-2",
+            "level": 1,
+            "page": 242
+        },
+        {
+            "title": "PAGE B-1",
+            "level": 1,
+            "page": 243
+        },
+        {
+            "title": "PAGE C-1",
+            "level": 1,
+            "page": 246
+        },
+        {
+            "title": "PAGE D-1",
+            "level": 1,
+            "page": 249
+        },
+        {
+            "title": "PAGE D-3",
+            "level": 1,
+            "page": 251
+        },
+        {
+            "title": "PAGE E-1",
+            "level": 1,
+            "page": 252
+        },
+        {
+            "title": "PAGE E-3",
+            "level": 1,
+            "page": 254
+        },
+        {
+            "title": "PAGE E-4",
+            "level": 1,
+            "page": 255
+        },
+        {
+            "title": "PAGE F-1",
+            "level": 1,
+            "page": 256
+        },
+        {
+            "title": "PAGE F-3",
+            "level": 1,
+            "page": 258
+        },
+        {
+            "title": "PAGE INDEX-1",
+            "level": 1,
+            "page": 259
+        },
+        {
+            "title": "PAGE INDEX-4",
+            "level": 1,
+            "page": 262
+        },
+        {
+            "title": "PAGE 2-8",
+            "level": 1,
+            "page": 24
+        },
+        {
+            "title": "PAGE 2-10",
+            "level": 1,
+            "page": 26
+        },
+        {
+            "title": "PAGE 2-40",
+            "level": 1,
+            "page": 58
+        },
+        {
+            "title": "PAGE 2-52",
+            "level": 1,
+            "page": 70
+        },
+        {
+            "title": "PAGE 2-54",
+            "level": 1,
+            "page": 72
+        },
+        {
+            "title": "PAGE 2-58",
+            "level": 1,
+            "page": 76
+        },
+        {
+            "title": "PAGE 2-60",
+            "level": 1,
+            "page": 78
+        },
+        {
+            "title": "PAGE 2-62",
+            "level": 1,
+            "page": 80
+        },
+        {
+            "title": "PAGE 2-72",
+            "level": 1,
+            "page": 90
+        },
+        {
+            "title": "PAGE 2-74",
+            "level": 1,
+            "page": 92
+        },
+        {
+            "title": "PAGE 2-75",
+            "level": 1,
+            "page": 93
+        },
+        {
+            "title": "PAGE 2-76",
+            "level": 1,
+            "page": 94
+        },
+        {
+            "title": "PAGE 2-77",
+            "level": 1,
+            "page": 95
+        },
+        {
+            "title": "PAGE 2-78",
+            "level": 1,
+            "page": 96
+        },
+        {
+            "title": "PAGE 2-82",
+            "level": 1,
+            "page": 100
+        },
+        {
+            "title": "PAGE 2-86",
+            "level": 1,
+            "page": 104
+        },
+        {
+            "title": "PAGE 2-131",
+            "level": 1,
+            "page": 151
+        },
+        {
+            "title": "PAGE 2-136",
+            "level": 1,
+            "page": 156
+        },
+        {
+            "title": "PAGE 2-140.6",
+            "level": 1,
+            "page": 166
+        },
+        {
+            "title": "PAGE 2-140.12",
+            "level": 1,
+            "page": 172
+        },
+        {
+            "title": "PAGE 2-141",
+            "level": 1,
+            "page": 186
+        },
+        {
+            "title": "PAGE 2-142",
+            "level": 1,
+            "page": 187
+        },
+        {
+            "title": "PAGE 2-144",
+            "level": 1,
+            "page": 189
+        },
+        {
+            "title": "PAGE 2-146",
+            "level": 1,
+            "page": 191
+        },
+        {
+            "title": "PAGE 2-148",
+            "level": 1,
+            "page": 193
+        }
+    ],
+    "pages": 271,
+    "ocr_stats": {
+        "ocr_pages": 60,
+        "ocr_failed": 0,
+        "ocr_success": 60,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 220,
+        "code": 0,
+        "table": 94,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "computed_toc": [
+        {
+            "title": "WARNING",
+            "level": 2,
+            "page": 1
+        },
+        {
+            "title": "EXHAUST GASES CAN KILL",
+            "level": 2,
+            "page": 1
+        },
+        {
+            "title": "WARNING SUMMARY",
+            "level": 2,
+            "page": 2
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES",
+            "level": 2,
+            "page": 7
+        },
+        {
+            "title": "CHAPTER 1\nINTRODUCTION",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "Section I. GENERAL INFORMATION",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "1-1. SCOPE",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "1-2. MAINTENANCE FORMS, RECORDS, AND REPORTS",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "1-3. DESTRUCTION OF ARMY EQUIPMENT TO PREVENT ENEMY USE",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "1-4. PREPARATION FOR SHIPMENT",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "1-5. EQUIPMENT REQUIRING CALIBRATION",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "1-6. REPORTING EQUIPMENT IMPROVEMENT RECOMMENDATIONS (EIRs)",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "1.7. EQUIPMENT IMPROVEMENT REPORT AND MAINTENANCE DIGEST (EIR MD)",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "1-8. METRIC SYSTEM",
+            "level": 2,
+            "page": 11
+        },
+        {
+            "title": " 1-9. MANDATORY REPLACEMENT PARTS",
+            "level": 2,
+            "page": 11
+        },
+        {
+            "title": "Section II. EQUIPMENT DESCRIPTION AND DATA",
+            "level": 2,
+            "page": 11
+        },
+        {
+            "title": "1-10. DESCRIPTION",
+            "level": 2,
+            "page": 11
+        },
+        {
+            "title": "1-11. COMPONENT LOCATION",
+            "level": 2,
+            "page": 12
+        },
+        {
+            "title": "1 - 1 2 . TA B U L ATED DATA",
+            "level": 2,
+            "page": 13
+        },
+        {
+            "title": "TA B U L ATED DATA ABBREVIAT I O N S",
+            "level": 2,
+            "page": 13
+        },
+        {
+            "title": "Table 1-1. Tabulated Data (6.2 L)",
+            "level": 4,
+            "page": 13
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 13
+        },
+        {
+            "title": "CHAPTER 2\nENGINE MAINTENANCE",
+            "level": 2,
+            "page": 15
+        },
+        {
+            "title": "2-1. COMMON TOOLS AND EQUIPMENT",
+            "level": 2,
+            "page": 15
+        },
+        {
+            "title": "2-2. SPECIAL TOOLS AND SUPPORT EQUIPMENT",
+            "level": 2,
+            "page": 15
+        },
+        {
+            "title": "Section Il. SERVICE UPON RECEIPT",
+            "level": 2,
+            "page": 15
+        },
+        {
+            "title": "2-5. ENGINE INSPECTION",
+            "level": 2,
+            "page": 15
+        },
+        {
+            "title": "Section III. TROUBLESHOOTING",
+            "level": 2,
+            "page": 16
+        },
+        {
+            "title": "2-6. GENERAL",
+            "level": 2,
+            "page": 16
+        },
+        {
+            "title": "2-7. ENGINE TROUBLESHOOTING",
+            "level": 2,
+            "page": 16
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 16
+        },
+        {
+            "title": "Section IV. GENERAL MAINTENANCE INSTRUCTIONS",
+            "level": 3,
+            "page": 17
+        },
+        {
+            "title": "2-8. GENERAL MAINTENANCE INSTRUCTIONS TASK SUMMARY",
+            "level": 3,
+            "page": 17
+        },
+        {
+            "title": " 2-9. CLEANING",
+            "level": 2,
+            "page": 17
+        },
+        {
+            "title": "WARNING",
+            "level": 3,
+            "page": 17
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 17
+        },
+        {
+            "title": "e. Castings.",
+            "level": 4,
+            "page": 17
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 18
+        },
+        {
+            "title": "WARNING",
+            "level": 3,
+            "page": 18
+        },
+        {
+            "title": "i. Electrical Components.",
+            "level": 3,
+            "page": 18
+        },
+        {
+            "title": "WARNING",
+            "level": 3,
+            "page": 18
+        },
+        {
+            "title": "2-10. INSPECTION",
+            "level": 2,
+            "page": 18
+        },
+        {
+            "title": "b. Castings.",
+            "level": 4,
+            "page": 18
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 19
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 19
+        },
+        {
+            "title": " 2-11. REPAIR",
+            "level": 3,
+            "page": 19
+        },
+        {
+            "title": "b. Castings.",
+            "level": 4,
+            "page": 19
+        },
+        {
+            "title": "c. Bearings. See TM 9-214.",
+            "level": 3,
+            "page": 20
+        },
+        {
+            "title": "2-12. ASSEMBLY",
+            "level": 2,
+            "page": 20
+        },
+        {
+            "title": "Section V. ENGINE DISASSEMBLY, REPAIR, AND ASSEMBLY",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "2 - 1 3 . ENGINE DISASSEMBLY, REPAIR, AND ASSEMBLY TASK SUMMARY",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "2 - 1 3 . 1 . ENGINE REPLACEMENT IN SHIPPING/STORAGE CONTA I N E R",
+            "level": 2,
+            "page": 22
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 22
+        },
+        {
+            "title": "2-13.1.  ENGINE REPLACEMENT IN SHIPPING/STORAGE CONTAINER (Cont'd)",
+            "level": 1,
+            "page": 23
+        },
+        {
+            "title": "NOTE",
+            "level": 2,
+            "page": 23
+        },
+        {
+            "title": "2 - 1 4 . MOUNTING ENGINE ON REPAIR STA N D",
+            "level": 2,
+            "page": 24
+        },
+        {
+            "title": "Tools",
+            "level": 4,
+            "page": 24
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 24
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 24
+        },
+        {
+            "title": "b. Removal",
+            "level": 4,
+            "page": 24
+        },
+        {
+            "title": "2-14. MOUNTING ENGINE ON REPAIR STAND (Cont'd)",
+            "level": 1,
+            "page": 25
+        },
+        {
+            "title": "2 - 1 5 . ENGINE DISASSEMBLY INTO SUBASSEMBLIES",
+            "level": 2,
+            "page": 26
+        },
+        {
+            "title": "Tools",
+            "level": 4,
+            "page": 26
+        },
+        {
+            "title": "Special Tools",
+            "level": 4,
+            "page": 26
+        },
+        {
+            "title": "Personnel Required",
+            "level": 4,
+            "page": 26
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 26
+        },
+        {
+            "title": "a. Fan Drive and Water Pump Pulley",
+            "level": 4,
+            "page": 26
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 26
+        },
+        {
+            "title": "2 - 1 5 . ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 27
+        },
+        {
+            "title": "b. Crankshaft Pulley",
+            "level": 4,
+            "page": 27
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 28
+        },
+        {
+            "title": "c. Torsional Damper",
+            "level": 2,
+            "page": 28
+        },
+        {
+            "title": "2 - 1 5 . ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 29
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 29
+        },
+        {
+            "title": "c.1. Wastegate Actuator",
+            "level": 4,
+            "page": 29
+        },
+        {
+            "title": "c.3. Manifold-to-Turbocharger Exhaust Pipe",
+            "level": 4,
+            "page": 30
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 30
+        },
+        {
+            "title": "2 - 1 5 . ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 31
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 31
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 31
+        },
+        {
+            "title": "2 - 1 5 . ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 32
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 32
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 32
+        },
+        {
+            "title": ".WARNING.",
+            "level": 4,
+            "page": 32
+        },
+        {
+            "title": "2 - 1 5 . ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 33
+        },
+        {
+            "title": "f. Water Crossover",
+            "level": 4,
+            "page": 33
+        },
+        {
+            "title": ".WARNING.",
+            "level": 4,
+            "page": 33
+        },
+        {
+            "title": "WARNING",
+            "level": 2,
+            "page": 34
+        },
+        {
+            "title": "CAUTION",
+            "level": 2,
+            "page": 34
+        },
+        {
+            "title": "NOTE",
+            "level": 2,
+            "page": 34
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 35
+        },
+        {
+            "title": "h. Fuel Supply and Return Lines",
+            "level": 2,
+            "page": 35
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 36
+        },
+        {
+            "title": ".WARNING.",
+            "level": 4,
+            "page": 36
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 37
+        },
+        {
+            "title": "j. Rocker Arm Covers",
+            "level": 2,
+            "page": 37
+        },
+        {
+            "title": " k. Rocker Arm Shafts and Pushrods ",
+            "level": 4,
+            "page": 38
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 38
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 38
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 39
+        },
+        {
+            "title": "l. Fuel Injection Nozzles",
+            "level": 2,
+            "page": 39
+        },
+        {
+            "title": "m.  Glow  Plugs",
+            "level": 2,
+            "page": 40
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 41
+        },
+        {
+            "title": ".WARNING.",
+            "level": 4,
+            "page": 41
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 41
+        },
+        {
+            "title": "2 - 1 5 . ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 43
+        },
+        {
+            "title": "p. Water Pump and Adapter Plate",
+            "level": 4,
+            "page": 43
+        },
+        {
+            "title": ".WARNING.",
+            "level": 4,
+            "page": 43
+        },
+        {
+            "title": "q. Fuel Injection Pump",
+            "level": 4,
+            "page": 44
+        },
+        {
+            "title": ".WARNING.",
+            "level": 4,
+            "page": 44
+        },
+        {
+            "title": "NOTE",
+            "level": 2,
+            "page": 45
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 46
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 46
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 47
+        },
+        {
+            "title": " t. Oil Filter, Adaptter, and Oil Pressure Sending Unit ",
+            "level": 4,
+            "page": 47
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 47
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 48
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 49
+        },
+        {
+            "title": "v.  Oil Pump",
+            "level": 2,
+            "page": 49
+        },
+        {
+            "title": "WARNING.",
+            "level": 4,
+            "page": 50
+        },
+        {
+            "title": "2-15.  ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 51
+        },
+        {
+            "title": "x.  Oil Pump Drive",
+            "level": 2,
+            "page": 51
+        },
+        {
+            "title": "CAUTION",
+            "level": 2,
+            "page": 52
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 53
+        },
+        {
+            "title": " z. Pistons and Connecting Rods ",
+            "level": 4,
+            "page": 53
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 1,
+            "page": 54
+        },
+        {
+            "title": "2-15. ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 55
+        },
+        {
+            "title": "bb. Crankshaft and Main Bearings",
+            "level": 4,
+            "page": 55
+        },
+        {
+            "title": "2 - 1 5 . ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 56
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 56
+        },
+        {
+            "title": "WARNING.",
+            "level": 4,
+            "page": 56
+        },
+        {
+            "title": "WARNING.",
+            "level": 4,
+            "page": 56
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 56
+        },
+        {
+            "title": "2-15.  ENGINE DISASSEMBLY INTO SUBASSEMBLIES (Cont'd)",
+            "level": 1,
+            "page": 57
+        },
+        {
+            "title": "2-16. CYLINDER BLOCK REPAIR",
+            "level": 2,
+            "page": 58
+        },
+        {
+            "title": "Special Tools",
+            "level": 4,
+            "page": 58
+        },
+        {
+            "title": "General Safety Instructions",
+            "level": 4,
+            "page": 58
+        },
+        {
+            "title": "Materials/Parts",
+            "level": 4,
+            "page": 58
+        },
+        {
+            "title": "a. Preinspection",
+            "level": 4,
+            "page": 58
+        },
+        {
+            "title": "b. Cleaning",
+            "level": 4,
+            "page": 58
+        },
+        {
+            "title": "2-16. CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 2,
+            "page": 59
+        },
+        {
+            "title": "WARNING",
+            "level": 2,
+            "page": 59
+        },
+        {
+            "title": "2 - 1 6 . CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 2,
+            "page": 60
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 60
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 60
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 60
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 60
+        },
+        {
+            "title": "2-16.  CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 1,
+            "page": 61
+        },
+        {
+            "title": "2 - 1 6 . CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 2,
+            "page": 62
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 62
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 62
+        },
+        {
+            "title": "1. Boring.",
+            "level": 4,
+            "page": 62
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 62
+        },
+        {
+            "title": "2 - 1 6 . CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 2,
+            "page": 63
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 63
+        },
+        {
+            "title": "2 - 1 6 . CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 2,
+            "page": 64
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 64
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 64
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 64
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 64
+        },
+        {
+            "title": "2-16. CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 2,
+            "page": 66
+        },
+        {
+            "title": "WARNING",
+            "level": 3,
+            "page": 66
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 66
+        },
+        {
+            "title": "2-16. CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 1,
+            "page": 67
+        },
+        {
+            "title": "2-16. CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 2,
+            "page": 68
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 68
+        },
+        {
+            "title": "2-16. CYLINDER BLOCK REPAIR (Cont'd)",
+            "level": 1,
+            "page": 69
+        },
+        {
+            "title": "2-17. CRANKSHAFT REPAIR",
+            "level": 2,
+            "page": 70
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 70
+        },
+        {
+            "title": "2 - 1 8 . CONNECTING ROD AND PISTON REPA I R",
+            "level": 2,
+            "page": 72
+        },
+        {
+            "title": "Materials/Parts",
+            "level": 4,
+            "page": 72
+        },
+        {
+            "title": "a. Disassembly",
+            "level": 4,
+            "page": 72
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 72
+        },
+        {
+            "title": "2 - 1 8 . CONNECTING ROD AND PISTON REPAIR (Cont'd)",
+            "level": 2,
+            "page": 73
+        },
+        {
+            "title": "2 - 1 8 . CONNECTING ROD AND PISTON REPAIR (Cont'd)",
+            "level": 2,
+            "page": 74
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 74
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 74
+        },
+        {
+            "title": "2-19. CAMSHAFT, TIMING CHAIN, AND DRIVE GEARS REPAIR",
+            "level": 2,
+            "page": 76
+        },
+        {
+            "title": "Manual References",
+            "level": 4,
+            "page": 76
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 76
+        },
+        {
+            "title": "a. Cleaning b. Inspection",
+            "level": 4,
+            "page": 76
+        },
+        {
+            "title": "2-20. TIMING GEAR COVER REPAIR",
+            "level": 2,
+            "page": 78
+        },
+        {
+            "title": "a. Cleaning b. Inspection",
+            "level": 4,
+            "page": 78
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 78
+        },
+        {
+            "title": "2-20. TIMING GEAR COVER REPAIR (Cont'd)",
+            "level": 1,
+            "page": 79
+        },
+        {
+            "title": "2-21. CYLINDER HEAD AND VALVE REPAIR",
+            "level": 3,
+            "page": 80
+        },
+        {
+            "title": "Materials/Parts",
+            "level": 4,
+            "page": 80
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 80
+        },
+        {
+            "title": "a. Disassembly",
+            "level": 4,
+            "page": 80
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 80
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 80
+        },
+        {
+            "title": "2-21. CYLINDER HEAD AND VALVE REPAIR (Cont'd)",
+            "level": 2,
+            "page": 81
+        },
+        {
+            "title": "NOTE",
+            "level": 2,
+            "page": 81
+        },
+        {
+            "title": "2-21. CYLINDER HEAD AND VALVE REPAIR (Cont'd)",
+            "level": 2,
+            "page": 82
+        },
+        {
+            "title": " b. Cleaning",
+            "level": 4,
+            "page": 82
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 82
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 82
+        },
+        {
+            "title": "2-21. CYLINDER HEAD AND VALVE REPAIR (Cont'd)",
+            "level": 2,
+            "page": 84
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 84
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 84
+        },
+        {
+            "title": "d. Refacing Valves",
+            "level": 4,
+            "page": 84
+        },
+        {
+            "title": "2-21. CYLINDER HEAD AND VALVE REPAIR (Cont'd)",
+            "level": 3,
+            "page": 86
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 86
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 86
+        },
+        {
+            "title": " 2-21. CYLINDER HEAD AND VALVE REPAIR (Cont'd)",
+            "level": 2,
+            "page": 88
+        },
+        {
+            "title": "2-21. CYLINDER HEAD AND VALVE REPAIR (Cont'd)",
+            "level": 2,
+            "page": 89
+        },
+        {
+            "title": "2-22. VALVE TRAIN REPAIR",
+            "level": 2,
+            "page": 90
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 90
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 90
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 90
+        },
+        {
+            "title": "2-23. TORSIONAL DAMPER REPAIR",
+            "level": 3,
+            "page": 92
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 92
+        },
+        {
+            "title": " 2-24. FLYWHEEL REPAIR",
+            "level": 2,
+            "page": 93
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 93
+        },
+        {
+            "title": "2-25. ROCKER ARM COVER REPAIR",
+            "level": 2,
+            "page": 94
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 94
+        },
+        {
+            "title": "2-26. OIL PAN REPAIR",
+            "level": 3,
+            "page": 95
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 95
+        },
+        {
+            "title": "2-27. OIL PUMP REPAIR",
+            "level": 2,
+            "page": 96
+        },
+        {
+            "title": "a. Disassembly",
+            "level": 4,
+            "page": 96
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 96
+        },
+        {
+            "title": "2-27. OIL PUMP REPAIR (Cont'd)",
+            "level": 1,
+            "page": 97
+        },
+        {
+            "title": "2-27. OIL PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 98
+        },
+        {
+            "title": "d. Assembly",
+            "level": 4,
+            "page": 98
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 98
+        },
+        {
+            "title": "2-27. OIL PUMP REPAIR (Cont'd)",
+            "level": 1,
+            "page": 99
+        },
+        {
+            "title": "2-28. OIL FILTER ADAPTER AND OIL PRESSURE SENDING UNIT REPAIR",
+            "level": 2,
+            "page": 100
+        },
+        {
+            "title": "NOTE\n\n![100_image_1.png](100_image_1.png)\n\n",
+            "level": 4,
+            "page": 100
+        },
+        {
+            "title": "2 - 2 9 . EXHAUST MANIFOLD REPA I R",
+            "level": 2,
+            "page": 101
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 101
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 101
+        },
+        {
+            "title": "Tools",
+            "level": 4,
+            "page": 102
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 102
+        },
+        {
+            "title": "2-31. FUEL PUMP REPAIR",
+            "level": 2,
+            "page": 103
+        },
+        {
+            "title": "a. Cleaning b. Inspection",
+            "level": 4,
+            "page": 103
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 103
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR ",
+            "level": 2,
+            "page": 104
+        },
+        {
+            "title": "INITIAL SETUP:",
+            "level": 4,
+            "page": 104
+        },
+        {
+            "title": "Tools",
+            "level": 4,
+            "page": 104
+        },
+        {
+            "title": "Special Tools",
+            "level": 4,
+            "page": 104
+        },
+        {
+            "title": "Material/Parts",
+            "level": 4,
+            "page": 104
+        },
+        {
+            "title": "Manual References",
+            "level": 4,
+            "page": 104
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 104
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 106
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 106
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 106
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 106
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 107
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)\nNOTE\nSome 6.5L injection pumps are equipped with a TP sensor instead",
+            "level": 4,
+            "page": 108
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 108
+        },
+        {
+            "title": "of a kick-down switch. There are four capscrews securing the TP",
+            "level": 4,
+            "page": 108
+        },
+        {
+            "title": "sensor to the housing.",
+            "level": 4,
+            "page": 108
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 110
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 110
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 3,
+            "page": 111
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 112
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 113
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 113
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 114
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 114
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 115
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 116
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 117
+        },
+        {
+            "title": " 2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 3,
+            "page": 118
+        },
+        {
+            "title": "CAUTION\n\n![118_image_1.png](118_image_1.png)\n\n",
+            "level": 4,
+            "page": 118
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 118
+        },
+        {
+            "title": " 2-32. FUEL INJECTION PUMP REPAIR (Cont'd)\n\n![119_image_0.png](119_image_0.png)\n\n",
+            "level": 2,
+            "page": 119
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 120
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 3,
+            "page": 121
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 122
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 122
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 3,
+            "page": 123
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 123
+        },
+        {
+            "title": "CAUTION\n\n![123_image_1.png](123_image_1.png)\n\n",
+            "level": 4,
+            "page": 123
+        },
+        {
+            "title": " 2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 124
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 124
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 124
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 124
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 124
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 125
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 125
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 126
+        },
+        {
+            "title": "NOTE\n\n![126_image_1.png](126_image_1.png)\n\n\n\n![126_image_2.png](126_image_2.png)\n\n",
+            "level": 3,
+            "page": 126
+        },
+        {
+            "title": " 2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 3,
+            "page": 127
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 127
+        },
+        {
+            "title": "NOTE\n\n![127_image_0.png](127_image_0.png)\n\n",
+            "level": 4,
+            "page": 127
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 128
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 128
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 128
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 129
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 129
+        },
+        {
+            "title": "2-109",
+            "level": 4,
+            "page": 129
+        },
+        {
+            "title": " 2-32. FUEL INJECTION PUMP REPAIR [Cont'd)",
+            "level": 2,
+            "page": 130
+        },
+        {
+            "title": "WARNING",
+            "level": 3,
+            "page": 130
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 130
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 130
+        },
+        {
+            "title": "NOTE\n\n![130_image_0.png](130_image_0.png)\n\n",
+            "level": 4,
+            "page": 130
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 131
+        },
+        {
+            "title": " 2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 132
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 132
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 132
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 132
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 133
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 133
+        },
+        {
+            "title": "NOTE\n\n![133_image_0.png](133_image_0.png)\n\n",
+            "level": 4,
+            "page": 133
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 134
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 134
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 135
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 135
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 3,
+            "page": 136
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 136
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 137
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 137
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 137
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 138
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 138
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 1,
+            "page": 139
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 140
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 140
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 140
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 140
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 140
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 142
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 144
+        },
+        {
+            "title": "2-32. FUEL INJECTION PUMP REPAIR (Cont'd)",
+            "level": 2,
+            "page": 145
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 145
+        },
+        {
+            "title": "2-33. PRE-1990 (6.2L) FUEL INJECTION PUMP (DB2829-4523) CALIBRATION",
+            "level": 2,
+            "page": 146
+        },
+        {
+            "title": "Special Tools",
+            "level": 4,
+            "page": 146
+        },
+        {
+            "title": "Test Equipment",
+            "level": 4,
+            "page": 146
+        },
+        {
+            "title": "Materials/Parts",
+            "level": 4,
+            "page": 146
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 146
+        },
+        {
+            "title": "a. Test Bench Requirements",
+            "level": 4,
+            "page": 146
+        },
+        {
+            "title": "2-33. PRE-1990 (6.2L) FUEL INJECTION PUMP (DB2829-4523) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 147
+        },
+        {
+            "title": "b. Injection Pump Information",
+            "level": 4,
+            "page": 147
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 147
+        },
+        {
+            "title": "c. Injection Pump Check (Prior to Service)",
+            "level": 4,
+            "page": 147
+        },
+        {
+            "title": " 2-33. PRE-1990 (6.2L) FUEL INJECTION PUMP (DB2829-4523) CALIBRATION (Cont'd)",
+            "level": 3,
+            "page": 148
+        },
+        {
+            "title": "d. Injection Pump Settings (Following Pump Repair)",
+            "level": 4,
+            "page": 148
+        },
+        {
+            "title": "2-33. PRE-1990 (6.2L) FUEL INJECTION PUMP (DB2829-4523) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 149
+        },
+        {
+            "title": "2-33. PRE-1990 (6.2L) FUEL INJECTION PUMP (DB2829-4523) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 150
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 150
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 150
+        },
+        {
+            "title": "2-34. 1990 (6.2L) FUEL INJECTION PUMP (DB2829-4879) CALIBRATION",
+            "level": 2,
+            "page": 151
+        },
+        {
+            "title": "Tools Manual References",
+            "level": 4,
+            "page": 151
+        },
+        {
+            "title": "Test Equipment",
+            "level": 4,
+            "page": 151
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 151
+        },
+        {
+            "title": " a. Test Bench Requirements ",
+            "level": 4,
+            "page": 151
+        },
+        {
+            "title": "2-34. 1990 (6.2L) FUEL INJECTION PUMP (DB2829-4879) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 152
+        },
+        {
+            "title": " b. Injection Pump Information ",
+            "level": 4,
+            "page": 152
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 152
+        },
+        {
+            "title": " c. Injection Pump Check (Prior to Service) ",
+            "level": 4,
+            "page": 152
+        },
+        {
+            "title": "2-34. 1990 (6.2L) FUEL INJECTION PUMP (DB2829-4879) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 153
+        },
+        {
+            "title": "2-34. 1990 (6.2L) FUEL INJECTION PUMP (DB2829-4879) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 154
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 154
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 154
+        },
+        {
+            "title": "2-34. 1990 (6.2L) FUEL INJECTION PUMP (DB2829-4879) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 155
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 155
+        },
+        {
+            "title": "2-35. (6.5L) FUEL INJECTION PUMP (DB2831-5149) CALIBRATION",
+            "level": 2,
+            "page": 156
+        },
+        {
+            "title": "Materials/Parts",
+            "level": 4,
+            "page": 156
+        },
+        {
+            "title": "Tools Manual References",
+            "level": 4,
+            "page": 156
+        },
+        {
+            "title": "Test Equipment",
+            "level": 4,
+            "page": 156
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 156
+        },
+        {
+            "title": "a. Test Bench Requirements",
+            "level": 4,
+            "page": 156
+        },
+        {
+            "title": "2-35. (6.5L) FUEL INJECTION PUMP (DB2831-5149) CALIBRATION (Cont'd)",
+            "level": 3,
+            "page": 157
+        },
+        {
+            "title": "b. Injection Pump Information",
+            "level": 4,
+            "page": 157
+        },
+        {
+            "title": "NOTE",
+            "level": 2,
+            "page": 157
+        },
+        {
+            "title": "c. Injection Pump Check (Prior to Service)",
+            "level": 4,
+            "page": 157
+        },
+        {
+            "title": "2-35. (6.5L) FUEL INJECTION PUMP (DB2831-5149) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 158
+        },
+        {
+            "title": "d. Injection Pump Settings (Following Pump Repair)",
+            "level": 4,
+            "page": 158
+        },
+        {
+            "title": "2-35. (6.5L) FUEL INJECTION PUMP (DB2831-5149) CALIBRATION (Cont'd)",
+            "level": 3,
+            "page": 159
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 159
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 159
+        },
+        {
+            "title": "2-35. (6.5L) FUEL INJECTION PUMP (DB2831-5149) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 160
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 160
+        },
+        {
+            "title": "2-35.1. (6.5L) FUEL INJECTION PUMP (DB2831-5209) CALIBRAT I O N",
+            "level": 2,
+            "page": 161
+        },
+        {
+            "title": "Tools",
+            "level": 4,
+            "page": 161
+        },
+        {
+            "title": "Test Equipment",
+            "level": 4,
+            "page": 161
+        },
+        {
+            "title": "Materials/Parts",
+            "level": 4,
+            "page": 161
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 161
+        },
+        {
+            "title": "a. Test Bench Requirements",
+            "level": 4,
+            "page": 161
+        },
+        {
+            "title": "2-35.1. (6.5L) FUEL INJECTION PUMP (DB2831-5209) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 162
+        },
+        {
+            "title": "b. Injection Pump Information",
+            "level": 4,
+            "page": 162
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 162
+        },
+        {
+            "title": "c. Injection Pump Check (Prior to Service)",
+            "level": 4,
+            "page": 162
+        },
+        {
+            "title": "2-35.1. (6.5L) FUEL INJECTION PUMP (DB2831-5209) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 163
+        },
+        {
+            "title": "d. Injection Pump Settings (Following Pump Repair)",
+            "level": 4,
+            "page": 163
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 164
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 164
+        },
+        {
+            "title": "2-35.1. (6.5L) FUEL INJECTION PUMP (DB2831-5209) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 165
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 165
+        },
+        {
+            "title": "2 - 3 5 . 2 . ( 6 . 5 L ) FUEL INJECTION PUMPS (DB2831-5485 OR DB2831-5079) CALIBRAT I O N",
+            "level": 2,
+            "page": 166
+        },
+        {
+            "title": "Tools",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "a. Test Bench Requirements c. Injection Pump Check (Prior to Service)\nb. Injection Pump Information d. Injection Pump Settings (Following Pump Repair)",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "Test Equipment",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "Materials/Parts",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "a. Test Bench Requirements",
+            "level": 4,
+            "page": 166
+        },
+        {
+            "title": "2 - 3 5 . 2 . ( 6 . 5 L ) FUEL INJECTION PUMPS (DB2831-5485 OR DB2831-5079) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 167
+        },
+        {
+            "title": "b. Injection Pump Information",
+            "level": 4,
+            "page": 167
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 167
+        },
+        {
+            "title": "c. Injection Pump Check (Prior to Service)",
+            "level": 4,
+            "page": 167
+        },
+        {
+            "title": "2 - 3 5 . 2 . ( 6 . 5 L ) FUEL INJECTION PUMPS (DB2831-5485 OR DB2831-5079) CALIBRATION (Cont'd)",
+            "level": 2,
+            "page": 168
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 168
+        },
+        {
+            "title": "d. Injection Pump Settings (Following Pump Repair)",
+            "level": 4,
+            "page": 168
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 169
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 169
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 170
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 171
+        },
+        {
+            "title": "Special Tools",
+            "level": 4,
+            "page": 172
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 172
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 172
+        },
+        {
+            "title": "C A U T I O N",
+            "level": 4,
+            "page": 174
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 176
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 179
+        },
+        {
+            "title": "c. Removal of Fuel Injection Pump from Test Stand",
+            "level": 4,
+            "page": 181
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 182
+        },
+        {
+            "title": "2-36. GLOW PLUG REPAIR",
+            "level": 2,
+            "page": 186
+        },
+        {
+            "title": " a. Cleaning",
+            "level": 4,
+            "page": 186
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 186
+        },
+        {
+            "title": "2-37. FUEL INJECTION NOZZLE REPAIR",
+            "level": 3,
+            "page": 187
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 187
+        },
+        {
+            "title": " 2-37. FUEL INJECTION NOZZLE REPAIR (Cont'd)",
+            "level": 2,
+            "page": 188
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 188
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 188
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 188
+        },
+        {
+            "title": "2-38. WATER PUMP REPAIR",
+            "level": 2,
+            "page": 189
+        },
+        {
+            "title": " a. Disassembly",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "d. Assembly",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 189
+        },
+        {
+            "title": "2-38. WATER PUMP REPAIR (Cont'd)",
+            "level": 1,
+            "page": 190
+        },
+        {
+            "title": "2-39. WATER CROSSOVER REPAIR",
+            "level": 3,
+            "page": 191
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 191
+        },
+        {
+            "title": "a. Disassembly",
+            "level": 4,
+            "page": 191
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 191
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 191
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 192
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 192
+        },
+        {
+            "title": " 2-40. FAN DRIVE REPAIR",
+            "level": 2,
+            "page": 193
+        },
+        {
+            "title": "Manual References\nTM 9-2815-237-34P",
+            "level": 4,
+            "page": 193
+        },
+        {
+            "title": "a. Disassembly",
+            "level": 4,
+            "page": 193
+        },
+        {
+            "title": "2-40. FAN DRIVE REPAIR (Cont'd)",
+            "level": 3,
+            "page": 195
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 195
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 195
+        },
+        {
+            "title": "2-40. FAN DRIVE REPAIR (Cont'd)",
+            "level": 3,
+            "page": 197
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 197
+        },
+        {
+            "title": "2 - 4 1 . ENGINE ASSEMBLY FROM SUBASSEMBLIES",
+            "level": 2,
+            "page": 198
+        },
+        {
+            "title": "Tools",
+            "level": 4,
+            "page": 198
+        },
+        {
+            "title": "Materials/Parts (Cont'd)",
+            "level": 4,
+            "page": 198
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 199
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 199
+        },
+        {
+            "title": "a. Crankshaft and Main Bearings",
+            "level": 4,
+            "page": 199
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 199
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 199
+        },
+        {
+            "title": "2 - 4 1 . ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 200
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 200
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 200
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 201
+        },
+        {
+            "title": "WARNING",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 3,
+            "page": 202
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 202
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 3,
+            "page": 204
+        },
+        {
+            "title": " c. Pistons and Connecting Rods ",
+            "level": 4,
+            "page": 204
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 204
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 204
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 204
+        },
+        {
+            "title": " 2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 205
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 205
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 205
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 205
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 3,
+            "page": 207
+        },
+        {
+            "title": "d. Oil Pump",
+            "level": 4,
+            "page": 207
+        },
+        {
+            "title": "e. Camshaft",
+            "level": 4,
+            "page": 208
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 208
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 208
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 209
+        },
+        {
+            "title": "f. Timing Chain and Drive Sprockets",
+            "level": 4,
+            "page": 209
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 209
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cent'd)",
+            "level": 2,
+            "page": 210
+        },
+        {
+            "title": " g. Timing Gear Cover",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 210
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 3,
+            "page": 211
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 211
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 212
+        },
+        {
+            "title": "i. Oil Filter and Adapter",
+            "level": 4,
+            "page": 212
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 213
+        },
+        {
+            "title": "j. Fuel Pump",
+            "level": 2,
+            "page": 213
+        },
+        {
+            "title": "2-41.  ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 214
+        },
+        {
+            "title": "k.  Oil Pump Drive",
+            "level": 2,
+            "page": 214
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 3,
+            "page": 215
+        },
+        {
+            "title": "l. Fuel Injection Pump",
+            "level": 4,
+            "page": 215
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 216
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 216
+        },
+        {
+            "title": "WARNING",
+            "level": 3,
+            "page": 217
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 218
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 218
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 218
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 220
+        },
+        {
+            "title": "q. Fuel Injection Nozzles",
+            "level": 4,
+            "page": 220
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 221
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 221
+        },
+        {
+            "title": " 2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 222
+        },
+        {
+            "title": "NOTE\n\n![222_image_1.png](222_image_1.png)\n\n",
+            "level": 4,
+            "page": 222
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 223
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 224
+        },
+        {
+            "title": "u. Fuel Supply and Return Lines",
+            "level": 2,
+            "page": 224
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 225
+        },
+        {
+            "title": "v. Fuel Injection Lines",
+            "level": 2,
+            "page": 225
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 226
+        },
+        {
+            "title": "w. Water Crossover",
+            "level": 2,
+            "page": 226
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 227
+        },
+        {
+            "title": "x. Intake Manifold",
+            "level": 4,
+            "page": 227
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 227
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 228
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 228
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 229
+        },
+        {
+            "title": "2 - 4 1 . ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 230
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 230
+        },
+        {
+            "title": "y.1. Turbocharger",
+            "level": 4,
+            "page": 230
+        },
+        {
+            "title": "y.3. Wastegate Housing",
+            "level": 4,
+            "page": 231
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 2,
+            "page": 232
+        },
+        {
+            "title": "z. Torsional Damper",
+            "level": 2,
+            "page": 232
+        },
+        {
+            "title": "2-41. ENGINE ASSEMBLY FROM SUBASSEMBLIES (Cont'd)",
+            "level": 3,
+            "page": 234
+        },
+        {
+            "title": "bb. Fan Drive and Water Pump Pulley",
+            "level": 4,
+            "page": 234
+        },
+        {
+            "title": "Section VI. FINAL INSPECTION",
+            "level": 3,
+            "page": 235
+        },
+        {
+            "title": "2-42. GENERAL",
+            "level": 2,
+            "page": 235
+        },
+        {
+            "title": "2-43. ENGINE RUN-IN",
+            "level": 2,
+            "page": 235
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 235
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 235
+        },
+        {
+            "title": "2 - 4 3 . ENGINE RUN-IN (Cont'd)",
+            "level": 2,
+            "page": 236
+        },
+        {
+            "title": "NOT E",
+            "level": 4,
+            "page": 236
+        },
+        {
+            "title": "Section VII. REPAIR AND REPLACEMENT STANDARDS",
+            "level": 2,
+            "page": 237
+        },
+        {
+            "title": " 2-44. GENERAL ",
+            "level": 2,
+            "page": 237
+        },
+        {
+            "title": "2-45. REPAIR AND REPLACEMENT STANDARDS",
+            "level": 2,
+            "page": 237
+        },
+        {
+            "title": "2-45. REPAIR AND REPLACEMENT STANDARDS (Cont'd)",
+            "level": 2,
+            "page": 238
+        },
+        {
+            "title": "2-45. REPAIR AND REPLACEMENT STANDARDS (Cont'd)",
+            "level": 2,
+            "page": 239
+        },
+        {
+            "title": "2 - 4 5 . R E PAIR AND REPLACEMENT STANDARDS (Cont'd)",
+            "level": 2,
+            "page": 240
+        },
+        {
+            "title": "APPENDIX A\nREFERENCES",
+            "level": 2,
+            "page": 241
+        },
+        {
+            "title": "A-1. SCOPE",
+            "level": 4,
+            "page": 241
+        },
+        {
+            "title": "A-2. PUBLICATIONS INDEX",
+            "level": 2,
+            "page": 241
+        },
+        {
+            "title": "A-3. FORMS",
+            "level": 4,
+            "page": 241
+        },
+        {
+            "title": "A-4. FIELD MANUALS",
+            "level": 2,
+            "page": 241
+        },
+        {
+            "title": "APPENDIX A (Cont'd)",
+            "level": 2,
+            "page": 242
+        },
+        {
+            "title": "A-5. TECHNICAL MANUALS",
+            "level": 2,
+            "page": 242
+        },
+        {
+            "title": "A-6. TECHNICAL BULLETINS",
+            "level": 2,
+            "page": 242
+        },
+        {
+            "title": "A-7. ARMY REGULATIONS",
+            "level": 2,
+            "page": 242
+        },
+        {
+            "title": "APPENDIX B\nEXPENDABLE/DURABLE SUPPLIES AND MATERIALS LIST",
+            "level": 2,
+            "page": 243
+        },
+        {
+            "title": "B-1. SCOPE",
+            "level": 4,
+            "page": 243
+        },
+        {
+            "title": " B-2. EXPLANATION OF COLUMNS",
+            "level": 3,
+            "page": 243
+        },
+        {
+            "title": "APPENDIX C\nILLUSTRATED LIST OF MANUFACTURED ITEMS",
+            "level": 2,
+            "page": 246
+        },
+        {
+            "title": "C-1. SCOPE",
+            "level": 4,
+            "page": 246
+        },
+        {
+            "title": "C-2. GENERAL",
+            "level": 3,
+            "page": 246
+        },
+        {
+            "title": "Section Il. ILLUSTRATED MANUFACTURING INSTRUCTIONS",
+            "level": 3,
+            "page": 246
+        },
+        {
+            "title": "INSTRUCTIONS:",
+            "level": 4,
+            "page": 246
+        },
+        {
+            "title": "Section II. ILLUSTRATED MANUFACTURING INSTRUCTIONS (Cont'd)",
+            "level": 2,
+            "page": 247
+        },
+        {
+            "title": "INSTRUCTIONS:",
+            "level": 4,
+            "page": 247
+        },
+        {
+            "title": "INSTRUCTIONS",
+            "level": 4,
+            "page": 248
+        },
+        {
+            "title": "APPENDIX D\nMANDATORY REPLACEMENT PARTS",
+            "level": 2,
+            "page": 249
+        },
+        {
+            "title": "D-2. EXPLANATION OF COLUMNS",
+            "level": 2,
+            "page": 249
+        },
+        {
+            "title": "APPENDIX E\nTOOL IDENTIFICATION LIST",
+            "level": 2,
+            "page": 252
+        },
+        {
+            "title": " E-1. SCOPE",
+            "level": 2,
+            "page": 252
+        },
+        {
+            "title": "E-2 EXPLANATION OF COLUMNS",
+            "level": 4,
+            "page": 252
+        },
+        {
+            "title": "APPENDIX F\nTORQUE LIMITS",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "F-1 GENERAL",
+            "level": 4,
+            "page": 256
+        },
+        {
+            "title": "F-2. TORQUE LIMITS",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "Table F-1. Torque Limits for Dry Fasteners\n\n![257_image_0.png](257_image_0.png)\n\n",
+            "level": 4,
+            "page": 257
+        },
+        {
+            "title": "INDEX",
+            "level": 2,
+            "page": 259
+        },
+        {
+            "title": "INDEX (Cont'd)",
+            "level": 2,
+            "page": 260
+        },
+        {
+            "title": "INDEX (Cont'd)",
+            "level": 2,
+            "page": 261
+        },
+        {
+            "title": "INDEX (Cont'd)",
+            "level": 2,
+            "page": 262
+        },
+        {
+            "title": "THE METRIC SYSTEM AND EQUIVALENTS",
+            "level": 2,
+            "page": 269
+        },
+        {
+            "title": "LINEAR MEASURE",
+            "level": 4,
+            "page": 269
+        },
+        {
+            "title": "CUBIC MEASURE",
+            "level": 4,
+            "page": 269
+        },
+        {
+            "title": "APPROXIMATE CONVERSION FACTORS",
+            "level": 4,
+            "page": 269
+        }
+    ]
+}
