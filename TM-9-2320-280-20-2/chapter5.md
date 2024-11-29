@@ -1,142 +1,43 @@
+
 <a name="chapter-5"></a>
 
-## Chapter 5 Transmission And Transfer Case Maintenance
+# Chapter 5 Transmission And Transfer Case Maintenance
 
-| Chapter 5  |  Transmission And Transfer Case Maintenance TASK SUMMARY 
-|------------|-------------------------------
-| TASK       | PROCEDURES
-| [5-1 ](#5-1)          | 
-| [5-2 ](#5-2)          | 
-| [5-3 ](#5-3)          | 
-| [5-4 ](#5-4)          | 
-| [5-5 ](#5-5)          | 
-| [5-6 ](#5-6)          | 
-| [5-7 ](#5-7)          | 
-| [5-8 ](#5-8)          | 
-| [5-9 ](#5-9)          | 
-| [5-10](#5-10)         | 
-| [5-11](#5-11)         | 
-| [5-12](#5-12)         | 
-| [5-13](#5-13)         | 
-| [5-14](#5-14)         | 
-| [5-15](#5-15)         | 
-| [5-16](#5-16)         | 
-| [5-17](#5-17)         | 
-| [5-18](#5-18)         | 
-| [5-19](#5-19)         | 
-| [5-20](#5-20)         | 
-| [5-21](#5-21)         | 
-| [5-22](#5-22)         | 
-| [5-23](#5-23)         | 
-| [5-24](#5-24)         | 
-| [5-25](#5-25)         | 
-| [5-26](#5-26)         | 
-| [5-27](#5-27)         | 
-| [5-28](#5-28)         | 
-| [5-29](#5-29)         | 
-| [5-30](#5-30)         | 
-| [5-31](#5-31)         | 
-| [5-32](#5-32)         | 
-| [5-33](#5-33)         | 
-| [5-34](#5-34)         | 
-| [5-35](#5-35)         | 
-| [5-36](#5-36)         | 
-| [5-37](#5-37)         | 
-| [5-38](#5-38)         | 
-| [5-39](#5-39)         | 
-| [5-40](#5-40)         | 
-| [5-41](#5-41)         | 
-| [5-42](#5-42)         | 
-| [5-43](#5-43)         | 
-| [5-44](#5-44)         | 
-| [5-45](#5-45)         | 
-| [5-46](#5-46)         | 
-| [5-47](#5-47)         | 
-| [5-48](#5-48)         | 
-| [5-49](#5-49)         | 
-| [5-50](#5-50)         | 
-| [5-51](#5-51)         | 
-| [5-52](#5-52)         | 
-| [5-53](#5-53)         | 
-| [5-54](#5-54)         | 
-| [5-55](#5-55)         | 
-| [5-56](#5-56)         | 
-| [5-57](#5-57)         | 
-| [5-58](#5-58)         | 
-| [5-59](#5-59)         | 
-| [5-60](#5-60)         | 
-| [5-61](#5-61)         | 
-| [5-62](#5-62)         | 
-| [5-63](#5-63)         | 
-| [5-64](#5-64)         | 
-| [5-65](#5-65)         | 
-| [5-66](#5-66)         | 
-| [5-67](#5-67)         | 
-| [5-68](#5-68)         | 
-| [5-69](#5-69)         | 
-| [5-70](#5-70)         | 
-| [5-71](#5-71)         | 
-| [5-72](#5-72)         | 
-| [5-73](#5-73)         | 
-| [5-74](#5-74)         | 
-| [5-75](#5-75)         | 
-| [5-76](#5-76)         | 
-| [5-77](#5-77)         | 
-| [5-78](#5-78)         | 
-| [5-79](#5-79)         | 
-| [5-80](#5-80)         | 
-| [5-81](#5-81)         | 
-| [5-82](#5-82)         | 
-| [5-83](#5-83)         | 
-| [5-84](#5-84)         | 
-| [5-85](#5-85)         | 
-| [5-86](#5-86)         | 
-| [5-87](#5-87)         | 
-| [5-88](#5-88)         | 
-| [5-89](#5-89)         | 
-| [5-90](#5-90)         | 
-| [5-91](#5-91)         | 
-| [5-92](#5-92)         | 
-| [5-93](#5-93)         | 
-| [5-94](#5-94)         | 
-| [5-95](#5-95)         | 
-| [5-96](#5-96)         | 
-| [5-97](#5-97)         | 
-| [5-98](#5-98)         | 
-| [5-99](#5-99)         | 
-| [5-100](5-100)       | 
-| [5-101](5-101)       | 
-| [5-102](5-102)       | 
-| [5-103](5-103)       | 
-| [5-104](5-104)       | 
-| [5-105](5-105)       | 
-| [5-106](5-106)       | 
-| [5-107](5-107)       | 
-| [5-108](5-108)       | 
-| [5-109](5-109)       | 
-| [5-110](5-110)       | 
-| [5-111](5-111)       | 
-| [5-112](5-112)       | 
-| [5-113](5-113)       | 
-| [5-114](5-114)       | 
-| [5-115](5-115)       | 
-| [5-116](5-116)       | 
-| [5-117](5-117)       | 
-| [5-118](5-118)       | 
-| [5-119](5-119)       | 
-| [5-120](5-120)       | 
-| [5-121](5-121)       | 
-| [5-122](5-122)       | 
-| [5-123](5-123)       | 
-| [5-124](5-124)       | 
-| [5-125](5-125)       | 
-| [5-126](5-126)       | 
-| [5-127](5-127)       | 
-| [5-128](5-128)       | 
-| [5-129](5-129)       | 
+| Chapter 5     |  Transmission And Transfer Case Maintenance TASK SUMMARY 
+|------------   |-------------------------------
+| TASK          | PROCEDURES
+| [5-1 ](#5-1)  |  Transmission Maintenance Task Summary
+| [5-2 ](#5-2)  |  Transmission Service
+| [5-3 ](#5-3)  |  Transmission Oil Cooler Lines Replacement
+| [5-4 ](#5-4)  |  Transmission Bypass Va Lve Replacement
+| [5-5 ](#5-5)  |  Transmission Oil Dipstick Tube Replacement
+| [5-6 ](#5-6)  |  Neutral Start Switch Replacement
+| [5-7 ](#5-7)  |  Shift Controls Housing Assembly (Sf-5583581) Replacement
+| [5-8 ](#5-8)  |  Shift Controls Housing Assembly (Sf-5583581) Maintenance
+| [5-9 ](#5-9)  |  Shift Controls Housing Assembly (Sf-5583581) Repair
+| [5-10](#5-10) |  Shift Controls Housing Assembly (12460111/12460112) Replacement (4L80-E)
+| [5-11](#5-11) |  Shift Controls Housing Assembly (12460111/12460112) Maintenance
+| [5-12](#5-12) |  Transmission Shift Rod Maintenance (3L80)
+| [5-13](#5-13) |  Transmission Shift Rod Maintenance (4L80-E)
+| [5-14](#5-14) |  Modulator Assembly Replacement (3L80)
+| [5-15](#5-15) |  Modulator Link Replacement (3L80)
+| [5-16](#5-16) |  Transmission Vent Line Replacement
+| [5-17](#5-17) |  Sealed Lower Converter Housing Cover Maintenance
+| [5-18](#5-18) |  Sealed Upper Converter Housing Cover (2-Piece) Maintenance
+| [5-19](#5-19) |  Converter Housing Cover Replacement
+| [5-20](#5-20) |  Transmission Mount Replacement
+| [5-21](#5-21) |  Transmission Road Test
+| [5-22](#5-22) | 
+| [5-23](#5-23) |  Transfer Case Shift Rod Maintenance
+| [5-24](#5-24) |  Speedometer Driven Gear Maintenance
+| [5-25](#5-25) |  Transfer Case Vent Line Replacement
+| [5-26](#5-26) |  Transfer Case Oil Seals Replacement
 
 
-### Section I. Transmission Maintenance 
+## Section I. Transmission Maintenance 
+
+<a name="5-1"></a>
+
 ### 5-1. Transmission Maintenance Task Summary
 
 | Equipment Condition  Tools                                                                               |
@@ -163,7 +64,9 @@
 | 2.  Install receptacle (3) on control box (1) with two rivets (6).                                       |
 | a. Plug Removal   Note                                                                                   |
 
-## 5-2. Transmission Service
+<a name="5-2"></a>
+
+### 5-2. Transmission Service
 
 This task covers:
 b. Transmission Filter Removal **d. Replenishing Fluid**
@@ -174,90 +77,62 @@ General mechanic's tool kit:
 automotive (Appendix B, Item 1)
 
 #### Materials/Parts
-
-a. Draining Fluid c. Transmission Filter Installation
-
-#### Manual References
-
-TM 9-2320-280-10 TM 9-2320-280-24P
-General Safety Instructions Drycleaning solvent is flammable and will not be used near an open flame.
-
+a. Draining Fluid 
+c. Transmission Filter Installation
 Nonmetallic round seal (Appendix G, Item 286) Filter assembly (Appendix G, Item 31) (3L80) Gasket (Appendix G, Item 48) (3L80)
 Filter element kit (Appendix G, Item 33) (4L80-E)
 Gasket (Appendix G, Item 58) (4L80-E) Two locknuts (Appendix G, Item 103) Transmission fluid (Appendix C, Item 26 or 27) Drycleaning solvent (Appendix C, Item 18)
 
+#### Manual References
+TM 9-2320-280-10 TM 9-2320-280-24P
+General Safety Instructions Drycleaning solvent is flammable and will not be used near an open flame.
+
 #### A. Draining Fluid Note
-
 - Transmission service for the 3L80 and 4L80-E transmissions is basically the same. Differences are noted.
-
 - Do not shift through driving gear ranges when warming transmission fluid for removal. Shifting through driving gear ranges is a procedure used only when refilling transmission fluid.
-
 - Transmission should be warm when draining fluid. - Have drainage container ready to catch fluid.
 
-1. Remove drainplug (1) and gasket (2) from oil pan (3). Allow fluid to drain.
-
-Inspect fluid for grit, foaminess, and/or milkiness. If present, notify DS maintenance.
-
+1. Remove drainplug (1) and gasket (2) from oil pan (3). Allow fluid to drain. Inspect fluid for grit, foaminess, and/or milkiness. If present, notify DS maintenance.
 2. Install gasket (2) and drainplug (1) in oil pan (3) and tighten drain plug (1) to 20 lb-ft (27 N•m).
 
-b. Transmission Filter Removal
+**B. Transmission Filter Removal**
 
-Perform steps 1 through 5 for 3L80 transmissions only.
+    *Perform steps 1 through 5 for 3L80 transmissions only.*
+    1. Remove thirteen capscrews (6), oil pan (3), and gasket (5) from transmission (4). Discard gasket (5). 
+    2. Clean gasket (5) material from transmission (4) and oil pan (3) mating surfaces. 
+    3. Remove capscrew (11), oil filter (10), and spacer (9) from transmission (4). 
+    4. Pull suction tube (8) from oil filter (10) and remove seal (7). Discard seal (7).
+    5. Clean suction tube (8) and oil pan (3) thoroughly with drycleaning solvent.
 
-1. Remove thirteen capscrews (6), oil pan (3), and gasket (5) from transmission (4). Discard gasket (5). 2. Clean gasket (5) material from transmission (4) and oil pan (3) mating surfaces. 3. Remove capscrew (11), oil filter (10), and spacer (9) from transmission (4). 4. Pull suction tube (8) from oil filter (10) and remove seal (7). Discard seal (7).
+    ![573_image_0.png](images/573_image_0.png)
 
-Drycleaning solvent is flammable and will not be used near an open flame. A fire extinguisher will be kept nearby when the solvent is used. Use only in well ventilated places. Failure to do this may result in injury to personnel and/or damage equipment.
+    *Perform steps 6 through 9 for 4L80-E transmissions only.*
 
-5. Clean suction tube (8) and oil pan (3) thoroughly with drycleaning solvent.
+    Transfer case must be supported during removal and installation of crossmember for access to oil pan capscrew and to prevent damage to equipment.
+    6. Place support under transfer case and remove two locknuts (3), washers (2), capscrews (6), and crossmember (4) from support brackets (1) and (5). Discard locknuts (3).  Oil pan gasket is reusable. Discard only if damaged.
+    7. Remove seventeen capscrews (12), oil pan (11), and gasket (10) from transmission (7). 
+    8. Remove magnet (9) from oil pan (11). Remove filter (8) from transmission (7).
 
-5-2 Change 3
-
-5-2. TRANSMISSION SERVICE (Cont'd)
-
-![573_image_0.png](images/573_image_0.png)
-
-# 5-2. Transmission Service (Cont'D)
-
-Perform steps 6 through 9 for 4L80-E transmissions only.
-
-Transfer case must be supported during removal and installation of crossmember for access to oil pan capscrew and to prevent damage to equipment.
-
-6. Place support under transfer case and remove two locknuts (3), washers (2), capscrews (6), and crossmember (4) from support brackets (1) and (5). Discard locknuts (3). 
-
-Oil pan gasket is reusable. Discard only if damaged.
-
-7. Remove seventeen capscrews (12), oil pan (11), and gasket (10) from transmission (7). 8. Remove magnet (9) from oil pan (11). Remove filter (8) from transmission (7).
-
-Drycleaning solvent is flammable and will not be used near an open flame. A fire extinguisher will be kept nearby when the solvent is used Use only in well-ventilated places. Failure to do this may result in injury to personnel and/or damage to equipment.
-
-9. Clean oil pan (11) thoroughly with drycleaning solvent.
+    Drycleaning solvent is flammable and will not be used near an open flame. A fire extinguisher will be kept nearby when the solvent is used Use only in well-ventilated places. Failure to do this may result in injury to personnel and/or damage to equipment.
+    9. Clean oil pan (11) thoroughly with drycleaning solvent.
 
 c. Transmission Filter Installation
+    Perform steps 1 through 4 for 4L80-E transmissions only. 
+    1. Install filter (8) in transmission (7). Install magnet (9) in oil pan (11). 
+    2. Install gasket (10) and oil pan (11) on transmission (7) with seventeen capscrews (12). Tighten capscrews (12) to 18 lb-ft (24 N•m).
+    3. Install crossmember (4) on support brackets (1) and (5) with two capscrews (6), washers (2), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
+    4. Remove support from transfer case.
 
-Perform steps 1 through 4 for 4L80-E transmissions only. 
-
-1. Install filter (8) in transmission (7). Install magnet (9) in oil pan (11). 2. Install gasket (10) and oil pan (11) on transmission (7) with seventeen capscrews (12). Tighten capscrews (12) to 18 lb-ft (24 N•m).
-
-3. Install crossmember (4) on support brackets (1) and (5) with two capscrews (6), washers (2), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
-
-4. Remove support from transfer case.
-
-# 5-2. Transmission Service (Cont'D)
-
-![575_image_0.png](images/575_image_0.png)
-
-# 5-2. Transmission Service (Cont'D)
-
-Perform steps 5 through 9 for 3L80 transmissions only.
-
-5. Insert end of suction tube (3) marked "filter'' into oil filter (5). 6. Install seal (7) onto upper end of suction tube (3) marked "case'' and slide downward. 7. Position oil filter (5) on transmission (1) inserting suction tube (3) into oil input port (2). 8. Install oil filter (5) and spacer (4) on transmission (1) with capscrew (6). Tighten capscrew (6) 
-to 10-15 lb-ft (14-20 N•m).
-
-9. Install gasket (8) and oil pan (9) on transmission (1) with thirteen capscrews (10). Tighten capscrews (10) to 12 lb-ft (16 N•m).
+    ![575_image_0.png](images/575_image_0.png)
+    *Perform steps 5 through 9 for 3L80 transmissions only.*
+    5. Insert end of suction tube (3) marked "filter'' into oil filter (5). 
+    6. Install seal (7) onto upper end of suction tube (3) marked "case'' and slide downward. 
+    7. Position oil filter (5) on transmission (1) inserting suction tube (3) into oil input port (2). 
+    8. Install oil filter (5) and spacer (4) on transmission (1) with capscrew (6). Tighten capscrew (6) 
+    to 10-15 lb-ft (14-20 N•m).
+    9. Install gasket (8) and oil pan (9) on transmission (1) with thirteen capscrews (10). Tighten capscrews (10) to 12 lb-ft (16 N•m).
 
 ![576_image_0.png](images/576_image_0.png)
-
-5-2. TRANSMISSION SERVICE (Cont'd)
 
 ![577_image_0.png](images/577_image_0.png)
 
@@ -271,7 +146,10 @@ to 10-15 lb-ft (14-20 N•m).
 
 FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check for leaks.
 
-# 5-3. Transmission Oil Cooler Lines Replacement
+
+<a name="5-2"></a>
+
+### 5-3. Transmission Oil Cooler Lines Replacement
 
 This task covers:
 INITIAL SETUP:
@@ -301,65 +179,47 @@ Allow transmission to cool before performing this task. Severe injury to personn
 
 #### A. Removal
 
-1. Remove retaining clamps (3) from cooler lines (4). 2. Loosen hose clamps (1) on rubber hoses (2) and cooler lines (4). 3. Loosen hose clamps (5) on cooler lines (4).
-
-Have drainage container ready to catch fluid.
-
+1. Remove retaining clamps (3) from cooler lines (4). 
+2. Loosen hose clamps (1) on rubber hoses (2) and cooler lines (4). 
+3. Loosen hose clamps (5) on cooler lines (4). Have drainage container ready to catch fluid.
 4. Disconnect cooler lines (4) at each end and allow to drain.
-
 Perform step 5 for M997A2, M1025A2, M1035A2, M1043A2, M1045A2, M1097A2, and M1123 vehicles only.
-
 5. Disconnect two cooler lines (4) from by-pass valve (6).
 
 NOTE
 Perform steps 6 and 7 to allow access only if removing oil cooler lines from oil cooler.
-
 6. Remove four locknuts (9), washers (10), and capscrews (11) from radiator supports (7) and airlift brackets (8). Discard locknuts (9).
-
 7. Remove locknut (12), washer (13), capscrew (17), washer (13), large washer (16), and mount (15) from radiator (14) and front mounting bracket (18). Discard locknut (12).
-
 8. Remove cooler lines (4) and rubber hoses (2) from vehicle.
-
-# 5-3. Transmission Oil Cooler Lines Replacement (Corítl)
 
 ![579_image_0.png](images/579_image_0.png)
 
-## 5 - 3 . Transmission Oil Cooler Lines Replacement (Cont' D )
 
-b. Installation 1. Position rubber hoses (2) and cooler lines (4) in proper position.
+b. Installation 
 
+1. Position rubber hoses (2) and cooler lines (4) in proper position.
 Perform step 3 for M997A2, M1025A2, M1035A2, M1043A2, M1045A2, M1097A2, and M1123 vehicles only.
-
-2. Connect two cooler lines (4) to by-pass valve (6) and hoses (2). 3. Tighten hose clamps (1) on rubber hoses (2) to cooler lines (4). 4. Tighten hose clamps (5) on cooler lines (4).
-
+2. Connect two cooler lines (4) to by-pass valve (6) and hoses (2). 
+3. Tighten hose clamps (1) on rubber hoses (2) to cooler lines (4). 
+4. Tighten hose clamps (5) on cooler lines (4).
 Perform steps 5 and 6 only if installing oil cooler lines to oil cooler.
-
 5. Install radiator (9) to front mounting bracket (13) with mount (10), large washer (11), washer (8),
 capscrew (12), washer (8), and locknut (7). Tighten capscrew (12) to 30 lb-ft (41 N•m).
-
-6. Install radiator supports (14) to airlift brackets (15) with four capscrews (18), washers (17), and
-
+6. Install radiator supports (14) to airlift brackets (15) with four capscrews (18), washers (17), and locknuts (16). Tighten locknuts (16) to 31 lb-ft (42 N•m).
 ![580_image_0.png](images/580_image_0.png)
-
-locknuts (16). Tighten locknuts (16) to 31 lb-ft (42 N•m).
-
 7. Install retaining clamps (3) on cooler lines (4).
-
 ![581_image_0.png](images/581_image_0.png)
-
-# 5-3. Transmission Oil Cooler Lines Replacement (Corítb)
-
 ![581_image_1.png](images/581_image_1.png)
 
 FOLLOW-ON TASKS:  - Fill transmission to proper level (TM 9-2320-280-10).
 
 - Start engine (TM 9-2320-280-10) and check for leaks.
-
 - Install right splash shield, if removed (para 10-20).
+- Install left splash shield access cover, if removed (para. 10-18).
 
-· Install left splash shield access cover, if removed (para. 10-18).
+<a name="5-4"></a>
 
-# 5 - 4 . Transmission Bypass Va Lve Replacement
+# 5-4 . Transmission Bypass Va Lve Replacement
 
 This task covers:
 
@@ -405,6 +265,9 @@ FOLLOW-ON TASKS:  - Fill transmission to proper level (TM 9-2320-280-10).
 
 - …
 
+<a name="5-5"></a>
+
+
 # 5-5. Transmission Oil Dipstick Tube Replacement
 
 This task covers:
@@ -447,6 +310,9 @@ Fill transmission to proper level (TM 9-2320-280-10).
 Lower and secure hood (TM 9-2320-280-10).
 
 Start engine (TM 9-2320-280-10) and check for leaks.
+
+
+<a name="5-6"></a>
 
 # 5-6. Neutral Start Switch Replacement
 
@@ -493,6 +359,10 @@ FOLLOW-ON TASKS: - Install shift controls housing (para. 5-7 or 5-10).
 
 · Check neutral start switch for proper operation (TM 9-2320-280-10).
 
+
+<a name="5-7"></a>
+
+
 # 5-7. Shift Controls Housing Assembly (Sf-5583581) Replacement
 
 This task covers:
@@ -536,7 +406,10 @@ from body (13). Discard locknuts (15).
 FOLLOW-ON TASKS: - • Connect battery ground cables (para. 4-73).
 - • - • - • - • - • Start engine (TM 9-2320-280-10), check shift controls for proper operation, and adjust as needed (paras. 5-12 and 5-23).
 
-# 5 - 8 . Shift Controls Housing Assembly (Sf-5583581) Maintenance
+<a name="5-8"></a>
+
+
+# 5-8 . Shift Controls Housing Assembly (Sf-5583581) Maintenance
 
 This task covers:
 INITIAL SETUP:
@@ -576,6 +449,9 @@ in shift control housing assembly (9) align with holes (15) in boot (11 ) .
 ![591_image_0.png](images/591_image_0.png)
 
 FOLLOW-ON TASK: Install shift control housing assembly (para. 5-7).
+
+<a name="5-9"></a>
+
 
 # 5-9. Shift Controls Housing Assembly (Sf-5583581) Repair
 
@@ -657,6 +533,9 @@ com-pression spring (17), spring retaining collar (15), transfer shift lever arm
 5-9. SHIFT CONTROLS HOUSING ASSEMBLY (SF-5583581) REPAIR (Cont'd)
 FOLLOW-ON TASK: Assemble shift controls housing assembly (para 5-8).
 
+<a name="5-10"></a>
+
+
 # 5-10. Shift Controls Housing Assembly (12460111/12460112) Replacement (4L80-E)
 
 This task covers:
@@ -699,6 +578,9 @@ FOLLOW-ON-TASKS: - Connect battery ground cable (para. 4-73).
 
 -  Start engine (TM 9-2320-280-10), check shift controls for proper operation, and adjust as needed (paras. 5-13 and 5-23).
 
+<a name="5-11"></a>
+
+
 # 5-11. Shift Controls Housing Assembly (12460111/12460112) Maintenance
 
 This task covers:
@@ -734,6 +616,9 @@ b. Assembly 1. Install gasket (14) and cover plate (15) on shift controls housin
 ![599_image_0.png](images/599_image_0.png)
 
 FOLLOW-ON TASK: Install shift control housing assembly (para. 5-10).
+
+<a name="5-12"></a>
+
 
 # 5-12. Transmission Shift Rod Maintenance (3L80)
 
@@ -777,6 +662,9 @@ Manual References TM 9-2320-280-10 TM 9-2320-280-24P
 FOLLOW-ON  TASK:  Operate vehicle (TM 9-2320-280-10) and test transmission shift lever for
  
 
+<a name="5-13"></a>
+
+
 # 5-13. Transmission Shift Rod Maintenance (4L80-E)
 
 This task covers:
@@ -817,6 +705,10 @@ Proper adjustment makes end of shift rod movement parallel to relay lever moveme
 
 FOLLOW-ON TASK:
  Operate vehicle (TM 9-2320-280-10) and test transmission shift lever for proper operation.
+
+
+<a name="5-14"></a>
+
 
 # 5-14. Modulator Assembly Replacement (3L80)
 
@@ -881,6 +773,9 @@ FOLLOW-ON TASKS:
 
 · Road test and check for proper operation (para. 5-21).
 
+<a name="5-15"></a>
+
+
 # 5-15. Modulator Link Replacement (3L80)
 
 This task covers:
@@ -924,6 +819,9 @@ Note orientation of modulator link and bracket for installation.
 FOLLOW-ON TASKS: - Install engine access cover (para. 10-15).
 - • - Fill cooling system (para. 3-60).
 
+<a name="5-16"></a>
+
+
 # 5-16. Transmission Vent Line Replacement
 
 This task covers:
@@ -950,6 +848,10 @@ Materials/Parts Adhesive sealant (Appendix C, Item 9)
 ![609_image_0.png](images/609_image_0.png)
 
 ![609_image_1.png](images/609_image_1.png)
+
+
+<a name="5-17"></a>
+
 
 # 5-17. Sealed Lower Converter Housing Cover Maintenance
 
@@ -1001,7 +903,7 @@ c. Installation
 
 5-40 Change 3
 
-# 5 - 1 7 . Sealed Lower Converter Housing Cover Maintenance (Cont'D)
+# 5-1 7 . Sealed Lower Converter Housing Cover Maintenance (Cont'D)
 
 For M1123 and A2 series vehicles, ensure converter housing cover is seated on oil pan flange to prevent converter housing cover from hitting flywheel and damaging converter housing cover.
 
@@ -1018,6 +920,9 @@ with four capscrews (2).
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 - Install crossover pipe (para. 3-50). - Install sealed upper converter housing cover (para. 5-18).
+
+<a name="5-18"></a>
+
 
 # 5-18. Sealed Upper Converter Housing Cover (2-Piece) Maintenance
 
@@ -1057,6 +962,10 @@ Gasket may require bending over edge of converter housing cover to make gasket s
 
 FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
+
+<a name="5-19"></a>
+
+
 ## 5-19. Converter Housing Cover Replacement
 
 This task covers:
@@ -1085,6 +994,9 @@ FOLLOW-ON TASKS: Install crossover pipe (para. 3-50).
 
 Connect battery ground cable (para. 4-73).
 
+<a name="5-20"></a>
+
+
 # 5-20. Transmission Mount Replacement
 
 ![615_image_0.png](images/615_image_0.png)
@@ -1107,6 +1019,9 @@ a. Removal Remove two capscrews (4), lockwashers (3), and transmission mount (2)
 b. Installation Install transmission mount (2) on adapter (1) with two lockwashers (3) and capscrews (4). Tighten capscrews (4) to 65 lb-ft (88 N•m).
 
 FOLLOW-ON TASK: Install transmission mount crossmember (para. 9-15).
+
+<a name="5-21"></a>
+
 
 ## 5-21. Transmission Road Test
 
@@ -1171,18 +1086,27 @@ Position shift lever in and with the vehicle speed at approximately 45 mph, clos
 
 Position shift lever in "D" and with the vehicle speed at approximately 35 mph, close throttle and move lever to '2". Transmission should downshift to 2nd gear. An increase in engine rpm and engine braking effect should be noticed.
 
-## 5 - 2 1 . Transmission Road Test (Cont'D)
+## 5-2 1 . Transmission Road Test (Cont'D)
 
 7. Position shift lever "2" and with the vehicle speed at approximately 25 mph (40 km), close the throttle and move lever to "1". Transmission should downshift to 1st gear. An increase in engine RPM and engine braking effect should be noticed.
 
 8. Position shift lever in "R" and check for reverse operation. 9. Hard shifting may indicate an underfilled or clogged system.
 
-## Section Ii. Transfer Case Maintenance 5-22. Transfer Case Maintenance Task Summary
+## Section Ii. Transfer Case Maintenance 
+
+
+<a name="5-22"></a>
+
+
+### 5-22. Transfer Case Maintenance Task Summary
 
 | 3.   | Install gasket (13), cover (12), modulator link (4), and bracket (2) on cylinder head (10) with two  capscrews (1).   |
 |------|-----------------------------------------------------------------------------------------------------------------------|
 | 4.   | Position modulator cable (9) through bracket (2), install washer (7), and start front cable nut (3).                  |
 | 5.   | Pull cable clip (6) out and connect to modulator link pin (5). Tighten rear cable nut (8).                            |
+
+<a name="5-23"></a>
+
 
 # 5-23. Transfer Case Shift Rod Maintenance
 
@@ -1226,7 +1150,9 @@ Discard cotter pin (8).
 
 FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check for proper shifter operation.
 
-# 5-23. Transfer Case Shift Rod Maintenance (Cont'D)
+
+<a name="5-24"></a>
+
 
 # 5-24. Speedometer Driven Gear Maintenance
 
@@ -1281,6 +1207,9 @@ Perform step 3.1 only if drive tip was removed.
 ![621_image_1.png](images/621_image_1.png)
 
 FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check speedometer for proper operation.
+
+<a name="5-25"></a>
+
 
 ## 5-25. Transfer Case Vent Line Replacement
 
@@ -1347,6 +1276,9 @@ OLD CONFIGURATION
 ![626_image_1.png](images/626_image_1.png)
 
 5-52.4 Change 3
+
+<a name="5-26"></a>
+
 
 # 5-26. Transfer Case Oil Seals Replacement
 
