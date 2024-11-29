@@ -95,7 +95,7 @@ Remove four locknuts (3), washers (4), capscrews (6), washers (4), bumper (1), a
 
 b. Installation Install bumper (1) and two towing brackets (5) on mounting brackets (2) with four washers (4), 
 
-![895_image_0.png](895_image_0.png) capscrews (6), washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
+![895_image_0.png](images/895_image_0.png) capscrews (6), washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
 
 # 9-3. Front Bumper And Towing Brackets Replacement
 
@@ -134,7 +134,7 @@ washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
 3. Install two towing brackets (6) on front bumper (1) with three washers (4), capscrews (5), 
 washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
 
-![896_image_0.png](896_image_0.png)
+![896_image_0.png](images/896_image_0.png)
 
 FOLLOW-ON TASK: Install winch (para. 10-107).
 
@@ -175,7 +175,7 @@ washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
 
 9-4. FRONT BUMPER AND TOWING BRACKETS REPLACEMENT (Cont'd)
 
-![898_image_0.png](898_image_0.png)
+![898_image_0.png](images/898_image_0.png)
 
 # 9-5. Frame Extension Replacement
 
@@ -211,7 +211,7 @@ and locknut (2). Tighten locknuts (2) to 90 lb-ft (122 N•m).
 
 ## 9-5. Frame Extension Replacement
 
-![900_image_0.png](900_image_0.png)
+![900_image_0.png](images/900_image_0.png)
 
 FOLLOW-ON TASKS: - Install hood and hinge (para. 10-5).
 - Install front bumper (para. 9-3 or 9-4).
@@ -234,7 +234,7 @@ a. Removal Remove cotter pin (2), nut (3), and tiedown ring (1) from mounting br
 
 b. Installation Install tiedown ring (1) on mounting bracket (4) with nut (3). Tighten nut (3) to 16 lb-ft (22 N•m), back off to the nearest cotter pin slot, and install cotter pin (2).
 
-![901_image_0.png](901_image_0.png)
+![901_image_0.png](images/901_image_0.png)
 
 # 9-7. Radiator Front Mount Bracket Replacement
 
@@ -262,7 +262,7 @@ capscrews (1), washers (8), and locknuts (7). Tighten locknuts (7) to 90 lb-ft (
 
 2. Install radiator (4) on bracket (11) with spacer (9), washer (2), capscrew (10), washer (2), and locknut (3). Tighten locknut (3) to 30 lb-ft (41 N•m).
 
-![902_image_0.png](902_image_0.png)
+![902_image_0.png](images/902_image_0.png)
 
 FOLLOW-ON TASK: Lower and secure hood (TM 9-2320-280-10).
 
@@ -294,7 +294,7 @@ and locknuts (9).
 
 2. Install rear bumper brace (3) on frame rail (4) with washer (2), capscrew (1), washer (2), and locknut (5). Tighten locknuts (5) and (9) to 90 lb-ft (122 N•m).
 
-![903_image_0.png](903_image_0.png)
+![903_image_0.png](images/903_image_0.png)
 
 # 9-9. Rear Crossmember Brace Replacement
 
@@ -318,7 +318,7 @@ Remove locknut (5), washer (2), capscrew (3), washer (2), and rear crossmember b
 
 b. Installation Install rear crossmember brace (4) on frame rail (1) with washer (2), capscrew (3), washer (2), and
 
-![904_image_0.png](904_image_0.png) locknut (5). Tighten locknut (5) to 90 lb-ft (122 N•m).
+![904_image_0.png](images/904_image_0.png) locknut (5). Tighten locknut (5) to 90 lb-ft (122 N•m).
 
 FOLLOW-ON TASK: Install towing pintle (para. 9-12).
 
@@ -389,7 +389,7 @@ washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
 
 9. Install trailer receptacle cover (16) on plate (13) and rear bumper (12) with four capscrews (15) and
 
-![906_image_0.png](906_image_0.png)
+![906_image_0.png](images/906_image_0.png)
 
 assembled locknuts (9). Tighten assembled locknuts (9) to 8 lb-ft (11 N•m).
 
@@ -412,7 +412,7 @@ b. Installation
 
 Ensure spacer on outer side of frame rail is in position before installing
 
-![907_image_0.png](907_image_0.png) spacer and bracket.
+![907_image_0.png](images/907_image_0.png) spacer and bracket.
 
 1. Install spacer (8) and bracket (7) on frame rail (2) with four washers (6), capscrews (5), washers (6),
 and locknuts (10). Tighten capscrews (5) to 90 lb-ft (122 N•m).
@@ -435,7 +435,7 @@ a. Removal **b. Installation**
 | General mechanic's tool kit:      |                                  |
 | automotive (Appendix B, Item 1)   |                                  |
 
-![908_image_0.png](908_image_0.png)
+![908_image_0.png](images/908_image_0.png)
 
 a. Removal 1. Remove cotter pin (2), slotted nut (1), washer (3), and towing pintle (10) from rear crossmember (6).
 
@@ -479,7 +479,7 @@ Discard cotter pin (3).
 
 2. Remove four nuts (1), washers (11), capscrews (10), washers (11), two support plates (6), backing
 
-![909_image_0.png](909_image_0.png)
+![909_image_0.png](images/909_image_0.png)
 
 plate (5), and safety chain plate (8) from rear crossmember (7).
 
@@ -497,7 +497,7 @@ back plate (7) from front bumper (1). Discard locknuts (9).
 
 OPTIONAL
 
-![910_image_0.png](910_image_0.png)
+![910_image_0.png](images/910_image_0.png)
 
 # 9-12. Towing Pintle Maintenance (Cont'D)
 
@@ -525,13 +525,13 @@ Remove drivescrew (23) and pintle lock chain (13) from towing pintle hook (22). 
 
 #### Warnin G
 
-![911_Image_0.Png](911_Image_0.Png)
+![911_Image_0.png](images/911_Image_0.Png)
 
 Drycleaning solvent is flammable and will not be used near an open flame. A fire extinguisher will be kept nearby when the solvent is used. Use only in well-ventilated places. Failure to do this may result in injury to personnel and/or damage to equipment.
 
 Clean all metallic parts with drycleaning solvent.
 
-![911_image_1.png](911_image_1.png)
+![911_image_1.png](images/911_image_1.png)
 
 ## 9-12. Towing Pintle Maintenance (Cont'D)
 
@@ -561,7 +561,7 @@ e. Installation
 
 #### Note
 
-![912_Image_1.Png](912_Image_1.Png)
+![912_Image_1.png](images/912_Image_1.Png)
 
 Perform steps 1 through 3 for rear-mounted towing pintle.
 
@@ -571,7 +571,7 @@ Grease fitting on backing plate must face downward.
 
 1. Install safety chain plate (22), support plates (20), and backing plate (13) on rear crossmember (21)
 
-![912_image_0.png](912_image_0.png)
+![912_image_0.png](images/912_image_0.png)
 
 with four washers (16), capscrews (24), washers (16), and nuts (15).
 
@@ -595,11 +595,11 @@ rotates freely and hole in towing pintle (27) shaft aligns with slot in nut (30)
 
 n
 
-![913_image_0.png](913_image_0.png)
+![913_image_0.png](images/913_image_0.png)
 
 OPTIONAL
 
-![913_image_1.png](913_image_1.png)
+![913_image_1.png](images/913_image_1.png)
 
 FOLLOW-ON TASKS: Lubricate rear-mounted towing pintle (TM 9-2320-280-10).
 
@@ -632,7 +632,7 @@ b. Installation 1.Install shackle (6) on frame (3) with spring washer (4), capsc
 
 2.Back off slotted nut (2) to align with hole in capscrew (5) and install cotter pin (1) in slotted nut (2).
 
-![914_image_0.png](914_image_0.png)
+![914_image_0.png](images/914_image_0.png)
 
 # 9-14. Receptacle Mounting Bracket Replacement
 
@@ -673,7 +673,7 @@ If bracket was held on to "D" beam with rivets, do step 1. If not, do step 2.
 
 1. With a 0.3125-in. drill bit, enlarge existing rivet holes on bracket (4) and "D" beam (3).
 
-![915_image_0.png](915_image_0.png) 2. Install bracket (4) on "D" beam (3) with two washers (7), capscrews (8), and locknuts (2). 3. Install receptacle (1) and cover (5) on bracket (4) with four capscrews (6) and assembled locknuts (9).
+![915_image_0.png](images/915_image_0.png) 2. Install bracket (4) on "D" beam (3) with two washers (7), capscrews (8), and locknuts (2). 3. Install receptacle (1) and cover (5) on bracket (4) with four capscrews (6) and assembled locknuts (9).
 
 # 9-15. Transmission Mount Crossmember Replacement
 
@@ -719,7 +719,7 @@ Tighten locknuts (15) to 28 lb-ft (38 N•m).
 
 9-15. TRANSMISSION MOUNT CROSSMEMBER REPLACEMENT (Cont'd)
 
-![917_image_0.png](917_image_0.png)
+![917_image_0.png](images/917_image_0.png)
 
 ## 9-16. Rear Crossmember Replacement
 
@@ -735,7 +735,7 @@ Tighten locknuts (15) to 28 lb-ft (38 N•m).
 |                                       | Manual References    |
 | Tools                                 | TM 9\-2320\-280\-24P |
 
-![918_image_0.png](918_image_0.png)
+![918_image_0.png](images/918_image_0.png)
 
 a. Removal **b. Installation**
 

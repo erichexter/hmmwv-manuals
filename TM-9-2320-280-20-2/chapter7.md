@@ -97,7 +97,7 @@ Perform steps 9-11 only if parking brake pads were replaced.
 
 # 7-2. Parking Brake Adjustment (Cont'D)
 
-![706_image_0.png](706_image_0.png)
+![706_image_0.png](images/706_image_0.png)
 
 FOLLOW-ON TASK:  Check parking brake for proper operation (TM 9-2320-280-10).
 
@@ -132,7 +132,7 @@ Remove spring (21) from pin post (18). Discard cotter pin (24).
 
 7-3. PARKING BRAKE CALIPER AND ROTOR MAINTENANCE (Cont'd)
 
-![708_image_0.png](708_image_0.png)
+![708_image_0.png](images/708_image_0.png)
 
 ## 7-3. Parking Brake Caliper And Rotor Maintenance (Cont'D)
 
@@ -163,9 +163,9 @@ Remove spring (21) from pin post (18). Discard cotter pin (24).
 
 # 7-3. Parking Brake Caliper And Rotor Maintenance (Cont'D)
 
-![710_image_0.png](710_image_0.png)
+![710_image_0.png](images/710_image_0.png)
 
-![710_image_1.png](710_image_1.png)
+![710_image_1.png](images/710_image_1.png)
 
 # 7-3. Parking Brake Callper **And Rotor Maintenance (Cont'D)**
 
@@ -194,7 +194,7 @@ Position rotor (12) to caliper (11). Install clevis (19) to cam (17) with clevis
 
 7-3. PARKING BRAKE CALIPER AND ROTOR MAINTENANCE (Cont'd)
 
-![712_image_0.png](712_image_0.png)
+![712_image_0.png](images/712_image_0.png)
 
 FOLLOW-ON TASK: Adjust parking brake (para. 7-2).
 
@@ -247,9 +247,9 @@ and locknuts (16).
 
 # 7-4. Parking Brake Lever Replacement (Cont'D)
 
-![714_image_0.png](714_image_0.png)
+![714_image_0.png](images/714_image_0.png)
 
-![714_image_1.png](714_image_1.png)
+![714_image_1.png](images/714_image_1.png)
 
  FOLLOW-ON TASKS: - Install parking brake switch (para. 4-19).
 
@@ -302,7 +302,7 @@ capscrews (23), washers (6), and locknuts (7). Tighten locknuts (7) to 5 lb-ft (
 
 # 7-5. Parking Brake Cable Replacement (Cont'D)
 
-![716_image_0.png](716_image_0.png)
+![716_image_0.png](images/716_image_0.png)
 
 7)
 FOLLOW-ON TASKS: - Install muffler and insulator (para. 3-48).
@@ -342,9 +342,9 @@ Perform steps 6 and 7 if replacing spring. If not replacing spring, go to b., in
 
 # 7-6. Parking Brake Rod Replacement (Cont'D)
 
-![718_image_0.png](718_image_0.png)
+![718_image_0.png](images/718_image_0.png)
 
-![718_image_1.png](718_image_1.png)
+![718_image_1.png](images/718_image_1.png)
 
 FOLLOW-ON TASKS: - Install muffler and insulator (para. 3-48).
 - Adjust parking brake (para. 7-2).
@@ -364,7 +364,7 @@ a. Removal Remove two capscrews (1), lockwashers (2), and heat shield (3) from p
 
 b. Installation Install heat shield (3) to parking brake bracket (4) with two lockwashers (2) and capscrews (1). Tighten capscrews (1) to 6 lb-ft (8 N•m).
 
-![719_image_0.png](719_image_0.png)
+![719_image_0.png](images/719_image_0.png)
 
 # 7-8. Parking Brake Heat Shield And Heat Shield Extension Replacement
 
@@ -393,7 +393,7 @@ a. Removal b. Installation Manual References TM 9-2320-280-24P
 
 3. Remove two nuts (12), lockwashers (11), heat shield (2), capscrews (9), and washers (10) from heat
 
-![720_image_0.png](720_image_0.png)
+![720_image_0.png](images/720_image_0.png)
 
 shield extension (1). Discard lockwashers (11).
 
@@ -406,7 +406,7 @@ lockwashers (11), and nuts (12).
 
 7-8. PARKING BRAKE HEAT SHIELD AND HEAT SHIELD EXTENSION REPLACEMENT (Confb)
 
-![722_image_0.png](722_image_0.png)
+![722_image_0.png](images/722_image_0.png)
 
 # 7-8.1. Brake Protection Guards Replacement
 
@@ -458,9 +458,9 @@ from front rear crossmember (5) and front crossmember (13). Discard locknuts (11
 
 (14)
 
-![724_image_0.png](724_image_0.png)
+![724_image_0.png](images/724_image_0.png)
 
-![724_image_1.png](724_image_1.png)
+![724_image_1.png](images/724_image_1.png)
 
 # 7 - 8 . 1 . Brake Protection Guards Replacement (Co N T ' D)
 
@@ -492,11 +492,11 @@ capscrews (18), washers (4), and locknuts (3). Tighten capscrews (18) to 378 lb-
 
 (14
 
-![726_image_0.png](726_image_0.png)
+![726_image_0.png](images/726_image_0.png)
 
 (18
 
-![726_image_1.png](726_image_1.png)
+![726_image_1.png](images/726_image_1.png)
 
 # Section Ii. Service Brake System Maintenance 7-9. Service Brake System Maintenance Task Summary
 
@@ -613,7 +613,7 @@ Check the master cylinder fluid level frequently during the bleeding operation a
 
 4. When pedal reaches floor, tighten bleeder screw (6) and have assistant slowly release brake pedal. 5. Repeat steps 3 and 4 until fluid flows clear and free of air bubbles. 6. Disconnect hose (8) from bleeder screw (6) and install protective cap (5) on bleeder screw (6).
 
-![729_image_0.png](729_image_0.png)
+![729_image_0.png](images/729_image_0.png)
 
 # 7-10. Service Brake System Bleeding Instructions (Cont'D)
 
@@ -650,7 +650,7 @@ Refill reservoirs (2) with silicone brake fluid and repeat step 4 until no air b
 
 # 7-10. Service Brake System Bleeding Instructions (Cont'D)
 
-![731_Image_0.Png](731_Image_0.Png)
+![731_Image_0.png](images/731_Image_0.Png)
 
 FOLLOW-ON TASKS: Lower and secure hood (TM 9-2320-280-10).
 
@@ -725,7 +725,7 @@ When installing yoke and caliper, use a "C" clamp and a block of wood to bottom 
 
 2 . Apply sealing compound to threads of capscrews (7). Using crowfoot, install yoke (5) and caliper (4) to
 
-![733_image_0.png](733_image_0.png)
+![733_image_0.png](images/733_image_0.png)
 
 adapter (3) with two washers (6) and capscrews (7). Tighten two capscrews (7) to 30-40 lb-ft (41-54 N.m ) .
 
@@ -804,7 +804,7 @@ When installing caliper, use a "C" clamp and a block of wood to bottom out pisto
 
 4. Apply sealing compound to tapped holes of adapter (4). Using crowfoot, install yoke (5) and 
 
-![735_image_0.png](735_image_0.png)
+![735_image_0.png](images/735_image_0.png)
 
 caliper (9) to adapter (4) with two washers (6) and capscrews (7). Tighten two capscrews (7) to 30-40 lb-ft (41-54 N•m).
 
@@ -874,7 +874,7 @@ Repeat steps 1 and 2 until front reservoir is purged of air.
 
 Repeat steps 1 through 3 for rear reservoir with brake line (6)
 
-![737_image_0.png](737_image_0.png)
+![737_image_0.png](images/737_image_0.png)
 
 FOLLOW-ON TASK: Bleed brake system (para. 7-10).
 
@@ -920,7 +920,7 @@ Discard lockwashers (11).
 
 # 7-14. Hydro-Boost Replacement (Cont'D)
 
-![739_image_0.png](739_image_0.png)
+![739_image_0.png](images/739_image_0.png)
 
 FOLLOW-ON TASKS: - Install master cylinder (para. 7-13).
 
@@ -966,7 +966,7 @@ Cover or plug all open lines and connections immediately after disconnection to 
 
 # 7-15. Brake Lines Replacement (Cont'D)
 
-![741_image_0.png](741_image_0.png)
+![741_image_0.png](images/741_image_0.png)
 
 ## 7-15. Brake Lines Replacement (Cont'D)
 
@@ -992,7 +992,7 @@ Remove two tiedown straps (11) from brake lines (1) and (10). Discard tiedown st
 
 Remove clip (4) and left front brake line (1) from bracket (2) and intermediate brake line (3). Remove intermediate brake line (3) from tee (5).
 
-![742_image_0.png](742_image_0.png)
+![742_image_0.png](images/742_image_0.png)
 
 # 7 - 1 5 . Brake Lines Replacement (Cont'D)
 
@@ -1002,7 +1002,7 @@ Remove clip (4) and left front brake line (1) from bracket (2) and intermediate 
 
 12. Remove capscrew (31), clamp (32), and left rear brake line (18) from bracket (33). 13. Remove clip (24) and left rear brake line (18) from bracket (19) and intermediate brake line (23). 14. Remove locknut (22), two washers (21), screw (20), and bracket (19). Discard locknut (22).
 
-![743_image_0.png](743_image_0.png)
+![743_image_0.png](images/743_image_0.png)
 
 ## 7 - 1 5 . Brake Lines Replacement (Cont'D)
 
@@ -1021,7 +1021,7 @@ b. Caliper to Tee Brake Line Installation
 
 1 . Connect brake line (1) to rear tee (5) at forward rear crossmember (4). 2 . Connect brake line (1) to caliper (7). 3 . Install brake line (1) and vent line (3) in clamp (2).
 
-![744_image_0.png](744_image_0.png) 4 . Install brake line (1), vent line (3), and clamp (2) to forward rear crossmember (4) with capscrew ( 6 ) .
+![744_image_0.png](images/744_image_0.png) 4 . Install brake line (1), vent line (3), and clamp (2) to forward rear crossmember (4) with capscrew ( 6 ) .
 
 ## 7-15. Brake Lines Replacement (Cont'D)
 
@@ -1040,13 +1040,13 @@ Install clamp (19) and brake line (24) on yoke (20) with washer (22) and capscre
 
 Install intermediate brake line (10) to tee (12).
 
-![745_image_0.png](745_image_0.png)
+![745_image_0.png](images/745_image_0.png)
 
 ## 7 - 1 5 . Brake Lines Replacement (Cont'D)
 
 13. Install clamp (16) and brake line (1) on bracket (17) with capscrew (15). 14. Install clamp (10) and brake line (9) on yoke (11) with washer (13) and capscrew (14).
 
-![746_image_0.png](746_image_0.png) 15. Connect intermediate brake line (7) to tee (18).
+![746_image_0.png](images/746_image_0.png) 15. Connect intermediate brake line (7) to tee (18).
 
 10. Install bracket (2) to crossmember (5) with washer (4), screw (3), washer (4), and locknut (6).
 
@@ -1060,7 +1060,7 @@ c. Rear Brake Line Removal 1 . Disconnect rear brake line (20) from rear tee (19
 
 d. Rear Brake Line Installation 1 . Install rear brake line (20) to intermediate brake line (24). 2 . Install rear brake line (20) and clamp (22) to forward rear crossmember (21) with capscrew (23).
 
-![747_image_0.png](747_image_0.png) 3 . Connect rear brake line (20) to rear tee (19).
+![747_image_0.png](images/747_image_0.png) 3 . Connect rear brake line (20) to rear tee (19).
 
 ## 7 - 1 5 . Brake Lines Replacement (Cont'D)
 
@@ -1070,7 +1070,7 @@ e. Intermediate Brake Line Removal 1 . Disconnect intermediate brake line (4) fr
 
 1. Install intermediate brake line (4) to proportioning valve to union brake line (6). 2. Connect intermediate brake line (4) to rear brake line (1). 3. Install intermediate brake line (4) and five clamps (2) to frame (5) with five capscrews (3).
 
-![748_image_0.png](748_image_0.png)
+![748_image_0.png](images/748_image_0.png)
 
 ## 7 - 1 5 . Brake Lines Replacement (Cont'D)
 
@@ -1084,7 +1084,7 @@ i. **Proportioning Valve to Front Tee Brake Line Removal**
 j. **Proportioning Valve to Front Tee Brake Line Installation**
 1. Connect brake line (10) to front tee (12).
 
-![749_image_0.png](749_image_0.png) 2. Connect brake line (10) to proportioning valve (11).
+![749_image_0.png](images/749_image_0.png) 2. Connect brake line (10) to proportioning valve (11).
 
 ## 7 - 1 5 . Brake Lines Replacement (Cont'D)
 
@@ -1106,7 +1106,7 @@ k. Caliper to Tee Support Brackets Removal
 
 # 7-15. Brake Lines Replacement (Cont'D)
 
-![751_image_0.png](751_image_0.png)
+![751_image_0.png](images/751_image_0.png)
 
 FOLLOW-ON TASK: Install brake protection guards (para. 7-8.1).
 
@@ -1155,7 +1155,7 @@ Using adapter and crowfoot, tighten nut (4) to 60 lb-ft (81 N•m).
 
 # 7-16. Service Brake Pedal (12338394) Replacement (Cont'D)
 
-![753_image_0.png](753_image_0.png)
+![753_image_0.png](images/753_image_0.png)
 
 FOLLOW-ON TASKS: - Install protective control box (para. 4-5).
 
@@ -1197,7 +1197,7 @@ and disconnect hydro-boost pushrod (6) from brake pedal bellcrank (10). Remove s
 
 # 7-17. Service Brake Pedal (Ex 5935037) Replacement (Cont'D)
 
-![755_image_0.png](755_image_0.png)
+![755_image_0.png](images/755_image_0.png)
 
 FOLLOW-ON TASKS: - Install stoplight switch (para. 4-61).
 
@@ -1245,7 +1245,7 @@ Have drainage container ready to catch brake fluid.
 
 # 7-18. Proportioning Valve Replacement (Cont'D)
 
-![757_image_0.png](757_image_0.png)
+![757_image_0.png](images/757_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - Bleed brake system (para. 7-10).
@@ -1272,7 +1272,7 @@ Discard lockwashers (2).
 
 b. Installation 1. Apply sealing compound to threads of capscrews (1). 2. Install rotor (4) on output flange (5). 3. Connect halfshaft (3) to rotor (4) and install six lockwashers (2) and capscrews (1). Tighten capscrews (1) to 48 lb-ft (65 N•m).
 
-![758_image_0.png](758_image_0.png)
+![758_image_0.png](images/758_image_0.png)
 
 FOLLOW-ON TASK: Install service brake pad (para. 7-11).
 
@@ -1337,7 +1337,7 @@ Note positioning of brake pad surfaces for installation.
 
 7-21. REAR DUAL SERVICE/PARKING BRAKE PAD MAINTENANCE (Cont'd)
 
-![761_image_0.png](761_image_0.png)
+![761_image_0.png](images/761_image_0.png)
 
 # 7 - 2 1 . Rear Dual Serv I C E / Parking Brake Pad Maintenance (Cont'D)
 
@@ -1366,9 +1366,9 @@ and operation in wet and muddy conditions is expected.
 
 7-21.  REAR DUAL SERVICE/PARKING BRAKE PAD MAINTENANCE (Cont'd)
 
-![763_image_0.png](763_image_0.png)
+![763_image_0.png](images/763_image_0.png)
 
-![763_image_1.png](763_image_1.png)
+![763_image_1.png](images/763_image_1.png)
 
 # 7-21. Rear Dual Service/Parking Brake Pad Maintenance (Cont'D)
 
@@ -1400,7 +1400,7 @@ Using crowfoot, tighten capscrews (6) to 30-40 lb-ft (41-54 N•m).
 
 Check position of lever (11) and make sure it is in contact with caliper cable bracket stop (17).
 
-![765_image_0.png](765_image_0.png)
+![765_image_0.png](images/765_image_0.png)
 
 # 7-21. Rear Dual Service/Parking Brake Pad Maintenance (Cont'D)
 
@@ -1456,9 +1456,9 @@ Caliper must be supported during removal to prevent damage to brake line.
 
 7-22. REAR DUAL SERVICE/PARKING BRAKE CALIPER MAINTENANCE (Cont'd)
 
-![767_image_0.png](767_image_0.png)
+![767_image_0.png](images/767_image_0.png)
 
-![767_image_1.png](767_image_1.png)
+![767_image_1.png](images/767_image_1.png)
 
 # 7-22. Rear Dual Service/Parking Brake Caliper Maintenance (Cont'D)
 
@@ -1505,7 +1505,7 @@ Damage to equipment and poor performance will result if not alined properly.
 
 # 7-22. Rear Dual Service/Parking Brake Caliper Maintenance (Cont'D)
 
-![769_image_0.png](769_image_0.png)
+![769_image_0.png](images/769_image_0.png)
 
 FOLLOW-ON TASKS: - Install service brake rotor (para. 7-19).
 
@@ -1582,7 +1582,7 @@ Ensure that the caliper cable bracket is secure with no signs of looseness and t
 
 6. Install parking brake cable sleeve (17) to caliper cable bracket (2) with cable retaining ring (1).
 
-![771_image_0.png](771_image_0.png)
+![771_image_0.png](images/771_image_0.png)
 
 FOLLOW-ON TASKS: - Adjust parking brake lever (TM 9-2320-280-10).
 
@@ -1643,7 +1643,7 @@ Perform step 10 if replacing parking cable mounting bracket. If not replacing br
 
 NOTE
 
-![773_image_0.png](773_image_0.png)
+![773_image_0.png](images/773_image_0.png)
 
 7-24. LEFT PARKING BRAKE CABLE/MOUNTING BRACKET REPLACEMENT (Cont'd)
 
@@ -1671,11 +1671,11 @@ Ensure that the caliper cable bracket is secure with no signs of looseness and t
 
 7. Install parking brake cable sleeve (9) on rear caliper cable bracket (15) with cable retaining ring (16).
 
-![774_image_0.png](774_image_0.png) 8. Install brake clevis (20) on rear caliper lever (17) with clevis pin (21), washer (19), and cotter pin (18). 9. Install parking brake cable assembly (22) on bracket (26) with clamp (23), capscrew (25), and lockwasher (24).
+![774_image_0.png](images/774_image_0.png) 8. Install brake clevis (20) on rear caliper lever (17) with clevis pin (21), washer (19), and cotter pin (18). 9. Install parking brake cable assembly (22) on bracket (26) with clamp (23), capscrew (25), and lockwasher (24).
 
 10. Install bracket (26) on bracket (14) with two capscrews (27).
 
-![775_image_0.png](775_image_0.png)
+![775_image_0.png](images/775_image_0.png)
 
 FOLLOW-ON TASKS: - Adjust parking brake lever (TM 9-2320-280-10).
 
@@ -1740,7 +1740,7 @@ Discard locknut (19).
 
 # 7-25. Rear Dual Service/Parking Brake Rod Replacement (Cont'D)
 
-![777_image_0.png](777_image_0.png)
+![777_image_0.png](images/777_image_0.png)
 
 FOLLOW-ON TASKS: - Adjust rear dual service/parking brake (para. 7-26).
 
@@ -1789,6 +1789,6 @@ Perform step 6 on both sides.
 6. Parking brake rod (7) is properly adjusted if lever (11)
 is in contact with caliper cable bracket
 
-![779_image_0.png](779_image_0.png)
+![779_image_0.png](images/779_image_0.png)
 
 FOLLOW-ON TASK: Adjust parking brake lever (TM 9-2320-280-10).

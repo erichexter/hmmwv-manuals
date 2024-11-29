@@ -101,9 +101,9 @@ Hydraulic jacks are used for raising and lowering, and are not used to support v
 
 8-2. JACKING INSTRUCTIONS (Cont'd)
 
-![782_image_0.png](782_image_0.png)
+![782_image_0.png](images/782_image_0.png)
 
-![782_image_1.png](782_image_1.png)
+![782_image_1.png](images/782_image_1.png)
 
 ## 8 - 2 . Jacking Instructions( C O N T ' D )
 
@@ -135,9 +135,9 @@ For vehicles with a heavy load such as S250 shelter carrier, an additional trest
 
 # 8-2. Jacking Instructions (Cont'D)
 
-![784_image_0.png](784_image_0.png)
+![784_image_0.png](images/784_image_0.png)
 
-![784_image_1.png](784_image_1.png)
+![784_image_1.png](images/784_image_1.png)
 
 ## 8-3. Wheel Replacement
 
@@ -172,9 +172,9 @@ Install lug nuts with fingers to full engagement. If nuts resist finger tighteni
 
 # 8-3. Wheel Replacement (Cont'D)
 
-![786_image_0.png](786_image_0.png)
+![786_image_0.png](images/786_image_0.png)
 
-![786_image_1.png](786_image_1.png)
+![786_image_1.png](images/786_image_1.png)
 
 # 8-4. Tire, Wheel, And Runflat Maintenance
 
@@ -248,7 +248,7 @@ Discard O-ring (7).
 
 9. Remove balance weights (5) from rim halves (2) and (8) (if present). Discard balance weights (5).
 
-![788_image_0.png](788_image_0.png)
+![788_image_0.png](images/788_image_0.png)
 
 # 8 - 4 . Tire, Wheel, And Runflat Maintenance (Cont'D)
 
@@ -264,13 +264,13 @@ Do not reuse a tire which has been run flat without thoroughly inspecting for da
 
 5. Remove filament tape (7), lubricant packet (6), and adhesive tape (5) from runflat halves (3) if
 
-![789_image_0.png](789_image_0.png)
+![789_image_0.png](images/789_image_0.png)
 
 installed. Discard lubricant packet (6), filament tape (7), and adhesive tape (5).
 
 6. Clean lubricant from tire (1) and runflat halves (3) with soap and water and allow to air dry.
 
-![789_image_1.png](789_image_1.png)
+![789_image_1.png](images/789_image_1.png)
 
 # 8 - 4 . Tire, Wheel, And Runflat Maintenance (Cont'D)
 
@@ -295,7 +295,7 @@ Never use wheel assemblies with studs which are damaged, loose, or have damaged 
 
 12. Inspect valve stem (13) for cracks or deterioration. Replace valve stem (13) if cracked or deteriorated.
 
-![790_image_0.png](790_image_0.png)
+![790_image_0.png](images/790_image_0.png)
 
 ## 8 - 4 . Tire, Wheel, And Runflat Maintenance (Cont'D)
 
@@ -315,9 +315,9 @@ Using torque adapter, tighten locknuts (6) to 18-22 lb-ft (24-30 N•m).
 
 8-4.  TIRE, WHEEL, AND RUNFLAT MAINTENANCE (Cont'd)
 
-![792_image_0.png](792_image_0.png)
+![792_image_0.png](images/792_image_0.png)
 
-![792_image_1.png](792_image_1.png)
+![792_image_1.png](images/792_image_1.png)
 
 ## 8-4. Tire, Wheel, And Runflat Maintenance (Cont'D)
 
@@ -352,7 +352,7 @@ Tighten locknuts gradually to avoid bent and broken studs, or damage to wheel co
 
 # 8-4.  Tire, Wheel, And Runflat Maintenance (Cont'D)
 
-![794_image_0.png](794_image_0.png)
+![794_image_0.png](images/794_image_0.png)
 
 FOLLOW-ON TASK: Balance tire (para. 8-9).
 
@@ -437,7 +437,7 @@ Discard O-ring (5).
 
 8. Remove tire (6) from inner rim half (4). 9. Remove balance weights (3) from rim halves (1) and (4), if present. Discard balance weights (3).
 
-![796_image_0.png](796_image_0.png)
+![796_image_0.png](images/796_image_0.png)
 
 # 8-4.1. Bias Tire, Wheel, And Rubber Runflat Maintenance (Cont'D)
 
@@ -469,7 +469,7 @@ Compress runflat by rotating the handle assembly in a clockwise direction. Rotat
 
 16. Remove runflat (2) from tire (1) and remove runflat compressor (3) or (6) from runflat (2). 17. Remove two lubricant packets (9) and adhesive tape (10) from runflat (2) if installed. Discard
 
-![797_image_0.png](797_image_0.png)
+![797_image_0.png](images/797_image_0.png)
 
 lubricant packets (9) and adhesive tape (10).
 
@@ -491,7 +491,7 @@ Do not reuse a tire which has been run flat without thoroughly inspecting for da
 
 6. Inspect runflat (2) for splitting, wear, or excessive chafing. Replace runflat (2) if damaged.
 
-![798_image_0.png](798_image_0.png)
+![798_image_0.png](images/798_image_0.png)
 
 # 8-4.1. Bias Tire, Wheel, And Rubber Runflat Maintenance (Cont'D)
 
@@ -517,7 +517,7 @@ Perform steps 11 and 12 only if valve core and insert were removed.
 
 c. Repair Refer to TM 9-2610-200-14 for maintenance and repair of tires.
 
-![799_image_0.png](799_image_0.png)
+![799_image_0.png](images/799_image_0.png)
 
 8-14.6 Change 3
 
@@ -552,7 +552,7 @@ Compress runflat by rotating hex drive in either direction. Rotate hex drive opp
 
 Compress runflat by rotating the handle assembly in a clockwise
 
-![800_image_0.png](800_image_0.png) direction. Rotate handle assembly counterclockwise to loosen.
+![800_image_0.png](images/800_image_0.png) direction. Rotate handle assembly counterclockwise to loosen.
 
 4. Using runflat compressor (12), compress runflat (8).
 
@@ -579,13 +579,13 @@ around studs (11). Ensure O-ring (8) is not twisted and that it is uniformly pos
 
 13. Lubricate tire bead (3) and rim bead seat areas with tire soap.
 
-![801_image_0.png](801_image_0.png)
+![801_image_0.png](images/801_image_0.png)
 
-![802_image_0.png](802_image_0.png)
+![802_image_0.png](images/802_image_0.png)
 
 8-4.1. BIAS TIRE, WHEEL, AND RUBBER RUNFLAT MAINTENANCE (Cont'd)
 
-![802_image_1.png](802_image_1.png)
+![802_image_1.png](images/802_image_1.png)
 
 # 8-4.1. Bias Tire, Wheel, And Rubber Runflat Maintenance (Cont'D)
 
@@ -612,7 +612,7 @@ Tighten locknuts gradually to avoid bent and broken studs, or damage to wheel co
 
 19. Install outer rim half (3) to inner rim half (8) with twelve locknuts (2).
 
-![803_image_0.png](803_image_0.png)
+![803_image_0.png](images/803_image_0.png)
 
 8-14.10 Change 3
 
@@ -629,7 +629,7 @@ Tighten locknuts gradually to avoid bent and broken studs, or damage to wheel co
 
 24. Check for leaks around rim edges (4), insert (6), and valve bore (10) with soapy solution.
 
-![804_image_0.png](804_image_0.png)
+![804_image_0.png](images/804_image_0.png)
 
 FOLLOW-ON TASK: Balance tire (para. 8-9).
 
@@ -694,7 +694,7 @@ Discard O-ring (5).
 
 8. Remove tire (6) from inner rim half (4). 9. Remove balance weights (3) from rim halves (1) and (4), if present. Discard balance weights (3).
 
-![806_image_0.png](806_image_0.png)
+![806_image_0.png](images/806_image_0.png)
 
 # 8 - 5 . Radial Tire, Wheel, And Rubber Runflat Maintenance (All Except M1123 And "A2" Vehicles) (Co N T ' D )
 
@@ -729,7 +729,7 @@ Compress runflat by rotating the handle assembly in a clockwise direction. Rotat
 
 - When using runflat compressor P/N 528236, handle may need to be
 
-![807_image_0.png](807_image_0.png)
+![807_image_0.png](images/807_image_0.png)
 
 removed before removing runflat.
 
@@ -754,7 +754,7 @@ Do not reuse a tire which has been run flat without thoroughly inspecting for da
 
 6. Clean all grease, dirt, and foreign material from the runflat (2) with soap and water and allow to air
 
-![808_image_0.png](808_image_0.png)
+![808_image_0.png](images/808_image_0.png)
 
 dry. Inspect runflat (2) for splitting, wear, or excessive chafing. Replace runflat (2) if damaged.
 
@@ -787,7 +787,7 @@ Perform steps 11 and 12 only if valve core and insert were removed.
 
 c. Repair Refer to TM 9-2610-200-14 for maintenance and repair of tires.
 
-![809_image_0.png](809_image_0.png)
+![809_image_0.png](images/809_image_0.png)
 
 8 - 5 . RADIAL TIRE, WHEEL, AND RUBBER RUNFLAT MAINTENANCE (ALL EXCEPT M1123
 
@@ -823,7 +823,7 @@ Compress runflat by rotating the handle assembly in a clockwise direction. Rotat
 
 4. Using runflat compressor (13), compress runflat (9).
 
-![810_image_0.png](810_image_0.png)
+![810_image_0.png](images/810_image_0.png)
 
 RUNFLAT COMPRESSOR (P/N J39250) RUNFLAT COMPRESSOR (P/N 528236)
 # 8-5. Radial Tire, Wheel, And Rubber Runflat Maintenance (All Except M1123 And "A2" Vehicles) (Cont'D)
@@ -852,7 +852,7 @@ around studs (12). Ensure O-ring (10) is not twisted and that it is uniformly po
 
 13. Lubricate tire bead (3) and rim bead seat areas with tire soap.
 
-![811_image_0.png](811_image_0.png)
+![811_image_0.png](images/811_image_0.png)
 
 # 8-5. Radial Tire, Wheel, And Rubber Runflat Maintenance (All Except M1123 And "A2" Vehicles) (Cont'D)
 
@@ -878,7 +878,7 @@ Perform step 17 only if valve bore and insert were removed.
 
 Tighten locknuts gradually to avoid bent and broken studs, or
 
-![812_image_0.png](812_image_0.png) damage to wheel components.
+![812_image_0.png](images/812_image_0.png) damage to wheel components.
 
 19. Install outer rim half (9) to inner rim half (11) with twelve locknuts (8).
 
@@ -897,11 +897,11 @@ Change 3 8-23
 
 24. Check for leaks around rim edges (4), insert (6), and valve bore (5) with soapy solution.
 
-![813_image_0.png](813_image_0.png)
+![813_image_0.png](images/813_image_0.png)
 
 8 - 5 . RADIAL TIRE, WHEEL, AND RUBBER RUNFLAT MAINTENANCE (ALL EXCEPT M1123
 
-![814_image_0.png](814_image_0.png)
+![814_image_0.png](images/814_image_0.png)
 
 AND "A2" VEHICLES) (Co n t ' d )
 
@@ -964,7 +964,7 @@ Discard O-ring (5).
 
 8. Remove tire (6) from inner rim half (4). 9. Remove balance weights (3) from rim halves (1) and (4), if present. Discard balance weights (3).
 
-![816_image_0.png](816_image_0.png)
+![816_image_0.png](images/816_image_0.png)
 
 # 8-5.1. Radial Tire, Wheel, And Rubber Runflat Maintenance (M1123 And "A2" Vehicles) (Cont'D)
 
@@ -998,7 +998,7 @@ NOTE
 
 - When using runflat compressor P/N 528236, handle may need to be
 
-![817_image_0.png](817_image_0.png)
+![817_image_0.png](images/817_image_0.png)
 
 removed before removing runflat.
 
@@ -1022,7 +1022,7 @@ Do not reuse a tire which has been run flat without thoroughly inspecting for da
 
 5. Clean all grease, dirt, and foreign material from the runflat (2) with soap and water and allow to
 
-![818_image_0.png](818_image_0.png)
+![818_image_0.png](images/818_image_0.png)
 
 air dry. Inspect runflat (2) for splitting, wear, or excessive chafing. Replace runflat (2) if damaged.
 
@@ -1055,7 +1055,7 @@ Perform steps 10 and 11 only if valve bore and insert were removed.
 
 c. Repair Refer to TM 9-2610-200-14 for maintenance and repair of tires.
 
-![819_image_0.png](819_image_0.png)
+![819_image_0.png](images/819_image_0.png)
 
 8 - 5 . 1 . RADIAL TIRE, WHEEL, AND RUBBER RUNFLAT MAINTENANCE (M1123 AND
 
@@ -1089,7 +1089,7 @@ Compress runflat by rotating hex drive in either direction. Rotate hex drive opp
 
 Compress runflat by rotating the handle assembly in a clockwise
 
-![820_image_0.png](820_image_0.png) direction. Rotate handle assembly counterclockwise to loosen.
+![820_image_0.png](images/820_image_0.png) direction. Rotate handle assembly counterclockwise to loosen.
 
 4. Using runflat compressor (13), compress runflat (9).
 
@@ -1121,7 +1121,7 @@ Before installing tire on inner rim half, inspect tire sidewalls for a "paint do
 
 10. Center runflat (3) in tire (1). Carefully lower tire (1) over inner rim half (9). 11. Ensure runflat (3) is not binding on flat portion of inner rim half (9). Runflat (3) should clear inner
 
-![821_image_0.png](821_image_0.png)
+![821_image_0.png](images/821_image_0.png)
 
 # 8-5.1. Radial Tire, Wheel, And Rubber Runflat Maintenance (M1123 And "A2" Vehicles) (Cont'D)
 
@@ -1139,7 +1139,7 @@ Perform step 14 only if valve bore and insert were removed.
 
 Tighten locknuts gradually to avoid bent and broken studs, or
 
-![822_image_0.png](822_image_0.png) damage to wheel components.
+![822_image_0.png](images/822_image_0.png) damage to wheel components.
 
 16. Install outer rim half (7) on inner rim half (9) with twelve locknuts (6).
 
@@ -1156,7 +1156,7 @@ Tighten locknuts gradually to avoid bent and broken studs, or
 
 21. Check for leaks around rim edges (4), insert (6), and valve bore (5) with soapy solution.
 
-![823_image_0.png](823_image_0.png)
+![823_image_0.png](images/823_image_0.png)
 
 FOLLOW-ON TASK: Balance tire (para. 8-9).
 
@@ -1184,7 +1184,7 @@ Belt overlap is to be positioned so that you have equal amount of belt on each s
 
 2. Install worm gear shaft assembly (1) on compressor assembly (6) with shaft pin (7). 3. Install belt (4) to worm gear shaft assembly (1) with small pin (8).
 
-![824_image_0.png](824_image_0.png)
+![824_image_0.png](images/824_image_0.png)
 
 # 8-7. Runflat Compressor (P/N 528236) Belt Replacement
 
@@ -1203,7 +1203,7 @@ Remove locknut (1), capscrew (2) and belt (3) from compressor (4). Discard lockn
 
 b. Installation 1. Install belt (3) on compressor (4) with capscrew (2) and locknut (1). 2. Loop free end of belt (3) around retaining bracket (5) as shown.
 
-![825_image_0.png](825_image_0.png)
+![825_image_0.png](images/825_image_0.png)
 
 # 8-8. Inner Rim Stud Maintenance
 
@@ -1236,7 +1236,7 @@ Perform steps 1 through 4 for stud removal without disassembly of wheel. Perform
 
 In all assembly operations, ensure the tire is totally deflated before
 
-![826_image_0.png](826_image_0.png) removing wheel locknuts. Failure to follow proper safety precautions may result in serious injury or death.
+![826_image_0.png](images/826_image_0.png) removing wheel locknuts. Failure to follow proper safety precautions may result in serious injury or death.
 
 2.
 
@@ -1310,7 +1310,7 @@ and valve bore (8) with soapy solution.
 
 11. Check for leaks around rim edges, insert,
 
-![828_image_0.png](828_image_0.png)
+![828_image_0.png](images/828_image_0.png)
 
 FOLLOW-ON TASK: Install wheel (para.
 
@@ -1371,15 +1371,15 @@ Total amount of weight must be split "50/50" between imer and outer edges of whe
 
 15. Attach weights (6) to inner and outer edges of wheel (2), ensuring weight clips (7) are centered on
 
-![830_image_0.png](830_image_0.png)
+![830_image_0.png](images/830_image_0.png)
 
 light spot (5), or weights (6) are placed evenly to sides of light spot (5) if more than one weight (6) is used. Using small hammer or clip claw-hammer tool, tap weights to conform to wheel (2) edge contour.
 
 WEIGHT PLACEMENT DIAGRAM
 
-![830_image_1.png](830_image_1.png)
+![830_image_1.png](images/830_image_1.png)
 
-![830_image_2.png](830_image_2.png)
+![830_image_2.png](images/830_image_2.png)
 
 FOLLOW-ON TASK: Install wheel (para. 8-3).
 
@@ -1422,7 +1422,7 @@ Replace tie rod end(s) (5) if any movement is apparent (para. 8-16).
 
 8-10. FRONT WHEEL TOE-IN ALIGNMENT (Cont'd)
 
-![832_image_0.png](832_image_0.png)
+![832_image_0.png](images/832_image_0.png)
 
 # 8-10. Front Wheel Toe-In Alignment (Cont'D)
 
@@ -1483,9 +1483,9 @@ Table 8-1. Toe-In Alignment Adjustment Specifications.
 
 # 8-10. Front Wheel Toe-In Alignment (Cont'D)
 
-![834_image_0.png](834_image_0.png)
+![834_image_0.png](images/834_image_0.png)
 
-![834_image_1.png](834_image_1.png)
+![834_image_1.png](images/834_image_1.png)
 
 # 8-10. Front Wheel Toe-In Alignment (Cont'D)
 
@@ -1505,7 +1505,7 @@ Ensure bolt and nut on adjusting sleeve clamp nearest to geared hub is facing ha
 
 # 8-10. Front Wheel Toe-In Alignment (Cont'D)
 
-![836_image_0.png](836_image_0.png)
+![836_image_0.png](images/836_image_0.png)
 
 FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check for pull or wander.
 
@@ -1572,9 +1572,9 @@ Repeat steps 10 through 12 for opposite side.
 
 15. Proceed to task b.
 
-![838_image_0.png](838_image_0.png)
+![838_image_0.png](images/838_image_0.png)
 
-![838_image_1.png](838_image_1.png)
+![838_image_1.png](images/838_image_1.png)
 
 # 8-11. Rear Wheel Toe-Out Alignment (Cont'D)
 
@@ -1643,9 +1643,9 @@ Table 8-2. Toe-Out Alignment Adjustment Specifications.
 
 # 8-11. Rear Wheel Toe-Out Alignment (Cont'D)
 
-![840_image_0.png](840_image_0.png)
+![840_image_0.png](images/840_image_0.png)
 
-![840_image_1.png](840_image_1.png)
+![840_image_1.png](images/840_image_1.png)
 
 # 8-11. Rear Wheel Toe-Out Alignment (Cont'D)
 
@@ -1657,7 +1657,7 @@ Toe-out can be increased or decreased by changing length of radius rods. A threa
 
 2. Turn each adjusting sleeve (2) equally but in opposite directions. 3. Roll vehicle rearward then forward to original position. 4. Repeat toe-out check and adjustment procedures until correct adjustment is indicated.
 
-![841_image_0.png](841_image_0.png) 5. Secure two clamps (3) on each adjusting sleeve (2) with two locknuts (1). Tighten locknuts (1).
+![841_image_0.png](images/841_image_0.png) 5. Secure two clamps (3) on each adjusting sleeve (2) with two locknuts (1). Tighten locknuts (1).
 
 to 30 lb-ft (40 N m).
 
@@ -1703,7 +1703,7 @@ b. Installation 1. Align splines on steering wheel (1) with splines on shaft (3)
 
 # 8 - 1 3 . Steering Wheel Replacement (C O N T ' D )
 
-![844_Image_0.Png](844_Image_0.Png)
+![844_Image_0.png](images/844_Image_0.Png)
 
 FOLLOW-ON TASKS: - Install directional signal control cancelling ring (para. 4-66).
 
@@ -1744,7 +1744,7 @@ Do not loosen slotted nut to install cotter pin. Doing this may result in damage
 
 # 8-14. Pitman Arm Replacement (Cont'D)
 
-![846_image_0.png](846_image_0.png)
+![846_image_0.png](images/846_image_0.png)
 
 FOLLOW-ON TASKS: - Lubricate pitman arm (TM 9-2320-280-10).
 
@@ -1787,7 +1787,7 @@ Do not loosen slotted nut to install cotter pin. Doing this may result in damage
 
 8-15. CENTER LINK REPLACEMENT (Cont'd)
 
-![848_image_0.png](848_image_0.png)
+![848_image_0.png](images/848_image_0.png)
 
 FOLLOW-ON TASK: Remove supports and lower front of vehicle (para. 8-2).
 
@@ -1832,13 +1832,13 @@ Do not loosen slotted nut to install cotter pin. Doing this may result in damage
 
 Ensure the outboard clamp faces the halfshaft and the inboard
 
-![850_image_0.png](850_image_0.png) clamp faces away from the stabilizer bar (front only) or damage to equipment may result.
+![850_image_0.png](images/850_image_0.png) clamp faces away from the stabilizer bar (front only) or damage to equipment may result.
 
 5. Tighten two locknuts (13).
 
 FOLLOW-ON TASKS: - Lubricate tie rod end (TM 9-2320-280-10).
 
-![850_image_1.png](850_image_1.png)
+![850_image_1.png](images/850_image_1.png)
 
 - Remove supports and lower front of vehicle (para. 8-2). - Align toe-in (para. 8-10).
 
@@ -1889,7 +1889,7 @@ to 70 lb-ft (95 N•m).
 
 # 8-17.  Tie Rod End Replacement (Cont'D)
 
-![852_image_0.png](852_image_0.png)
+![852_image_0.png](images/852_image_0.png)
 
 FOLLOW-ON TASKS: - Lubricate tie rod end (TM 9-2320-280-10).
 
@@ -1935,7 +1935,7 @@ Do not loosen slotted nut to install cotter pin. Doing this may result in damage
 
 8-18. IDLER ARM MAINTENANCE (Cont'd)
 
-![854_image_0.png](854_image_0.png)
+![854_image_0.png](images/854_image_0.png)
 
 ## 8-18. Idler Arm Maintenance (Cont'D)
 
@@ -1971,9 +1971,9 @@ Using flat surface on center link (1) as a guide, mark second reference line on 
 
 8-18. IDLER ARM MAINTENANCE (Cont'd)
 
-![856_image_0.png](856_image_0.png)
+![856_image_0.png](images/856_image_0.png)
 
-![856_image_1.png](856_image_1.png)
+![856_image_1.png](images/856_image_1.png)
 
 FOLLOW-ON TASKS:• Lubricate idler arm (TM 9-2320-280-10).
 
@@ -2026,7 +2026,7 @@ Perform step 6 for "A2" series vehicles only.
 
 8-19. STEERING COLUMN REPLACEMENT (Cont'd)
 
-![858_image_0.png](858_image_0.png)
+![858_image_0.png](images/858_image_0.png)
 
 ## 8-19. Steering Column Replacement (Cont'D)
 
@@ -2054,7 +2054,7 @@ lockwasher (2), and locknut (1). Tighten locknut (1) finger tight.
 
 # 8-19. Steering Column Replacement (Cont'D)
 
-![860_image_0.png](860_image_0.png)
+![860_image_0.png](images/860_image_0.png)
 
 FOLLOW-ON TASKS: •Install directional signal control (para. 4-64 or 4-65).
 - • Install steering wheel (para. 8-13).
@@ -2093,7 +2093,7 @@ Tighten locknut (2) to 40-50 lb-ft (54-68 N•m).
 
 # 8-20. Intermediate Steering Shaft Replacement (Cont'D)
 
-![862_image_0.png](862_image_0.png)
+![862_image_0.png](images/862_image_0.png)
 
 FOLLOW-ON TASK: Lubricate steering shaft (TM 9-2320-280-10).
 
@@ -2126,9 +2126,9 @@ Discard lockwashers (7).
 
 # 8-21. Steering Gear Replacement (Cont'D)
 
-![864_image_0.png](864_image_0.png)
+![864_image_0.png](images/864_image_0.png)
 
-![864_image_1.png](864_image_1.png)
+![864_image_1.png](images/864_image_1.png)
 
 # 8-21. Steering Gear Replacement (Cont'D)
 
@@ -2156,11 +2156,11 @@ Make sure front wheels are in the straight-ahead position.
 
 Install pitman arm (14) on shaft (13) with lockwasher (15) and nut (16). Tighten nut (16) to 167-203
 
-![865_image_0.png](865_image_0.png) lb-ft (227-275 N m).
+![865_image_0.png](images/865_image_0.png) lb-ft (227-275 N m).
 
 # 8-21. Steering Gear Replacement (Cont'D)
 
-![866_image_0.png](866_image_0.png)
+![866_image_0.png](images/866_image_0.png)
 
 FOLLOW-ON TASKS: - Fill power steering reservoir (TM 9-2320-280-10).
 
@@ -2215,11 +2215,11 @@ Ensure grease fitting on cross faces yoke. Damage to equipment will result if im
 
 9. Install grease fitting (6) into cross (1).
 
-![868_image_0.png](868_image_0.png)
+![868_image_0.png](images/868_image_0.png)
 
 FOLLOW-ON TASK: Install intermediate steering shaft (para. 8-20).
 
-![868_image_1.png](868_image_1.png)
+![868_image_1.png](images/868_image_1.png)
 
 # 8-23. Intermediate Steering Shaft Close-Off And Retainer Replacement
 
@@ -2257,7 +2257,7 @@ capscrew (11), washer (9), and locknut (8). Tighten locknut (8) to 40-50 lb-ft (
 
  8-23. INTERMEDIATE STEERING SHAFT CLOSE-OFF AND RETAINER REPLACEMENT (Cont'd)
 
-![870_image_0.png](870_image_0.png)
+![870_image_0.png](images/870_image_0.png)
 
 # 8-24. Power Steering Pump, Pulley, And Bracket Maintenance (6.2L)
 
@@ -2315,9 +2315,9 @@ and power steering front support bracket (23). Discard lockwasher (28).
 
 NOTE
 
-![872_image_0.png](872_image_0.png)
+![872_image_0.png](images/872_image_0.png)
 
-![872_image_1.png](872_image_1.png)
+![872_image_1.png](images/872_image_1.png)
 
 8-24. POWER STEERING PUMP, PULLEY, AND BRACKET MAINTENANCE (6.2L)(Cont'd)
 
@@ -2343,7 +2343,7 @@ with washer (14), lockwasher (13), and capscrew (12).
 
 7. Connect two return lines (25) to power steering pump (8) and secure with two clamps (26). 8. Install O-ring (27) on high pressure line (28) and connect high pressure line (28) to power steering pump (8).
 
-![874_image_0.png](874_image_0.png)
+![874_image_0.png](images/874_image_0.png)
 
 # 8-24.  Power Steering Pump, Pulley, And Bracket Maintenance (6.2L)(Cont'D)
 
@@ -2395,7 +2395,7 @@ Ensure flat surface of pulley is facing out and is flush with pump shaft.
 CAUTION
 Serpentine belt failure (abnormal wear and belt dislodgement) can be caused by misalignment of pulleys, improper installation, or foreign objects introduced into belt path. For pulley alignment procedures, refer to para. 3-83.
 
-![876_image_0.png](876_image_0.png)
+![876_image_0.png](images/876_image_0.png)
 
 # 8-24.1. Power Steering Pump And Pulley Replacement (6.5L) (Cont'D)
 
@@ -2435,7 +2435,7 @@ Do not overtighten vise as pump body could be distorted.
 
 10. Remove O-ring seal (15) from pump body (7). Discard O-ring seal (12). 11. Remove shaft seal (12) from pump body (7).
 
-![878_image_0.png](878_image_0.png)
+![878_image_0.png](images/878_image_0.png)
 
 # 8-24.2. Power Steering Pump Repair (Cont'D)
 
@@ -2459,13 +2459,13 @@ when installing on pump shaft (8).
 
 9. Install reservoir filler cap (16) on pump assembly (15).
 
-![879_image_0.png](879_image_0.png)
+![879_image_0.png](images/879_image_0.png)
 
 # 8-24.2. Power Steering Pump Repair (Cont'D)
 
-![880_image_0.png](880_image_0.png)
+![880_image_0.png](images/880_image_0.png)
 
-![880_image_1.png](880_image_1.png)
+![880_image_1.png](images/880_image_1.png)
 
 FOLLOW-ON TASK:
 Install power steering pump, pulley, and bracket
@@ -2525,7 +2525,7 @@ washer (7), and locknut (6).
 
 two washers (7), and locknut (6). Install tiedown strap (11.1) on return hose (8).
 
-![882_image_0.png](882_image_0.png)
+![882_image_0.png](images/882_image_0.png)
 
 - Bleed power steering system (para. 8-29).
 # 8-26. Power Steering System Hydraulic Control Valve Maintenance
@@ -2566,7 +2566,7 @@ Have drainage container ready to catch fluid.
 
 8-26. POWER STEERING SYSTEM HYDRAULIC CONTROL VALVE MAINTENANCE (Cont'd)
 
-![884_image_0.png](884_image_0.png)
+![884_image_0.png](images/884_image_0.png)
 
 # 8-26. Power Steering System Hydraulic Control Valve Maintenance (Cont'D)
 
@@ -2646,7 +2646,7 @@ Connect power steering return line hose (8) to control valve elbow (1) and tight
 
 # 8-26. Power Steering System Hydraulic Control Valve Maintenance (Cont'D)
 
-![886_image_0.png](886_image_0.png)
+![886_image_0.png](images/886_image_0.png)
 
 FOLLOW-ON TASK:
 - Connect battery ground cable (para. 4-73).
@@ -2690,7 +2690,7 @@ Discard locknuts (6).
 
 1.
 
-![888_image_0.png](888_image_0.png)
+![888_image_0.png](images/888_image_0.png)
 
 2.
 
@@ -2735,7 +2735,7 @@ Have drainage container ready to catch fluid.
 
 1. Install cooler (8) to oil cooler (1) with two washers (7), lockwashers (6) and screws (5). Tighten
 
-![890_image_0.png](890_image_0.png)
+![890_image_0.png](images/890_image_0.png)
 
 screws (5) to 125-155 lb-in. (14-18 N·m).
 
@@ -2806,7 +2806,7 @@ Have drainage container ready to catch fluid.
 NOTE
 Fitting assembly is spring-loaded. Remove carefully to avoid 
 
-![892_image_0.png](892_image_0.png) losing parts.
+![892_image_0.png](images/892_image_0.png) losing parts.
 
 2. Remove fitting assembly (3) and gasket (4) from pump (7). Discard gasket (4). 3. Remove relief valve (5) and valve spring (6) from pump (7).
 
@@ -2816,7 +2816,7 @@ b. Inspection Inspect external surface of relief valve (5) for burrs, nicks, or 
 
 c. Installation 1. Install valve spring (6) and relief valve (5) in pump (7).
 
-![893_image_0.png](893_image_0.png) 2. Install gasket (4) and fitting (3) in pump (7). Tighten fitting (3) in pump (7) to 37 lb-ft (50 N•m). 3. Install O-ring (2) on high-pressure line (1) and install high-pressure line (1) on pump (7).
+![893_image_0.png](images/893_image_0.png) 2. Install gasket (4) and fitting (3) in pump (7). Tighten fitting (3) in pump (7) to 37 lb-ft (50 N•m). 3. Install O-ring (2) on high-pressure line (1) and install high-pressure line (1) on pump (7).
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 

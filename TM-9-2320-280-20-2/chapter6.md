@@ -93,9 +93,9 @@ Discard cotter pin (13).
 
 3. Inspect center bearing (19) for roughness or damage. Replace coupling shaft (24) (para. 6-3) if center bearing (19) is rough or damaged.
 
-![631_image_0.png](631_image_0.png)
+![631_image_0.png](images/631_image_0.png)
 
-![632_image_0.png](632_image_0.png)
+![632_image_0.png](images/632_image_0.png)
 
 6-2. FRONT PROPELLER SHAFT ASSEMBLY MAINTENANCE (Cont'd)
 
@@ -114,7 +114,7 @@ and nuts (17). Tighten capscrews (20) to 60 lb-ft (81 N m).
 NOTE
 Step 5 applies to all vehicles except M1097, "A1" and "A2" series.
 
-![633_image_0.png](633_image_0.png) Step 6 applies to M1097, "A1" and "A2" series.
+![633_image_0.png](images/633_image_0.png) Step 6 applies to M1097, "A1" and "A2" series.
 
 5. Install front propeller shaft assembly (4) on transfer case output yoke (7) with two bearing straps (9)
 and four capscrews (10). Tighten capscrews (10) to 13-18 lb-ft (18-24 N m).
@@ -123,9 +123,9 @@ and four capscrews (10). Tighten capscrews (10) to 13-18 lb-ft (18-24 N m).
 
 # 6-2.  Front Propeller Shaft Assembly Maintenance (Cont'D)
 
-![634_image_0.png](634_image_0.png)
+![634_image_0.png](images/634_image_0.png)
 
-![634_image_1.png](634_image_1.png)
+![634_image_1.png](images/634_image_1.png)
 
 FOLLOW-ON TASK:  Lubricate propeller shaft assembly (TM 9-2320-280-10).
 
@@ -172,7 +172,7 @@ Ensure wide spline on coupling shaft is aligned with grease fitting on slip yoke
 
 3. Install coupling shaft (4) and dust cap (3) into slip yoke (2).
 
-![636_image_0.png](636_image_0.png)
+![636_image_0.png](images/636_image_0.png)
 
 FOLLOW-ON TASK: Install front propeller shaft assembly (para. 6-2).
 
@@ -210,7 +210,7 @@ c. Installation 1. Install rear propeller shaft (5) on parking brake rotor (6) w
 
 # 6-4. Rear Propeller Shaft Maintenance (Cont'D)
 
-![638_image_0.png](638_image_0.png)
+![638_image_0.png](images/638_image_0.png)
 
 # 6-5. Rear Propeller Shaft Maintenance (1330 Series)
 
@@ -243,7 +243,7 @@ Tighten capscrews (6) to 13-18 lb-ft (18-24 N m).
 
 # 6-5. Rear Propeller Shaft Maintenance (1330 Series) (Cont'D)
 
-![640_image_0.png](640_image_0.png)
+![640_image_0.png](images/640_image_0.png)
 
 FOLLOW-ON TASK: Lubricate propeller shaft (TM 9-2320-280-10).
 
@@ -284,7 +284,7 @@ c. Assembly 1. Install dust cap (2) on propeller shaft (1). 2. Coat spline on pr
 
 6-6. REAR PROPELLER SHAFT REPAIR (Cont'd)
 
-![642_image_0.png](642_image_0.png)
+![642_image_0.png](images/642_image_0.png)
 
 FOLLOW-ON TASK: Install rear propeller shaft (para. 6-4).
 
@@ -332,7 +332,7 @@ Ensure bearing cup is aligned with yoke before pressing in with vise. Damage to 
 
 6-14 Change 3
 
-![644_image_0.png](644_image_0.png)
+![644_image_0.png](images/644_image_0.png)
 
 FOLLOW-ON TASK: Install propeller shaft (para. 6-2 or 6-4).
 
@@ -386,7 +386,7 @@ Perform steps 4 and 5 for rear halfshafts only.
 
 5. Remove retaining ring (13) and disconnect cable (11) from caliper cable bracket (12). Discard retaining ring (13).
 
-![646_image_0.png](646_image_0.png)
+![646_image_0.png](images/646_image_0.png)
 
 ## 6 - 9 . Halfshaft Maintenance (Cont'D)
 
@@ -398,7 +398,7 @@ Perform steps 5.1 through 5.3 for M1123 and "A2" series vehicles.
 
 5 . 1 . Remove inner boot (6) from insert (9) and slide up on shaft (5). 5 . 2 . Remove inner joint (1) and insert (9) from spider assembly (10) and shaft (5).
 
-![647_image_0.png](647_image_0.png)
+![647_image_0.png](images/647_image_0.png)
 
 # 6-9. Halfshaft Maintenance (Cont'D)
 
@@ -424,11 +424,11 @@ Remove inner race (2), spacer (3), and ball race (4) from shaft (5). Discard spa
 
 Remove retainer ring (6) from shaft (5). Discard retainer ring (6).
 
-![648_image_0.png](648_image_0.png) Remove inner race (2) and ball race (4) from shaft (5).
+![648_image_0.png](images/648_image_0.png) Remove inner race (2) and ball race (4) from shaft (5).
 
 10.
 
-![648_image_1.png](648_image_1.png)
+![648_image_1.png](images/648_image_1.png)
 
 ## 6-9. Halfshaft Maintenance (Cont'D)
 
@@ -445,7 +445,7 @@ c. Cleaning and Inspection
 
 #### Warning
 
-![649_Image_2.Png](649_Image_2.Png)
+![649_Image_2.png](images/649_Image_2.Png)
 
 Drycleaning solvent is flammable and will not be used near an open flame. A fire extinguisher will be kept nearby when the solvent is used. Use only in well-ventilated places. Failure to do this may result in injury to personnel and/or damage to equipment.
 
@@ -455,9 +455,9 @@ Drycleaning solvent is flammable and will not be used near an open flame. A fire
 
 3. Inspect splined end of shaft (7) for damage. Replace shaft (7) if damaged.
 
-![649_image_0.png](649_image_0.png) 4. Inspect inner joint ( 12) for pitting or rough joint operation. Replace inner joint (12) if pitted or unserviceable.
+![649_image_0.png](images/649_image_0.png) 4. Inspect inner joint ( 12) for pitting or rough joint operation. Replace inner joint (12) if pitted or unserviceable.
 
-![649_image_1.png](649_image_1.png)
+![649_image_1.png](images/649_image_1.png)
 
 ## 6-9. Halfshaft Maintenance (Cont'D)
 
@@ -503,13 +503,13 @@ Position clamps (3) and (2) on shaft (7).
 
 Install inner boot (1) on shaft (7). Push boot (1) past groove on shaft (7).
 
-![650_image_0.png](650_image_0.png)
+![650_image_0.png](images/650_image_0.png)
 
 Position ball race (13) on shaft (7).
 
 11.
 
-![650_image_1.png](650_image_1.png)
+![650_image_1.png](images/650_image_1.png)
 
 12.
 
@@ -527,9 +527,9 @@ Position ball race (13) on shaft (7).
 
 1 6 . Install retainer ring (6) in upper groove of shaft (4) behind inner race (1).
 
-![651_image_0.png](651_image_0.png)
+![651_image_0.png](images/651_image_0.png)
 
-![651_image_1.png](651_image_1.png)
+![651_image_1.png](images/651_image_1.png)
 
 # 6 - 9 . Halfshaft Maintenance (Cont'D)
 
@@ -549,7 +549,7 @@ Ensure ball bearings are retained in ball race.
 
 1 9 . Secure retainer clip (8) in groove of inner joint (7). 2 0 . Pack inner joint (7) with lithium grease. 2 1 . Move inner boot (10) on shaft (4) until boot (10) seats in groove of shaft (4). 2 2 . Secure inner boot (10) on shaft (4) with clamp (12). 2 3 . Install inner boot (10) on inner joint (7). Ensure boot (10) seats in groove of joint (7). 2 4 . Secure inner boot (10) on inner joint (7) with clamp (11 ) .
 
-![652_image_0.png](652_image_0.png)
+![652_image_0.png](images/652_image_0.png)
 
 ## 6-9. Halfshaft Maintenance (Cont'D)
 
@@ -583,9 +583,9 @@ Check position of lever (13) and ensure it is in contact with caliper cable brac
 
 # 6-9.  Halfshaft Maintenance (Cont'D)
 
-![654_image_0.png](654_image_0.png)
+![654_image_0.png](images/654_image_0.png)
 
-![654_image_1.png](654_image_1.png)
+![654_image_1.png](images/654_image_1.png)
 
 FOLLOW-ON TASK:    Install wheel (para. 8-3).
 
@@ -621,7 +621,7 @@ Drycleaning solvent is flammable and will not be used near an open flame. A fire
 
 # 6-10. Geared Hub Side Cover Replacement (Corítd)
 
-![656_image_0.png](656_image_0.png)
+![656_image_0.png](images/656_image_0.png)
 
 FOLLOW-ON TASKS: - Fill geared hub to proper level (para. 2-11).
 
@@ -691,7 +691,7 @@ joint retainer (5), upper ball joint (6) and upper control arm (4). Discard lock
 
 Lower support and remove geared hub (9).
 
-![658_image_0.png](658_image_0.png)
+![658_image_0.png](images/658_image_0.png)
 
 ## 6 - 1 1 . Geared Hub Replacement (Cont'D)
 
@@ -759,7 +759,7 @@ Do not loosen slotted nut to install cotter pin. Doing this may result in damage
 
 13. Tighten slotted nut (2) on lower ball joint (4) to 73 lb-ft (99 N•m). Install cotter pin (1).
 
-![660_image_0.png](660_image_0.png)
+![660_image_0.png](images/660_image_0.png)
 
 ## 6 - 1 1 . Geared Hub Replacement (Cont'D)
 
@@ -772,11 +772,11 @@ to 70 lb-ft (95 N•m). Install cotter pin (1).
 
 2 0 . Install washer (12) and fill plug (13) to geared hub (5). Tighten fill plug (13) to 8-13 lb-ft (11-18 N•m ) .
 
-![661_image_0.png](661_image_0.png)
+![661_image_0.png](images/661_image_0.png)
 
 6-11. GEARED HUB REPLACEMENT (Cont'd)
 
-![662_image_0.png](662_image_0.png)
+![662_image_0.png](images/662_image_0.png)
 
 FOLLOW-ON TASKS: - Install steering stop (para. 6-19).
 
@@ -827,7 +827,7 @@ b. Installation 1. Using driver handle and input seal installer, install seal (7
 
 # 6-12. Geared Hub Input Seal Replacement (Cont'D)
 
-![664_image_0.png](664_image_0.png)
+![664_image_0.png](images/664_image_0.png)
 
 FOLLOW-ON TASK: Install halfshaft (para. 6-9).
 
@@ -867,7 +867,7 @@ If four-slotted retaining nut TN-07 is present, it is recommended to replace it 
 
 4. Using retaining nut wrench, remove retaining nut (14 ), key washer (13), and keyed washer (12)
 
-![665_image_0.png](665_image_0.png)
+![665_image_0.png](images/665_image_0.png)
 
 from spindle (7). Discard key washer (13).
 
@@ -881,7 +881,7 @@ from spindle (7). Discard key washer (13).
 
 8. Inspect bearings (9) and (11) for damage. Replace geared hub (1) (para. 6-11) if bearing (9) or (11) is
 
-![666_image_0.png](666_image_0.png)
+![666_image_0.png](images/666_image_0.png)
 
 # 6-13. Geared Hub Spindle Seal Replacement (Cont'D)
 
@@ -913,11 +913,11 @@ Immediately install steering arm cover after application of sealant.
 
 12. Remove fill plug (15) and washer (16) from geared hub (2). 13. Fill geared hub (2) to proper oil level (para. 2-11). 14. Install washer (16) and fill plug (15) on geared hub (2). Tighten fill plug (15) to 8-13 lb-ft (11-18 N•m).
 
-![667_image_0.png](667_image_0.png)
+![667_image_0.png](images/667_image_0.png)
 
 # 6-13. Geared Hub Spindle Seal Replacement (Cont'D)
 
-![668_image_0.png](668_image_0.png)
+![668_image_0.png](images/668_image_0.png)
 
 FOLLOW-ON TASK: Install wheel (para. 8-3).
 
@@ -982,7 +982,7 @@ Immediately install steering arm cover after application of sealant.
 
 12. Remove fill plug (2) and washer (3) from geared hub (1). 13. Fill geared hub (1) to proper oil level (TM 9-2320-280-10). 14. Install washer (3) and fill plug (2) on geared hub (1). Tighten fill plug (2) to 8-13 lb-ft (11-18 N•m).
 
-![670_image_0.png](670_image_0.png)
+![670_image_0.png](images/670_image_0.png)
 
 # 6-15. Wheel Stud Replacement
 
@@ -1005,7 +1005,7 @@ a. Removal 1. Rotate spindle (3) to allow clearance for removal of stud (4) from
 
 b. Assembly 1. Align splines on stud (4) with splines in spindle (3) and install stud (4) in spindle (3). 2. Install three flat washers (2) and hex nut (1) on stud (4). 3. Tighten hex nut (1) until head on stud (4) seats against spindle (3). 4. Remove and discard hex nut (1) and three flat washers (2).
 
-![671_image_0.png](671_image_0.png)
+![671_image_0.png](images/671_image_0.png)
 
 FOLLOW-ON TASK: Install wheel (para. 8-3).
 
@@ -1032,7 +1032,7 @@ Differential vent line replacement procedures are basically the same. This proce
 
 1. Install vent line (3) on tee fittings (1) and (4).
 
-![672_image_0.png](672_image_0.png)
+![672_image_0.png](images/672_image_0.png)
 
 2. Install two line clips (2) on vent line (3) and brake line (5).
 
@@ -1077,7 +1077,7 @@ Position clamp at a 45° angle toward the wheel before securing with capscrew.
 
 6-17. REAR GEARED HUB VENT LINE REPLACEMENT (Cont'd)
 
-![674_image_0.png](674_image_0.png)
+![674_image_0.png](images/674_image_0.png)
 
 # 6-18. Front Geared Hub Vent Line Replacement
 
@@ -1099,7 +1099,7 @@ b. Right Side Installation
 
 Step 1 is necessary to prevent vent line damage. If new clamp has
 
-![675_image_0.png](675_image_0.png) been previously installed, perform steps 3 through 5.
+![675_image_0.png](images/675_image_0.png) been previously installed, perform steps 3 through 5.
 
 1. Locate, mark, and drill 0.266 in. (6.76 mm) diameter hole (9) in front control arm (2).
 
@@ -1114,7 +1114,7 @@ to tee fitting (1) and elbow (5).
 
 5. Install new clamp (3) on front vent line (4), and control arm (2) at hole (9) with screw (10),
 
-![676_image_0.png](676_image_0.png)
+![676_image_0.png](images/676_image_0.png)
 
 washer (11), and nut (12).
 
@@ -1134,7 +1134,7 @@ Step 1 is necessary to prevent vent line damage. If new clamp has been previousl
 
 removed in para. c, step 2. If hose (1) is unserviceable cut anew piece from bulk3. Route vent line hose (1). fabricated in step 2 through three existing clamps (2), and secure
 
-![677_image_0.png](677_image_0.png)
+![677_image_0.png](images/677_image_0.png)
 
 hose (1) with two hose clamps (5) to union on tube (4) and elbow (6) on geared hub (7).
 
@@ -1148,7 +1148,7 @@ Do not close loop on clamps installed on control arms. Hose lines should move fr
 
 6. Install new clamp (13) on vent line hose (1), and control arm (8) with screw (10), washer
 
-![678_image_0.png](678_image_0.png)
+![678_image_0.png](images/678_image_0.png)
 
 nut (11).
 
@@ -1212,7 +1212,7 @@ Turn steering wheel until centerline of front and rear of tire (7) is over area 
 
 6-19. STEERING STOP MAINTENANCE (Cont'd)
 
-![680_image_0.png](680_image_0.png)
+![680_image_0.png](images/680_image_0.png)
 
 ## 6-20. Air Lifting Bracket Replacement
 
@@ -1234,7 +1234,7 @@ b. Installation Install lifting bracket (2) to geared hub (1) with four lockwash
 
 # 6-20. Air Lifting Bracket Replacement (Cont'D)
 
-![682_image_0.png](682_image_0.png)
+![682_image_0.png](images/682_image_0.png)
 
 # 6-21. Differential Cover Maintenance
 
@@ -1268,7 +1268,7 @@ Drycleaning solvent is flammable and will not be used near an open flame. A fire
 
 # 6-21. Differential Cover Maintenance (Cont'D)
 
-![684_image_0.png](684_image_0.png)
+![684_image_0.png](images/684_image_0.png)
 
 FOLLOW-ON TASK:  Fill differential to proper level (para. 2-11).
 
@@ -1311,7 +1311,7 @@ Tighten nuts (5) to 60 lb-ft (81 N•m).
 
 3. Install pins (1) in bar links (11). 4. Install bar links (11) to stabilizer bar (9) with six washers (8), two nuts (7), and locknuts (10).
 
-![686_image_0.png](686_image_0.png)
+![686_image_0.png](images/686_image_0.png)
 
 Tighten locknuts (10) to 75 lb-ft (102 N•m).
 
@@ -1335,7 +1335,7 @@ b. Installation 1. Apply sealing compound to threads of capscrew (5). Install ba
 
 2. Install bar link (3) to stabilizer bar (4) with two washers (2) and locknut (1). Tighten locknut (1) 
 
-![687_image_0.png](687_image_0.png)
+![687_image_0.png](images/687_image_0.png)
 
 to 75 lb-ft (102 N•m).
 
@@ -1380,7 +1380,7 @@ to 70 lb-ft (95 N•m). Install cotter pin (7).
 
 3. Tighten locknut (9) to 260 lb-ft (353 N•m).
 
-![688_image_0.png](688_image_0.png)
+![688_image_0.png](images/688_image_0.png)
 
 FOLLOW-ON TASKS: - Lubricate radius rod (TM 9-2320-280-10).
 
@@ -1429,7 +1429,7 @@ Do not loosen slotted nut to install cotter pin. Doing this may result in damage
 
 6-26.  UPPER BALL JOINT REPLACEMENT (Cont'd)
 
-![690_image_0.png](690_image_0.png)
+![690_image_0.png](images/690_image_0.png)
 
 FOLLOW-ON TASKS: - Lubricate upper ball joint (M1123 and A2 only) (TM 9-2320-280-10).
 •
@@ -1485,7 +1485,7 @@ Install ball joint (3) to geared hub (5) with slotted nut (6). Tighten slotted n
 
 Install cotter pin (7) in slotted nut (6).
 
-![692_image_0.png](692_image_0.png)
+![692_image_0.png](images/692_image_0.png)
 
 FOLLOW-ON TASKS: - Lubricate lower ball joint (TM 9-2320-280-10).
 
@@ -1557,7 +1557,7 @@ If installing new vent line bracket on left front geared hub, bend bracket 30° 
 
 9. Install clamp (21) and vent line (5) to control arm (16) with capscrew (23).
 
-![694_image_0.png](694_image_0.png)
+![694_image_0.png](images/694_image_0.png)
 
 10. Install clamp (26) and vent line (5) to upper control arm (16) with screw (24), washer (25), and nut (27).
 
@@ -1622,7 +1622,7 @@ washers (6), and locknuts (7). Tighten locknuts (7) to 35 lb-ft (47 N•m).
 
 5. Tighten locknuts (3) to 260 lb-ft (352 N•m). 6. Install wheel (para. 8-3). 7. Apply sealing compound to threads of capscrew (14). Install bar link (13) to lower control arm (8),
 
-![696_image_0.png](696_image_0.png)
+![696_image_0.png](images/696_image_0.png)
 
 with two washers (12) and capscrew (14). Tighten capscrew (14) to 70 lb-ft ( 95 N•m).
 
@@ -1697,7 +1697,7 @@ Ensure outer capscrews on front ball joints are installed from top down for M112
 
 5. Install wheel (para. 8-3). 6. Apply sealing compound to threads of capscrew (13). Install stabilizer bar link (15) to lower control
 
-![698_image_0.png](698_image_0.png)
+![698_image_0.png](images/698_image_0.png)
 
 arm (12) with two washers (14) and capscrew (13). Tighten capscrew (13) to 70 lb-ft (95 N.m).
 
@@ -1741,9 +1741,9 @@ plate (2), and frame (1). Discard locknuts (6).
 
 6-31. SHOCK ABSORBER REPLACEMENT (Cont'd)
 
-![700_image_0.png](700_image_0.png)
+![700_image_0.png](images/700_image_0.png)
 
-![700_image_1.png](700_image_1.png)
+![700_image_1.png](images/700_image_1.png)
 
 #### 6-31. Shock Absorber Replacement (Cont'D)
 
@@ -1779,7 +1779,7 @@ damaged rod will cause shock failure.
 
 4. Install bracket (11) to lower control arm (6) with two washers (8), lockwashers (9), and capscrews (10). Tighten capscrews (10) to 178 lb-ft (241 N.m).
 
-![702_image_0.png](702_image_0.png)
+![702_image_0.png](images/702_image_0.png)
 
 # 6-31. Shock Absorber Replacement (Cont'D)
 
@@ -1794,7 +1794,7 @@ Secure body mount bracket (6) to rear bumper (2) with two washers (5), capscrews
 
 6.
 
-![703_image_0.png](703_image_0.png)
+![703_image_0.png](images/703_image_0.png)
 
 7.
 

@@ -214,7 +214,7 @@ Drycleaning solvent is flammable and will not be used near an open flame. A fire
 
 5-2. TRANSMISSION SERVICE (Cont'd)
 
-![573_image_0.png](573_image_0.png)
+![573_image_0.png](images/573_image_0.png)
 
 # 5-2. Transmission Service (Cont'D)
 
@@ -244,7 +244,7 @@ Perform steps 1 through 4 for 4L80-E transmissions only.
 
 # 5-2. Transmission Service (Cont'D)
 
-![575_image_0.png](575_image_0.png)
+![575_image_0.png](images/575_image_0.png)
 
 # 5-2. Transmission Service (Cont'D)
 
@@ -255,17 +255,17 @@ to 10-15 lb-ft (14-20 N•m).
 
 9. Install gasket (8) and oil pan (9) on transmission (1) with thirteen capscrews (10). Tighten capscrews (10) to 12 lb-ft (16 N•m).
 
-![576_image_0.png](576_image_0.png)
+![576_image_0.png](images/576_image_0.png)
 
 5-2. TRANSMISSION SERVICE (Cont'd)
 
-![577_image_0.png](577_image_0.png)
+![577_image_0.png](images/577_image_0.png)
 
 #### D. Replenishing Fluid
 
 1. Remove transmission oil dipstick (12) from dipstick tube (11).
 
-![577_image_1.png](577_image_1.png)
+![577_image_1.png](images/577_image_1.png)
 
 2. Check transmission fluid and fill to proper level (TM 9-2320-280-10). 3. Install transmission oil dipstick (12) in dipstick tube (11).
 
@@ -322,7 +322,7 @@ Perform steps 6 and 7 to allow access only if removing oil cooler lines from oil
 
 # 5-3. Transmission Oil Cooler Lines Replacement (Corítl)
 
-![579_image_0.png](579_image_0.png)
+![579_image_0.png](images/579_image_0.png)
 
 ## 5 - 3 . Transmission Oil Cooler Lines Replacement (Cont' D )
 
@@ -339,17 +339,17 @@ capscrew (12), washer (8), and locknut (7). Tighten capscrew (12) to 30 lb-ft (4
 
 6. Install radiator supports (14) to airlift brackets (15) with four capscrews (18), washers (17), and
 
-![580_image_0.png](580_image_0.png)
+![580_image_0.png](images/580_image_0.png)
 
 locknuts (16). Tighten locknuts (16) to 31 lb-ft (42 N•m).
 
 7. Install retaining clamps (3) on cooler lines (4).
 
-![581_image_0.png](581_image_0.png)
+![581_image_0.png](images/581_image_0.png)
 
 # 5-3. Transmission Oil Cooler Lines Replacement (Corítb)
 
-![581_image_1.png](581_image_1.png)
+![581_image_1.png](images/581_image_1.png)
 
 FOLLOW-ON TASKS:  - Fill transmission to proper level (TM 9-2320-280-10).
 
@@ -397,7 +397,7 @@ and nut (7). Tighten nut (7) to 28 lb-ft (38 N•m).
 
 ## 5-4. Transmission Bypass Valve Replacement (Cont'D)
 
-![583_image_0.png](583_image_0.png)
+![583_image_0.png](images/583_image_0.png)
 
 FOLLOW-ON TASKS:  - Fill transmission to proper level (TM 9-2320-280-10).
 
@@ -438,7 +438,7 @@ to 25-37 lb-ft (34-50 N•m).
 
 # 5-5. Transmission Oil Dipstick Tube Replacement (Cont'D)
 
-![585_Image_0.Png](585_Image_0.Png)
+![585_Image_0.png](images/585_Image_0.Png)
 
 FOLLOW-ON TASKS: Install right exhaust manifold rear heat shield (para. 3-54).
 
@@ -487,7 +487,7 @@ Perform steps 1 through 3 for M997A2, M1025A2, M1035A2, M1043A2, M1045A2, M1097A
 
 # 5-6.  Neutral Start Switch Replacement (Cont'D)
 
-![587_image_0.png](587_image_0.png)
+![587_image_0.png](images/587_image_0.png)
 
 FOLLOW-ON TASKS: - Install shift controls housing (para. 5-7 or 5-10).
 
@@ -530,7 +530,7 @@ from body (13). Discard locknuts (15).
 
 5. Install rub strip (8) and trunnion (9) on transmission shift lever arm (10) with washer (6) and cotter pin (5).
 
-![589_image_0.png](589_image_0.png)
+![589_image_0.png](images/589_image_0.png)
 
 5-7.  SHIFT CONTROLS HOUSING ASSEMBLY (SF-5583581)  REPLACEMENT (Conrd)
 FOLLOW-ON TASKS: - • Connect battery ground cables (para. 4-73).
@@ -573,7 +573,7 @@ in shift control housing assembly (9) align with holes (15) in boot (11 ) .
 
 # 5-8. Shift Controls Housing Assembly (Sf-5583581) Maintenance (Cont'D)
 
-![591_image_0.png](591_image_0.png)
+![591_image_0.png](images/591_image_0.png)
 
 FOLLOW-ON TASK: Install shift control housing assembly (para. 5-7).
 
@@ -624,7 +624,7 @@ b. Cleaning 1. Clean all shift control housing assembly parts in accordance with
 
 5-9. SHIFT CONTROLS HOUSING ASSEMBLY (SF-5583581) REPAIR (Cont'd)
 
-![593_image_0.png](593_image_0.png)
+![593_image_0.png](images/593_image_0.png)
 
 # 5-9. Shift Controls Housing Assembly (Sf-5583581) Repair (Cont'D)
 
@@ -652,7 +652,7 @@ com-pression spring (17), spring retaining collar (15), transfer shift lever arm
 
 12. Secure shift control shaft (23) in shift controls housing (7) with retaining ring (12). 13. Secure spring retaining collar (15) on shift control shaft (23) with spring pin (16).
 
-![595_image_0.png](595_image_0.png)
+![595_image_0.png](images/595_image_0.png)
 
 5-9. SHIFT CONTROLS HOUSING ASSEMBLY (SF-5583581) REPAIR (Cont'd)
 FOLLOW-ON TASK: Assemble shift controls housing assembly (para 5-8).
@@ -693,7 +693,7 @@ Perform step 3 for M997A2 and M1035A2 only.
 5-10. SHIFT CONTROLS HOUSING ASSEMBLY (12460111/12460112) REPLACEMENT
 (4L80-E) (Cont'd)
 
-![597_image_0.png](597_image_0.png)
+![597_image_0.png](images/597_image_0.png)
 
 FOLLOW-ON-TASKS: - Connect battery ground cable (para. 4-73).
 
@@ -731,7 +731,7 @@ b. Assembly 1. Install gasket (14) and cover plate (15) on shift controls housin
 
 5-11. SHIFT CONTROLS HOUSING ASSEMBLY (12460111/12460112) MAINTENANCEConr'd)
 
-![599_image_0.png](599_image_0.png)
+![599_image_0.png](images/599_image_0.png)
 
 FOLLOW-ON TASK: Install shift control housing assembly (para. 5-10).
 
@@ -772,7 +772,7 @@ Manual References TM 9-2320-280-10 TM 9-2320-280-24P
 
 # 5-12. Transmission Shift Rod Maintenance (3L80) Cont'D)
 
-![601_image_0.png](601_image_0.png)
+![601_image_0.png](images/601_image_0.png)
 
 FOLLOW-ON  TASK:  Operate vehicle (TM 9-2320-280-10) and test transmission shift lever for
  
@@ -813,7 +813,7 @@ Proper adjustment makes end of shift rod movement parallel to relay lever moveme
 
 # 5-13. Transmission Shift Rod Maintenance (4L80-E) (Cont'D)
 
-![603_image_0.png](603_image_0.png)
+![603_image_0.png](images/603_image_0.png)
 
 FOLLOW-ON TASK:
  Operate vehicle (TM 9-2320-280-10) and test transmission shift lever for proper operation.
@@ -868,9 +868,9 @@ NOTE
 
 8. Check modulator cable (7) for ease and smoothness of operation and ensure cable core (9) returns to the idle position.
 
-![605_image_0.png](605_image_0.png)
+![605_image_0.png](images/605_image_0.png)
 
-![605_image_1.png](605_image_1.png)
+![605_image_1.png](images/605_image_1.png)
 
 FOLLOW-ON TASKS:
 · Install engine access cover (para. 10-15).
@@ -917,9 +917,9 @@ Note orientation of modulator link and bracket for installation.
 
 # 5-15. Modulator Link Replacement (3L80) (Cont'D)
 
-![607_image_0.png](607_image_0.png)
+![607_image_0.png](images/607_image_0.png)
 
-![607_image_1.png](607_image_1.png)
+![607_image_1.png](images/607_image_1.png)
 
 FOLLOW-ON TASKS: - Install engine access cover (para. 10-15).
 - • - Fill cooling system (para. 3-60).
@@ -947,9 +947,9 @@ Materials/Parts Adhesive sealant (Appendix C, Item 9)
 
 # 5-16. Transmission Vent Line Replacement (Cont'D)
 
-![609_image_0.png](609_image_0.png)
+![609_image_0.png](images/609_image_0.png)
 
-![609_image_1.png](609_image_1.png)
+![609_image_1.png](images/609_image_1.png)
 
 # 5-17. Sealed Lower Converter Housing Cover Maintenance
 
@@ -1014,7 +1014,7 @@ with four capscrews (2).
 
 3. Install converter housing cover (3) on oil pan flange (5) and transmission (1) with three capscrews (2).
 
-![611_image_0.png](611_image_0.png)
+![611_image_0.png](images/611_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 - Install crossover pipe (para. 3-50). - Install sealed upper converter housing cover (para. 5-18).
@@ -1053,7 +1053,7 @@ Gasket may require bending over edge of converter housing cover to make gasket s
 
 5-18. SEALED UPPER CONVERTER HOUSING COVER (2-PIECE) MAINTENANCE (Cont'd)
 
-![613_image_0.png](613_image_0.png)
+![613_image_0.png](images/613_image_0.png)
 
 FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
@@ -1079,7 +1079,7 @@ a. Removal Remove six capscrews (2) and converter housing cover (3) from transmi
 
 b. Installation Install converter housing cover (3) on transmission (1) with six capscrews (2).
 
-![614_image_0.png](614_image_0.png)
+![614_image_0.png](images/614_image_0.png)
 
 FOLLOW-ON TASKS: Install crossover pipe (para. 3-50).
 
@@ -1087,7 +1087,7 @@ Connect battery ground cable (para. 4-73).
 
 # 5-20. Transmission Mount Replacement
 
-![615_image_0.png](615_image_0.png)
+![615_image_0.png](images/615_image_0.png)
 
 | Applicable Models                     | Materials/Parts                       |
 |---------------------------------------|---------------------------------------|
@@ -1222,7 +1222,7 @@ Discard cotter pin (8).
 
 3. Remove shift rod trunnion (4) from shift rod (5).
 
-![619_image_0.png](619_image_0.png)
+![619_image_0.png](images/619_image_0.png)
 
 FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check for proper shifter operation.
 
@@ -1276,9 +1276,9 @@ Perform step 3.1 only if drive tip was removed.
 
 # 5-24.  Speedometer Driven Gear Maintenance(Cont'D)
 
-![621_image_0.png](621_image_0.png)
+![621_image_0.png](images/621_image_0.png)
 
-![621_image_1.png](621_image_1.png)
+![621_image_1.png](images/621_image_1.png)
 
 FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check speedometer for proper operation.
 
@@ -1304,11 +1304,11 @@ a. Removal
 
 # 5-25. Transfer Case Vent Line Replacement (Cont'D)
 
-![623_image_0.png](623_image_0.png)
+![623_image_0.png](images/623_image_0.png)
 
 OLD CONFIGURATION
 
-![623_image_1.png](623_image_1.png)
+![623_image_1.png](images/623_image_1.png)
 
 NEW CONFIGURATION
 
@@ -1326,7 +1326,7 @@ b. Installation
 
 # 5-25. Transfer Case Vent Line Replacement (Cont'D)
 
-![625_image_0.png](625_image_0.png)
+![625_image_0.png](images/625_image_0.png)
 
 ## 5-25. Transfer Case Vent Line Replacement (Cont'D)
 
@@ -1340,11 +1340,11 @@ Tighten capscrews (5) to 15 lb-ft (20 N•m).
 
 18. Install elbow (1) in transfer case (3). 19. Connect vent line (2) to elbow (1).
 
-![626_image_0.png](626_image_0.png)
+![626_image_0.png](images/626_image_0.png)
 
 OLD CONFIGURATION
 
-![626_image_1.png](626_image_1.png)
+![626_image_1.png](images/626_image_1.png)
 
 5-52.4 Change 3
 
@@ -1379,7 +1379,7 @@ Removal and installation procedures are basically the same for model 218 front a
 
 Have drainage container ready to catch fluid.
 
-![627_image_0.png](627_image_0.png)
+![627_image_0.png](images/627_image_0.png)
 
 2. Remove nut (5), washer seal (6), and output yoke (2) from transfer case (8). Discard washer seal (6). 3. Remove output oil seal (7) from transfer case (8).
 
@@ -1393,7 +1393,7 @@ b. Front Oil Seal Installation
 
 3. Connect front propeller shaft (1) to output yoke (2) with two straps (3) and four capscrews (4).
 
-![628_image_0.png](628_image_0.png)
+![628_image_0.png](images/628_image_0.png)
 
 Tighten capscrews (4) to 13-18 lb-ft (18-24 N.m).
 
@@ -1409,7 +1409,7 @@ The following procedure applies to model 242 transfer case rear oil seal.
 
 d. Rear Oil Seal Installation 1. Using output shaft seal installer, install oil
 
-![629_image_0.png](629_image_0.png)
+![629_image_0.png](images/629_image_0.png)
 
 2. Install rear propeller shaft (para. 6-5).
 
