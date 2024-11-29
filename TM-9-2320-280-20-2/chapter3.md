@@ -123,7 +123,7 @@ Special Tools Hex-head driver, 8 mm
  4. Remove two assembled-washer screws (1) from upper dipstick tube bracket (6) and fuel line bracket (14).
  5. Remove oil dipstick tube (4) from engine oil pan (10). Remove and discard O-ring (9).
 
-![22_image_0.png](22_image_0.png)
+![22_image_0.png](images/22_image_0.png)
 
 #### b. Installation
  1. Apply RTV sealant to O-ring (9) and install O-ring (9) on oil dipstick tube (4). 
@@ -167,7 +167,7 @@ A. Removal
 2. Remove two nuts (4), washers (5), and engine oil filler tube (3) from timing chain cover (7) and studs (8).
 3. Inspect grommet (6) for breaks or cracks. Replace if defective.
 
-![23_image_0.png](23_image_0.png) 
+![23_image_0.png](images/23_image_0.png) 
 
 B. Installation
 1. Coat grommet (6) with lubricating oil.
@@ -198,7 +198,7 @@ Materials/Parts Gasket (Appendix G, Item 53) Two O-rings (Appendix G, Item 210) 
 
 1. Install reducer boss (7) into oil filter adapter (3) and tighten to 25 lb-ft (34 N•m).
 
-![24_image_0.png](24_image_0.png) 2. Install engine oil filter adapter (3) and O-ring (1) on cylinder block (2) with two O-rings (4), 
+![24_image_0.png](images/24_image_0.png) 2. Install engine oil filter adapter (3) and O-ring (1) on cylinder block (2) with two O-rings (4), 
 gasket (5), and adapter bolt (6). Tighten adapter bolt (6) to 50 lb-ft (68 N•m).
 
 FOLLOW-ON TASK: Install engine oil filter (para. 3-5).
@@ -257,9 +257,9 @@ Install a non-vented filler cap only. An incorrect filler cap will not seal prop
 
 3-5. ENGINE OIL SERVICE (Cont'd)
 
-![26_image_0.png](26_image_0.png)
+![26_image_0.png](images/26_image_0.png)
 
-![26_image_1.png](26_image_1.png)
+![26_image_1.png](images/26_image_1.png)
 
 FOLLOW-ON   TASKS: -   Lower and secure hood (TM 9-2320-280-10).
 •
@@ -315,11 +315,11 @@ and oil pan (12) from cylinder block (2). Remove any sealant remains.
 5. Install starter cable support bracket (11) on studs (14) with two lockwashers (10) and nuts (9). 6. Tighten oil drainplug (8) to 20 lb-ft (27 N•m).
 
 
-![28_image_0.png](28_image_0.png)
+![28_image_0.png](images/28_image_0.png)
 
 SEALANT DIAGRAM
 
-![28_image_1.png](28_image_1.png)
+![28_image_1.png](images/28_image_1.png)
 
 FOLLOW-ON TASKS: -  Replenish engine oil (TM 9-2320-280-10).
 - • - Install oil dipstick tube (para. 3-2).
@@ -380,7 +380,7 @@ capscrew (15), washer (2), and locknut (3). Tighten locknut (3) to 6 lb-ft (8 N�
 
 4. Connect supply line connector (5) to adapter (4).
  
-![30_image_0.png](30_image_0.png)
+![30_image_0.png](images/30_image_0.png)
 
 5. Secure supply line (12) to engine mount bracket (10) with clamp (9), lockwasher (8), and capscrew (7).
 
@@ -446,7 +446,7 @@ Using high water pressure when cleaning engine and transmission oil cooler and r
 
 4. Inspect oil cooler (4) for breaks, punctures, cracks, and splits. Replace oil cooler (4), if damaged. 5. Remove four wood blocks. 6. Install oil cooler (4) on radiator (8) with four washers (6) and socket-head screw and washer
 
-![32_image_0.png](32_image_0.png)
+![32_image_0.png](images/32_image_0.png)
 
 assemblies (5).
 
@@ -503,7 +503,7 @@ valve bracket (4).
 
 4. Remove two nuts (10) from CDR valve bracket (4) and two intake manifold studs (11). 5. Remove two nuts (13) and CDR valve bracket (4) from two valve cover studs (12).
 
-![34_image_0.png](34_image_0.png)
+![34_image_0.png](images/34_image_0.png)
 
 3-9. CRANKCASE DEPRESSION REGULATOR (CDR) VALVE AND BRACKET
 MAINTENANCE (Cont'd)
@@ -541,9 +541,9 @@ Secure CDR valve bracket (4) to valve cover studa (13) with two nuts (14). Tight
 3-9. CRANKCASE DEPRESSION REGULATOR (CDR) VALVE AND BRACKET
 MAINTENANCE (Cont'd)
 
-![36_image_0.png](36_image_0.png)
+![36_image_0.png](images/36_image_0.png)
 
-![36_image_1.png](36_image_1.png)
+![36_image_1.png](images/36_image_1.png)
 
 FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
@@ -575,7 +575,7 @@ CDR valve and bracket removed (para. 3-9).
 
 1. Connect CDR valve oil fill tube hose (4) to oil fill tube (6) and tighten clamp (5).
 
-![37_image_0.png](37_image_0.png)
+![37_image_0.png](images/37_image_0.png)
 
 2. Connect to CDR valve intake manifold hose (1) to intake manifold (7) and tighten clamp (2).
 
@@ -643,7 +643,7 @@ For dust unloader replacement, perform steps 10 and 11 only.
 
 ## 3-12. Air Cleaner Assembly And Dust Unloader Maintenance (Cont'D)
 
-![40_image_0.png](40_image_0.png)
+![40_image_0.png](images/40_image_0.png)
 
 10. Install dust unloader (16) on air cleaner assembly (9) and tighten clamp (15) to 45-50 lb-in.
 
@@ -697,9 +697,9 @@ Remove dust or sand from filter element (4) by holding it so neither end faces g
 
 # 3-13. Air Cleaner Filter Element Servicing (Cont'D)
 
-![42_image_0.png](42_image_0.png)
+![42_image_0.png](images/42_image_0.png)
 
-![42_image_1.png](42_image_1.png)
+![42_image_1.png](images/42_image_1.png)
 
 # 3-13. Air Cleaner Filter Element Servicing (Cont'D)
 
@@ -739,7 +739,7 @@ When cover clamp is secured to end of filter body assembly, ensure the clamp bol
 
 # 3-13. Air Cleaner Filter Element Servicing (Cont'D)
 
-![44_image_0.png](44_image_0.png)
+![44_image_0.png](images/44_image_0.png)
 
 FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
@@ -789,7 +789,7 @@ Cover opening of intake manifold to prevent foreign material from entering engin
 
 (5-6 N•m).
 
-![46_image_0.png](46_image_0.png)
+![46_image_0.png](images/46_image_0.png)
 
 FOLLOW-ON TASK: Lower and secure hood (TM 9-2320-280-10).
 
@@ -809,7 +809,7 @@ a. Removal 1. Loosen two clamps (3) and remove elbow (4) from air cleaner assemb
 
 b. Installation 1. Install two clamps (3) on elbow (4). 2. Connect elbow (4) to air cleaner assembly (1) and air horn (2) and tighten two clamps (3). Tighten
 
-![47_image_0.png](47_image_0.png)
+![47_image_0.png](images/47_image_0.png)
 
 clamps (3) to 40-45 lb-in. (5-6 N•m).
 
@@ -839,7 +839,7 @@ b. Installation 1. Install air horn support bracket (1) on cylinder head (7) wit
 
 3. Install washer (2.1) and two clamps (3) on stud (2) with lockwasher (4) and nut (5).
 
-![48_image_0.png](48_image_0.png)
+![48_image_0.png](images/48_image_0.png)
 
 FOLLOW-ON TASK: Install air horn (para. 3-14).
 
@@ -863,7 +863,7 @@ a. Removal 1. Remove two screws (2) and bezel (1) from air restriction gauge (4)
 
 b. Installation 1. Connect hose (5) to gauge (4). 2. Position gauge (4) and gasket (3) behind dash panel (6) and secure to bezel (1) with two screws (2).
 
-![49_image_0.png](49_image_0.png)
+![49_image_0.png](images/49_image_0.png)
 
 FOLLOW-ON TASK: Start engine (TM 9-2320-280-10) and check operation of air restriction gauge.
 
@@ -879,7 +879,7 @@ This task covers:
 | b. Removal   | d. Installation              |
 | Tools        | Manual References            |
 
-![50_image_0.png](50_image_0.png)
+![50_image_0.png](images/50_image_0.png)
 
 automotive (Appendix B, Item 1)
 Loosen clamp (2) and remove weathercap (1) from air intake duct (3).
@@ -904,7 +904,7 @@ b. Installation 1. Route hose (6) through three clamps (2) and two grommets (3) 
 
 2. Connect hose (6) to air cleaner assembly (7). 3. Connect hose (6) to gauge (4).
 
-![51_image_0.png](51_image_0.png)
+![51_image_0.png](images/51_image_0.png)
 
 4. Tighten three clamps (2) on hose (6) and "A" beam (1).
 
@@ -944,7 +944,7 @@ For fuel pump vent line replacement, perform steps 2 and 3.
 
 1. Connect vent line (2) to tee fitting (7) and air cleaner fitting (1). 2. Install two clamps (3) to vent line (4).
 
-![52_image_0.png](52_image_0.png) 3. Install vent line (4) on tee fitting (5) and fuel pump (6) and tighten two clamps (3).
+![52_image_0.png](images/52_image_0.png) 3. Install vent line (4) on tee fitting (5) and fuel pump (6) and tighten two clamps (3).
 
 FOLLOW-ON TASK: Lower and secure hood (TM 9-2320-280-10).
 
@@ -964,7 +964,7 @@ a. Removal Remove three screws (2) and drainage bracket (3) from body (1).
 
 b. Installation Install drainage bracket (3) on body (1) with three screws (2).
 
-![53_image_0.png](53_image_0.png)
+![53_image_0.png](images/53_image_0.png)
 
 FOLLOW-ON TASK: Install air cleaner assembly (para. 3-12).
 
@@ -985,7 +985,7 @@ Remove clamp (3) and boot (2) from injection pump (1).
 
 Install boot (2) on injection pump (1) with clamp (3).
 
-![54_image_0.png](54_image_0.png)
+![54_image_0.png](images/54_image_0.png)
 
 FOLLOW-ON TASK: Lower and secure hood (TM 9-2320-280-10)
 
@@ -1053,7 +1053,7 @@ Place GAA grease on pushrod to retain in cylinder block during installation.
 
 5. Connect vent line (4) to fuel pump (2) and tighten clamp (3) to 10-20 lb-in. (1-2 N•m). 6. Connect fuel outlet line (12) to fuel pump (2). 7. Connect fuel inlet line (13) to fuel pump (2) and tighten clamp (14).
 
-![56_image_0.png](56_image_0.png)
+![56_image_0.png](images/56_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para 4-73).
 
@@ -1123,9 +1123,9 @@ Discard locknut (15).
 
 # 3-24. Fuel Tank Maintenance (Cont'D)
 
-![58_image_0.png](58_image_0.png)
+![58_image_0.png](images/58_image_0.png)
 
-![58_image_1.png](58_image_1.png)
+![58_image_1.png](images/58_image_1.png)
 
 ## 3-24. Fuel Tank Maintenance (Cont'D)
 
@@ -1173,19 +1173,19 @@ Disconnect jumper leads 58J (33) and 28B (35) from body wiring harness (34).
 
 Bend clamp (32) down and remove jumper harness (31).
 
-![59_image_0.png](59_image_0.png)
+![59_image_0.png](images/59_image_0.png)
 
 17.
 
 # 3-24. Fuel Tank Maintenance (Cont'D)
 
-![60_image_0.png](60_image_0.png)
+![60_image_0.png](images/60_image_0.png)
 
-![60_image_1.png](60_image_1.png)
+![60_image_1.png](images/60_image_1.png)
 
-![60_image_2.png](60_image_2.png)
+![60_image_2.png](images/60_image_2.png)
 
-![60_image_3.png](60_image_3.png)
+![60_image_3.png](images/60_image_3.png)
 
 # 3-24. Fuel Tank Maintenance (Cont'D)
 
@@ -1244,7 +1244,7 @@ Note position of fuel strainer for installation.
 
 13. Remove arctic heater fuel supply tube (13) from access cover (11). 14. Remove vent valve (4) and grommet (3) from access cover (11). 15. Remove vent line (18) from tee (19). 16. Loosen clamp (15) and remove filler spout hose (16) from tank (17).
 
-![62_image_0.png](62_image_0.png)
+![62_image_0.png](images/62_image_0.png)
 
 # 3-24.  Fuel Tank Maintenance(Cont'D)
 
@@ -1268,7 +1268,7 @@ Drycleaning solvent is flammable and will not be used near an open flame. A fire
 
 # 3-24.  Fuel Tank Maintenance(Cont'D)
 
-![64_image_0.png](64_image_0.png)
+![64_image_0.png](images/64_image_0.png)
 
 1
 
@@ -1322,7 +1322,7 @@ Perform step 12 if vehicle has an arctic heater installed.
 
 3-24.  FUEL TANK MAINTENANCE(Cont'd)
 
-![66_image_0.png](66_image_0.png)
+![66_image_0.png](images/66_image_0.png)
 
 ## 3-24. Fuel Tank Maintenance (Cont'D)
 
@@ -1360,7 +1360,7 @@ Ensure upper and lower straps are 1/2 in. (12 mm) apart after tightening nuts. S
 
 13. Connect vent line (38) to filler spout (39). 14. Secure vent line (38) to body (34) with clamp (35), washer (36), capscrew (47), washer (36), and locknut (37).
 
-![67_image_0.png](67_image_0.png)
+![67_image_0.png](images/67_image_0.png)
 
 ## 3-24. Fuel Tank Maintenance (Cont'D)
 
@@ -1368,7 +1368,7 @@ Ensure upper and lower straps are 1/2 in. (12 mm) apart after tightening nuts. S
 
 16. Install filler spout (39) to body (34) with clamp (42), washer (43), capscrew (44), washer (41), and
 
-![68_image_0.png](68_image_0.png)
+![68_image_0.png](images/68_image_0.png)
 
 · Connect battery ground cable (para. 4-73). · Fill fuel tank (TM 9-2320-280-10) and check for leaks.
 
@@ -1414,9 +1414,9 @@ from front body bracket (2) and rear body bracket (10). Discard locknuts (1).
 
 2. Connect supply and return lines (8) to hoses (6) and tighten clamps (7). 3. Secure fuel supply and return lines (8) together with three clips (9).
 
-![70_image_0.png](70_image_0.png)
+![70_image_0.png](images/70_image_0.png)
 
-![70_image_1.png](70_image_1.png)
+![70_image_1.png](images/70_image_1.png)
 
 FOLLOW-ON TASKS: - • Install engine right splash shield (para. 10-20).
 - • - • - Fill fuel tank (TM 9-2320-280-10) and check for fuel leaks.
@@ -1461,7 +1461,7 @@ with screw (5).
 
 # 3-26. Auxiliary Fuel Pickup And Return Lines Replacement (Cont'D)
 
-![72_image_0.png](72_image_0.png)
+![72_image_0.png](images/72_image_0.png)
 
 
 <a name="3-27"></a> 
@@ -1518,7 +1518,7 @@ Perform step 2 only when deep water fording kit is installed.
 
 9. Secure vent line (3) to vent line (6) with clip (9).
 
-![74_image_0.png](74_image_0.png)
+![74_image_0.png](images/74_image_0.png)
 
 FOLLOW-ON TASKS: - Install fuel tank (para. 3-24).
 
@@ -1582,7 +1582,7 @@ Replacement chain manufacturing instructions can be found in appendix D, figure 
 
 e. Fuel Filler Chain Installation 1. Pry open link on end of chain (5.1) and attach to filler cap (6). Close link.
 
-![76_image_0.png](76_image_0.png) 2. Hook chain clip (8) through last link at opposite end of chain (5.1) and attach to filler spout (12). 3. Install filler cap (6) to filler spout (12) and secure with "T" handle (7).
+![76_image_0.png](images/76_image_0.png) 2. Hook chain clip (8) through last link at opposite end of chain (5.1) and attach to filler spout (12). 3. Install filler cap (6) to filler spout (12) and secure with "T" handle (7).
 
 FOLLOW-ON TASK: Fill fuel tank (TM 9-2320-280-10) and check filler spout for fuel leaks.
 
@@ -1629,9 +1629,9 @@ Upper and lower straps should be approximately 1/2 in. (12 mm) apart after tight
 
 3-29. FUEL TANK FILLER SPOUT VENT LINE REPLACEMENT (Cont'd)
 
-![78_image_0.png](78_image_0.png)
+![78_image_0.png](images/78_image_0.png)
 
-![78_image_1.png](78_image_1.png)
+![78_image_1.png](images/78_image_1.png)
 
 FOLLOW-ON TASK: Install rear propeller shaft (para. 6-4).
 
@@ -1661,7 +1661,7 @@ b. Installation
 
 Position clamps attaching filler hose to fuel tank as shown.
 
-![79_image_0.png](79_image_0.png)
+![79_image_0.png](images/79_image_0.png)
 
 1. Install hose (1) on filler spout (2) and slide on filler spout (2) until the hose (1) clears fuel tank (5). 2. Connect hose (1) to fuel tank (5) and tighten clamps (3) and (4).
 
@@ -1704,7 +1704,7 @@ Apply adhesive to threads of screws.
 
 3. Install two rear hangers (7) on supports (6) with screws (5), washers (4), and nuts (3).
 
-![80_image_0.png](80_image_0.png)
+![80_image_0.png](images/80_image_0.png)
 
 Tighten nuts (3) to 37 lb-ft (50 N•m).
 
@@ -1775,11 +1775,11 @@ Do not operate starter continuously for more than 20 seconds, wait 10 to 15 seco
 
 6. Tighten bleed screw (6) to 40-50 lb-in. (4-6 N•m).
 
-![82_image_0.png](82_image_0.png)
+![82_image_0.png](images/82_image_0.png)
 
 FOLLOW-ON TASKS: - Start engine (TM 9-2320-280-10) and check for fuel leaks.
 
-![82_image_1.png](82_image_1.png)
+![82_image_1.png](images/82_image_1.png)
 
 - Lower and secure hood (TM 9-2320-280-10). - Install engine access cover (para. 10-15).
 
@@ -1841,7 +1841,7 @@ Connect fuel inlet hose (1) and fuel outlet hose (15) to fuel filter cover (3) a
 
 7.
 
-![84_image_0.png](84_image_0.png)
+![84_image_0.png](images/84_image_0.png)
 
 FOLLOW-ON TASK: Bleed fuel filter (para. 3-32).
 
@@ -1895,7 +1895,7 @@ For fuel filter drain valve replacement, perform steps 5 and 6 only.
 
 # 3-34. Fuel Filter Drain Hose And Valve Replacement (Cont'D)
 
-![86_image_0.png](86_image_0.png)
+![86_image_0.png](images/86_image_0.png)
 
 FOLLOW-ON TASKS: - Start engine (TM 9-2320-280-10) and check for oil leaks.
 - Start en
@@ -1939,7 +1939,7 @@ c. Installation 1. Install check valve (3) on injection pump (4). 2. Connect hos
 
 # 3-35. Fuel Injection Pump Return Hose Check Valve Maintenance (Cont'D)
 
-![88_image_0.png](88_image_0.png)
+![88_image_0.png](images/88_image_0.png)
 
  FOLLOW-ON TASKS: - Install air horn assembly (para. 3-14).
 
@@ -1995,7 +1995,7 @@ c. Tube to Nozzle Hose Removal 1. Loosen two clamps (5) and remove hose (6) from
 
 # 3-36.  Fuel Injection Return Hoses Replacement(Cont'D)
 
-![90_image_0.png](90_image_0.png)
+![90_image_0.png](images/90_image_0.png)
 
 ## 3-36. Fuel Injection Return Hoses Replacement (Cont'D)
 
@@ -2009,7 +2009,7 @@ h. Nozzle Cap Installation Install cap (1) on rear nozzle nipple (3) with clamp 
 
 # 3-36. Fuel Injection Return Replacement (Cont'D)
 
-![92_image_0.png](92_image_0.png)
+![92_image_0.png](images/92_image_0.png)
 
 FOLLOW-ON TASKS: - Install air horn (para. 3-14).
 
@@ -2060,7 +2060,7 @@ Tighten nut (7) to 13-20 lb-ft (18-27 N•m).
 
 # 3-37. Fuel Drain Back Tube Replacement (Cont'D)
 
-![94_image_0.png](94_image_0.png)
+![94_image_0.png](images/94_image_0.png)
 
 FOLLOW-ON TASKS: - Install air horn (para. 3-14).
 - Start engine ()
@@ -2105,7 +2105,7 @@ b. Installation
 
 HMMWV glow plugs have bullet-shaped tips, not flat tips.
 
-![95_image_0.png](95_image_0.png)
+![95_image_0.png](images/95_image_0.png)
 
 1. Install glow plug (2) in cylinder head (1). Tighten-glow plug (2) to 8-12 lb-ft (11-16 N•m). 2. Connect electrical lead 575 (3) to glow plug (2).
 
@@ -2137,7 +2137,7 @@ General mechanic's tool kit: Engine access cover removed (para. 10-15).
 
 2. Install two clamps (5) and clamp (7) to bracket (1) with two screw-assembled washers (6). Tighten
 
-![96_image_0.png](96_image_0.png)
+![96_image_0.png](images/96_image_0.png)
 
 screw-assembled washers (6) to 3-4 lb-ft (4-5 N.m).
 
@@ -2171,7 +2171,7 @@ b. Installation 1. Install bracket (5) to valve cover studs (10) with two washer
 
 4. Install clamp (1) to bracket (5) with screw-assembled washer (2). Tighten screw-assembled
 
-![97_image_0.png](97_image_0.png)
+![97_image_0.png](images/97_image_0.png)
 
 Lower and secure hood (TM 9-2320-280-10).
 <a name="chapter-3-section-iii"></a>
@@ -2246,7 +2246,7 @@ Bushing halves may detach from accelerator pedal rod during removal.
 
 b.  Inspection Inspect throttle return spring (29) for damage. Replace if defective.
 
-![100_image_0.png](100_image_0.png)
+![100_image_0.png](images/100_image_0.png)
 
 # 3-42. Accelerator Linkage Maintenance (Cont'D)
 
@@ -2274,7 +2274,7 @@ ensuring retainers (32) are properly seated over bushing halves (12).
 
 # 3-42. Accelerator Linkage Maintenance (Cont'D)
 
-![102_image_0.png](102_image_0.png)
+![102_image_0.png](images/102_image_0.png)
 
 FOLLOW-ON TASKS: - Install engine access cover (para. 10-15).
 
@@ -2309,7 +2309,7 @@ Remove cotter pin (5), washer (6), and pin (3) from accelerator rod (1), and rem
 
 b. Installation Install accelerator pedal (4) and spring (2) on accelerator rod (1) with pin (3), washer (6), and cotter pin (5).
 
-![103_image_0.png](103_image_0.png)
+![103_image_0.png](images/103_image_0.png)
 
 FOLLOW-ON TASK: Start engine (TM 9-2320-280-10) and check for proper accelerator operation.
 
@@ -2341,7 +2341,7 @@ Keep hands and arms away from fan blade and drivebelts while engine is running o
 3. Set engine idle speed to 650 rpm (± 25 rpm) for the 6.2L engine or 700 rpm (± 25 rpm) for the 6.5L
 engine by turning idle speed adjusting screw (1) on throttle shaft lever (3).
 
-![104_image_0.png](104_image_0.png)
+![104_image_0.png](images/104_image_0.png)
 
 FOLLOW-ON TASK: Lower and secure hood (TM 9-2320-280-10).
 
@@ -2383,7 +2383,7 @@ Manual References TM 9-2320-280-24P
 
 10. Remove nut (25), O-ring (33), and nut (26) from hand throttle cable (11). Discard O-ring (33).
 
-![105_image_0.png](105_image_0.png)
+![105_image_0.png](images/105_image_0.png)
 
 # 3-45. Hand Throttle Control Cable And Bracket Replacement (Cont'D)
 
@@ -2401,7 +2401,7 @@ Manual References TM 9-2320-280-24P
 
 11. Install instrument cluster (7) in instrument panel (3) with four screws (6).
 
-![106_image_0.png](106_image_0.png)
+![106_image_0.png](images/106_image_0.png)
 <a name="chapter-3-section-iv"></a>
 
 ## Section Iv. **Exhaust System Maintenance**
@@ -2470,7 +2470,7 @@ Install tailpipe (1) on hanger (2) with U-bolt (10), two washers (4), and nuts (
 
 2.
 
-![108_image_0.png](108_image_0.png)
+![108_image_0.png](images/108_image_0.png)
 
 FOLLOW-ON TASK: Start engine (TM 9-2320-280-10 and check for exhaust leaks.
 
@@ -2524,7 +2524,7 @@ washers (9), and locknuts (10). Tighten locknuts (10) to 26 lb-ft (35 N•m).
 3-48.   MUFFLER AND INSULATOR REPLACEMENT (ALL MODELS EXCEPT M1123 AND
 "A2″ VEHICLES)
 
-![110_image_0.png](110_image_0.png)
+![110_image_0.png](images/110_image_0.png)
 
 FOLLOW-ON TASK:   Install tailpipe (para. 3-47).
 
@@ -2581,7 +2581,7 @@ capscrews (27), washers (3), and locknuts (2).
 
 5. Install heat shield (4) on muffler (26) with two nuts (10). 6. Install heat shield (11) on catalytic converter (18) with clamp (8). 7. Install heat shield (11) on bracket (24) and muffler (26) with U-bolt (25) and four nuts (7).
 
-![112_image_0.png](112_image_0.png)
+![112_image_0.png](images/112_image_0.png)
 
 FOLLOW-ON TASK: [Install tailpipe](#3-47).
 
@@ -2633,7 +2633,7 @@ capscrews (4), washers (2), and locknuts (1).
 
 # 3-50.  Crossover Pipe Replacement(Cont'D)
 
-![114_image_0.png](114_image_0.png)
+![114_image_0.png](images/114_image_0.png)
 
 FOLLOW-ON TASKS: - Start engine (TM 9-2320-280-10) and check for exhaust leaks.
 
@@ -2676,7 +2676,7 @@ Do not touch hot exhaust system components with bare hands. Severe injury will r
 
 2. Install tailpipe hanger (6) to frame (3) with two washers (2), capscrews (7), washers (2), and
 
-![115_image_0.png](115_image_0.png)
+![115_image_0.png](images/115_image_0.png)
 
 locknuts (1). Tighten capscrews (7) to 26 lb-ft (35 N•m).
 
@@ -2710,7 +2710,7 @@ a. Removal 1. Remove four locknuts (5), washers (6), capscrews (9), washers (8) 
 
 2. Install insulator (11) and reinforcement plate (7) to tailpipe hanger (4) with four washers (8),
 
-![116_image_0.png](116_image_0.png)
+![116_image_0.png](images/116_image_0.png)
 
 capscrews (9), washers (6), and locknuts (5). Tighten locknuts (5) to 10 lb-ft (14 N•m).
 
@@ -2761,9 +2761,9 @@ Install support bracket assembly (3) to transfer case (4) with two washers (2) a
 
 # 3-53.  Muffler Support Bracket Maintenance(Cont'D)
 
-![118_image_0.png](118_image_0.png)
+![118_image_0.png](images/118_image_0.png)
 
-![118_image_1.png](118_image_1.png)
+![118_image_1.png](images/118_image_1.png)
 
 FOLLOW-ON TASKS: - • Install muffler and catalytic converter (M1123 and "A2" vehicles only) (para. 3-49).
 
@@ -2801,7 +2801,7 @@ b. Installation 1. Install rear heat shield (7) on heat shield (4) with capscrew
 
 # 3-54.  Right Exhaust Manifold Rear Heat Shield Replacement(Cont'D)
 
-![120_image_0.png](120_image_0.png)
+![120_image_0.png](images/120_image_0.png)
 
 FOLLOW-ON TASK:   Install engine access cover (para. 10-15).
 
@@ -2862,7 +2862,7 @@ washer (6), and locknut (7). Tighten locknut (7) to 37 lb-ft (50 N•m).
 
 # 3-55. Right Exhaust Manifold Heat Shield Replacement (Cont'D)
 
-![122_image_0.png](122_image_0.png)
+![122_image_0.png](images/122_image_0.png)
 
 FOLOW-ON   TASK:  - Install right exhaust manifold rear heat shield (para. 3-54).
 - • Install engine access cover (para. 10-15).
@@ -2931,7 +2931,7 @@ Ensure replacement gasket has a silver, shiny surface, not a dull, dark surface,
 
 4. Install manifold seal (10) and crossover pipe (7) on exhaust manifold (4) with three washers (9), 
 
-![124_image_0.png](124_image_0.png)
+![124_image_0.png](images/124_image_0.png)
 
 capscrews (11), washers (9), and locknuts (8). Tighten locknuts (8) to 37 lb-ft (50 N.m).
 
@@ -2996,7 +2996,7 @@ Ensure replacement gasket has a silver, shiny surface, not a dull, dark surface,
 
 # 3-57. Right Exhaust Manifold Replacement (Cont'D)
 
-![126_image_0.png](126_image_0.png)
+![126_image_0.png](images/126_image_0.png)
 
 FOLLOW-ON TASKS: - Install air horn and elbow (para. 3-14).
 - • - Install right exhaust manifold heat shield (para. 3-55).
@@ -3026,7 +3026,7 @@ a. Removal Remove three locknuts (4), washers (3), and muffler hanger (1) from f
 
 b. Installation Install muffler hanger (1) to frame rail (2) with three washers (3) and locknuts (4). Tighten locknuts (4) to 75 lb-ft (102 N•m).
 
-![127_image_0.png](127_image_0.png)
+![127_image_0.png](images/127_image_0.png)
 
 FOLLOW-ON TASK: Install muffler and insulator (para. 3-48).
 <a name="chapter-3-section-v"></a>
@@ -3138,7 +3138,7 @@ Secure filler cap (1) to surge tank (2).
 
 10.
 
-![130_image_0.png](130_image_0.png)
+![130_image_0.png](images/130_image_0.png)
 
 | 1.  Position heat shield (4) on exhaust manifold (2) and crossover pipe (8).                                                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3198,7 +3198,7 @@ from radiator (3) and frame bracket (27). Discard locknut (24).
 
 3-61. RADIATOR AND FAN SHROUD ASSEMBLY MAINTENANCE (6nt'd)
 
-![132_image_0.png](132_image_0.png)
+![132_image_0.png](images/132_image_0.png)
 
 # 3 - 6 1 . R A D I Ator And Fan Shroud Assembly Maintenance (Co N T ' D)
 
@@ -3242,7 +3242,7 @@ washer (8), and locknut (7). Do not tighten capscrew (12).
 
 # 3-61. Radiator And Fan Shroud Assembly Maintenance (Cont'D)
 
-![134_image_0.png](134_image_0.png)
+![134_image_0.png](images/134_image_0.png)
 
 # 3 - 6 1 . R A D I Ator And Fan Shroud Assembly Maintenance (Co N T ' D)
 
@@ -3285,11 +3285,11 @@ For vehicles equipped with a 200 amp alternator, it is recommended that the inle
 
 12. Connect surge tank-to-radiator vent hose (6) to adapter (8) with clamp (7).
 
-![135_image_0.png](135_image_0.png)
+![135_image_0.png](images/135_image_0.png)
 
 # 3-61.  Radiator And Fan Shroud Assembly Maintenance (6Nt'D)
 
-![136_image_0.png](136_image_0.png)
+![136_image_0.png](images/136_image_0.png)
 
 FOLLOW-ON TASKS: - Fill cooling system (para. 3-60).
 
@@ -3314,7 +3314,7 @@ This task covers:
 | automotive (Appendix B, Item 1) | Equipment Condition                          |
 | Materials/Parts                 | Muffler and insulator removed (para. 3\-48). |
 
-![137_image_0.png](137_image_0.png)
+![137_image_0.png](images/137_image_0.png)
 
 a. Removal Remove three screws (3) and shield assembly (2) from airlift bracket (1).
 
@@ -3352,7 +3352,7 @@ Discard locknuts (10).
 
 3. Tighten locknuts (10) to 26 lb-ft (35 N•m).
 
-![138_image_0.png](138_image_0.png)
+![138_image_0.png](images/138_image_0.png)
 
 FOLLOW-ON TASKS: - Install left splash shield (para. 10-17).
 
@@ -3392,7 +3392,7 @@ Tag hoses prior to disconnection. When current stocks of the four-quart surge ta
 
 1. Install surge tank (2) on bracket (10) with two clamps (1). 2. Connect surge tank-to-lower radiator hose (8) to surge tank (2) with clamp (9). 3. Connect surge tank-to-water crossover vent hose (5) to surge tank (2) with clamp (4). Tighten
 
-![139_image_0.png](139_image_0.png)
+![139_image_0.png](images/139_image_0.png)
 
 clamp (4) to 10-20 lb-in. (1-2 Nom)
 4. Connect surge tank-to-radiator vent hose (6) to surge tank (2) with clamp (3). Tighten clamp (3) to 10-20 lb-in. (1-2 N*m).
@@ -3416,7 +3416,7 @@ a. Removal 1. Loosen two clamps (2) and remove vent hose (3) from radiator (4) a
 
 b. Installation 1. Install two clamps (2) on vent hose (3). 2. Install vent hose (3) on surge tank (1)
 
-![140_image_0.png](140_image_0.png)
+![140_image_0.png](images/140_image_0.png)
 
 10-20 lb-in. (1-2 N*m).
 
@@ -3447,7 +3447,7 @@ b. Installation 1. Install two clamps (2) to vent hose (3).
 
 2. Install vent hose (3) on surge tank (1) and water crossover (4) with two clamps (2). Tighten clamps
 
-![141_image_0.png](141_image_0.png)
+![141_image_0.png](images/141_image_0.png)
 
 to 10-20 lb in. (1-2 N*m).
 
@@ -3471,7 +3471,7 @@ Manual References TM 9-2320-280-24P
 
 b. Installation 1. Install two clamps (2) on hose (3).
 
-![142_image_0.png](142_image_0.png) 2. Install hose (3) on water pump (4) and water crossover (1) with two clamps (2).
+![142_image_0.png](images/142_image_0.png) 2. Install hose (3) on water pump (4) and water crossover (1) with two clamps (2).
 
 FOLLOW-ON TASK: Fill cooling system (para. 3-60).
 
@@ -3541,9 +3541,9 @@ Apply sealing compound to all pipe threads during installation.
 
 3-68. FAN DRIVE HOSE AND QUICK-DISCONNECT REPLACEMENT (Cont'd)
 
-![144_image_0.png](144_image_0.png)
+![144_image_0.png](images/144_image_0.png)
 
-![144_image_1.png](144_image_1.png)
+![144_image_1.png](images/144_image_1.png)
 
 09
 
@@ -3572,7 +3572,7 @@ For vehicles equipped with a 200 amp alternator, it is recommended that the inle
 
 2. Install hose (3) on water crossover (4) and radiator (1) with two clamps (2).
 
-![145_image_0.png](145_image_0.png)
+![145_image_0.png](images/145_image_0.png)
 
 FOLLOW-ON TASK: Tighten coolant filler cap (para. 3-60).
 
@@ -3614,7 +3614,7 @@ washers (3), and locknuts (5). Tighten locknuts (5) to 6 lb-ft (8 N•m).
 
 2. Connect lower radiator hose (6) to radiator lower tube assembly (10) with clamp (7). 3. Connect surge tank to lower radiator hose (9) to radiator lower tube assembly (10) with clamp (8). 4. Connect water pump inlet hose (1) to radiator lower tube assembly (10) with clamp (12).
 
-![146_image_0.png](146_image_0.png) 5. Apply sealant type tape to threads of draincock (11) and install draincock (11) on radiator lower tube assembly (10).
+![146_image_0.png](images/146_image_0.png) 5. Apply sealant type tape to threads of draincock (11) and install draincock (11) on radiator lower tube assembly (10).
 
 FOLLOW-ON TASK: Fill cooling system (para. 3-60).
 
@@ -3643,7 +3643,7 @@ b. Installation 1. Install two clamps (2) to hose (3). 2. Install lower radiator
 
 Vehicles may be equipped with either spring clamps and/or
 
-![147_image_0.png](147_image_0.png) conventional clamps.
+![147_image_0.png](images/147_image_0.png) conventional clamps.
 
 3. Tighten spring clamps (2) to 90 lb-in. (10 N•m). Tighten conventional clamps (2) to 40 lb-in. (5 N•m ) .
 
@@ -3668,7 +3668,7 @@ a. Removal 1 . Loosen two clamps (2) and remove water pump inlet hose (3) from w
 
 b. Installation 1. Install two clamps (2) to hose (3). 2 . Install water pump inlet hose (3) on lower tube assembly (4) and water pump (1) with two clamps (2).
 
-![148_image_0.png](148_image_0.png) 3. Tighten clamps (2) to 40 lb-in. (5 N•m).
+![148_image_0.png](images/148_image_0.png) 3. Tighten clamps (2) to 40 lb-in. (5 N•m).
 
 FOLLOW-ON TASK: Fill cooling system (para. 3-60).
 
@@ -3693,7 +3693,7 @@ a. Removal 1. Loosen two clamps (2) and remove hose (3) from surge tank (1) and 
 
 b. Installation 1. Install two clamps (2) on hose (3). 2. Install hose (3) on surge tank (1) and tube assembly (4) with two clamps (2).
 
-![149_image_0.png](149_image_0.png) 3. Tighten clamps (2) to 40 lb-in. (5 N•m).
+![149_image_0.png](images/149_image_0.png) 3. Tighten clamps (2) to 40 lb-in. (5 N•m).
 
 FOLLOW-ON TASK: Fill cooling system (para. 3-60).
 
@@ -3716,7 +3716,7 @@ a. Removal 1. Remove overflow hose (2) from surge tank filler neck (1).
 
 b. Installation 1. Connect hose (2) to surge tank filler neck (1).
 
-![150_image_0.png](150_image_0.png)
+![150_image_0.png](images/150_image_0.png)
 
 2. Install hose (2) on body (4) with clamp (3).
 
@@ -3745,7 +3745,7 @@ a. Removal 1. Remove capscrew (5), stud (4), thermostat housing (3), thermostat 
 
 3. Install thermostat housing (3) over thermostat (2) on water crossover (1) with capscrew (5) and stud (4). Tighten capscrew (5) and stud (4) to align gasket (6).
 
-![151_image_0.png](151_image_0.png)
+![151_image_0.png](images/151_image_0.png)
 
 FOLLOW-ON TASK: Fill cooling system (para. 3-60). 
 
@@ -3779,7 +3779,7 @@ a. Removal Remove four socket-head screws (1) and water pump pulley (2) from wat
 
 b. Installation 1. Apply sealing compound to four socket-head screws (1). 2. Install water pump pulley (2) on water pump (3) with four socket-head screws (1). Tighten socket-
 
-![152_image_0.png](152_image_0.png)
+![152_image_0.png](images/152_image_0.png)
 
 head screws (1) to 15-20 lb-ft (20-27 N•m).
 
@@ -3836,11 +3836,11 @@ water pump (4), and timing gear cover (2).
 
 3-76.1.  WATER PUMP AND ADAPTER PLATE MAINTENANCE (Cont'd)
 
-![154_image_0.png](154_image_0.png)
+![154_image_0.png](images/154_image_0.png)
 
-![154_image_1.png](154_image_1.png)
+![154_image_1.png](images/154_image_1.png)
 
-![154_image_2.png](154_image_2.png)
+![154_image_2.png](images/154_image_2.png)
 
 # 3-76.1. Water Pump And Adapter Plate Maintenance (Cont'D)
 
@@ -3866,11 +3866,11 @@ stud (12), stud with thick hex (11), and capscrew (14).
 
 8. Coat threads of bypass nipple (19) with pipe sealing compound and install in water crossover (18).
 
-![155_image_0.png](155_image_0.png)
+![155_image_0.png](images/155_image_0.png)
 
 # 3 - 7 6 . 1 . Water Pump And Adapter Plate Maintenance (Cont'D)
 
-![156_Image_0.Png](156_Image_0.Png)
+![156_Image_0.png](images/156_Image_0.Png)
 
 FOLLOW-ON TASKS: - Install power steering pump (para. 8-24).
 
@@ -3912,7 +3912,7 @@ c. Installation 1. Install two gaskets (7) and water crossover (4) on cylinder h
 
 # 3-77. Water Crossover Maintenance (Cont'D)
 
-![158_image_0.png](158_image_0.png)
+![158_image_0.png](images/158_image_0.png)
 
 FOLLOW-ON TASKS:
 
@@ -3962,7 +3962,7 @@ Equipment Condition - Hood raised and secured (TM 9-2320-280-10). - Radiator and
 
 # 3-78.  Fan Drive And Fan Blade Maintenance (Cont'D)
 
-![160_image_0.png](160_image_0.png)
+![160_image_0.png](images/160_image_0.png)
 
 FOLLOW-ON TASKS: - Install radiator and shroud (if removed) (para. 3-61).
 
@@ -4006,7 +4006,7 @@ Refer to Appendix D, Fig. D-94 for installation.
 
 1. Install friction lining (4) on fan drive (3). 2. Install three retaining plates (2) on on drive (3) with six screws (1). Tighten screws 1) to 22 lb-in. (2.5 Nom).
 
-![161_image_0.png](161_image_0.png)
+![161_image_0.png](images/161_image_0.png)
 
 FOLLOW ON TASK: Connect battery ground cable (para. 4-73).
 
@@ -4033,7 +4033,7 @@ a. Removal 1. Loosen three capscrews (6) from power steering pump mounting brack
 
 b. Installation Feed belt set (4) into grooves on crankshaft pulley (3), water pump pulley (5), and power steering pump
 
-![162_image_0.png](162_image_0.png) pulley (2).
+![162_image_0.png](images/162_image_0.png) pulley (2).
 
 FOLLOW-ON TASK: Install alternator drivebelts (para. 3-81).
 
@@ -4076,7 +4076,7 @@ Some vehicles have a quick-disconnect on fan drive hose.
 
 # 3-81. Alternator Drivebelt Set Replacement (Gnt'D)
 
-![164_image_0.png](164_image_0.png)
+![164_image_0.png](images/164_image_0.png)
 
 
 <a name="3-82"></a> 
@@ -4129,14 +4129,14 @@ Table 3-2. Belt Tension Requirements
 
 A used belt is one that has been run at least 15 min. or 15 mi.
 
-![166_image_0.png](166_image_0.png) (24 km.). Tension variance of not more than 20 lbs (90 N) between belts of the same set is acceptable.
+![166_image_0.png](images/166_image_0.png) (24 km.). Tension variance of not more than 20 lbs (90 N) between belts of the same set is acceptable.
 
 | APPLICATION   | NEW BELT     | USED BELT    |
 |---------------|--------------|--------------|
 | All belts     | 105 ± 5 lbs  | 90 ± 5 lbs   |
 |               | (467 ± 22 N) | (400 ± 22 N) |
 
-![166_image_1.png](166_image_1.png)
+![166_image_1.png](images/166_image_1.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73). FOLLOW-ON TASK - Lower and secure hood (TM 9-2320-280-10).
 
@@ -4172,9 +4172,9 @@ clockwise to allow installation of belt (9).
 
 # 3-83.  Serpentine Drivebelt Maintenance Çont'D)
 
-![168_image_0.png](168_image_0.png)
+![168_image_0.png](images/168_image_0.png)
 
-![168_image_1.png](168_image_1.png)
+![168_image_1.png](images/168_image_1.png)
 
 # 3 - 8 3 . Serpentine Drivebelt Maintenance (Co N T ' D)
 
@@ -4200,7 +4200,7 @@ Power steering pump pulley must be flush with end of shaft.
 
 3-83.  SERPENTINE DRIVEBELT MAINTENANCE Çont'd)
 
-![170_image_0.png](170_image_0.png)
+![170_image_0.png](images/170_image_0.png)
 
 
 <a name="3-84"></a> 
@@ -4244,7 +4244,7 @@ washers (4), lockwashers (5), and nuts (6).
 3-84.  TENSIONER, IDLER PULLEYS, AND MOUNTING HARDWARE REPLACEMENT
 (Cont'd)
 
-![172_image_0.png](172_image_0.png)
+![172_image_0.png](images/172_image_0.png)
 
  FOLLOW-ON TASKS: - Install serpentine drivebelt (para. 3-83).
 
