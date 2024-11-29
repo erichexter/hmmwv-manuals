@@ -1,93 +1,96 @@
 <a name="chapter-3"></a>
 # Chapter 3 - Engine Systems Maintenance
 
-| Chapter 3  | Engine Systems Maintenance TASK SUMMARY 
-|------------|-------------------------------
-| TASK       | PROCEDURES
-| [3-1 ](#3-1)       | 
-| [3-2 ](#3-2)       | 
-| [3-3 ](#3-3)       | 
-| [3-4 ](#3-4)       | 
-| [3-5 ](#3-5)       | 
-| [3-6 ](#3-6)       | 
-| [3-7 ](#3-7)       | 
-| [3-8 ](#3-8)       | 
-| [3-9 ](#3-9)       | 
-| [3-10](#3-10)       | 
-| [3-11](#3-11)       | 
-| [3-12](#3-12)       | 
-| [3-13](#3-13)       | 
-| [3-14](#3-14)       | 
-| [3-15](#3-15)       | 
-| [3-16](#3-16)       | 
-| [3-17](#3-17)       | 
-| [3-18](#3-18)       | 
-| [3-19](#3-19)       | 
-| [3-20](#3-20)       | 
-| [3-21](#3-21)       | 
-| [3-22](#3-22)       | 
-| [3-23](#3-23)       | 
-| [3-24](#3-24)       | 
-| [3-25](#3-25)       | 
-| [3-26](#3-26)       | 
-| [3-27](#3-27)       | 
-| [3-28](#3-28)       | 
-| [3-29](#3-29)       | 
-| [3-30](#3-30)       | 
-| [3-31](#3-31)       | 
-| [3-32](#3-32)       | 
-| [3-33](#3-33)       | 
-| [3-34](#3-34)       | 
-| [3-35](#3-35)       | 
-| [3-36](#3-36)       | 
-| [3-37](#3-37)       | 
-| [3-38](#3-38)       | 
-| [3-39](#3-39)       | 
-| [3-40](#3-40)       | 
-| [3-41](#3-41)       | 
-| [3-42](#3-42)       | 
-| [3-43](#3-43)       | 
-| [3-44](#3-44)       | 
-| [3-45](#3-45)       | 
-| [3-46](#3-46)       | 
-| [3-47](#3-47)       | 
-| [3-48](#3-48)       | 
-| [3-49](#3-49)       | 
-| [3-50](#3-50)       | 
-| [3-51](#3-51)       | 
-| [3-52](#3-52)       | 
-| [3-53](#3-53)       | 
-| [3-54](#3-54)       | 
-| [3-55](#3-55)       | 
-| [3-56](#3-56)       | 
-| [3-57](#3-57)       | 
-| [3-58](#3-58)       | 
-| [3-59](#3-59)       | 
-| [3-60](#3-60)       | 
-| [3-61](#3-61)       | 
-| [3-62](#3-62)       | 
-| [3-63](#3-63)       | 
-| [3-64](#3-64)       | 
-| [3-65](#3-65)       | 
-| [3-66](#3-66)       | 
-| [3-67](#3-67)       | 
-| [3-68](#3-68)       | 
-| [3-69](#3-69)       | 
-| [3-70](#3-70)       | 
-| [3-71](#3-71)       | 
-| [3-72](#3-72)       | 
-| [3-73](#3-73)       | 
-| [3-74](#3-74)       | 
-| [3-75](#3-75)       | 
-| [3-76](#3-76)       | 
-| [3-77](#3-77)       | 
-| [3-78](#3-78)       | 
-| [3-79](#3-79)       | 
-| [3-80](#3-80)       | 
-| [3-81](#3-81)       | 
-| [3-82](#3-82)       | 
-| [3-83](#3-83)       | 
-| [3-84](#3-84)       | 
+ 
+| Chapter 3  | Engine Systems Maintenance TASK SUMMARY  
+|------------|-------------------------------         
+| TASK       | PROCEDURES                             
+| [3-1 ](#3-1)        |  Lubrication System Maintenance Task Summary
+| [3-2 ](#3-2)        |  Engine Oil Dipstick Tube Replacement
+| [3-3 ](#3-3)        |  Engine Oil Filler Tube Replacement
+| [3-4 ](#3-4)        |  Engine Oil Filter Adapter Replacement
+| [3-5 ](#3-5)        |  Engine Oil Service
+| [3-6 ](#3-6)        |  Oil Pan Replacement
+| [3-7 ](#3-7)        |  Engine Oil Cooler Supply And Return Lines Maintenance
+| [3-8 ](#3-8)        |  Engine And Transmission Oil Cooler Assembly Maintenance
+| [3-9 ](#3-9)        |  Crankcase Depression Regulator (Cdr) Valve And Bracket Maintenance
+| [3-10](#3-10)       |  Cdr Valve Hoses Replacement
+| [3-11](#3-11)       |  Section II. Fuel System Maintenance
+| [3-12](#3-12)       |  Air Cleaner Assembly And Dust Unloader Maintenance (Cont'D)
+| [3-13](#3-13)       |  Air Cleaner Filter Element Servicing (Cont'D)
+| [3-14](#3-14)       |  Air Horn Replacement
+| [3-15](#3-15)       |  Air Horn-To-Air Cleaner Elbow Replacement
+| [3-16](#3-16)       |  Air Horn Support Bracket Replacement
+| [3-17](#3-17)       |  Air Restriction Gauge Replacement
+| [3-18](#3-18)       |  Weathercap Replacement
+| [3-19](#3-19)       |  Air Restriction Gauge Hose Replacement
+| [3-20](#3-20)       |  Air Intake And Fuel Pump Vent Lines Replacement
+| [3-21](#3-21)       |  Drainage Bracket Replacement
+| [3-22](#3-22)       |  Fuel Injection Pump Boot Replacement
+| [3-23](#3-23)       |  Fuel Pump Replacement
+| [3-24](#3-24)       |  Fuel Tank Maintenance (Cont'D)
+| [3-25](#3-25)       |  Fuel Tank Supply And Return Lines Replacement
+| [3-26](#3-26)       |  Auxiliary Fuel Pickup And Return Lines Replacement
+| [3-27](#3-27)       |  Fuel Tank Vent Line And Filter Replacement
+| [3-28](#3-28)       |  Fuel Tank Filler Cap And Spout Maintenance
+| [3-29](#3-29)       |  Fuel Tank Filler Spout Vent Line Replacement
+| [3-30](#3-30)       |  Filler Spout Hose Replacement
+| [3-31](#3-31)       |  Fuel Tank Hangers Replacement
+| [3-32](#3-32)       |  Fuel Filter Maintenance
+| [3-33](#3-33)       |  Fuel Filter Element Maintenance
+| [3-34](#3-34)       |  Fuel Filter Drain Hose And Valve Replacement
+| [3-35](#3-35)       |  Fuel Injection Pump Return Hose Check Valve Maintenance
+| [3-36](#3-36)       |  Fuel Injection Return Hoses Replacement
+| [3-37](#3-37)       |  Fuel Drain Back Tube Replacement
+| [3-38](#3-38)       |  Glow Plug Replacement
+| [3-39](#3-39)       |  Right Fuel Injection Lines Bracket Replacement
+| [3-40](#3-40)       |  Left Fuel Injection Lines Bracket Replacement
+| [3-41](#3-41)       |  Accelerator System Maintenance Task Summary
+| [3-42](#3-42)       |  Accelerator Linkage Maintenance
+| [3-43](#3-43)       |  Accelerator Pedal Replacement
+| [3-44](#3-44)       |  Engine Idle Speed Adjustment
+| [3-45](#3-45)       |  Hand Throttle Control Cable And Bracket Replacement
+| [3-46](#3-46)       |  Exhaust System Maintenance Task Summary
+| [3-47](#3-47)       |  Tailpipe Replacement
+| [3-48](#3-48)       |  Muffler And Insulator Replacement (All Models Except M1123 And "A2" Vehicles)
+| [3-49](#3-49)       |  Muffler And Catalytic Converter Replacement (M1123 And "A2" Vehicles Only)
+| [3-50](#3-50)       |  Crossover Pipe Replacement
+| [3-51](#3-51)       |  Tailpipe Hanger Replacement
+| [3-52](#3-52)       |  Tailpipe Insulator Replacement
+| [3-53](#3-53)       |  Muffler Support Bracket Maintenance
+| [3-54](#3-54)       |  Right Exhaust Manifold Rear Heat Shield Replacement
+| [3-55](#3-55)       |  Right Exhaust Manifold Heat Shield Replacement
+| [3-56](#3-56)       |  Left Exhaust Manifold Replacement
+| [3-57](#3-57)       |  Right Exhaust Manifold Replacement
+| [3-58](#3-58)       |  Muffler Hanger Replacement
+| [3-59](#3-59)       |  Cooling System Maintenance Task Summary
+| [3-60](#3-60)       |  Cooling System Servicing
+| [3-61](#3-61)       |  Radiator And Fan Shroud Assembly Maintenance
+| [3-62](#3-62)       |  Airlift To Shroud Shield Assembly Replacement
+| [3-63](#3-63)       |  Radiator Support Replacement
+| [3-64](#3-64)       |  Surge Tank Replacement
+| [3-65](#3-65)       |  Surge Tank-To-Radiator Vent Hose Replacement
+| [3-66](#3-66)       |  Surge Tank-To-Water Crossover Vent Hose Replacement
+| [3-67](#3-67)       |  Thermostat Bypass Hose Replacement
+| [3-68](#3-68)       |  Fan Drive Hose And Quick-Disconnect Replacement
+| [3-69](#3-69)       |  Radiator Inlet Hose Replacement
+| [3-70](#3-70)       |  Radiator Lower Tube Assembly Replacement
+| [3-71](#3-71)       |  Lower Radiator Hose Replacement
+| [3-72](#3-72)       |  Water Pump Inlet Hose Replacement
+| [3-73](#3-73)       |  Surge Tank-To-Lower Radiator Tube Hose Replacement
+| [3-74](#3-74)       |  Surge Tank Overflow Hose Replacement
+| [3-75](#3-75)       |  Thermostat Replacement
+| [3-76](#3-76)       |  Water Pump Pulley Replacement
+| [3-76](#3-76-1)     |  Water Pump And Adapter Plate Maintenance
+| [3-77](#3-77)       |  Water Crossover Maintenance
+| [3-78](#3-78)       |  Fan Drive And Fan Blade Maintenance
+| [3-79](#3-79)       |  Fan Drive Friction Lining Replacement
+| [3-80](#3-80)       |  Power Steering Drivebelt Set Replacement
+| [3-81](#3-81)       |  A Lt E R N Ator Drivebelt Set Replacement
+| [3-82](#3-82)       |  Drivebelts Adjustment
+| [3-83](#3-83)       |  Serpentine Drivebelt Maintenancee Replacement
+| [3-84](#3-84)       |  Tensioner, Idler Pulleys, And Mounting Hardwar                       
+                                                                       
 
 <a name="chapter-3-section-i"></a> 
 ## Section I Lubrication System Maintenance
@@ -582,9 +585,10 @@ Install CDR valve and bracket (para. 3-9).
 Lower and secure hood (TM 9-2320-280-10).
 
 Install engine access cover (para. 10-15).
-<a name="chapter-3-section-ii"></a>
 
-## Section Ii. Fuel System Maintenance
+<a name="3-11"></a> 
+<a name="chapter-3-section-ii"></a>
+## Section II. Fuel System Maintenance
 
 | b. Installation a. Removal                                                                                                                           |                     |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
