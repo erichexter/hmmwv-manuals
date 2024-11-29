@@ -156,6 +156,8 @@ Section I. GENERATING AND PROTECTIVE CONTROL BOX SYSTEM MAINTENANCE
 | Feed belt set (4) into grooves on crankshaft pulley (3), water pump pulley (5), and power steering pump |
 | pulley (2).                                                                                             |
 
+<a name="#4-2">
+
 # 4-2. 60 Ampere Alternator Maintenance
 
 This task covers:
@@ -193,88 +195,48 @@ Alternator must be supported during removal and installation.
 
 Prior to removal, tag leads for installation.
 
-a. Removal 1. Loosen capscrew (1) on alternator adjusting bracket (2) and two capscrews (17) on alternator mounting bracket (20) and support bracket (18).
-
-Perform step 2 for vehicles with revised configurations.
-
-2. Loosen capscrew (1) on alternator adjusting bracket (2) and nut (21) on alternator mounting bracket (20) and support bracket (18).
-
-3. Remove two drivebelts (3) from alternator pulley (4). 4. Remove two screws (8), lockwashers (9), and wire retaining strap (10) from alternator (19). Discard lockwashers (9).
-
-5. Remove two screws (5) and lockwashers (6) from terminal cover (7). Discard lockwashers (6). 6. Pry cover (7) away from waterproofing adhesive and remove cover (7). 7. Remove waterproofing adhesive around terminals (16). 8. Disconnect lead 568A (15) at engine wiring harness (14). 9. Remove capscrew (11) and lockwasher (12) securing ground 3B (13) to alternator (19) and disconnect ground 3B (13) from alternator (19). Discard lockwasher (12).
-
-# 4-2.  60 Ampere Alternator Maintenance (Cont'D)
-
+a. Removal 
 ![175_image_0.png](images/175_image_0.png)
-
-## 4 - 2 . 60 Ampere Alt E R N Ator Maintenance (Cont'D)
-
-10. Remove nut (4), lockwasher (3), washer (2), and lead 5A (1) from alternator (9). Discard lockwasher (3).
-
-11. Remove nut (5), lockwasher (6), washer (7), and lead 2A (8) from alternator (9). Discard lockwasher (6).
-
-#### .Warning.
-
+**Warning**
 Alternator must be supported during removal and installation. Failure to support alternator may cause injury to personnel or damage to equipment.
 
-12. Remove capscrew (13), lockwasher (12), and washer (11) from adjusting bracket (10) and alternator (9). Discard lockwasher (12).
+    1. Loosen capscrew (1) on alternator adjusting bracket (2) and two capscrews (17) on alternator mounting bracket (20) and support bracket (18).
+    2. Loosen capscrew (1) on alternator adjusting bracket (2) and nut (21) on alternator mounting bracket (20) and support bracket (18).
+    3. Remove two drivebelts (3) from alternator pulley (4). 
+    4. Remove two screws (8), lockwashers (9), and wire retaining strap (10) from alternator (19). Discard lockwashers (9).
+    5. Remove two screws (5) and lockwashers (6) from terminal cover (7). Discard lockwashers (6). 
+    6. Pry cover (7) away from waterproofing adhesive and remove cover (7). 
+    7. Remove waterproofing adhesive around terminals (16). 
+    8. Disconnect lead 568A (15) at engine wiring harness (14). 
+    9. Remove capscrew (11) and lockwasher (12) securing ground 3B (13) to alternator (19) and disconnect ground 3B (13) from alternator (19). Discard lockwasher (12).
+    10. Remove nut (4), lockwasher (3), washer (2), and lead 5A (1) from alternator (9). Discard lockwasher (3).
+    11. Remove nut (5), lockwasher (6), washer (7), and lead 2A (8) from alternator (9). Discard lockwasher (6).
+    12. Remove capscrew (13), lockwasher (12), and washer (11) from adjusting bracket (10) and alternator (9). Discard lockwasher (12).
 
-> Note
-
-- Perform step 14 for vehicles with new alternator support bracket configuration.
-
-- Perform step 15 for vehicles with revised new configuration 16. Remove alternator (9). 17. Remove alternator pulley (19) (para. 4-3).
+    > Note
+    - Perform step 14 for vehicles with new alternator support bracket configuration.
+    - Perform step 15 for vehicles with revised new configuration 16. Remove alternator (9). 17. Remove alternator pulley (19) (para. 4-3).
 
 #### B. Installation
-
-1. Install alternator pulley (19) (para. 4-3).
-
-> Note
-
-- Perform step 3 for vehicles with new alternator support bracket configuration.
-
-- Perform step 4 for vehicles with revised new configuration.
-
-2. Position alternator (9) on mounting bracket (18) with support bracket (17) between mounting flange (18.1) and alternator (9) and install two washers (16), lockwashers (15), and capscrews (14).
-
-3. Position alternator (9) on mounting bracket (18) with support bracket (17) and power steering lines bracket (20) on the outside of alternator mounting flange (17.1) and install spacer (21) between mounting bracket (18) and alternator mounting flange (17.1) with two lockwashers (15), washers (16), and capscrews (14).
-
-4. Position alternator (9) on mounting bracket (18) with support bracket (17) and power steering lines bracket (20) on the outside of alternator mounting flange (17.1) and install washer (16), long capscrew (23), lockwasher (15), washer (16), and nut (22).
-
-5. Align alternator (9) with adjusting bracket (10) and install washer (11), lockwasher (12), and capscrew (13).
-
-> Note
-
-Ensure terminals are clean before connections are made.
-
-6. Connect lead 2A (8) on alternator (9) with washer (7), lockwasher (6), and nut (5). Tighten nut (5) to 20-25 lb-in. (2-3 N•m).
-
-7. Connect lead 5A (1) on alternator (9) with washer (2), lockwasher (3), and nut (4). Tighten nut (4) to 45-55 lb-in. (5-6 N•m).
-
-13. Remove two capscrews (14), lockwashers (15), and washers (16) from alternator (9), support bracket (17), and mounting bracket (18). Discard lockwashers (15).
-
-14. Remove two capscrews (14), lockwashers (15), washers (16), spacer (21), power steering lines bracket (20), and support bracket (17) from mounting bracket (18). Discard lockwashers (15).
-
-15. Remove nut (22), lockwasher (15), washer (16), long capscrew (23), washer (16), power steering lines bracket (20), and support bracket (17) from mounting bracket (18) and alternator (9). Discard lockwasher (15).
-
-# 4-2.  60 Ampere Alternator Maintenance (Cont'D)
-
 ![177_image_0.png](images/177_image_0.png)
+    1. Install alternator pulley (19) (para. 4-3).
+    2. Position alternator (9) on mounting bracket (18) with support bracket (17) between mounting flange (18.1) and alternator (9) and install two washers (16), lockwashers (15), and capscrews (14).
+    3. Position alternator (9) on mounting bracket (18) with support bracket (17) and power steering lines bracket (20) on the outside of alternator mounting flange (17.1) and install spacer (21) between mounting bracket (18) and alternator mounting flange (17.1) with two lockwashers (15), washers (16), and capscrews (14).
+    4. Position alternator (9) on mounting bracket (18) with support bracket (17) and power steering lines bracket (20) on the outside of alternator mounting flange (17.1) and install washer (16), long capscrew (23), lockwasher (15), washer (16), and nut (22).
+    5. Align alternator (9) with adjusting bracket (10) and install washer (11), lockwasher (12), and capscrew (13).
+    6. Connect lead 2A (8) on alternator (9) with washer (7), lockwasher (6), and nut (5). Tighten nut (5) to 20-25 lb-in. (2-3 N•m).
+    7. Connect lead 5A (1) on alternator (9) with washer (2), lockwasher (3), and nut (4). Tighten nut (4) to 45-55 lb-in. (5-6 N•m).
+    8. Connect ground 3B (11) to alternator (15) with lockwasher (3) and capscrew (4). Tighten capscrew (4)
+    to 82-102 lb-in. (9-12 N•m ) .
+    9. Connect lead 568A (14) to engine wiring harness (13).
+    10. Install wire retainer strap (10) on alternator (15) with two lockwashers (9) and screws (8). Tighten screws (8) to 30-35 lb-in. (3-4 N•m).
+    11. Install two drivebelts (1) on alternator pulley (2).
+    12. Adjust drivebelts (1) (para. 3-82). 13. Check alternator (15) for correct output voltage adjustment (para. 4-2, task c.).
+    13. Remove two capscrews (14), lockwashers (15), and washers (16) from alternator (9), support bracket (17), and mounting bracket (18). Discard lockwashers (15).
+    14. Remove two capscrews (14), lockwashers (15), washers (16), spacer (21), power steering lines bracket (20), and support bracket (17) from mounting bracket (18). Discard lockwashers (15).
+    15. Remove nut (22), lockwasher (15), washer (16), long capscrew (23), washer (16), power steering lines bracket (20), and support bracket (17) from mounting bracket (18) and alternator (9). Discard lockwasher (15).
 
-## 4 - 2 . 60 Ampere Alt E R N Ator Maintenance (Cont'D)
-
-8. Connect ground 3B (11) to alternator (15) with lockwasher (3) and capscrew (4). Tighten capscrew (4)
-to 82-102 lb-in. (9-12 N•m ) .
-
-9. Connect lead 568A (14) to engine wiring harness (13).
-
-10. Install wire retainer strap (10) on alternator (15) with two lockwashers (9) and screws (8). Tighten screws (8) to 30-35 lb-in. (3-4 N•m).
-
-11. Install two drivebelts (1) on alternator pulley (2).
-
-12. Adjust drivebelts (1) (para. 3-82). 13. Check alternator (15) for correct output voltage adjustment (para. 4-2, task c.).
-
-#### C. Adjustment > Note
+#### C. Adjustment Note
 
 Battery ground cable must be removed (para. 4-73).
 
@@ -474,6 +436,8 @@ FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 
 - Install engine access cover (para. 10-15). - Lower and secure hood (TM 9-2320-280-10).
 
+<a name="#4-3">
+
 # 4-3. Alternator Pulley Replacement
 
 This task covers:
@@ -586,6 +550,8 @@ to 35 lb-ft (47 N•m).
 4. Install power steering lines bracket (27) and harness clamp (26) on clamps (18) with washer (19),
 capscrew (13), washer (19), and nut (20).
 
+<a name="#4-4">
+
 ## 4-4. Alternator Mounting Brackets Replacement (Cont'D)
 
 Install alternator mounting bracket (9) on engine (21) with two bolts (8). Tighten bolts (8)
@@ -673,6 +639,8 @@ to 6 lb-ft (8 N•m).
 3. Fill engine wiring cannon plug (6) and control box connection (5) to capacity with silicone. 4. From inside vehicle, connect body wiring harness cannon plug (3) to control box (5). 5. Connect engine wiring harness cannon plug (6) to control box (5).
 
 a. Removal c. Installation
+
+<a name="#4-5">
 
 # 4-5.  Protective Control Box Maintenance (Cont'D)
 
@@ -1557,6 +1525,9 @@ FOLLOW-ON TASKS: - Install alternator cables (para. 4-5.12).
 <a name="chapter-4-section-ii"></a>
 
 ## Section Ii. Starter And Starting Control System Maintenance 
+
+<a name="#4-6">
+
 ### 4-6. Starter And Starting Control System Maintenance Task Summary
 
 | a.  Removal                            | b.   | Installation       |
@@ -1566,6 +1537,8 @@ FOLLOW-ON TASKS: - Install alternator cables (para. 4-5.12).
 | General mechanic's tool kit:           |      | One mechanic       |
 | automotive (Appendix B, Item 1)        |      | One assistant      |
 | Maintenance and repair shop equipment: |      | Manual References  |
+
+<a name="#4-7">
 
 ## 4-7. Rotary Switch Replacement
 
@@ -1598,6 +1571,8 @@ Prior to removal, tag leads and note position of lever for installation.
 
 FOLLOW-ON   TASKS:  - Connect battery ground cable (para. 4-73).
  - • - • Check rotary switch operation (TM 9-2320-280-10).
+
+<a name="#4-8">
 
 # 4-8. Starter Replacement
 
@@ -1655,11 +1630,9 @@ NOTE
 
 9. Remove starter (5) and shim (2) from engine (1).
 
-# 4-8. Starter Replacement (Cont'D)
 
 ![242_image_0.png](images/242_image_0.png)
 
-## 4-8. Starter Replacement (Cont'D)
 
 b. Installation 1. Install an 0.08 in. (2 mm) shim (2) on starter (5). 2. Position shim (2) and starter (5) to flywheel housing with solenoid (6) facing outward. 3. Slide front stud on starter (5) in bracket (9). 
 
@@ -1694,6 +1667,8 @@ to 25-30 lb-ft (34-41 N•m).
 FOLLOW-ON TASKS: - Install converter housing cover (para. 5-19).
 
 - Install sealed upper converter housing cover (para. 5-18). - Connect battery ground cable (para. 4-73). - Install arctic heater oil pan shroud (para. 12-48.2). - Start engine (TM 9-2320-280-10) and check for smooth starter engagement.
+
+<a name="#4-9">
 
 ## 4-9. Circuit Breaker Replacement
 
@@ -1734,6 +1709,9 @@ FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 <a name="chapter-4-section-iii"></a>
 
 ## Section Iii. Instruments, Sending Units, Switches, And Horn Maintenance
+
+<a name="#4-10">
+
 
 ### 4-10. INSTRUMENTS, SENDING UNITS, SWITCHES, AND HORN MAINTENANCE TASK
 SUMMARY
@@ -1780,6 +1758,8 @@ SUMMARY
 |         | capscrew (6).                                                                                                 |
 | 9.      | Install positive power cable (2) on buss bar (1) with washer (3), lockwasher (4), and nut (5).                |
 | 10.     | Apply silicone compound to cable (2), coating all exposed metallic surfaces.                                  |
+
+<a name="#4-11">
 
 # 4-11. Instrument Cluster Replacement
 
@@ -1831,6 +1811,8 @@ with lockwasher (11.1) and screw (12.1).
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - Check operation of instrument cluster components (TM 9-2320-280-10).
+
+<a name="#4-12">
 
 ## 4-12. Instrument Panel Replacement
 
@@ -1942,6 +1924,8 @@ a. Removal 1. Remove four capscrews (8) from instrument cluster (1) and instrume
 and nuts (3). Tighten nuts (3) to 8 lb-in. (1 N•m).
 
 2. Connect leads (4) and (5) to gauge (9). 3. Install instrument cluster (1) to panel (6) with four capscrews (8).
+
+<a name="#4-13">
 
 # 4-13. Electrical Gauge Replacement (Cont'D)
 
@@ -2076,6 +2060,8 @@ FOLLOW-ON TASK: Install tachometer (para. 4-13.1).
 | SUMMARY   |
 |-----------|
 
+<a name="#4-14">
+
 ## 4 - 1 4 . Speedometer/Odometer Replacement
 
 #### A. Removal
@@ -2131,6 +2117,8 @@ If vehicle is equipped with speedometer cable (12338428-2), refer to para. 4-15.
 2. Install speedometer cable (5) and clamp (13) on side of transmission (15) with screw (14). 3. Secure speedometer cable (5) and clamp (7) on body (8) with screw (9) and plain-assembled nut (6). 4. Install speedometer cable (5) and grommet (4) on body (8). 5. Install speedometer cable (5) into back of speedometer (3), ensuring core (1) engages in square hole in speedometer (3) and tighten speedometer cable nut (2).
 
 6. Install instrument cluster (11) on panel (10) with four capscrews (12).
+
+<a name="#4-15">
 
 # 4-15. Speedometer Cable And Core (12338428) Replacement (Cont'D)
 
@@ -2238,6 +2226,8 @@ FOLLOW-ON-TASK: - ● Install left splash shield (para. 10-17).
 
 · Lower and secure hood (TM 9-2320-280-10).
 
+<a name="#4-16">
+
 ## 4-16. Instrument Cluster Light Replacement
 
 This task covers:
@@ -2293,7 +2283,9 @@ Install two gaskets (2) and light lenses (1) on light assemblies (4).
 
 FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
-# 4 - 1 7 . Wa I T- T O - S Ta Rt Lamp Replacement
+<a name="#4-17">
+
+# 4-17. Wait-TO-Start Lamp Replacement
 
 This task covers:
 
@@ -2332,8 +2324,6 @@ Prior to removal, tag leads and note position for installation.
 
 7. Install cannon plug (16) on main light switch (15). 8. Raise steering column (7) and tighten nut (14) to 31 lb-ft (42 N•m).
 
-# 4-17.  Wait-To-Start Lamp Replacement (Cont'D)
-
 ![271_image_0.png](images/271_image_0.png)
 
 FOLLOW-ON TASKS: - Install instrument cluster (para. 4-11).
@@ -2342,7 +2332,7 @@ FOLLOW-ON TASKS: - Install instrument cluster (para. 4-11).
 
 - Start engine (TM 9-2320-280-10) and check wait-to-start lamp assembly for operation.
 
-## 4 - 1 7 . 1 . Brake Warning Lamp Replacement
+## 4-17.1 Brake Warning Lamp Replacement
 
 This task covers:
 INITIAL SETUP:
@@ -2376,6 +2366,8 @@ FOLLOW-ON TASKS: - Install air restriction gauge (para. 3-17).
 
 -  Connect battery ground cables (para. 4-73).
 -  Start engine (TM 9-2320-280-10) and check brake warning lamp for operation.
+
+<a name="#4-18">
 
 ## 4-18. High Beam Lamp Replacement
 
@@ -2413,6 +2405,8 @@ FOLLOW-ON TASKS: Install speedometer/odometer (para. 4-14).
 
 Install electrical gauges (para. 4-13).
 
+<a name="#4-19">
+
 # 4-19. Parking Brake Switch Replacement
 
 This Task Covers:
@@ -2447,6 +2441,8 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Check parking brake switch operation (TM 9-2320-280-10).
 
+<a name="#4-20">
+
 ## 4-20. Horn Switch Replacement
 
 | This task covers:               |                                     |
@@ -2474,6 +2470,8 @@ Check parking brake switch operation (TM 9-2320-280-10).
 FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Test horn for operation (TM 9-2320-280-10).
+
+<a name="#4-21">
 
 # 4-21. Horn Control Brush Replacement
 
@@ -2503,6 +2501,8 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Check horn for proper operation (TM 9-2320-280-10).
 
+<a name="#4-22">
+
 # 4-22. Horn Replacement
 
 This task covers:
@@ -2528,6 +2528,8 @@ b. Installation 1. Connect leads 25A (1) and 26A (6) to horn (2).
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
 - Lower and secure hood (TM 9-2320-280-10). - Check horn for proper operation (TM 9-2320-280-10).
+
+<a name="#4-23">
 
 # 4-23. Horn Mounting Bracket Replacement
 
@@ -2556,6 +2558,8 @@ a. Removal Remove two nuts (1), lockwashers (5), capscrews (4) and horn mounting
 b. Installation Install horn mounting bracket (2) on front crossmember (3) with two capscrews (4), lockwashers (5), and nuts (1). Tighten nuts (1) to 10 lb-ft (14 N•m).
 
 FOLLOW-ON TASK: Install horn (para. 4-22).
+
+<a name="#4-24">
 
 # 4-24. Engine Temperature Sending Unit Replacement
 
@@ -2595,6 +2599,8 @@ b. Installation 1. Apply sealing compound to threads of engine temperature sendi
 FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Start engine and check sending unit for leaks (TM 9-2320-280-10). Lower and secure hood (TM 9-230-280-10).
+
+<a name="#4-25">
 
 # 4-25. Oil Pressure Sending Unit Replacement
 
@@ -2637,6 +2643,8 @@ Start engine (TM 9-2320-280-10) and check sending unit for leaks.
 
 Install engine access cover (para. 10-15).
 
+<a name="#4-26">
+
 # 4-26. Fuel Pressure Transducer Replacement
 
 This task covers:
@@ -2669,6 +2677,8 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 Start engine (TM 9-2320-280-10) and check fuel pressure transducer for leaks.
 
 Lower and secure hood (TM 9-2320-280-10).
+
+<a name="#4-27">
 
 # 4-27. Cold Advance Switch Replacement
 
@@ -2708,6 +2718,8 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Fill cooling system (para. 3-60). Install engine access cover (para. 10-15).
 
+<a name="#4-28">
+
 # 4-28. Fuel Level Sending Unit Replacement
 
 This task covers:
@@ -2744,12 +2756,13 @@ b. Installation 1. Place gasket (4) on fuel level sending unit (3). 2. Install f
 4. Secure fuel level sending unit (3) with five lockwashers (2) and screws (1). Tighten screws (1) 
 to 32 lb-in. (4 N•m).
 
-# 4-28. Fuel Level Sending Unit Replacement (Cont'D)
 
 ![285_image_0.png](images/285_image_0.png)
 
 FOLLOW-ON TASKS:  - Install fuel tank (para. 3-24).
 - • Check fuel gauge for proper operation (TM 9-2320-280-10).
+
+<a name="#4-29">
 
 # 4-29. Glow Plug Controller/Temperature Sensor Replacement
 
@@ -2790,13 +2803,14 @@ b. Installation
 
 2. Apply grease to pins (4) of glow plug controller or temperature sensor (1). 3. Connect multiple connector (2) to glow plug controller or temperature sensor (1).
 
-# 4-29. Glow Plug Controller/Temperature Sensor Replacement (Cont'D)
 
 ![287_image_0.png](images/287_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
 - Lower and secure hood (TM 9-2320-280-10).
+
+<a name="#4-30">
 
 # 4-30. Fan Temperature Switch Replacement
 
@@ -2829,6 +2843,9 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Lower and secure hood (TM 9-2320-280-10).
 
+
+<a name="#4-31">
+
 # 4-31. Time Delay Module Replacement
 
 This task covers:
@@ -2860,6 +2877,9 @@ General mechanic's tool kit: Battery ground cable disconnected (para. 4-73).
 
 automotive (Appendix B, Item 1) Hood raised and secured (TM 9-2320-280-10).
 
+
+<a name="#4-32">
+
 ## 4-32. Rpm Sensor Replacement
 
 This task covers:
@@ -2885,6 +2905,9 @@ b. Installation 1. Align tab (3) on RPM sensor (1) with slot (7) in oil pump dri
 
 FOLLOW-ON TASK: Install engine access cover (para. 10-15).
 
+
+<a name="#4-33">
+
 ## 4-33. Engine Rpm Sensor Replacement
 
 This task covers:
@@ -2909,6 +2932,9 @@ b. Installation 1. Install RPM sensor (4) in front cover (5) with capscrew (3).
 
 FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73)
 Lower and secure hood (TM 9-2320-280-10)
+
+
+<a name="#4-34">
 
 ## 4-34. Backup Light Switch Replacement
 
@@ -2953,13 +2979,15 @@ Position leads from neutral start switch (2), backup light switch (3), and shift
 
 5.
 
-# 4-34. Backup Light Switch Replacement (Cont'D)
-
 ![293_image_0.png](images/293_image_0.png)
 
 ![293_image_1.png](images/293_image_1.png)
 
 FOLLOW-ON TASK: Install shift controls housing (para. 5-7 or 5-11).
+
+
+<a name="#4-35">
+
 
 # Section Iv. Transfer Case And Transmission Electrical Maintenance
 
@@ -2984,6 +3012,9 @@ FOLLOW-ON TASK: Install shift controls housing (para. 5-7 or 5-11).
 | 2.  Remove fuel level sending unit (3) from inside of fuel tank (6). |                                                                                                |
 | 3.  Remove and discard gasket (4).                                   |                                                                                                |
 | b. Installation                                                      |                                                                                                |
+
+
+<a name="#4-36">
 
 # 4-36. Transfer Case Indicator Switch Replacement
 
@@ -3120,9 +3151,7 @@ Prior to removal, tag leads for installation.
 
 #### A. Removal
 
-1.
-
-Remove nut (6), capscrew (1), cable (2), three circuit breaker-to-battery leads (3) and cable (4) from terminal clamp (5).
+1.Remove nut (6), capscrew (1), cable (2), three circuit breaker-to-battery leads (3) and cable (4) from terminal clamp (5).
 
 2.
 
@@ -3161,11 +3190,17 @@ Repeat step 1 for circuit breakers (15) and (16).
 
 5. Install three circuit breaker-to-battery leads (3) on circuit breakers (15) (16), and (21) with screws (20). 6. Install coverplate (7) to "B" pillar (9) with two washers (10) and five capscrews (8). 7. Install cable (4), three circuit breaker-to-battery leads (3) and cable (2) to terminal clamp (5) with capscrew (1) and nut (6).
 
+
+<a name="#4-40">
+
 # 4-40. Transmission Circuit Breakers And Jumper Leads Replacement (4L80-E) (Cont'D)
 
 ![301_image_0.png](images/301_image_0.png)
 
 FOLLOW-ON TASK: Connect battery ground cables (para. 4-73).
+
+
+<a name="#4-41">
 
 # 4-41. Transmission Relay Replacement (4L80-E)
 
@@ -3192,6 +3227,9 @@ b. Installation 1. Install relay (8) on coverplate (1) with two capscrews (7), w
 ![302_image_0.png](images/302_image_0.png) 2. Connect four relay leads (6) to leads (5). 3. Install coverplate (1) to "B" beam (3) with two washers (4) and five capscrews (2).
 
 FOLLOW-ON TASK: Connect battery ground cables (para. 4-73).
+
+<a name="#4-42">
+
 # 4 - 4 2 . Transmission Control Module (Tcm) Replacement (4L80-E)
 
 This task covers:
@@ -3263,6 +3301,9 @@ For proper calibration of E-PROM to transmission, ensure E-PROM is the same prod
 FOLLOW-ON TASKS: - • Connect negative battery cables (para. 4-73).
 - • - • - Install left rear seat compartment cover (para. 10-43).
 
+
+<a name="#4-43">
+
 # 4 - 4 3 . Kick-Down Switch Maintenance (3L80)
 
 This task covers:
@@ -3307,10 +3348,12 @@ and tighten capscrews (1).
 
 ![307_image_0.png](images/307_image_0.png)
 
-# 4-43. Kick-Down Switch Maintenance (3L80) (Cont'D)
 
 FOLLOW-ON  TASKS: - Connect  battery  ground  cable  (para.  4-73).
 - • - • -  -  -  -  -  -  - Lower and secure hood (TM 9-2320-0280-10).
+
+
+<a name="#4-44">
 
 # 4-44. Fan Cut-Off Switch Replacement (4L80-E)
 
@@ -3351,7 +3394,6 @@ and nuts (13). Do not tighten nuts (13).
 
 2. Slide rod (1) forward and connect to fuel injection pump (2). 3. Install rod (1) on switch (11). 4. Install bracket (5) and two leads (4) on engine (6) with capscrews (3). 5. Position rod (1) at wide open throttle and position switch (11) to close. Tighten nuts (13). 6. Connect harness leads 315A/315B (10) to leads 315 (9).
 
-# 4-44. Fan Cut-Off Switch Replacement (4L80-E) (Cont'D)
 
 ![309_image_0.png](images/309_image_0.png)
 
@@ -3363,6 +3405,9 @@ FOLLOW-ON TASKS:
 - Connect battery ground cable (para. 4-73).
 
 - Lower and secure hood (TM 9-2320-280-10).
+
+
+<a name="#4-45">
 
 # 4 - 4 5 . Throttle Position (Tp) Sensor Maintenance (4L80-E)
 
@@ -3426,6 +3471,9 @@ FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
 - Connect battery ground cables (para. 4-73).
 
+
+<a name="#4-46">
+
 # 4-46. Transmission Input Speed Sensor (Tiss) And Output Speed Sensor
 
 (TOSS) MAINTENANCE (4L80-E)
@@ -3462,6 +3510,9 @@ FOLLOW-ON TASK:
 - Start engine (TM 9-2320-280-10) and check operation of transmission.
 <a name="chapter-4-section-v"></a>
 
+
+<a name="#4-47">
+
 # Section V. Lighting System Maintenance 4 - 4 7 . Lighting System Maintenance Task Summary
 
 | Applicable Models  Manual References                          |                                                                                                                              |
@@ -3478,7 +3529,10 @@ FOLLOW-ON TASK:
 | 2.                                                            | Install ground lead (2) to engine (8) with screw (3).                                                                        |
 | 3.  Connect lead 511A (5) to lamp assembly lead (4).          |                                                                                                                              |
 
-# 4 - 4 8 . S E Rvice Headlight Lamp Maintenance
+
+<a name="#4-48">
+
+# 4-48 Service Headlight Lamp Maintenance
 
 This task covers:
 a. Removal c. Adjustment b. Installation INITIAL SETUP:
@@ -3511,7 +3565,6 @@ Circuit numbers are marked on housing.
 
 ![315_image_0.png](images/315_image_0.png) 3. Connect battery ground cable (para. 4-73).
 
-# 4 - 4 8 . S E Rvice Headlight Lamp Maintenance (Cont'D)
 
 c. Adjustment
 
@@ -3529,6 +3582,9 @@ c. Adjustment
 ![316_image_0.png](images/316_image_0.png)
 
 FOLLOW-ON TASK: Check headlight lamp for proper operation (TM 9-2320-280-10).
+
+
+<a name="#4-49">
 
 # 4-49. Service Headlight Assembly Replacement
 
@@ -3561,13 +3617,15 @@ Circuit numbers are marked on headlight next to respective connector.
 
 1. Connect leads 17 (2), 18 (3), and 91 (7) to headlight assembly (1). 2. Install headlight assembly (1) to hood (6) with three washers (5) and nuts (4).
 
-# 4-49. Service Headlight Assembly Replacement (Cont'D)
 
 ![318_image_0.png](images/318_image_0.png)
 
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
 -  Lower and secure hood (TM 9-2320-280-10). · Check adjustment of headlight lamp (para. 4-48).
+
+
+<a name="#4-50">
 
 # 4-50. Blackout Drive Light Assembly Replacement
 
