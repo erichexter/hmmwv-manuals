@@ -2,40 +2,40 @@
 
 ## Chapter 6 Propeller Shafts, Axles, And Suspension Maintenance
 
-| Chapter 6  |  TASK SUMMARY 
-|------------|-------------------------------
-| TASK       | PROCEDURES
-| [6-1 ](#6-1)          | 
-| [6-2 ](#6-2)          | 
-| [6-3 ](#6-3)          | 
-| [6-4 ](#6-4)          | 
-| [6-5 ](#6-5)          | 
-| [6-6 ](#6-6)          | 
-| [6-7 ](#6-7)          | 
-| [6-8 ](#6-8)          | 
-| [6-9 ](#6-9)          | 
-| [6-10](#6-10)         | 
-| [6-11](#6-11)         | 
-| [6-12](#6-12)         | 
-| [6-13](#6-13)         | 
-| [6-14](#6-14)         | 
-| [6-15](#6-15)         | 
-| [6-16](#6-16)         | 
-| [6-17](#6-17)         | 
-| [6-18](#6-18)         | 
-| [6-19](#6-19)         | 
-| [6-20](#6-20)         | 
-| [6-21](#6-21)         | 
-| [6-22](#6-22)         | 
-| [6-23](#6-23)         | 
-| [6-24](#6-24)         | 
-| [6-25](#6-25)         | 
-| [6-26](#6-26)         | 
-| [6-27](#6-27)         | 
-| [6-28](#6-28)         | 
-| [6-29](#6-29)         | 
-| [6-30](#6-30)         | 
-| [6-31](#6-31)         | 
+| Chapter 6             |  TASK SUMMARY 
+|------------           |-------------------------------
+| TASK                  | PROCEDURES
+| [6-1 ](#6-1)          | PROPELLER SHAFTS MAINTENANCE TASK SUMMARY
+| [6-2 ](#6-2)          | Front Propeller Shaft Assembly Maintenance
+| [6-3 ](#6-3)          | Front Propeller Shaft Assembly Repair
+| [6-4 ](#6-4)          | Rear Propeller Shaft Maintenance
+| [6-5 ](#6-5)          | Rear Propeller Shaft Maintenance (1330 Series)
+| [6-6 ](#6-6)          | Rear Propeller Shaft Repair
+| [6-7 ](#6-7)          | Universal Joint Repair
+| [6-8 ](#6-8)          | Front And Rear Axles Maintenance Task Summary
+| [6-9 ](#6-9)          | Halfshaft Maintenance
+| [6-10](#6-10)         | Geared Hub Side Cover Replacement
+| [6-11](#6-11)         | Geared Hub Replacement
+| [6-12](#6-12)         | Geared Hub Input Seal Replacement
+| [6-13](#6-13)         | Geared Hub Spindle Seal Replacement
+| [6-14](#6-14)         | Geared Hub Spindle Bearing Adjustment
+| [6-15](#6-15)         | Wheel Stud Replacement
+| [6-16](#6-16)         | Differential Vent Line Replacement
+| [6-17](#6-17)         | Rear Geared Hub Vent Line Replacement
+| [6-18](#6-18)         | Front Geared Hub Vent Line Replacement
+| [6-19](#6-19)         | Steering Stop Maintenance
+| [6-20](#6-20)         | Air Lifting Bracket Replacement
+| [6-21](#6-21)         | Differential Cover Maintenance
+| [6-22](#6-22)         |
+| [6-23](#6-23)         | Stabilizer Bar Replacement
+| [6-24](#6-24)         | Stabilizer Bar Link Replacement
+| [6-25](#6-25)         | Radius Rod Replacement
+| [6-26](#6-26)         | Upper Ball Joint Replacement
+| [6-27](#6-27)         | Lower Ball Joint Replacement
+| [6-28](#6-28)         | Upper Control Arm Replacement
+| [6-29](#6-29)         | Lower Control Arm Replacement
+| [6-30](#6-30)         | Coil Spring Replacement
+| [6-31](#6-31)         | Shock Absorber Replacement
 
 
 ### Section I. Propeller Shafts Maintenance
