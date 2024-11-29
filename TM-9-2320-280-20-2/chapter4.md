@@ -1,10 +1,11 @@
 
 <a name="chapter-4"></a>
+
 # Chapter 4 Electrical System Maintenance
 
 <a name="chapter-4-section-i"></a>
-Section I. GENERATING AND PROTECTIVE CONTROL BOX SYSTEM MAINTENANCE
 
+## Section I. GENERATING AND PROTECTIVE CONTROL BOX SYSTEM MAINTENANCE
 
 | Chapter 4             |  Systems Maintenance TASK SUMMARY 
 |------------           |-------------------------------
@@ -156,9 +157,9 @@ Section I. GENERATING AND PROTECTIVE CONTROL BOX SYSTEM MAINTENANCE
 | Feed belt set (4) into grooves on crankshaft pulley (3), water pump pulley (5), and power steering pump |
 | pulley (2).                                                                                             |
 
-<a name="#4-2">
+<a name="4-2"></a>
 
-# 4-2. 60 Ampere Alternator Maintenance
+## 4-2. 60 Ampere Alternator Maintenance
 
 This task covers:
 a. Removal c. Adjustment b. Installation
@@ -249,8 +250,6 @@ Battery ground cable must be removed (para. 4-73).
 11. Apply sealing compound to pipe plug (12) threads. Using hex-head driver, install pipe plug (12) and tighten to 30-40 lb-in. (3-4 N•m).
 
 12. Remove battery ground cable (para. 4-73). 13. Seal terminal connections using adhesive sealant. 14. Install terminal cover (7) on alternator (15) with two lockwashers (5) and screws (6).
-
-# 4-2. 60 Ampere Alternator Maintenance (Cont'D)
 
 ![179_image_0.png](images/179_image_0.png)
 
@@ -436,7 +435,7 @@ FOLLOW-ON TASKS: - Connect battery ground cables (para. 4-73).
 
 - Install engine access cover (para. 10-15). - Lower and secure hood (TM 9-2320-280-10).
 
-<a name="#4-3">
+"<a name="4-3"></a>
 
 # 4-3. Alternator Pulley Replacement
 
@@ -550,7 +549,7 @@ to 35 lb-ft (47 N•m).
 4. Install power steering lines bracket (27) and harness clamp (26) on clamps (18) with washer (19),
 capscrew (13), washer (19), and nut (20).
 
-<a name="#4-4">
+"<a name="4-4"></a>
 
 ## 4-4. Alternator Mounting Brackets Replacement (Cont'D)
 
@@ -640,7 +639,7 @@ to 6 lb-ft (8 N•m).
 
 a. Removal c. Installation
 
-<a name="#4-5">
+"<a name="4-5"></a>
 
 # 4-5.  Protective Control Box Maintenance (Cont'D)
 
@@ -1526,7 +1525,7 @@ FOLLOW-ON TASKS: - Install alternator cables (para. 4-5.12).
 
 ## Section Ii. Starter And Starting Control System Maintenance 
 
-<a name="#4-6">
+"<a name="4-6"></a>
 
 ### 4-6. Starter And Starting Control System Maintenance Task Summary
 
@@ -1538,7 +1537,7 @@ FOLLOW-ON TASKS: - Install alternator cables (para. 4-5.12).
 | automotive (Appendix B, Item 1)        |      | One assistant      |
 | Maintenance and repair shop equipment: |      | Manual References  |
 
-<a name="#4-7">
+"<a name="4-7"></a>
 
 ## 4-7. Rotary Switch Replacement
 
@@ -1572,7 +1571,7 @@ Prior to removal, tag leads and note position of lever for installation.
 FOLLOW-ON   TASKS:  - Connect battery ground cable (para. 4-73).
  - • - • Check rotary switch operation (TM 9-2320-280-10).
 
-<a name="#4-8">
+"<a name="4-8"></a>
 
 # 4-8. Starter Replacement
 
@@ -1668,7 +1667,7 @@ FOLLOW-ON TASKS: - Install converter housing cover (para. 5-19).
 
 - Install sealed upper converter housing cover (para. 5-18). - Connect battery ground cable (para. 4-73). - Install arctic heater oil pan shroud (para. 12-48.2). - Start engine (TM 9-2320-280-10) and check for smooth starter engagement.
 
-<a name="#4-9">
+"<a name="4-9"></a>
 
 ## 4-9. Circuit Breaker Replacement
 
@@ -1710,7 +1709,7 @@ FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
 ## Section Iii. Instruments, Sending Units, Switches, And Horn Maintenance
 
-<a name="#4-10">
+"<a name="4-10"></a>
 
 
 ### 4-10. INSTRUMENTS, SENDING UNITS, SWITCHES, AND HORN MAINTENANCE TASK
@@ -1759,7 +1758,7 @@ SUMMARY
 | 9.      | Install positive power cable (2) on buss bar (1) with washer (3), lockwasher (4), and nut (5).                |
 | 10.     | Apply silicone compound to cable (2), coating all exposed metallic surfaces.                                  |
 
-<a name="#4-11">
+"<a name="4-11"></a>
 
 # 4-11. Instrument Cluster Replacement
 
@@ -1812,7 +1811,7 @@ with lockwasher (11.1) and screw (12.1).
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - Check operation of instrument cluster components (TM 9-2320-280-10).
 
-<a name="#4-12">
+"<a name="4-12"></a>
 
 ## 4-12. Instrument Panel Replacement
 
@@ -1925,7 +1924,7 @@ and nuts (3). Tighten nuts (3) to 8 lb-in. (1 N•m).
 
 2. Connect leads (4) and (5) to gauge (9). 3. Install instrument cluster (1) to panel (6) with four capscrews (8).
 
-<a name="#4-13">
+"<a name="4-13"></a>
 
 # 4-13. Electrical Gauge Replacement (Cont'D)
 
@@ -2060,7 +2059,7 @@ FOLLOW-ON TASK: Install tachometer (para. 4-13.1).
 | SUMMARY   |
 |-----------|
 
-<a name="#4-14">
+"<a name="4-14"></a>
 
 ## 4 - 1 4 . Speedometer/Odometer Replacement
 
@@ -2118,7 +2117,7 @@ If vehicle is equipped with speedometer cable (12338428-2), refer to para. 4-15.
 
 6. Install instrument cluster (11) on panel (10) with four capscrews (12).
 
-<a name="#4-15">
+"<a name="4-15"></a>
 
 # 4-15. Speedometer Cable And Core (12338428) Replacement (Cont'D)
 
@@ -2226,7 +2225,7 @@ FOLLOW-ON-TASK: - ● Install left splash shield (para. 10-17).
 
 · Lower and secure hood (TM 9-2320-280-10).
 
-<a name="#4-16">
+"<a name="4-16"></a>
 
 ## 4-16. Instrument Cluster Light Replacement
 
@@ -2283,7 +2282,7 @@ Install two gaskets (2) and light lenses (1) on light assemblies (4).
 
 FOLLOW-ON TASK: Connect battery ground cable (para. 4-73).
 
-<a name="#4-17">
+"<a name="4-17"></a>
 
 # 4-17. Wait-TO-Start Lamp Replacement
 
@@ -2367,7 +2366,7 @@ FOLLOW-ON TASKS: - Install air restriction gauge (para. 3-17).
 -  Connect battery ground cables (para. 4-73).
 -  Start engine (TM 9-2320-280-10) and check brake warning lamp for operation.
 
-<a name="#4-18">
+"<a name="4-18"></a>
 
 ## 4-18. High Beam Lamp Replacement
 
@@ -2405,7 +2404,7 @@ FOLLOW-ON TASKS: Install speedometer/odometer (para. 4-14).
 
 Install electrical gauges (para. 4-13).
 
-<a name="#4-19">
+"<a name="4-19"></a>
 
 # 4-19. Parking Brake Switch Replacement
 
@@ -2441,7 +2440,7 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Check parking brake switch operation (TM 9-2320-280-10).
 
-<a name="#4-20">
+"<a name="4-20"></a>
 
 ## 4-20. Horn Switch Replacement
 
@@ -2471,7 +2470,7 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Test horn for operation (TM 9-2320-280-10).
 
-<a name="#4-21">
+"<a name="4-21"></a>
 
 # 4-21. Horn Control Brush Replacement
 
@@ -2501,7 +2500,7 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Check horn for proper operation (TM 9-2320-280-10).
 
-<a name="#4-22">
+"<a name="4-22"></a>
 
 # 4-22. Horn Replacement
 
@@ -2529,7 +2528,7 @@ FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
 - Lower and secure hood (TM 9-2320-280-10). - Check horn for proper operation (TM 9-2320-280-10).
 
-<a name="#4-23">
+"<a name="4-23"></a>
 
 # 4-23. Horn Mounting Bracket Replacement
 
@@ -2559,7 +2558,7 @@ b. Installation Install horn mounting bracket (2) on front crossmember (3) with 
 
 FOLLOW-ON TASK: Install horn (para. 4-22).
 
-<a name="#4-24">
+"<a name="4-24"></a>
 
 # 4-24. Engine Temperature Sending Unit Replacement
 
@@ -2600,7 +2599,7 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Start engine and check sending unit for leaks (TM 9-2320-280-10). Lower and secure hood (TM 9-230-280-10).
 
-<a name="#4-25">
+"<a name="4-25"></a>
 
 # 4-25. Oil Pressure Sending Unit Replacement
 
@@ -2643,7 +2642,7 @@ Start engine (TM 9-2320-280-10) and check sending unit for leaks.
 
 Install engine access cover (para. 10-15).
 
-<a name="#4-26">
+"<a name="4-26"></a>
 
 # 4-26. Fuel Pressure Transducer Replacement
 
@@ -2678,7 +2677,7 @@ Start engine (TM 9-2320-280-10) and check fuel pressure transducer for leaks.
 
 Lower and secure hood (TM 9-2320-280-10).
 
-<a name="#4-27">
+"<a name="4-27"></a>
 
 # 4-27. Cold Advance Switch Replacement
 
@@ -2718,7 +2717,7 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 
 Fill cooling system (para. 3-60). Install engine access cover (para. 10-15).
 
-<a name="#4-28">
+"<a name="4-28"></a>
 
 # 4-28. Fuel Level Sending Unit Replacement
 
@@ -2762,7 +2761,7 @@ to 32 lb-in. (4 N•m).
 FOLLOW-ON TASKS:  - Install fuel tank (para. 3-24).
 - • Check fuel gauge for proper operation (TM 9-2320-280-10).
 
-<a name="#4-29">
+"<a name="4-29"></a>
 
 # 4-29. Glow Plug Controller/Temperature Sensor Replacement
 
@@ -2810,7 +2809,7 @@ FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 
 - Lower and secure hood (TM 9-2320-280-10).
 
-<a name="#4-30">
+"<a name="4-30"></a>
 
 # 4-30. Fan Temperature Switch Replacement
 
@@ -2844,7 +2843,7 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73).
 Lower and secure hood (TM 9-2320-280-10).
 
 
-<a name="#4-31">
+"<a name="4-31"></a>
 
 # 4-31. Time Delay Module Replacement
 
@@ -2878,7 +2877,7 @@ General mechanic's tool kit: Battery ground cable disconnected (para. 4-73).
 automotive (Appendix B, Item 1) Hood raised and secured (TM 9-2320-280-10).
 
 
-<a name="#4-32">
+"<a name="4-32"></a>
 
 ## 4-32. Rpm Sensor Replacement
 
@@ -2906,7 +2905,7 @@ b. Installation 1. Align tab (3) on RPM sensor (1) with slot (7) in oil pump dri
 FOLLOW-ON TASK: Install engine access cover (para. 10-15).
 
 
-<a name="#4-33">
+"<a name="4-33"></a>
 
 ## 4-33. Engine Rpm Sensor Replacement
 
@@ -2934,7 +2933,7 @@ FOLLOW-ON TASKS: Connect battery ground cable (para. 4-73)
 Lower and secure hood (TM 9-2320-280-10)
 
 
-<a name="#4-34">
+"<a name="4-34"></a>
 
 ## 4-34. Backup Light Switch Replacement
 
@@ -2986,7 +2985,7 @@ Position leads from neutral start switch (2), backup light switch (3), and shift
 FOLLOW-ON TASK: Install shift controls housing (para. 5-7 or 5-11).
 
 
-<a name="#4-35">
+"<a name="4-35"></a>
 
 
 # Section Iv. Transfer Case And Transmission Electrical Maintenance
@@ -3014,7 +3013,7 @@ FOLLOW-ON TASK: Install shift controls housing (para. 5-7 or 5-11).
 | b. Installation                                                      |                                                                                                |
 
 
-<a name="#4-36">
+"<a name="4-36"></a>
 
 # 4-36. Transfer Case Indicator Switch Replacement
 
@@ -3191,7 +3190,7 @@ Repeat step 1 for circuit breakers (15) and (16).
 5. Install three circuit breaker-to-battery leads (3) on circuit breakers (15) (16), and (21) with screws (20). 6. Install coverplate (7) to "B" pillar (9) with two washers (10) and five capscrews (8). 7. Install cable (4), three circuit breaker-to-battery leads (3) and cable (2) to terminal clamp (5) with capscrew (1) and nut (6).
 
 
-<a name="#4-40">
+"<a name="4-40"></a>
 
 # 4-40. Transmission Circuit Breakers And Jumper Leads Replacement (4L80-E) (Cont'D)
 
@@ -3200,7 +3199,7 @@ Repeat step 1 for circuit breakers (15) and (16).
 FOLLOW-ON TASK: Connect battery ground cables (para. 4-73).
 
 
-<a name="#4-41">
+"<a name="4-41"></a>
 
 # 4-41. Transmission Relay Replacement (4L80-E)
 
@@ -3228,7 +3227,7 @@ b. Installation 1. Install relay (8) on coverplate (1) with two capscrews (7), w
 
 FOLLOW-ON TASK: Connect battery ground cables (para. 4-73).
 
-<a name="#4-42">
+"<a name="4-42"></a>
 
 # 4 - 4 2 . Transmission Control Module (Tcm) Replacement (4L80-E)
 
@@ -3302,7 +3301,7 @@ FOLLOW-ON TASKS: - • Connect negative battery cables (para. 4-73).
 - • - • - Install left rear seat compartment cover (para. 10-43).
 
 
-<a name="#4-43">
+"<a name="4-43"></a>
 
 # 4 - 4 3 . Kick-Down Switch Maintenance (3L80)
 
@@ -3353,7 +3352,7 @@ FOLLOW-ON  TASKS: - Connect  battery  ground  cable  (para.  4-73).
 - • - • -  -  -  -  -  -  - Lower and secure hood (TM 9-2320-0280-10).
 
 
-<a name="#4-44">
+"<a name="4-44"></a>
 
 # 4-44. Fan Cut-Off Switch Replacement (4L80-E)
 
@@ -3407,7 +3406,7 @@ FOLLOW-ON TASKS:
 - Lower and secure hood (TM 9-2320-280-10).
 
 
-<a name="#4-45">
+"<a name="4-45"></a>
 
 # 4 - 4 5 . Throttle Position (Tp) Sensor Maintenance (4L80-E)
 
@@ -3472,7 +3471,7 @@ FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 - Connect battery ground cables (para. 4-73).
 
 
-<a name="#4-46">
+"<a name="4-46"></a>
 
 # 4-46. Transmission Input Speed Sensor (Tiss) And Output Speed Sensor
 
@@ -3511,7 +3510,7 @@ FOLLOW-ON TASK:
 <a name="chapter-4-section-v"></a>
 
 
-<a name="#4-47">
+"<a name="4-47"></a>
 
 # Section V. Lighting System Maintenance 4 - 4 7 . Lighting System Maintenance Task Summary
 
@@ -3530,7 +3529,7 @@ FOLLOW-ON TASK:
 | 3.  Connect lead 511A (5) to lamp assembly lead (4).          |                                                                                                                              |
 
 
-<a name="#4-48">
+"<a name="4-48"></a>
 
 # 4-48 Service Headlight Lamp Maintenance
 
@@ -3584,7 +3583,7 @@ c. Adjustment
 FOLLOW-ON TASK: Check headlight lamp for proper operation (TM 9-2320-280-10).
 
 
-<a name="#4-49">
+"<a name="4-49"></a>
 
 # 4-49. Service Headlight Assembly Replacement
 
@@ -3625,7 +3624,7 @@ FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 -  Lower and secure hood (TM 9-2320-280-10). · Check adjustment of headlight lamp (para. 4-48).
 
 
-<a name="#4-50">
+"<a name="4-50"></a>
 
 # 4-50. Blackout Drive Light Assembly Replacement
 
