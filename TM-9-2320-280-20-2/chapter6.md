@@ -40,6 +40,9 @@
 
 ### Section I. Propeller Shafts Maintenance
 
+
+<a name="6-1"></a>
+
 #### 6-1. PROPELLER SHAFTS MAINTENANCE TASK SUMMARY
 
 | Equipment Condition Materials/Parts                                                               | automotive (Appendix B, Item 1)   |
@@ -51,7 +54,11 @@
 | b. Installation                                                                                   |                                   |
 | Install transmission mount (2) on adapter (1) with two lockwashers (3) and capscrews (4). Tighten |                                   |
 
+
+<a name="6-2"></a>
+
 ##### 6-2. Front Propeller Shaft Assembly Maintenance
+
 
 This task covers:
 b. Inspection INITIAL SETUP:
@@ -129,6 +136,9 @@ and four capscrews (10). Tighten capscrews (10) to 13-18 lb-ft (18-24 N m).
 
 FOLLOW-ON TASK:  Lubricate propeller shaft assembly (TM 9-2320-280-10).
 
+
+<a name="6-3"></a>
+
 # 6-3. Front Propeller Shaft Assembly Repair
 
 This task covers:
@@ -176,6 +186,9 @@ Ensure wide spline on coupling shaft is aligned with grease fitting on slip yoke
 
 FOLLOW-ON TASK: Install front propeller shaft assembly (para. 6-2).
 
+
+<a name="6-4"></a>
+
 # 6-4. Rear Propeller Shaft Maintenance
 
 This task covers:
@@ -212,6 +225,9 @@ c. Installation 1. Install rear propeller shaft (5) on parking brake rotor (6) w
 
 ![638_image_0.png](images/638_image_0.png)
 
+
+<a name="6-5"></a>
+
 # 6-5. Rear Propeller Shaft Maintenance (1330 Series)
 
 This task covers:
@@ -246,6 +262,9 @@ Tighten capscrews (6) to 13-18 lb-ft (18-24 N m).
 ![640_image_0.png](images/640_image_0.png)
 
 FOLLOW-ON TASK: Lubricate propeller shaft (TM 9-2320-280-10).
+
+
+<a name="6-6"></a>
 
 # 6-6. Rear Propeller Shaft Repair
 
@@ -287,6 +306,9 @@ c. Assembly 1. Install dust cap (2) on propeller shaft (1). 2. Coat spline on pr
 ![642_image_0.png](images/642_image_0.png)
 
 FOLLOW-ON TASK: Install rear propeller shaft (para. 6-4).
+
+
+<a name="6-7"></a>
 
 ## 6-7. Universal Joint Repair
 
@@ -338,6 +360,9 @@ FOLLOW-ON TASK: Install propeller shaft (para. 6-2 or 6-4).
 
 # Section Ii. Front And Rear Axles Maintenance
 
+
+<a name="6-8"></a>
+
 # 6-8. Front And Rear Axles Maintenance Task Summary
 
 | 6\-1.   | PROPELLER SHAFTS MAINTENANCE TASK SUMMARY      |       |
@@ -351,6 +376,9 @@ FOLLOW-ON TASK: Install propeller shaft (para. 6-2 or 6-4).
 | 6\-5.   | Rear Propeller Shaft Maintenance (1330 series) | 6\-10 |
 | 6\-6.   | Rear Propeller Shaft Repair                    | 6\-12 |
 | 6\-7.   | Universal Joint Repair                         | 6\-14 |
+
+
+<a name="6-9"></a>
 
 ## 6-9. Halfshaft Maintenance
 
@@ -589,6 +617,9 @@ Check position of lever (13) and ensure it is in contact with caliper cable brac
 
 FOLLOW-ON TASK:    Install wheel (para. 8-3).
 
+
+<a name="6-10"></a>
+
 ## 6-10. Geared Hub Side Cover Replacement
 
 This task covers:
@@ -628,6 +659,9 @@ FOLLOW-ON TASKS: - Fill geared hub to proper level (para. 2-11).
 - Install wheel (para. 8-3).
 
 ■
+
+
+<a name="6-11"></a>
 
 # 6-11. Geared Hub Replacement
 
@@ -786,6 +820,9 @@ FOLLOW-ON TASKS: - Install steering stop (para. 6-19).
 
 · Check alignment (paras. 8-10 and 8-11).
 
+
+<a name="6-12"></a>
+
 # 6-12. Geared Hub Input Seal Replacement
 
 This task covers:
@@ -830,6 +867,9 @@ b. Installation 1. Using driver handle and input seal installer, install seal (7
 ![664_image_0.png](images/664_image_0.png)
 
 FOLLOW-ON TASK: Install halfshaft (para. 6-9).
+
+
+<a name="6-13"></a>
 
 # 6-13. Geared Hub Spindle Seal Replacement
 
@@ -921,6 +961,9 @@ Immediately install steering arm cover after application of sealant.
 
 FOLLOW-ON TASK: Install wheel (para. 8-3).
 
+
+<a name="6-14"></a>
+
 # 6-14. Geared Hub Spindle Bearing Adjustment
 
 This task covers:
@@ -984,6 +1027,9 @@ Immediately install steering arm cover after application of sealant.
 
 ![670_image_0.png](images/670_image_0.png)
 
+
+<a name="6-15"></a>
+
 # 6-15. Wheel Stud Replacement
 
 This task covers:
@@ -1011,6 +1057,9 @@ FOLLOW-ON TASK: Install wheel (para. 8-3).
 
 6-40 Change 3
 
+
+<a name="6-16"></a>
+
 # 6-16. Differential Vent Line Replacement
 
 This task covers:
@@ -1037,6 +1086,9 @@ Differential vent line replacement procedures are basically the same. This proce
 2. Install two line clips (2) on vent line (3) and brake line (5).
 
 3. Install vent line (7) on differential fitting (6) and tee fitting (1).
+
+
+<a name="6-17"></a>
 
 # 6-17. Rear Geared Hub Vent Line Replacement
 
@@ -1078,6 +1130,9 @@ Position clamp at a 45° angle toward the wheel before securing with capscrew.
 6-17. REAR GEARED HUB VENT LINE REPLACEMENT (Cont'd)
 
 ![674_image_0.png](images/674_image_0.png)
+
+
+<a name="6-18"></a>
 
 # 6-18. Front Geared Hub Vent Line Replacement
 
@@ -1154,6 +1209,9 @@ nut (11).
 
 (12), and FOLLOW-ON TASK: Install wheel (para. 8-3).
 
+
+<a name="6-19"></a>
+
 #### 6-19. Steering Stop Maintenance
 
 This task covers:
@@ -1214,6 +1272,9 @@ Turn steering wheel until centerline of front and rear of tire (7) is over area 
 
 ![680_image_0.png](images/680_image_0.png)
 
+
+<a name="6-20"></a>
+
 ## 6-20. Air Lifting Bracket Replacement
 
 This task covers:
@@ -1235,6 +1296,9 @@ b. Installation Install lifting bracket (2) to geared hub (1) with four lockwash
 # 6-20. Air Lifting Bracket Replacement (Cont'D)
 
 ![682_image_0.png](images/682_image_0.png)
+
+
+<a name="6-21"></a>
 
 # 6-21. Differential Cover Maintenance
 
@@ -1284,6 +1348,9 @@ FOLLOW-ON TASK:  Fill differential to proper level (para. 2-11).
 
 # Section Iii. Suspension Maintenance
 
+
+<a name="6-23"></a>
+
 ## 6-23. Stabilizer Bar Replacement
 
 This task covers:
@@ -1315,6 +1382,9 @@ Tighten nuts (5) to 60 lb-ft (81 N•m).
 
 Tighten locknuts (10) to 75 lb-ft (102 N•m).
 
+
+<a name="6-24"></a>
+
 ## 6-24. Stabilizer Bar Link Replacement
 
 This task covers:
@@ -1338,6 +1408,9 @@ b. Installation 1. Apply sealing compound to threads of capscrew (5). Install ba
 ![687_image_0.png](images/687_image_0.png)
 
 to 75 lb-ft (102 N•m).
+
+
+<a name="6-25"></a>
 
 # 6-25. Radius Rod Replacement
 
@@ -1385,6 +1458,9 @@ to 70 lb-ft (95 N•m). Install cotter pin (7).
 FOLLOW-ON TASKS: - Lubricate radius rod (TM 9-2320-280-10).
 
 - Install wheel (para. 8-3). - Adjust rear wheel toe-out alignment (para. 8-11).
+
+
+<a name="6-26"></a>
 
 # 6-26. Upper Ball Joint Replacement
 
@@ -1434,6 +1510,9 @@ Do not loosen slotted nut to install cotter pin. Doing this may result in damage
 FOLLOW-ON TASKS: - Lubricate upper ball joint (M1123 and A2 only) (TM 9-2320-280-10).
 •
 ■
+
+
+<a name="6-27"></a>
 
 # 6-27. Lower Ball Joint Replacement
 
@@ -1490,6 +1569,9 @@ Install cotter pin (7) in slotted nut (6).
 FOLLOW-ON TASKS: - Lubricate lower ball joint (TM 9-2320-280-10).
 
 - Install wheel (para. 8-3).
+
+
+<a name="6-28"></a>
 
 # 6-28. Upper Control Arm Replacement
 
@@ -1565,6 +1647,9 @@ FOLLOW-ON TASKS: - Install wheel (para. 8-3).
 
 - Lower and secure hood (TM 9-2320-280-10), (front upper control arm only). - Check wheel alignment (paras. 8-10 and 8-11 ) .
 
+
+<a name="6-29"></a>
+
 # 6-29. Lower Control Arm Replacement
 
 This task covers:
@@ -1629,6 +1714,9 @@ with two washers (12) and capscrew (14). Tighten capscrew (14) to 70 lb-ft ( 95 
 FOLLOW-ON TASKS: - Install shock absorber (para. 6-31).
 
 - Check wheel alignment (paras. 8-10 and 8-11).
+
+
+<a name="6-30"></a>
 
 # 6-30. Coil Spring Replacement
 
@@ -1705,6 +1793,9 @@ FOLLOW-ON TASKS: - Lower and secure hood (TM 9-2320-280-10).
 
 M1037 and M1042 only: - Install shelter (if removed) (para. 11-120). - Remove lower control arm supports (para. 6-29).
 
+
+<a name="6-31"></a>
+
 # 6-31. Shock Absorber Replacement
 
 This task covers:
@@ -1745,19 +1836,11 @@ plate (2), and frame (1). Discard locknuts (6).
 
 ![700_image_1.png](images/700_image_1.png)
 
-#### 6-31. Shock Absorber Replacement (Cont'D)
-
 4. Remove two capscrews (10), lockwashers (9), and washers (8) from bracket (11) and lower control arm (6). Discard lockwashers (9).
-
 5. Remove locknut (5), pin (2), and washer (3) from shock absorber (1) and spring seat (4). Note position of pin (2) for installation. Discard locknut (5).
-
 6. Compress shock absorber (1) and remove shock absorber (1) and bracket (11).
-
- Note
 Note alignment of shock absorber and bracket for installation reference.
-
-7. Position shock absorber (1) in vice, and remove locknut (7), pin (13), washer (12), and bracket (11)
-from shock absorber (1). Discard locknut (7).
+7. Position shock absorber (1) in vice, and remove locknut (7), pin (13), washer (12), and bracket (11) from shock absorber (1). Discard locknut (7).
 
 b. Installation
 
@@ -1780,8 +1863,6 @@ damaged rod will cause shock failure.
 4. Install bracket (11) to lower control arm (6) with two washers (8), lockwashers (9), and capscrews (10). Tighten capscrews (10) to 178 lb-ft (241 N.m).
 
 ![702_image_0.png](images/702_image_0.png)
-
-# 6-31. Shock Absorber Replacement (Cont'D)
 
  Note
 Perform steps 5 through 8 if necessary to reassemble body mount bracket to frame and rear bumper.
