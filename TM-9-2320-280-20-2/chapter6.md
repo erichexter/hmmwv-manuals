@@ -68,60 +68,37 @@ a. Removal c. Installation Manual References TM 9-2320-280-10 TM 9-2320-280-24P
 
 Propeller shaft bearing caps should be taped together to prevent loss of bearings.
 
-a. Removal 1. Remove four capscrews (3) and two bearing straps (2) from front propeller shaft assembly (4) and differential pinion yoke (1).
-
-Step 2 applies to all vehicles except M1097, "A1" and "A2" series. Step 3 applies to M1097, "A1" and "A2" series.
-
+**A. Removal **
+1. Remove four capscrews (3) and two bearing straps (2) from front propeller shaft assembly (4) and differential pinion yoke (1).
+    Step 2 applies to all vehicles except M1097, "A1" and "A2" series. Step 3 applies to M1097, "A1" and "A2" series.
 2. Remove four capscrews (10) and two bearing straps (9) from front propeller shaft assembly (4) and transfer case output yoke (7).
-
 3. Remove four nuts (14), washers (15), and two U-bolts (16) from front propeller shaft assembly (4) and transfer case output yoke (7).
-
-4. Remove cotter pin (13), washer (12), and transfer case shift rod (11) from transfer case shift lever (6).
-
-Discard cotter pin (13).
-
+4. Remove cotter pin (13), washer (12), and transfer case shift rod (11) from transfer case shift lever (6). Discard cotter pin (13).
 5. Remove two nuts (17), washers (18), capscrews (20), washers (18), and center bearing (19) from engine mount (21).
-
 6. Move front propeller shaft assembly (4) forward, then rearward over top of transfer case (5) and pipe (8), and remove front propeller shaft assembly (4).
 
-#### B. Inspection
+**B. Inspection**
 
 1. Inspect drive shaft (23) and coupling shaft (24) for cracks and damage. Replace either (para. 6-3) if cracked or damaged.
-
-2. Inspect grease fittings (25) and universal joints (22) for serviceability. Replace universal joints (22)
-(para. 6-7) or grease fittings (25) if unserviceable.
-
+2. Inspect grease fittings (25) and universal joints (22) for serviceability. Replace universal joints (22) (para. 6-7) or grease fittings (25) if unserviceable.
 3. Inspect center bearing (19) for roughness or damage. Replace coupling shaft (24) (para. 6-3) if center bearing (19) is rough or damaged.
 
 ![631_image_0.png](images/631_image_0.png)
 
 ![632_image_0.png](images/632_image_0.png)
 
-6-2. FRONT PROPELLER SHAFT ASSEMBLY MAINTENANCE (Cont'd)
-
-## 6-2. Front Propeller Shaft Assembly Maintenance (Cont'D)
 
 1. Install front propeller shaft assembly (4) over exhaust pipe (8) and over top of transfer case (5).
-
-2. Install front propeller shaft assembly (4) on differential pinion yoke (1) with two bearing straps (2)
-and four capscrews (3). Tighten capscrews (3) to 13-18 lb-ft (18-24 N m).
-
-3. Install center bearing (19) on engine mount (21) with two washers (18), capscrews (20), washers (18),
-and nuts (17). Tighten capscrews (20) to 60 lb-ft (81 N m).
-
+2. Install front propeller shaft assembly (4) on differential pinion yoke (1) with two bearing straps (2) and four capscrews (3). Tighten capscrews (3) to 13-18 lb-ft (18-24 N m).
+3. Install center bearing (19) on engine mount (21) with two washers (18), capscrews (20), washers (18), and nuts (17). Tighten capscrews (20) to 60 lb-ft (81 N m).
 4. Install transfer case shift rod (11) on transfer case shift lever (6) with washer (12) and cotter pin (13).
-
 NOTE
 Step 5 applies to all vehicles except M1097, "A1" and "A2" series.
 
 ![633_image_0.png](images/633_image_0.png) Step 6 applies to M1097, "A1" and "A2" series.
 
-5. Install front propeller shaft assembly (4) on transfer case output yoke (7) with two bearing straps (9)
-and four capscrews (10). Tighten capscrews (10) to 13-18 lb-ft (18-24 N m).
-
+5. Install front propeller shaft assembly (4) on transfer case output yoke (7) with two bearing straps (9) and four capscrews (10). Tighten capscrews (10) to 13-18 lb-ft (18-24 N m).
 6. Install front propeller shaft assembly (4) on transfer case output yoke (7) with two U-bolts ( 16), four washers (15), and nuts (14). Tighten nuts (14) to 13-18, lb-ft (18-24 N m).
-
-# 6-2.  Front Propeller Shaft Assembly Maintenance (Cont'D)
 
 ![634_image_0.png](images/634_image_0.png)
 
@@ -130,51 +107,46 @@ and four capscrews (10). Tighten capscrews (10) to 13-18 lb-ft (18-24 N m).
 FOLLOW-ON TASK:  Lubricate propeller shaft assembly (TM 9-2320-280-10).
 
 # 6-3. Front Propeller Shaft Assembly Repair
-
 This task covers:
-a. Disassembly c. Assembly b. Cleaning and Inspection INITIAL SETUP:
+a. Disassembly 
+b. Cleaning and Inspection
+c. Assembly  
+
+INITIAL SETUP:
 Tools General mechanic's tool kit:
 automotive (Appendix B, Item 1)
 Materials/Parts Dust cap (Appendix G, Item 29) Grease (Appendix C, Item 22) Drycleaning solvent (Appendix C, Item 18)
 Manual References TM 9-2320-280-24P
-a. Disassembly
+
+**A. Disassembly**
 
 #### Equipment Condition
-
 Front propeller shaft assembly removed (para. 6-2).
-
 General Safety Instructions Cleaning will be done in a well-ventilated area and a fire extinguisher will be kept nearby when drycleaning solvent is used.
-
 Prior to disassembly, mark slip yoke and coupling shaft for assembly.
 
 1. Place slip yoke (2) in vise. 2. Pull coupling shaft (4) apart from slip yoke (2). 3. Pry dust cap (3) off slipyoke (2). Discard dust cap (3).
 
-b. Cleaning and Inspection
+**B. Cleaning and Inspection**
+- Drycleaning solvent is flammable and will not be used near an open flame. A fire extinguisher will be kept nearby when the solvent is used. Use only in well-ventilated places. Failure to do this may result in injury to personnel and/or damage to equipment.
+- Do not allow drycleaning solvent to come into contact with U-joint. Damage to equipment will result.
 
-Drycleaning solvent is flammable and will not be used near an open flame. A fire extinguisher will be kept nearby when the solvent is used. Use only in well-ventilated places. Failure to do this may result in injury to personnel and/or damage to equipment.
-
-Do not allow drycleaning solvent to come into contact with U-joint. Damage to equipment will result.
-
-1. Use drycleaning solvent to clean all metallic parts. 2. Inspect drive shaft (1), coupling shaft (4), and slip yoke (2) for cracks or dents. Replace if cracked or dented.
-
-3. Inspect splined end of coupling shaft (4) and slip yoke (2) for damage. Replace either if damaged. 4. Inspect center bearing (5) for looseness, vibration damage, rubber separation from bearing surface, and abnormal wear. If damaged, replace coupling shaft (4).
-
-# 6-3. Front Propeller Shaft Assembly Repair (Cont'D)
+1. Use drycleaning solvent to clean all metallic parts. 
+2. Inspect drive shaft (1), coupling shaft (4), and slip yoke (2) for cracks or dents. Replace if cracked or dented.
+3. Inspect splined end of coupling shaft (4) and slip yoke (2) for damage. Replace either if damaged. 
+4. Inspect center bearing (5) for looseness, vibration damage, rubber separation from bearing surface, and abnormal wear. If damaged, replace coupling shaft (4).
 
 Ensure grease fitting on dust cap is aligned with wide spline in slip yoke.
-
 1. Install dust cap (3) on coupling shaft (4).
-
 2. Coat splines on coupling shaft (4) and slip yoke (2) with grease.
 
 NOTE
 Ensure wide spline on coupling shaft is aligned with grease fitting on slip yoke.
-
 3. Install coupling shaft (4) and dust cap (3) into slip yoke (2).
 
 ![636_image_0.png](images/636_image_0.png)
 
-FOLLOW-ON TASK: Install front propeller shaft assembly (para. 6-2).
+FOLLOW-ON TASK: Install front propeller shaft assembly [6-2](#6-2).
 
 # 6-4. Rear Propeller Shaft Maintenance
 
@@ -191,21 +163,21 @@ Manual References TM 9-2320-280-10 TM 9-2320-280-24P
 
 Prior to towing vehicle, parking brake rotor must be removed.
 
-a. Removal
+**A. Removal**
 
 On vehicles with serial numbers USBL Eff. 44825 and above, the propeller shaft is attached to the differential yoke instead of the parking brake rotor. Lockwashers and U-bolts are not used.
 
-1. Chock wheels and release parking brake (TM 9-2320-280-10). 2. Remove four nuts (1), lockwashers (2), and two U-bolts (4) from rear propeller shaft (5) and transfer case output yoke (3). Discard lockwashers (2).
-
+1. Chock wheels and release parking brake (TM 9-2320-280-10). 
+2. Remove four nuts (1), lockwashers (2), and two U-bolts (4) from rear propeller shaft (5) and transfer case output yoke (3). Discard lockwashers (2).
 3. Remove four capscrews (8), lockwashers (7), and rear propeller shaft (5) from parking brake rotor (6). Discard lockwashers (7).
 
-b. Inspection 1. Inspect propeller shaft (5) for cracks and dents. Replace if cracked or dented. 2. Inspect grease fittings and universal joints for serviceability. Replace universal joints (para. 6-7)
-or grease fittings if unserviceable.
+**B. Inspection **
+1. Inspect propeller shaft (5) for cracks and dents. Replace if cracked or dented. 
+2. Inspect grease fittings and universal joints for serviceability. Replace universal joints (para. [6-7](#6-7)) or grease fittings if unserviceable.
 
-c. Installation 1. Install rear propeller shaft (5) on parking brake rotor (6) with four lockwashers (7) and capscrews (8). Tighten capscrews (8) to 60 lb-ft (81 N•m).
-
+**C. Installation**
+1. Install rear propeller shaft (5) on parking brake rotor (6) with four lockwashers (7) and capscrews (8). Tighten capscrews (8) to 60 lb-ft (81 N•m).
 2. Install rear propeller shaft (5) on transfer case output yoke (3) with two U-bolts (4), four lockwashers (2), and nuts (1). Tighten nuts (1) to 21 lb-ft (28 N•m).
-
 3. Apply parking brake (TM 9-2320-280-10) and remove wheel chocks.
 
 # 6-4. Rear Propeller Shaft Maintenance (Cont'D)
@@ -215,7 +187,11 @@ c. Installation 1. Install rear propeller shaft (5) on parking brake rotor (6) w
 # 6-5. Rear Propeller Shaft Maintenance (1330 Series)
 
 This task covers:
-a. Removal c. Installation b. Inspection INITIAL SETUP:
+    a. Removal 
+    b. Inspection
+    c. Installation  
+
+INITIAL SETUP:
 Applicable Models **Manual References**
 M1097, "A1" and "A2" series TM 9-2320-280-10 Tools General mechanic's tool kit:
 automotive (Appendix B, Item 1)
@@ -226,22 +202,18 @@ automotive (Appendix B, Item 1)
 | TM 9\-2320\-280\-24P |
 
 1. Chock wheels and release parking brake (TM 9-2320-280-10).
-
 2. Remove four capscrews (6), two straps (5), and disconnect propeller shaft (3) from differential pinion yoke (4).
-
 3. Slide propeller shaft end yoke (1) out of transfer case extension (2) and remove propeller shaft (3).
 
-b. Inspection 1. Inspect propeller shaft (3) for cracks and dents. Replace if cracked or dented. 2. Inspect grease fittings and universal joints for serviceability. Replace universal joints (para. 6-6) or grease fittings if unserviceable.
-
+**b. Inspection **
+1. Inspect propeller shaft (3) for cracks and dents. Replace if cracked or dented. 
+2. Inspect grease fittings and universal joints for serviceability. Replace universal joints (para. 6-6) or grease fittings if unserviceable.
 3. Inspect splined end of end yoke (1) for damage. Replace end yoke (1) if damaged (para. 6-6).
 
-c. Installation 1. Slide propeller shaft end yoke (1) on transfer case extension (2) and install propeller shaft (3). 2. Connect propeller shaft (3) to differential pinion yoke (4) with two straps (5) and four capscrews (6).
-
-Tighten capscrews (6) to 13-18 lb-ft (18-24 N m).
-
+**c. Installation **
+1. Slide propeller shaft end yoke (1) on transfer case extension (2) and install propeller shaft (3). 
+2. Connect propeller shaft (3) to differential pinion yoke (4) with two straps (5) and four capscrews (6). Tighten capscrews (6) to 13-18 lb-ft (18-24 N m).
 3. Apply parking brake (TM 9-2320-280-10) and remove wheel chocks.
-
-# 6-5. Rear Propeller Shaft Maintenance (1330 Series) (Cont'D)
 
 ![640_image_0.png](images/640_image_0.png)
 

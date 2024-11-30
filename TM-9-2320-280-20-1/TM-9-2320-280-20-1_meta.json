@@ -1,0 +1,5674 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "pdf_toc": [],
+    "pages": 890,
+    "ocr_stats": {
+        "ocr_pages": 500,
+        "ocr_failed": 0,
+        "ocr_success": 500,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 688,
+        "code": 2,
+        "table": 116,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "computed_toc": [
+        {
+            "title": "ARMY TM 9-2320-280-20-1\nAIR FORCE TO 36A12-1A-2092-1-1\nMARINE CORPS TM 2320-20/7B\n(SUPERSEDES TM 9-2320-280-20-1, 19 JANUARY 1990)",
+            "level": 2,
+            "page": 0
+        },
+        {
+            "title": "TECHNICAL MANUAL\nUNIT MAINTENANCE",
+            "level": 1,
+            "page": 0
+        },
+        {
+            "title": "WARNING",
+            "level": 3,
+            "page": 1
+        },
+        {
+            "title": "EXHAUST GASES CAN KILL",
+            "level": 2,
+            "page": 1
+        },
+        {
+            "title": "WARNING SUMMARY (Cont'd)",
+            "level": 2,
+            "page": 2
+        },
+        {
+            "title": "WARNING SUMMARY (Cont'd)",
+            "level": 2,
+            "page": 3
+        },
+        {
+            "title": "TECHNICAL MANUAL\nVOLUME 1 OF 3\nUNIT MAINTENANCE",
+            "level": 2,
+            "page": 4
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES",
+            "level": 2,
+            "page": 9
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES (Contd)",
+            "level": 2,
+            "page": 10
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES (Contd)",
+            "level": 2,
+            "page": 11
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES (Contd)",
+            "level": 2,
+            "page": 12
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES (Contd)",
+            "level": 2,
+            "page": 13
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES (Contd)",
+            "level": 2,
+            "page": 14
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES (Contd)",
+            "level": 2,
+            "page": 15
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES (Contd)",
+            "level": 2,
+            "page": 16
+        },
+        {
+            "title": "LIST OF EFFECTIVE PAGES (Contd)",
+            "level": 2,
+            "page": 17
+        },
+        {
+            "title": "VOLUME 1 OF 3",
+            "level": 2,
+            "page": 20
+        },
+        {
+            "title": "VOLUME 2 OF 3",
+            "level": 2,
+            "page": 20
+        },
+        {
+            "title": "VOLUME 3 OF 3",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "HOW TO USE THIS MANUAL",
+            "level": 2,
+            "page": 23
+        },
+        {
+            "title": "ABOUT YOUR MANUAL",
+            "level": 3,
+            "page": 23
+        },
+        {
+            "title": "b. TROUBLESHOOTING STEPS:",
+            "level": 3,
+            "page": 24
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 29
+        },
+        {
+            "title": "CHAPTER 1\nINTRODUCTION",
+            "level": 2,
+            "page": 30
+        },
+        {
+            "title": "Section I. GENERAL INFORMATION",
+            "level": 2,
+            "page": 30
+        },
+        {
+            "title": "1-1. SCOPE",
+            "level": 2,
+            "page": 30
+        },
+        {
+            "title": "1-2. MAINTENANCE FORMS, RECORDS, AND REPORTS",
+            "level": 2,
+            "page": 30
+        },
+        {
+            "title": "1-3. DESTRUCTION OF ARMY EQUIPMENT TO PREVENT ENEMY USE",
+            "level": 2,
+            "page": 30
+        },
+        {
+            "title": "1-4. PREPARATION FOR SHIPMENT",
+            "level": 2,
+            "page": 30
+        },
+        {
+            "title": "1-5. REPORTING EQUIPMENT IMPROVEMENT RECOMMENDATIONS (EIR)",
+            "level": 2,
+            "page": 30
+        },
+        {
+            "title": "1-6. EQUIPMENT IMPROVEMENT REPORT AND MAINTENANCE DIGEST (EIR MD)",
+            "level": 2,
+            "page": 31
+        },
+        {
+            "title": "1-7. METRIC SYSTEM",
+            "level": 2,
+            "page": 31
+        },
+        {
+            "title": "1-8. MANDATORY REPLACEMENT PARTS",
+            "level": 2,
+            "page": 31
+        },
+        {
+            "title": "1-9. BREAK-IN PROCEDURE",
+            "level": 2,
+            "page": 31
+        },
+        {
+            "title": "Section II. EQUIPMENT DESCRIPTION AND DATA",
+            "level": 2,
+            "page": 31
+        },
+        {
+            "title": "1-10. EQUIPMENT CHARACTERISTICS, CAPABILITIES, AND FEATURES",
+            "level": 2,
+            "page": 31
+        },
+        {
+            "title": "CARGO/TROOP CARRIERS: M998, M998A1, M1038, AND M1038A1",
+            "level": 3,
+            "page": 32
+        },
+        {
+            "title": "H E AVY VARIANT CARGO/TROOP CARRIERS: M1097, M1097A1, M1097A2, AND M1123",
+            "level": 3,
+            "page": 33
+        },
+        {
+            "title": "A. 105MM TOWED HOWITZER PRIME MOVER (L119 KIT) consists of:",
+            "level": 3,
+            "page": 33
+        },
+        {
+            "title": "TOW CARRIERS: M966, M966A1, M1036, AND M1121",
+            "level": 3,
+            "page": 36
+        },
+        {
+            "title": "S250 SHELTER CARRIERS M1037 AND M1042",
+            "level": 3,
+            "page": 40
+        },
+        {
+            "title": "SOFT TOP AMBULANCES: M1035, M1035A1, AND M1035A2",
+            "level": 3,
+            "page": 42
+        },
+        {
+            "title": "M1035A2",
+            "level": 3,
+            "page": 42
+        },
+        {
+            "title": "1 - 1 1 . L O C ATION AND DESCRIPTION OF MAJOR EXTERIOR\nC O M P O N E N T S",
+            "level": 2,
+            "page": 43
+        },
+        {
+            "title": "1-12. LOCATION AND DESCRIPTION OF MAJOR INTERIOR",
+            "level": 2,
+            "page": 45
+        },
+        {
+            "title": "1-13. LOCATION AND CONTENTS OF WARNING, CAUTION, AND DATA PLATES",
+            "level": 2,
+            "page": 47
+        },
+        {
+            "title": "VEHICLE BREAK-IN",
+            "level": 1,
+            "page": 51
+        },
+        {
+            "title": "SERVICE",
+            "level": 1,
+            "page": 51
+        },
+        {
+            "title": "WARNING",
+            "level": 1,
+            "page": 55
+        },
+        {
+            "title": "1-13. LOCATION AND CONTENTS OF WARNING, CAUTION, AND DATA PLATES (Cont'd)",
+            "level": 1,
+            "page": 56
+        },
+        {
+            "title": "WARNING",
+            "level": 1,
+            "page": 58
+        },
+        {
+            "title": "1-14. DIFFERENCES BETWEEN MODELS",
+            "level": 2,
+            "page": 59
+        },
+        {
+            "title": "1-15. TABULATED DATA",
+            "level": 2,
+            "page": 60
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 60
+        },
+        {
+            "title": "TABULATED DATA ABBREVIATIONS",
+            "level": 2,
+            "page": 60
+        },
+        {
+            "title": "Section III. PRINCIPLES OF OPERAT I O N",
+            "level": 2,
+            "page": 64
+        },
+        {
+            "title": "1 - 1 6 . G E N E R A L",
+            "level": 2,
+            "page": 64
+        },
+        {
+            "title": "1-18. DRIVETRAIN OPERATION",
+            "level": 2,
+            "page": 65
+        },
+        {
+            "title": "1-19. FUEL SYSTEM OPERATION",
+            "level": 2,
+            "page": 66
+        },
+        {
+            "title": "1 - 2 0 . COOLING SYSTEM OPERAT I O N",
+            "level": 2,
+            "page": 67
+        },
+        {
+            "title": "1-20. COOLING SYSTEM OPERATION (Cont'd)",
+            "level": 3,
+            "page": 68
+        },
+        {
+            "title": "1-21. STARTING SYSTEM OPERATION",
+            "level": 2,
+            "page": 69
+        },
+        {
+            "title": "1-22. GENERATING SYSTEM OPERATION (60/100 AMPERE ALTERNATOR)",
+            "level": 1,
+            "page": 70
+        },
+        {
+            "title": "1-23. GENERATING SYSTEM OPERATION (200 AMPERE ALTERNATOR)",
+            "level": 2,
+            "page": 71
+        },
+        {
+            "title": "1 - 2 3 . 1 . G E N E R ATING SYSTEM OPERATION (100 AMPERE DUAL VOLTAGE ALT E R N AT O R )",
+            "level": 2,
+            "page": 72
+        },
+        {
+            "title": "1 - 2 3 . 2 . G E N E R ATING SYSTEM OPERATION (200 AMPERE DUAL VOLTAGE ALT E R N AT O R )",
+            "level": 2,
+            "page": 73
+        },
+        {
+            "title": "1 - 2 3 . 3 . G E N E R ATING SYSTEM OPERATION (400 AMPERE DUAL VOLTAGE ALT E R N AT O R )",
+            "level": 2,
+            "page": 74
+        },
+        {
+            "title": "1-24. BATTERY SYSTEM OPERATION",
+            "level": 2,
+            "page": 75
+        },
+        {
+            "title": "1-25. WINDSHIELD WIPER/WASHER SYSTEM OPERATION",
+            "level": 2,
+            "page": 76
+        },
+        {
+            "title": "1-26. PARKING BRAKE SYSTEM OPERATION",
+            "level": 2,
+            "page": 77
+        },
+        {
+            "title": "1-27. SERVICE/PARKING BRAKE SYSTEM OPERATION",
+            "level": 2,
+            "page": 78
+        },
+        {
+            "title": "1-28. SERVICE BRAKE SYSTEM OPERATION",
+            "level": 2,
+            "page": 79
+        },
+        {
+            "title": "1-28. SERVICE BRAKE SYSTEM OPERATION (Cont'd)",
+            "level": 3,
+            "page": 80
+        },
+        {
+            "title": "1-29. STEERING CONTROL SYSTEM OPERATION",
+            "level": 2,
+            "page": 81
+        },
+        {
+            "title": "1-29. STEERING CONTROL SYSTEM OPERATION (Cont'd)",
+            "level": 2,
+            "page": 82
+        },
+        {
+            "title": "1 - 3 0 . SUSPENSION SYSTEM OPERAT I O N",
+            "level": 2,
+            "page": 83
+        },
+        {
+            "title": "1-30. SUSPENSION SYSTEM OPERATION (Cont'd)",
+            "level": 4,
+            "page": 84
+        },
+        {
+            "title": "1-31. AMBULANCE PATlENT COMPARTMENT FUEL BURNING HEATER SYSTEM\nOPERATION",
+            "level": 2,
+            "page": 85
+        },
+        {
+            "title": "1 - 3 3 . S T O WAGE RACKS AND TIEDOWN STRAPS",
+            "level": 2,
+            "page": 87
+        },
+        {
+            "title": "1-33. STOWAGE RACKS AND TIEDOWN STRAPS (Cont'd)",
+            "level": 2,
+            "page": 88
+        },
+        {
+            "title": "1-33. STOWAGE RACKS AND TIEDOWN STRAPS (Cont'd)",
+            "level": 2,
+            "page": 89
+        },
+        {
+            "title": "1 - 3 4 . 200 AMPERE UMBILICAL POWER CABLE",
+            "level": 2,
+            "page": 90
+        },
+        {
+            "title": "CHAPTER 2\nSERVICE AND TROUBLESHOOTING INSTRUCTIONS",
+            "level": 2,
+            "page": 91
+        },
+        {
+            "title": "2-1. COMMON TOOLS AND EQUIPMENT",
+            "level": 2,
+            "page": 91
+        },
+        {
+            "title": "Section II. SERVICE UPON RECEIPT",
+            "level": 3,
+            "page": 91
+        },
+        {
+            "title": "2-4. GENERAL",
+            "level": 2,
+            "page": 91
+        },
+        {
+            "title": "2-5. GENERAL INSPECTION AND SERVICING INSTRUCTIONS",
+            "level": 2,
+            "page": 91
+        },
+        {
+            "title": "WARNING",
+            "level": 3,
+            "page": 91
+        },
+        {
+            "title": ".WARNING.",
+            "level": 3,
+            "page": 92
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 92
+        },
+        {
+            "title": "2 - 6 . SPECIFIC INSPECTION AND SERVICING INSTRUCTIONS",
+            "level": 2,
+            "page": 92
+        },
+        {
+            "title": "Section III. PREVENTIVE MAINTENANCE CHECKS AND SERV I C E S",
+            "level": 2,
+            "page": 92
+        },
+        {
+            "title": "2 - 7 . G E N E R A L",
+            "level": 2,
+            "page": 92
+        },
+        {
+            "title": "2 - 8 . I N T E RVA L S",
+            "level": 2,
+            "page": 92
+        },
+        {
+            "title": "2 - 9 . R E P O RTING REPA I R S",
+            "level": 2,
+            "page": 93
+        },
+        {
+            "title": "2 - 1 0 . GENERAL SERVICE AND INSPECTION PROCEDURES",
+            "level": 2,
+            "page": 93
+        },
+        {
+            "title": ".WARNING.",
+            "level": 3,
+            "page": 93
+        },
+        {
+            "title": "2-11. SPECIFIC PMCS PROCEDURES",
+            "level": 2,
+            "page": 94
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 94
+        },
+        {
+            "title": "Section IV. ELECTRICAL/MECHANICAL SYSTEMS TROUBLESHOOTING",
+            "level": 2,
+            "page": 120
+        },
+        {
+            "title": "2-12. GENERAL",
+            "level": 2,
+            "page": 120
+        },
+        {
+            "title": "2 - 1 3 . ELECTRICAL/MECHANICAL SYSTEMS TROUBLESHOOTING",
+            "level": 2,
+            "page": 121
+        },
+        {
+            "title": "ELECTRICAL/MECHANICAL TROUBLESHOOTING",
+            "level": 2,
+            "page": 121
+        },
+        {
+            "title": "2-14. HOW TO USE THIS TROUBLESHOOTING GUIDE",
+            "level": 2,
+            "page": 122
+        },
+        {
+            "title": "NOTE TO THE RECIPIENT OF THIS MANUAL",
+            "level": 4,
+            "page": 122
+        },
+        {
+            "title": "2-14. HOW TO USE THIS TROUBLESHOOTING GUIDE (Cont'd)",
+            "level": 2,
+            "page": 123
+        },
+        {
+            "title": "2-14. HOW TO USE THIS TROUBLESHOOTING GUIDE (Cont'd)",
+            "level": 2,
+            "page": 124
+        },
+        {
+            "title": "HOW TO TROUBLESHOOT",
+            "level": 3,
+            "page": 124
+        },
+        {
+            "title": "2-14. HOW TO USE THIS TROUBLESHOOTING GUIDE (CONT'D)",
+            "level": 1,
+            "page": 125
+        },
+        {
+            "title": "PAGE LAYQUT",
+            "level": 2,
+            "page": 125
+        },
+        {
+            "title": "DIAGNOSTIC PROCEDURE",
+            "level": 2,
+            "page": 125
+        },
+        {
+            "title": "2-14. HOW TO USE THIS TROUBLESHOOTING GUIDE (CONT'D)",
+            "level": 2,
+            "page": 126
+        },
+        {
+            "title": "INFORMATION ABOUT THE\nQUESTION",
+            "level": 2,
+            "page": 126
+        },
+        {
+            "title": "TEST OPTIONS:",
+            "level": 2,
+            "page": 126
+        },
+        {
+            "title": "REASON FOR\nQUESTION:",
+            "level": 3,
+            "page": 126
+        },
+        {
+            "title": "INFORMATION ABOUT THE\nDIAGNOSTIC LOGIC",
+            "level": 2,
+            "page": 126
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 2,
+            "page": 126
+        },
+        {
+            "title": "POSSIBLE PROBLEMS",
+            "level": 2,
+            "page": 126
+        },
+        {
+            "title": "2-14. HOW TO USE THIS TROUBLESHOOTING GUIDE (CONT'D)",
+            "level": 1,
+            "page": 127
+        },
+        {
+            "title": "INFORMATION ABOUT THE\nQUESTION",
+            "level": 2,
+            "page": 127
+        },
+        {
+            "title": "TEST PROCEDURES",
+            "level": 2,
+            "page": 127
+        },
+        {
+            "title": "TYPE OF MEASUREMENT\nTYPE OF EQUIPMENT",
+            "level": 2,
+            "page": 127
+        },
+        {
+            "title": "PICTURES",
+            "level": 3,
+            "page": 127
+        },
+        {
+            "title": "2-15. GLOSSARY OF ABBREVIATIONS AND COMMONLY USED TERMS",
+            "level": 2,
+            "page": 128
+        },
+        {
+            "title": "2-15. GLOSSARY OF ABBREVIATIONS AND COMMONLY USED TERMS (CONT'D)",
+            "level": 2,
+            "page": 129
+        },
+        {
+            "title": "2-16. ELECTRIC CIRCUIT DESCRIPTION",
+            "level": 2,
+            "page": 129
+        },
+        {
+            "title": " 2-17. STARTABILITY TESTS",
+            "level": 1,
+            "page": 131
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 133
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 135
+        },
+        {
+            "title": "COMPRESSION UNBALANCE\nSTEACE-R TEST 14",
+            "level": 3,
+            "page": 135
+        },
+        {
+            "title": "2-18. ENGINE RUNNING TESTS",
+            "level": 2,
+            "page": 136
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 142
+        },
+        {
+            "title": "ENGINE RUNNING",
+            "level": 2,
+            "page": 142
+        },
+        {
+            "title": "ENGINE POWER TEST (PERCENT)\nSTEACE-R TEST #13",
+            "level": 3,
+            "page": 142
+        },
+        {
+            "title": "ENGINE POWER TEST (RPM/SEC)\nSTEACE-R TEST #12",
+            "level": 3,
+            "page": 142
+        },
+        {
+            "title": "COMPRESSION UNBALANCE\nSTEACE-R TEST 14",
+            "level": 3,
+            "page": 142
+        },
+        {
+            "title": "'2-19. COOLING SYSTEM TESTS",
+            "level": 1,
+            "page": 145
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 149
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 151
+        },
+        {
+            "title": "2-20. LUBRICATION SYSTEM TESTS",
+            "level": 2,
+            "page": 152
+        },
+        {
+            "title": "NOTE",
+            "level": 2,
+            "page": 152
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 154
+        },
+        {
+            "title": "LUBRICATION SYSTEM",
+            "level": 1,
+            "page": 156
+        },
+        {
+            "title": "2-21. ELECTRICAL TESTS",
+            "level": 2,
+            "page": 157
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 159
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 161
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 163
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 165
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 167
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 169
+        },
+        {
+            "title": "ELECTRICAL",
+            "level": 1,
+            "page": 171
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 171
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTEACE-R TEST 67",
+            "level": 2,
+            "page": 171
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 171
+        },
+        {
+            "title": "BATTERY/ENGINE GROUND CIRCUIT",
+            "level": 1,
+            "page": 172
+        },
+        {
+            "title": "BODY GROUND CIRCUIT",
+            "level": 1,
+            "page": 173
+        },
+        {
+            "title": "FRONT HOOD/LIGHTS GROUND CIRCUIT",
+            "level": 1,
+            "page": 174
+        },
+        {
+            "title": " BATTERY CIRCUIT INTERFACE",
+            "level": 1,
+            "page": 175
+        },
+        {
+            "title": "ALTERNATOR INTERFACE",
+            "level": 1,
+            "page": 177
+        },
+        {
+            "title": "2-22. FUEL SYSTEM TESTS",
+            "level": 2,
+            "page": 181
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 183
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 185
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 185
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 187
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 3,
+            "page": 192
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 3,
+            "page": 192
+        },
+        {
+            "title": "REASON FOR QUESTION",
+            "level": 3,
+            "page": 192
+        },
+        {
+            "title": "TEST OPTIONS",
+            "level": 3,
+            "page": 192
+        },
+        {
+            "title": "REFERENCE INFORMATION FUEL SYSTEM",
+            "level": 2,
+            "page": 193
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 193
+        },
+        {
+            "title": "FUEL PUMP PRESSURE\nSTE/ICE-R TEST #24",
+            "level": 3,
+            "page": 193
+        },
+        {
+            "title": "FUEL PUMP VOLUME TEST",
+            "level": 3,
+            "page": 193
+        },
+        {
+            "title": "WARNING\n\n![193_image_2.png](193_image_2.png)\n\n",
+            "level": 3,
+            "page": 193
+        },
+        {
+            "title": "5 AMPS DC\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 193
+        },
+        {
+            "title": "FUEL PUMP PRESSURE TEST\nPRESSURE GAUGE",
+            "level": 3,
+            "page": 193
+        },
+        {
+            "title": "TEST OPTIONS",
+            "level": 3,
+            "page": 194
+        },
+        {
+            "title": "REFERENCE INFORMATION FUEL SYSTEM",
+            "level": 2,
+            "page": 195
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 197
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 197
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 197
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 199
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 201
+        },
+        {
+            "title": "FUNGUS",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "Rerun Test Chain",
+            "level": 4,
+            "page": 201
+        },
+        {
+            "title": "COLD WEATHER OPERATION",
+            "level": 4,
+            "page": 207
+        },
+        {
+            "title": "FUNGUS",
+            "level": 4,
+            "page": 207
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 211
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 3,
+            "page": 211
+        },
+        {
+            "title": "DC VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 211
+        },
+        {
+            "title": "FUEL SYSTEM",
+            "level": 2,
+            "page": 211
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 213
+        },
+        {
+            "title": "FUEL SYSTEM",
+            "level": 2,
+            "page": 213
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 213
+        },
+        {
+            "title": "BATTERY VOLTAGE",
+            "level": 2,
+            "page": 213
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 213
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 215
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 215
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 215
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 215
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 217
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 217
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 217
+        },
+        {
+            "title": "FUEL SYSTEM",
+            "level": 2,
+            "page": 218
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 219
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 219
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 219
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 221
+        },
+        {
+            "title": "FUEL SYSTEM",
+            "level": 2,
+            "page": 221
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 3,
+            "page": 221
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 221
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 221
+        },
+        {
+            "title": "2-23. AIR INTAKE/EXHAUST TESTS",
+            "level": 2,
+            "page": 222
+        },
+        {
+            "title": "2-24. COMPRESSION/MECHANICAL TESTS",
+            "level": 2,
+            "page": 227
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 229
+        },
+        {
+            "title": "COMPRESSION / MECHANICAL",
+            "level": 2,
+            "page": 229
+        },
+        {
+            "title": "ENGINE RPM\nSTEACE-R TEST 10",
+            "level": 2,
+            "page": 229
+        },
+        {
+            "title": "OIL PRESSURE\nSTEACE-R TEST 50",
+            "level": 2,
+            "page": 229
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 231
+        },
+        {
+            "title": "COMPRESSION UNBALANCE\nSTE/ICE-R TEST 14",
+            "level": 3,
+            "page": 231
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 231
+        },
+        {
+            "title": "POWER TEST (% POWER)\nSTE/ICE-R TEST 13",
+            "level": 3,
+            "page": 231
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 233
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTEACE-R TEST 67",
+            "level": 3,
+            "page": 233
+        },
+        {
+            "title": "COMPRESSION / MECHANICAL",
+            "level": 2,
+            "page": 233
+        },
+        {
+            "title": "STARTER FIRST PEAK CURRENT\nSTEACE-R TEST 72",
+            "level": 3,
+            "page": 233
+        },
+        {
+            "title": "STARTER AVERAGE CURRENT",
+            "level": 3,
+            "page": 233
+        },
+        {
+            "title": "STEACE-R TEST 71",
+            "level": 3,
+            "page": 233
+        },
+        {
+            "title": "BATTERY INTERNAL RESISTANCE",
+            "level": 2,
+            "page": 233
+        },
+        {
+            "title": "STEACE-R TEST 73",
+            "level": 2,
+            "page": 233
+        },
+        {
+            "title": "STARTER CIRCUIT RESISTANCE\nSTEACE-R TEST 74",
+            "level": 2,
+            "page": 233
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 235
+        },
+        {
+            "title": "COMPRESSION / MECHANICAL",
+            "level": 2,
+            "page": 236
+        },
+        {
+            "title": "2-25. ENGINE COOLING TESTS",
+            "level": 2,
+            "page": 238
+        },
+        {
+            "title": "ETHYLENE GLYCOL MIXTURE TABLE",
+            "level": 3,
+            "page": 238
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 240
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 242
+        },
+        {
+            "title": "ENGINE COOLING FAN DESCRIPTION OF OPERATION",
+            "level": 4,
+            "page": 242
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 250
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 2,
+            "page": 250
+        },
+        {
+            "title": "STEACE-R TEST 91 ",
+            "level": 2,
+            "page": 250
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 250
+        },
+        {
+            "title": "ENGINE COOLING",
+            "level": 2,
+            "page": 250
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 252
+        },
+        {
+            "title": "ENGINE COOLING",
+            "level": 2,
+            "page": 252
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 252
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 252
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 2,
+            "page": 252
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 2,
+            "page": 252
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "ENGINE COOLING",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 3,
+            "page": 254
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "STEACE-R TEST 89",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 254
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "ENGINE COOLING",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 3,
+            "page": 256
+        },
+        {
+            "title": "VOLTAGE",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 256
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 258
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 3,
+            "page": 258
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 258
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 258
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 258
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 260
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 262
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 4,
+            "page": 262
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 262
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/lCE-R TEST 91",
+            "level": 3,
+            "page": 266
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 266
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 268
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 268
+        },
+        {
+            "title": "2-26. ENGINE LUBRICATION TESTS I",
+            "level": 2,
+            "page": 269
+        },
+        {
+            "title": "ENGINE RPM\n\n![271_image_1.png](271_image_1.png)\n\n\nSTE/ICE-R TEST 10",
+            "level": 3,
+            "page": 271
+        },
+        {
+            "title": "ENGINE RPM\nINTERLEAVE WITH 0-1000 PSI PRESSURE",
+            "level": 3,
+            "page": 271
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 273
+        },
+        {
+            "title": "ENGINE RPM\nINTERLEAVE WITH 0-1000 PSI PRESSURE",
+            "level": 3,
+            "page": 275
+        },
+        {
+            "title": "2-27. ALTERNATOR TESTS",
+            "level": 2,
+            "page": 276
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 276
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 279
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 279
+        },
+        {
+            "title": "INTERLEAVE TESTS 67 AND 89\nBATTERY VOLTAGE AND DC VOLTAGE",
+            "level": 3,
+            "page": 279
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 281
+        },
+        {
+            "title": "and starter circuits.NOTES ON IDLE ADJUSTMENT",
+            "level": 2,
+            "page": 281
+        },
+        {
+            "title": "ENGINE RPM\nSTE/ICE-R TEST 10",
+            "level": 3,
+            "page": 281
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 281
+        },
+        {
+            "title": "NOTES",
+            "level": 4,
+            "page": 281
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTE/ICE-R TEST 67",
+            "level": 3,
+            "page": 281
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 281
+        },
+        {
+            "title": "BATTERY CURRENT",
+            "level": 3,
+            "page": 283
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 4,
+            "page": 284
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 4,
+            "page": 284
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 285
+        },
+        {
+            "title": "INTERLEAVE TEST 67 AND 68.\nBATTERY VOLTAGE AND DC VOLTAGE",
+            "level": 3,
+            "page": 285
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 285
+        },
+        {
+            "title": "INTERLEAVE TEST 67 AND 89.\nBATTERY VOLTAGE AND DC VOLTAGE",
+            "level": 3,
+            "page": 285
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 285
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 287
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 287
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 287
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 289
+        },
+        {
+            "title": "ENGINE RPM",
+            "level": 4,
+            "page": 289
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 289
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 291
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 291
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 291
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 293
+        },
+        {
+            "title": "CAUTION\n\n![293_image_0.png](293_image_0.png)\n\n",
+            "level": 4,
+            "page": 293
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 293
+        },
+        {
+            "title": "ENGINE RPM\nSTE/ICE-R TEST 10",
+            "level": 4,
+            "page": 293
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/lCE-R TEST 89",
+            "level": 4,
+            "page": 293
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 295
+        },
+        {
+            "title": "NOTE\n\n![295_image_0.png](295_image_0.png)\n\n",
+            "level": 4,
+            "page": 295
+        },
+        {
+            "title": "Replacement of Reverse Polarity Fuse",
+            "level": 4,
+            "page": 295
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 295
+        },
+        {
+            "title": "ALTERNATOR\n\n![297_image_0.png](297_image_0.png)\n\n",
+            "level": 3,
+            "page": 297
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 297
+        },
+        {
+            "title": "TEMPERATURE-ENVIRONMENT ADJUSTMENT",
+            "level": 4,
+            "page": 297
+        },
+        {
+            "title": "NOTE\n\n![297_image_1.png](297_image_1.png)\n\n",
+            "level": 4,
+            "page": 297
+        },
+        {
+            "title": "ENGINE RPM\nSTE/ICE-R TEST 10",
+            "level": 4,
+            "page": 297
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 297
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 2,
+            "page": 299
+        },
+        {
+            "title": "FULL FIELD TEST",
+            "level": 3,
+            "page": 299
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 299
+        },
+        {
+            "title": "CAUTION",
+            "level": 4,
+            "page": 299
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 299
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/lCE-R TEST 89",
+            "level": 3,
+            "page": 299
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 2,
+            "page": 301
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 301
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 301
+        },
+        {
+            "title": "ENGINE RPM\nSTE/ICE-R TEST 10",
+            "level": 3,
+            "page": 301
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 301
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 2,
+            "page": 303
+        },
+        {
+            "title": "FUSIBLE LINK REPLACEMENT\n\n![303_image_0.png](303_image_0.png)\n\n",
+            "level": 3,
+            "page": 303
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 2,
+            "page": 305
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 305
+        },
+        {
+            "title": "ENGINE RPM\nSTE/ICE-R TEST 10",
+            "level": 3,
+            "page": 305
+        },
+        {
+            "title": "0-1500 AMPS DC\nSTE/ICE-R TEST 90",
+            "level": 3,
+            "page": 305
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 2,
+            "page": 307
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 307
+        },
+        {
+            "title": "ENGINE RPM\nSTE/ICE-R TEST 10",
+            "level": 3,
+            "page": 307
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 307
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 307
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 2,
+            "page": 309
+        },
+        {
+            "title": "0-45 DC VOLTS\n\n![309_image_0.png](309_image_0.png)\n\n\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 309
+        },
+        {
+            "title": "ENGINE RPM\nSTE/ICE-R TEST 10",
+            "level": 3,
+            "page": 309
+        },
+        {
+            "title": "0-1500 AMPS DC\nSTE/ICE-R TEST 90",
+            "level": 3,
+            "page": 309
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 311
+        },
+        {
+            "title": "0-1,500 AMPS DC",
+            "level": 4,
+            "page": 311
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 313
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 315
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 315
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 319
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 319
+        },
+        {
+            "title": "REFERENCE INFORMATION ALTERNATOR",
+            "level": 3,
+            "page": 321
+        },
+        {
+            "title": "ENGINE RPM",
+            "level": 4,
+            "page": 321
+        },
+        {
+            "title": "2-28. PROTECTIVE CONTROL BOX/DISTRIBUTION BOX TESTS",
+            "level": 2,
+            "page": 322
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 322
+        },
+        {
+            "title": "REFERENCE INFORMATION PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 324
+        },
+        {
+            "title": "PROTECTIVE CONTROL BOX/DISTRIBUTION BOX DIAGNOSTIC FLOWCHART",
+            "level": 3,
+            "page": 325
+        },
+        {
+            "title": "PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 327
+        },
+        {
+            "title": "REFERENCE INFORMATION PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 328
+        },
+        {
+            "title": "PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 329
+        },
+        {
+            "title": "REFERENCE INFORMATION PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 330
+        },
+        {
+            "title": "PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 331
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 4,
+            "page": 331
+        },
+        {
+            "title": "PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 333
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 4,
+            "page": 333
+        },
+        {
+            "title": "REFERENCE INFORMATION PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 334
+        },
+        {
+            "title": "PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 335
+        },
+        {
+            "title": "REFERENCE INFORMATION PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 336
+        },
+        {
+            "title": "PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 337
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 4,
+            "page": 337
+        },
+        {
+            "title": "REFERENCE INFORMATION PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 338
+        },
+        {
+            "title": "PROTECTIVE CONTROL BOX/DISTRIBUTION BOX",
+            "level": 3,
+            "page": 339
+        },
+        {
+            "title": "2-29. BATTERY CIRCUIT TEST 1",
+            "level": 2,
+            "page": 345
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 347
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTEACE-R TEST 67 ",
+            "level": 2,
+            "page": 347
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 349
+        },
+        {
+            "title": "BATTERY CIRCUIT",
+            "level": 3,
+            "page": 349
+        },
+        {
+            "title": "BATTERY INTERNAL RESISTANCE\nSTE/ICE-R TEST 73",
+            "level": 4,
+            "page": 349
+        },
+        {
+            "title": "BATTERY RESISTANCE CHANGE\nSTE/lCE-R TEST 75",
+            "level": 4,
+            "page": 349
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/lCE-R TEST 69",
+            "level": 3,
+            "page": 349
+        },
+        {
+            "title": "STARTER NEG. CABLE VOLTAGE DROP\nSTE/ICE-R TEST 69",
+            "level": 4,
+            "page": 349
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 351
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 351
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 352
+        },
+        {
+            "title": "BATTERY CIRCUIT",
+            "level": 2,
+            "page": 352
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 353
+        },
+        {
+            "title": "BATTERY INTERNAL RESISTANCE\nSTE/ICE-R TEST 73",
+            "level": 4,
+            "page": 353
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 353
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 353
+        },
+        {
+            "title": "BATTERY RESISTANCE CHANGE\nSTE/ICE-R TEST 75",
+            "level": 3,
+            "page": 353
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/lCE-R TEST 89",
+            "level": 4,
+            "page": 353
+        },
+        {
+            "title": "2-30. STARTER CIRCUIT TESTS",
+            "level": 2,
+            "page": 354
+        },
+        {
+            "title": "STARTER CIRCUIT WITHOUT STARTER LOCKOUT",
+            "level": 3,
+            "page": 354
+        },
+        {
+            "title": "GENERAL DESCRIPTION",
+            "level": 3,
+            "page": 354
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 356
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTE/ICE TEST 67",
+            "level": 3,
+            "page": 356
+        },
+        {
+            "title": "STE/ICE-R TEST 67",
+            "level": 3,
+            "page": 356
+        },
+        {
+            "title": "REFERENCE INFORMATION STARTER CIRCUIT",
+            "level": 4,
+            "page": 360
+        },
+        {
+            "title": "STARTER AVERAGE CURRENT\nSTE/lCE-R TEST 71",
+            "level": 3,
+            "page": 360
+        },
+        {
+            "title": "BATTERY CURRENT\nMULTIMETER",
+            "level": 4,
+            "page": 360
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTE/lCE-R TEST 67",
+            "level": 4,
+            "page": 360
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 360
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 362
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTE/ICE-R TEST 67",
+            "level": 3,
+            "page": 362
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 362
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 364
+        },
+        {
+            "title": "STARTER AVERAGE CURRENT\nSTE/lCE-R TEST 71",
+            "level": 4,
+            "page": 364
+        },
+        {
+            "title": "STARTER NEG. CABLE VOLTAGE DROP\nSTE/ICE-R TEST 69",
+            "level": 3,
+            "page": 364
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/lCE-R TEST 89",
+            "level": 4,
+            "page": 364
+        },
+        {
+            "title": "BATTERY CURRENT\nMULTIMETER",
+            "level": 3,
+            "page": 364
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 364
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 366
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 370
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 372
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 372
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 372
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 374
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 374
+        },
+        {
+            "title": "BATTERY VOLTAGE",
+            "level": 4,
+            "page": 374
+        },
+        {
+            "title": "REFERENCE INFORMATION STARTER CIRCUIT",
+            "level": 3,
+            "page": 376
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 376
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTE/ICE-R TEST 67",
+            "level": 3,
+            "page": 376
+        },
+        {
+            "title": "BATTERY INTERNAL Resistance\nSTE/ICE-R TEST 73",
+            "level": 3,
+            "page": 376
+        },
+        {
+            "title": "STARTER NEG. CABLE VOLTAGE DROP\nSTE/ICE-R TEST 69",
+            "level": 4,
+            "page": 376
+        },
+        {
+            "title": "BATTERY RESISTANCE CHANGE\nSTE/ICE-R TEST 75",
+            "level": 4,
+            "page": 376
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/lCE-R TEST 89",
+            "level": 4,
+            "page": 376
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 376
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 4,
+            "page": 377
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 378
+        },
+        {
+            "title": "STARTER CIRCUIT",
+            "level": 3,
+            "page": 378
+        },
+        {
+            "title": "BATTERY VOLTAGE\nSTE/lCE-R TEST 67",
+            "level": 4,
+            "page": 378
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 378
+        },
+        {
+            "title": "STARTER MOTOR VOLTAGE\nSTE/lCE-R TEST 68",
+            "level": 4,
+            "page": 378
+        },
+        {
+            "title": "STARTER SOLENOID VOLTAGE\nSTE/ICE-R TEST 70",
+            "level": 4,
+            "page": 378
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 382
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 382
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 382
+        },
+        {
+            "title": "STARTER CIRCUIT",
+            "level": 3,
+            "page": 383
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 384
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 384
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 384
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 4,
+            "page": 384
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 384
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 386
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 386
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 386
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 386
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 386
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 388
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 4,
+            "page": 388
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 388
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 4,
+            "page": 391
+        },
+        {
+            "title": "STARTER CIRCUIT",
+            "level": 3,
+            "page": 392
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 392
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 392
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER I",
+            "level": 3,
+            "page": 392
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89 I",
+            "level": 3,
+            "page": 392
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/lCE-R TEST 91",
+            "level": 4,
+            "page": 392
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 394
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 394
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 394
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 394
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 394
+        },
+        {
+            "title": "2-31. GLOWPLUGS CIRCUIT TESTS (PROTECTIVE CONTROL BOX)",
+            "level": 2,
+            "page": 395
+        },
+        {
+            "title": "GLOWPLUGS",
+            "level": 2,
+            "page": 396
+        },
+        {
+            "title": "REFERENCE INFORMATION GLOWPLUGS",
+            "level": 2,
+            "page": 397
+        },
+        {
+            "title": "BAD CONNECTIONS ARE THE MOST COMMON",
+            "level": 4,
+            "page": 397
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 397
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 397
+        },
+        {
+            "title": "BATTERY CURRENT\nMULTIMETER",
+            "level": 4,
+            "page": 397
+        },
+        {
+            "title": "BATTERY CURRENT\nSTE/ICE-R TEST 80",
+            "level": 4,
+            "page": 397
+        },
+        {
+            "title": "\n\n![398_image_0.png](398_image_0.png)\n\n",
+            "level": 2,
+            "page": 398
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 399
+        },
+        {
+            "title": "ENGINE NOT RUNNING",
+            "level": 4,
+            "page": 399
+        },
+        {
+            "title": "ENGINE RUNNING.\nROTARY SWITCH IN RUN",
+            "level": 4,
+            "page": 399
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 399
+        },
+        {
+            "title": "GLOWPLUGS",
+            "level": 2,
+            "page": 400
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 2,
+            "page": 400
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 2,
+            "page": 400
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 401
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 403
+        },
+        {
+            "title": "NOTE\n\n![403_image_0.png](403_image_0.png)\n\n",
+            "level": 3,
+            "page": 403
+        },
+        {
+            "title": "BATTERY CURRENT\nSTE/ICE-R TEST 80",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": "BATTERY CURRENT\nMULTIMETER",
+            "level": 3,
+            "page": 403
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 403
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 403
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 3,
+            "page": 405
+        },
+        {
+            "title": "STEACE-R TEST 89",
+            "level": 2,
+            "page": 405
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 405
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 405
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 405
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 405
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 407
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 407
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 407
+        },
+        {
+            "title": "NOTE",
+            "level": 2,
+            "page": 407
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 409
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 409
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMultimeter",
+            "level": 4,
+            "page": 409
+        },
+        {
+            "title": "2-31.1. GLOWPLUGS CIRCUIT TESTS (DISTRIBUTION BOX)",
+            "level": 2,
+            "page": 410
+        },
+        {
+            "title": "GLOWPLUGS",
+            "level": 3,
+            "page": 411
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 412
+        },
+        {
+            "title": "GLOWPLUGS",
+            "level": 3,
+            "page": 412
+        },
+        {
+            "title": "BAD CONNECTIONS ARE THE MOST COMMON",
+            "level": 4,
+            "page": 412
+        },
+        {
+            "title": "NORMAL GLOWPLUG OPERATION",
+            "level": 4,
+            "page": 412
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 412
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 412
+        },
+        {
+            "title": "BATTERY CURRENT\nMULTIMETER",
+            "level": 3,
+            "page": 412
+        },
+        {
+            "title": "BATTERY CURRENT\nSTE/ICE-R TEST 80",
+            "level": 3,
+            "page": 412
+        },
+        {
+            "title": "NORMAL GLOWPLUG OPERATION",
+            "level": 4,
+            "page": 414
+        },
+        {
+            "title": "ENGINE NOT RUNNING,\nROTARY SWITCH IN RUN.",
+            "level": 4,
+            "page": 414
+        },
+        {
+            "title": "ENGINE RUNNING,\nROTARY SWITCH IN RUN",
+            "level": 4,
+            "page": 414
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 414
+        },
+        {
+            "title": "EXPECTED GLOWPLUG CURRENT",
+            "level": 4,
+            "page": 414
+        },
+        {
+            "title": "BATTERY CURRENT\nSTE/ICE-R TEST 80",
+            "level": 4,
+            "page": 414
+        },
+        {
+            "title": "BATTERY CURRENT\nMULTIMETER",
+            "level": 4,
+            "page": 414
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 416
+        },
+        {
+            "title": "BATTERY CURRENT\nSTE/ICE-R TEST 80",
+            "level": 3,
+            "page": 416
+        },
+        {
+            "title": "BATTERY CURRENT\nMULTIMETER",
+            "level": 3,
+            "page": 416
+        },
+        {
+            "title": "CHECKING GLOWPLUGS & THEIR WIRES",
+            "level": 4,
+            "page": 416
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 418
+        },
+        {
+            "title": "NOTE\n\n![418_image_0.png](418_image_0.png)\n\n",
+            "level": 4,
+            "page": 418
+        },
+        {
+            "title": "BATTERY CURRENT\nSTE/ICE-R TEST 80",
+            "level": 4,
+            "page": 418
+        },
+        {
+            "title": "BATTERY CURRENT\nMULTIMETER",
+            "level": 3,
+            "page": 418
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 418
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 418
+        },
+        {
+            "title": "GLOWPLUGS",
+            "level": 3,
+            "page": 419
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 420
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 420
+        },
+        {
+            "title": "VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 420
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 420
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 420
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 422
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 422
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 422
+        },
+        {
+            "title": "REFERENCE INFORMATION GLOWPLUGS CIRCUIT",
+            "level": 3,
+            "page": 424
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 424
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 424
+        },
+        {
+            "title": " 2-32. INSTRUMENT TESTS",
+            "level": 2,
+            "page": 425
+        },
+        {
+            "title": "2-319",
+            "level": 3,
+            "page": 425
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 427
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 427
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 429
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT\n\n![431_image_0.png](431_image_0.png)\n\n",
+            "level": 2,
+            "page": 431
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 433
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 435
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 435
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 435
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 435
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 3,
+            "page": 435
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 435
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 437
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 437
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 437
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 437
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 439
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 439
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 3,
+            "page": 439
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 4,
+            "page": 439
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 439
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 441
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 441
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 441
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 3,
+            "page": 445
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 445
+        },
+        {
+            "title": " NOTE",
+            "level": 4,
+            "page": 445
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 445
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 445
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 445
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 445
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 3,
+            "page": 447
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 4,
+            "page": 447
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 447
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 447
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 449
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 3,
+            "page": 449
+        },
+        {
+            "title": "0-45 OHMS\nSTE/ICE-R TEST 89",
+            "level": 3,
+            "page": 449
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 449
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91",
+            "level": 3,
+            "page": 449
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 449
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 451
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 451
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 451
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 453
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 453
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 453
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 453
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 453
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 453
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 455
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 455
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 3,
+            "page": 455
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 455
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 3,
+            "page": 455
+        },
+        {
+            "title": "CONTNUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 455
+        },
+        {
+            "title": "REFERENCE INFORMATION\n\n![457_image_1.png](457_image_1.png)\n\n",
+            "level": 2,
+            "page": 457
+        },
+        {
+            "title": "INSTRUMENTS CIRCUITS",
+            "level": 1,
+            "page": 457
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 459
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 459
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 459
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 459
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 459
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 459
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 463
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 463
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 463
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 463
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 2,
+            "page": 463
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 2,
+            "page": 463
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 463
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 463
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 465
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 467
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 467
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 467
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 467
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 467
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 467
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 469
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 471
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 471
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 471
+        },
+        {
+            "title": "BATTERY VOLTAGE \nMULTIMETER",
+            "level": 2,
+            "page": 471
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 471
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 471
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 473
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 1,
+            "page": 473
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 3,
+            "page": 473
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 473
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 475
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 475
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 3,
+            "page": 475
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 2,
+            "page": 475
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 475
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 477
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 477
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 3,
+            "page": 477
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 477
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 2,
+            "page": 477
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 3,
+            "page": 477
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 477
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 3,
+            "page": 477
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 479
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 479
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 479
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 479
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 482
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 483
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 483
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 483
+        },
+        {
+            "title": "REFERENCE INFORMATION INSTRUMENTS CIRCUIT",
+            "level": 3,
+            "page": 485
+        },
+        {
+            "title": "0-4500 OHMS\nSTE/ICE-R TEST 91 I",
+            "level": 3,
+            "page": 485
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 4,
+            "page": 485
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 487
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 3,
+            "page": 487
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/lCE-R TEST 89",
+            "level": 4,
+            "page": 487
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 4,
+            "page": 487
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 489
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 489
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 489
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 489
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 491
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 491
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 491
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 491
+        },
+        {
+            "title": "\n\n![492_image_0.png](492_image_0.png)\n\n",
+            "level": 2,
+            "page": 492
+        },
+        {
+            "title": "INSTRUMENTS CIRCUIT",
+            "level": 2,
+            "page": 493
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 493
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 493
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 493
+        },
+        {
+            "title": "2-33. LIGHT TESTS",
+            "level": 2,
+            "page": 494
+        },
+        {
+            "title": "2-389",
+            "level": 3,
+            "page": 494
+        },
+        {
+            "title": "LIGHTS",
+            "level": 2,
+            "page": 495
+        },
+        {
+            "title": "DIAGNOSTIC FLOWCHART",
+            "level": 2,
+            "page": 495
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 496
+        },
+        {
+            "title": "LIGHTS",
+            "level": 2,
+            "page": 496
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 496
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 496
+        },
+        {
+            "title": "TURN SIGNAL SWITCH",
+            "level": 2,
+            "page": 501
+        },
+        {
+            "title": "TURN SIGNAL SWITCH LIGHTS",
+            "level": 3,
+            "page": 502
+        },
+        {
+            "title": "2-34. TRANSMISSION SYSTEM TESTS (3L80)",
+            "level": 2,
+            "page": 503
+        },
+        {
+            "title": "(3L80)",
+            "level": 2,
+            "page": 504
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 505
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 505
+        },
+        {
+            "title": "Road Test Procedure",
+            "level": 4,
+            "page": 505
+        },
+        {
+            "title": "STE/ICE-R TEST #50\n\n![507_image_1.png](507_image_1.png)\n\n\n0 TO 1000 PSIG PRESSURE\nINTERLEAVED WITH RPM",
+            "level": 3,
+            "page": 507
+        },
+        {
+            "title": "Transmission oil pressure test",
+            "level": 3,
+            "page": 507
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 507
+        },
+        {
+            "title": "(3L80)",
+            "level": 2,
+            "page": 510
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 511
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 511
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 511
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "TRANSMISSION SYSTEM",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "(3L80)",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 3,
+            "page": 513
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 513
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "STEACE-R TEST 89",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "VOLTAGE",
+            "level": 3,
+            "page": 513
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 513
+        },
+        {
+            "title": "2-35. TRANSMISSION SYSTEM TESTS (4L80-E)",
+            "level": 2,
+            "page": 514
+        },
+        {
+            "title": "CAUTION",
+            "level": 3,
+            "page": 514
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 514
+        },
+        {
+            "title": "2-411",
+            "level": 3,
+            "page": 514
+        },
+        {
+            "title": "REFERENCE INFORMATION TRANSMISSION SYSTEM",
+            "level": 3,
+            "page": 516
+        },
+        {
+            "title": "NOTE",
+            "level": 4,
+            "page": 516
+        },
+        {
+            "title": "REFERENCE INFORMATION\n\n![518_image_1.png](518_image_1.png)\n\n",
+            "level": 3,
+            "page": 518
+        },
+        {
+            "title": "TRANSMISSION SYSTEM",
+            "level": 2,
+            "page": 521
+        },
+        {
+            "title": "KNOWN INFO",
+            "level": 3,
+            "page": 521
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 522
+        },
+        {
+            "title": "Will Not Display DTC Code 12, or Check Transmission \"ON\" Steady",
+            "level": 1,
+            "page": 522
+        },
+        {
+            "title": "DIAGNOSTIC FLOWCHART\n\n![523_image_3.png](523_image_3.png)\n\n",
+            "level": 2,
+            "page": 523
+        },
+        {
+            "title": "DTC 21/22\nThrottle Position (TP) Sensor Circuit High/\nThrottle Position Sensor Circuit Low",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 21 Will Set When:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 22 Will Set When:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 24\nOutput Speed Sensor Signal",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "Circuit Decription:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 24 Will Set When:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 28\nTransmission Range (TR) Pressure\nSwitch Assembly (PSA) Fault",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 28 Will Set When:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 37/38\nTorque Converter Clutch (TCC) Brake\nSwitch Stuck \"ON\"/\nTCC Brake Switch Stuck \"OFF\"",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 37 Will Set When:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 38 Will Set When:",
+            "level": 3,
+            "page": 525
+        },
+        {
+            "title": "DTC 39\nTCC Stuck \"OFF\"\nCircuit Description:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "DTC 39 Will Set When:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "DTC 51\nFaulty or Incorrect\nCircuit description:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "DTC 51 Will Set When:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "DTC 52/53\nSystem Voltage High Long/\nSystem Voltage High\nCircuit Description:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "DTC 52 Will Set When:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "DTC 53 Will Set When:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "DTC 58\nTransmission Fluid Temperature (TFT)\nSensor Circuit Low\n(High Temperature Indicated)",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "DTC 58 Will Set When:",
+            "level": 3,
+            "page": 526
+        },
+        {
+            "title": "TRANSMISSION SYSTEM",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "DTC 59\nTransmission Fluid Temperature (TFT)\nSensor Circuit High\n(Low Temperature Indicated)\nCircuit Description:",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "DTC 59 Will Set When:",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "DTC 68\nTransmission Component Slipping\nCircuit Description:",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "DTC 68 Will Set When:",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "DTC 69\nTorque Converter Clutch (TCC) Stuck \"ON\"\nCircuit Description:",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "DTC 69 Will Set When:",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "DTC 71\nEngine Speed, Sensor Circuit Low",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "DTC 71 Will Set When:",
+            "level": 3,
+            "page": 527
+        },
+        {
+            "title": "TRANSMISSION SYSTEM",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "DTC 73\nPressure Control Solenoid (PCS) Circuit\nCurrent Error (Force Motor Circuit)",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "DTC 73 Will Set When:",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "DTC 74\nTransmission Input Speed\nSensor (TISS) Circuit",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "DTC 74 Will Set When\"",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "DTC 75 Will Set When:",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "DTC 79\nTransmission Fluid Overtemp",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "DTC 79 Will Set When:",
+            "level": 3,
+            "page": 528
+        },
+        {
+            "title": "TRANSMISSION SYSTEM",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "DTC 81\n2-3 Shift Solenoid Circuit Fault",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "DTC 81 Will Set When:",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "DTC 82\n1-2 Shift Solenoid Fault",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "DTC 82 Will Set When:",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "DTC 83\nTCC Solenoid (PWM) Circuit Fault",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "DTC 83 Will Set When:",
+            "level": 3,
+            "page": 529
+        },
+        {
+            "title": "DTC 85\nUndefined Ratio Error",
+            "level": 3,
+            "page": 530
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 530
+        },
+        {
+            "title": "DTC 85 Will Set When:",
+            "level": 3,
+            "page": 530
+        },
+        {
+            "title": "DTC 86\nLow Ratio Error",
+            "level": 2,
+            "page": 530
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 530
+        },
+        {
+            "title": "DTC 86 Will Set When:",
+            "level": 3,
+            "page": 530
+        },
+        {
+            "title": "DTC 87\nHigh Ratio Error",
+            "level": 3,
+            "page": 530
+        },
+        {
+            "title": "Circuit Description:",
+            "level": 3,
+            "page": 530
+        },
+        {
+            "title": "DTC 87 Will Set When:",
+            "level": 3,
+            "page": 530
+        },
+        {
+            "title": "DIAGNOSTIC FLOWCHART",
+            "level": 1,
+            "page": 535
+        },
+        {
+            "title": "2-434 Change 2",
+            "level": 3,
+            "page": 537
+        },
+        {
+            "title": "DIAGNOSTIC FLOWCHART",
+            "level": 1,
+            "page": 538
+        },
+        {
+            "title": "DIAGNOSTIC FLOWCHART",
+            "level": 2,
+            "page": 541
+        },
+        {
+            "title": "DIAGNOSTIC FLOWCHART",
+            "level": 2,
+            "page": 542
+        },
+        {
+            "title": "TRANSMISSION SYSTEM",
+            "level": 2,
+            "page": 543
+        },
+        {
+            "title": "(4L80-E)",
+            "level": 2,
+            "page": 543
+        },
+        {
+            "title": "DIAGNOSTIC FLOWCHART",
+            "level": 2,
+            "page": 544
+        },
+        {
+            "title": "RESISTANCE TOO HIGH",
+            "level": 2,
+            "page": 546
+        },
+        {
+            "title": "2-36. BRAKE SYSTEM TESTS",
+            "level": 2,
+            "page": 547
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 547
+        },
+        {
+            "title": "REFERENCE INFORMATION BRAKES",
+            "level": 2,
+            "page": 549
+        },
+        {
+            "title": "SERVICE BRAKE ROAD TEST PROCEDURE:",
+            "level": 3,
+            "page": 549
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 551
+        },
+        {
+            "title": "PARKING BRAKE ADJUSTMENT:",
+            "level": 4,
+            "page": 551
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 553
+        },
+        {
+            "title": "Master cylinder test procedure:",
+            "level": 2,
+            "page": 553
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 555
+        },
+        {
+            "title": "6\"REFERENCE INFORMATION",
+            "level": 3,
+            "page": 557
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 559
+        },
+        {
+            "title": "2-37. STEERING SYSTEM TESTS",
+            "level": 2,
+            "page": 560
+        },
+        {
+            "title": "2-459",
+            "level": 3,
+            "page": 560
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 562
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 564
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 566
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 568
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 570
+        },
+        {
+            "title": "REFERENCE INFORMATION STEERING SYSTEM",
+            "level": 2,
+            "page": 572
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 574
+        },
+        {
+            "title": "NOTE",
+            "level": 2,
+            "page": 574
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 578
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 580
+        },
+        {
+            "title": "2-38. DRIVETRAIN TESTS",
+            "level": 2,
+            "page": 581
+        },
+        {
+            "title": "2-479",
+            "level": 3,
+            "page": 581
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 583
+        },
+        {
+            "title": "REFERENCE INFORMATION\n\n![587_image_1.png](587_image_1.png)\n\n",
+            "level": 3,
+            "page": 587
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 589
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 591
+        },
+        {
+            "title": "DRIVETRAIN",
+            "level": 2,
+            "page": 592
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 593
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 597
+        },
+        {
+            "title": "2-39. AMBULANCE ELECTRICAL SYSTEM TESTS",
+            "level": 2,
+            "page": 598
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 599
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 600
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 600
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 602
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 2,
+            "page": 602
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 602
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 604
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 604
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 604
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 604
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 606
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 607
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 608
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 608
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 610
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 610
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 610
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 612
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 612
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 612
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 612
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 614
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 616
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 616
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 616
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 617
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 617
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 618
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 618
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 618
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 618
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 618
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 620
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 3,
+            "page": 620
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 620
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 621
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 623
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 624
+        },
+        {
+            "title": "0-45DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 624
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 626
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 627
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 627
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 628
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 628
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 2,
+            "page": 630
+        },
+        {
+            "title": "STEACE-R TEST 89",
+            "level": 2,
+            "page": 630
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 630
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 634
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 636
+        },
+        {
+            "title": "REFERENCE INFORMATION\n\n![640_image_0.png](640_image_0.png)\n\n",
+            "level": 2,
+            "page": 640
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 640
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 642
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 646
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTE/CE-R TEST 89",
+            "level": 2,
+            "page": 646
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 646
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 652
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 652
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 652
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 652
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 652
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 654
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 1,
+            "page": 654
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 654
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 656
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 656
+        },
+        {
+            "title": "BATTERY VOLTAGE",
+            "level": 2,
+            "page": 656
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 656
+        },
+        {
+            "title": "0-4500 DC OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 656
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 658
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 658
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 658
+        },
+        {
+            "title": "0-4500 DC OHMS",
+            "level": 3,
+            "page": 658
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 2,
+            "page": 658
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 658
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 660
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 660
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 3,
+            "page": 660
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 2,
+            "page": 660
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 660
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 3,
+            "page": 660
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 660
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 662
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 662
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 662
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 3,
+            "page": 662
+        },
+        {
+            "title": "0-4500 DC OHMS",
+            "level": 3,
+            "page": 662
+        },
+        {
+            "title": "STEACE-R TEST 91",
+            "level": 3,
+            "page": 662
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)",
+            "level": 2,
+            "page": 662
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 662
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 664
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 664
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 664
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 666
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 666
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 666
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 668
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 670
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 672
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 674
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 674
+        },
+        {
+            "title": "BATTERY VOLTAGE",
+            "level": 2,
+            "page": 674
+        },
+        {
+            "title": "MULTIMETER",
+            "level": 2,
+            "page": 674
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 676
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 676
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 676
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 678
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 2,
+            "page": 678
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 680
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 684
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 684
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 684
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 684
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 686
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 686
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 688
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 688
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 694
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 694
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 696
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 696
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 702
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 702
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE -R TEST 91",
+            "level": 2,
+            "page": 702
+        },
+        {
+            "title": "REFERENCE INFORMATION\n\n![704_image_0.png](704_image_0.png)\n\n",
+            "level": 1,
+            "page": 704
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE -R TEST 91",
+            "level": 2,
+            "page": 704
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 3,
+            "page": 704
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE -R TEST 91 ",
+            "level": 2,
+            "page": 706
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 706
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 708
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 710
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 710
+        },
+        {
+            "title": "BATTERY VOLTAGE",
+            "level": 2,
+            "page": 710
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 2,
+            "page": 712
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 3,
+            "page": 712
+        },
+        {
+            "title": "STEACE-R TEST 89",
+            "level": 2,
+            "page": 712
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 712
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 714
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 714
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE -R TEST 91",
+            "level": 2,
+            "page": 714
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 718
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 2,
+            "page": 718
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 722
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 722
+        },
+        {
+            "title": "STEACE-R TEST 89",
+            "level": 2,
+            "page": 722
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 722
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 724
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 724
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE -R TEST 91",
+            "level": 3,
+            "page": 724
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 726
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 728
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 728
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 730
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 730
+        },
+        {
+            "title": "BATTERY VOLTAGE",
+            "level": 2,
+            "page": 730
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 732
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 732
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 732
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 734
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 736
+        },
+        {
+            "title": "AMBULANCE",
+            "level": 2,
+            "page": 736
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 736
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 740
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 740
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 742
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 744
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 744
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 744
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 746
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 748
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 752
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 752
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 752
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 753
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 754
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 754
+        },
+        {
+            "title": "BATTERY VOLTAGE",
+            "level": 2,
+            "page": 754
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 756
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 756
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 756
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 758
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 762
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 2,
+            "page": 762
+        },
+        {
+            "title": "STEACE-R TEST 89",
+            "level": 2,
+            "page": 762
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 762
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 764
+        },
+        {
+            "title": "0-45 DC VOLTS",
+            "level": 2,
+            "page": 764
+        },
+        {
+            "title": "BATTERY VOLTAGE",
+            "level": 2,
+            "page": 764
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 766
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 768
+        },
+        {
+            "title": "0-4500 OHMS",
+            "level": 2,
+            "page": 770
+        },
+        {
+            "title": "REFERENCE INFORMATION\n\n![772_image_0.png](772_image_0.png)\n\n",
+            "level": 1,
+            "page": 772
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 772
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 774
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 776
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 778
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 780
+        },
+        {
+            "title": "REFERENCE INFORMATION\n\n![782_image_0.png](782_image_0.png)\n\n",
+            "level": 1,
+            "page": 782
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 782
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 784
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 784
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 784
+        },
+        {
+            "title": "MALFUNCTION\nTEST OR INSPECTION",
+            "level": 2,
+            "page": 785
+        },
+        {
+            "title": " MALFUNCTION",
+            "level": 1,
+            "page": 787
+        },
+        {
+            "title": "TEST OR INSPECTION",
+            "level": 2,
+            "page": 788
+        },
+        {
+            "title": "MALFUNCTION",
+            "level": 1,
+            "page": 789
+        },
+        {
+            "title": "MALFUNCTION",
+            "level": 2,
+            "page": 791
+        },
+        {
+            "title": "TEST OR INSPECTION",
+            "level": 2,
+            "page": 791
+        },
+        {
+            "title": " 2-40. AMBULANCE MECHANICAL SYSTEM TESTS",
+            "level": 2,
+            "page": 792
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 3,
+            "page": 802
+        },
+        {
+            "title": " REFERENCE INFORMATION",
+            "level": 1,
+            "page": 810
+        },
+        {
+            "title": " 2-41. WINCH SYSTEM TESTS",
+            "level": 2,
+            "page": 813
+        },
+        {
+            "title": "0-45 DC VOLTS\nSTEACE-R TEST 89",
+            "level": 2,
+            "page": 815
+        },
+        {
+            "title": "BATTERY VOLTAGE\nMULTIMETER",
+            "level": 2,
+            "page": 815
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 817
+        },
+        {
+            "title": "WINCH",
+            "level": 2,
+            "page": 817
+        },
+        {
+            "title": "0-4500 OHMS\nSTEACE-R TEST 91",
+            "level": 2,
+            "page": 817
+        },
+        {
+            "title": "CONTINUITY (RESISTANCE)\nMULTIMETER",
+            "level": 2,
+            "page": 817
+        },
+        {
+            "title": "2-42. DCA TROUBLESHOOTING",
+            "level": 2,
+            "page": 820
+        },
+        {
+            "title": "2-723",
+            "level": 3,
+            "page": 820
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 1,
+            "page": 822
+        },
+        {
+            "title": "REFERENCE INFORMATION",
+            "level": 2,
+            "page": 824
+        },
+        {
+            "title": "STEACE-R TEST 49\n0 TO 25 PSIG PRESSURE",
+            "level": 2,
+            "page": 824
+        },
+        {
+            "title": " 2-43. STE/ICE-R TEST PROCEDURES",
+            "level": 3,
+            "page": 829
+        },
+        {
+            "title": "ENGINE RPM (Average) TEST #10",
+            "level": 3,
+            "page": 830
+        },
+        {
+            "title": "POWER TEST (RPM/SEC) TEST #12",
+            "level": 3,
+            "page": 831
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 831
+        },
+        {
+            "title": "Typical Applications:",
+            "level": 3,
+            "page": 831
+        },
+        {
+            "title": "Possible Error Messages:",
+            "level": 3,
+            "page": 831
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 831
+        },
+        {
+            "title": "NOTES",
+            "level": 3,
+            "page": 831
+        },
+        {
+            "title": "POWER TEST (PERCENT) TEST #13",
+            "level": 3,
+            "page": 832
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 832
+        },
+        {
+            "title": "Possible Error Messages:",
+            "level": 3,
+            "page": 832
+        },
+        {
+            "title": "NOTES:",
+            "level": 4,
+            "page": 832
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 832
+        },
+        {
+            "title": "COMPRESSION UNBALANCE TEST #14 (6.2L ONLY)",
+            "level": 3,
+            "page": 833
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 833
+        },
+        {
+            "title": "Pre-Test Procedures:",
+            "level": 3,
+            "page": 833
+        },
+        {
+            "title": "Typical Applications:",
+            "level": 3,
+            "page": 833
+        },
+        {
+            "title": "Possible Error Messages:",
+            "level": 3,
+            "page": 833
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 833
+        },
+        {
+            "title": "NOTE",
+            "level": 3,
+            "page": 833
+        },
+        {
+            "title": "FUEL SUPPLY PRESSURE (psi) TEST # 24",
+            "level": 3,
+            "page": 834
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 834
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 834
+        },
+        {
+            "title": "PRESSURE (psi) 0 TO 1000 TEST #50",
+            "level": 3,
+            "page": 835
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 835
+        },
+        {
+            "title": "2-739",
+            "level": 3,
+            "page": 835
+        },
+        {
+            "title": "BATTERY VOLTAGE TEST #67",
+            "level": 3,
+            "page": 836
+        },
+        {
+            "title": "STARTER MOTOR VOLTAGE TEST #68",
+            "level": 3,
+            "page": 837
+        },
+        {
+            "title": "STARTER NEGATIVE CABLE VOLTAGE DROP TEST #69",
+            "level": 3,
+            "page": 838
+        },
+        {
+            "title": "STARTER SOLENOID VOLTS TEST #70",
+            "level": 3,
+            "page": 839
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 839
+        },
+        {
+            "title": "STARTER CURRENT AVERAGE TEST #71",
+            "level": 3,
+            "page": 840
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 840
+        },
+        {
+            "title": "CURRENT FlRST PEAK TEST #72",
+            "level": 3,
+            "page": 841
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 841
+        },
+        {
+            "title": "Typical Applications:",
+            "level": 3,
+            "page": 841
+        },
+        {
+            "title": "Possible Error Messages:",
+            "level": 3,
+            "page": 841
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 841
+        },
+        {
+            "title": "BATTERY INTERNAL RESISTANCE TEST #73",
+            "level": 3,
+            "page": 842
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 842
+        },
+        {
+            "title": "Pre-Test Procedures:",
+            "level": 3,
+            "page": 842
+        },
+        {
+            "title": "Typical Applications:",
+            "level": 3,
+            "page": 842
+        },
+        {
+            "title": "Possible Error Messages:",
+            "level": 3,
+            "page": 842
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 842
+        },
+        {
+            "title": "NOTES:",
+            "level": 3,
+            "page": 842
+        },
+        {
+            "title": "STARTER CIRCUIT RESISTANCE TEST #74",
+            "level": 3,
+            "page": 843
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 843
+        },
+        {
+            "title": "Pre-Test Procedures:",
+            "level": 3,
+            "page": 843
+        },
+        {
+            "title": "Typical Applications:",
+            "level": 3,
+            "page": 843
+        },
+        {
+            "title": "Possible Error Messages",
+            "level": 3,
+            "page": 843
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 843
+        },
+        {
+            "title": "NOTES",
+            "level": 3,
+            "page": 843
+        },
+        {
+            "title": "BATTERY RESISTANCE CHANGE TEST #75",
+            "level": 3,
+            "page": 844
+        },
+        {
+            "title": "Typical Applications:",
+            "level": 3,
+            "page": 844
+        },
+        {
+            "title": "Possible Error Messages",
+            "level": 3,
+            "page": 844
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 844
+        },
+        {
+            "title": "NOTES",
+            "level": 3,
+            "page": 844
+        },
+        {
+            "title": "BATTERY CURRENT TEST #80",
+            "level": 3,
+            "page": 845
+        },
+        {
+            "title": "DC VOLTAGE O TO 45 VOLTS TEST #89",
+            "level": 3,
+            "page": 846
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 846
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 846
+        },
+        {
+            "title": "DC CURRENT 0 TO 1500 AMPS TEST #90",
+            "level": 3,
+            "page": 847
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 847
+        },
+        {
+            "title": "RESISTANCE AND CONTINUITY O TO 4500 OHMS TEST #91",
+            "level": 3,
+            "page": 848
+        },
+        {
+            "title": "Description:",
+            "level": 3,
+            "page": 848
+        },
+        {
+            "title": "Test Procedure:",
+            "level": 3,
+            "page": 848
+        },
+        {
+            "title": "d. Cable Assemblies.",
+            "level": 2,
+            "page": 855
+        },
+        {
+            "title": "2-44. VEHICLE TESTING",
+            "level": 2,
+            "page": 857
+        },
+        {
+            "title": "INDEX (Cont'd)",
+            "level": 2,
+            "page": 864
+        },
+        {
+            "title": "DCA TO TK CROSS REFERENCE ",
+            "level": 2,
+            "page": 886
+        },
+        {
+            "title": "THE METRIC SYSTEM AND EQUIVALENTS",
+            "level": 2,
+            "page": 887
+        },
+        {
+            "title": "LINEAR MEASURE",
+            "level": 3,
+            "page": 887
+        },
+        {
+            "title": "CUBIC MEASURE",
+            "level": 3,
+            "page": 887
+        },
+        {
+            "title": "APPROXIMATE CONVERSION FACTORS",
+            "level": 3,
+            "page": 887
+        },
+        {
+            "title": "This fine document...\n\n![889_image_0.png](889_image_0.png)\n\n",
+            "level": 1,
+            "page": 889
+        }
+    ]
+}
