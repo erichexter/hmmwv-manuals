@@ -1,44 +1,44 @@
+
+
+
 <a name="chapter-7"></a>
 
 ## Chapter 7 Brake System Maintenance
 
-| Chapter 8  |  TASK SUMMARY 
-|------------|-------------------------------
-| TASK       | PROCEDURES
-| [7-1 ](#7-1)          | 
-| [7-2 ](#7-2)          | 
-| [7-3 ](#7-3)          | 
-| [7-4 ](#7-4)          | 
-| [7-5 ](#7-5)          | 
-| [7-6 ](#7-6)          | 
-| [7-7 ](#7-7)          | 
-| [7-8 ](#7-8)          | 
-| [7-9 ](#7-9)          | 
-| [7-10](#7-10)         | 
-| [7-11](#7-11)         | 
-| [7-12](#7-12)         | 
-| [7-13](#7-13)         | 
-| [7-14](#7-14)         | 
-| [7-15](#7-15)         | 
-| [7-16](#7-16)         | 
-| [7-17](#7-17)         | 
-| [7-18](#7-18)         | 
-| [7-19](#7-19)         | 
-| [7-20](#7-20)         | 
-| [7-21](#7-21)         | 
-| [7-22](#7-22)         | 
-| [7-23](#7-23)         | 
-| [7-24](#7-24)         | 
-| [7-25](#7-25)         | 
-| [7-26](#7-26)         | 
-| [7-27](#7-27)         | 
-| [7-28](#7-28)         | 
-| [7-29](#7-29)         | 
-| [7-30](#7-30)         | 
-| [7-31](#7-31)         | 
+| Chapter 8             |  TASK SUMMARY 
+|------------           |-------------------------------
+| TASK                  | PROCEDURES
+| [7-1 ](#7-1)          | Parking Brake System Maintenance Task Summary
+| [7-2 ](#7-2)          | Parking Brake Adjustment
+| [7-3 ](#7-3)          | Parking Brake Caliper And Rotor Maintenance
+| [7-4 ](#7-4)          | Parking Brake Lever Replacement
+| [7-5 ](#7-5)          | Parking Brake Cable Replacement
+| [7-6 ](#7-6)          | Parking Brake Rod Replacement
+| [7-7 ](#7-7)          | Parking Brake Heat Shield Replacement
+| [7-8 ](#7-8)          | Parking Brake Heat Shield And Heat Shield Extension Replacement
+| [7-9 ](#7-9)          | Service Brake System Bleeding Instructions
+| [7-10](#7-10)         | Service Brake Pad Maintenance
+| [7-11](#7-11)         | Service Brake Caliper Maintenance
+| [7-12](#7-12)         | Master Cylinder Maintenance
+| [7-13](#7-13)         | Master Cylinder Maintenance (Cont'D)
+| [7-14](#7-14)         | Hydro-Boost Replacement
+| [7-15](#7-15)         | Brake Lines Replacement
+| [7-16](#7-16)         | Service Brake Pedal (12338394) Replacement
+| [7-17](#7-17)         | Service Brake Pedal (Ex 5935037) Replacement
+| [7-18](#7-18)         | Proportioning Valve Replacement
+| [7-19](#7-19)         | Service Brake Rotor Replacement
+| [7-20](#7-20)         | REAR DUAL SERVICE/PARKING BRAKE SYSTEM MAINTENANCE TASK SUMMARY
+| [7-21](#7-21)         | Rear Dual Service/Parking Brake Pad Maintenance
+| [7-22](#7-22)         | Rear Dual Service/Parking Brake Caliper Maintenance
+| [7-23](#7-23)         | Right Parking Brake Cable Replacement
+| [7-24](#7-24)         | Left Parking Brake Cable/Mounting Bracket Replacement**
+| [7-25](#7-25)         | Rear Dual Service/Parking Brake Rod Replacement
+| [7-26](#7-26)         | Rear Dual Service/Parking Brake Adjustment
 
 
 Section I. Parking Brake System Maintenance
+
+<a name="7-1"></a>
 
 ### 7-1. Parking Brake System Maintenance Task Summary
 
@@ -55,6 +55,9 @@ Section I. Parking Brake System Maintenance
 | geared hub (8). Discard locknut (9).                          |                                                                                                   |
 | b. Installation                                               |                                                                                                   |
 | 1.                                                            | Install radius rod (4) to bracket (3) with washer (2), capscrew (1), washer (2), and locknut (9). |
+
+
+<a name="7-2"></a>
 
 # 7-2. Parking Brake Adjustment
 
@@ -95,11 +98,13 @@ Perform steps 9-11 only if parking brake pads were replaced.
 
 11. Readjust, following steps 1 through 8.
 
-# 7-2. Parking Brake Adjustment (Cont'D)
 
 ![706_image_0.png](images/706_image_0.png)
 
 FOLLOW-ON TASK:  Check parking brake for proper operation (TM 9-2320-280-10).
+
+
+<a name="7-3"></a>
 
 # 7-3. Parking Brake Caliper And Rotor Maintenance
 
@@ -134,8 +139,6 @@ Remove spring (21) from pin post (18). Discard cotter pin (24).
 
 ![708_image_0.png](images/708_image_0.png)
 
-## 7-3. Parking Brake Caliper And Rotor Maintenance (Cont'D)
-
 8. Remove slotted nut (1), washer (2), and cam (3) from caliper (50). 9. Remove plate and guide pin assembly (4) from caliper (5).
 
 10. Remove two push pins (12) and two gaskets (6) from caliper (5). Discard gaskets (6). 11. Remove spring (7) and rear brake pad (8) from caliper half (14). 12. Remove two springs (10), front brake pad (9), and two gaskets (11) from caliper half (13). Discard gaskets (11).
@@ -161,13 +164,11 @@ Remove spring (21) from pin post (18). Discard cotter pin (24).
 
 7. Install plate and guide pin assembly (4) on caliper (5). 8. Install cam (3) on caliper (5) with washer (2) and slotted nut (1). Do not tighten slotted nut (1).
 
-# 7-3. Parking Brake Caliper And Rotor Maintenance (Cont'D)
 
 ![710_image_0.png](images/710_image_0.png)
 
 ![710_image_1.png](images/710_image_1.png)
 
-# 7-3. Parking Brake Callper **And Rotor Maintenance (Cont'D)**
 
 > Note
 
@@ -197,6 +198,9 @@ Position rotor (12) to caliper (11). Install clevis (19) to cam (17) with clevis
 ![712_image_0.png](images/712_image_0.png)
 
 FOLLOW-ON TASK: Adjust parking brake (para. 7-2).
+
+
+<a name="7-4"></a>
 
 # 7-4. Parking Brake Lever Replacement
 
@@ -245,7 +249,6 @@ and locknuts (16).
 
 6. Install clevis (5) on bellcrank (3) with clevis pin (4), washer (6), and cotter pin (7). 7. Apply parking brake lever (8) and tighten capscrews (13), (17), and (19) to 8 lb-ft (11 N•m).
 
-# 7-4. Parking Brake Lever Replacement (Cont'D)
 
 ![714_image_0.png](images/714_image_0.png)
 
@@ -254,6 +257,9 @@ and locknuts (16).
  FOLLOW-ON TASKS: - Install parking brake switch (para. 4-19).
 
 - Adjust parking brake (para. 7-2).
+
+
+<a name="7-5"></a>
 
 # 7-5. Parking Brake Cable Replacement
 
@@ -300,13 +306,15 @@ capscrews (23), washers (6), and locknuts (7). Tighten locknuts (7) to 5 lb-ft (
 
 6. Connect rear propeller shaft (11) to rotor (8) with four lockwashers (9) and capscrews (10). Tighten capscrews (10) to 60 lb-ft (81 N•m).
 
-# 7-5. Parking Brake Cable Replacement (Cont'D)
 
 ![716_image_0.png](images/716_image_0.png)
 
 7)
 FOLLOW-ON TASKS: - Install muffler and insulator (para. 3-48).
 - Adjust parking brake (para. 7-2).
+
+
+<a name="7-6"></a>
 
 # 7-6. Parking Brake Rod Replacement
 
@@ -324,23 +332,24 @@ a. Removal b. Installation Equipment Condition
 
 The following procedure applies to vehicles with serial numbers USBL Eff. 1 through 44824.
 
-a. Removal 1. Remove clip (1) and open boot (2) to allow access to clevis pin (4). 2. Remove cotter pin (9), washer (8), and clevis pin (4) from clevis (5) and bellcrank (3). Discard cotter pin (9).
-
-3. Disconnect spring (7) from brake rod (6). 4. Remove cotter pin (17), washer (16), clevis pin (15), and brake rod (6) from brake cable (18). Discard cotter pin (17).
-
+a. Removal 
+1. Remove clip (1) and open boot (2) to allow access to clevis pin (4). 
+2. Remove cotter pin (9), washer (8), and clevis pin (4) from clevis (5) and bellcrank (3). Discard cotter pin (9).
+3. Disconnect spring (7) from brake rod (6). 
+4. Remove cotter pin (17), washer (16), clevis pin (15), and brake rod (6) from brake cable (18). Discard cotter pin (17).
 5. Remove clevis (5) and clevis (19) from brake rod (6).
 
 Perform steps 6 and 7 if replacing spring. If not replacing spring, go to b., installation.
-
 6. Remove locknut (10), washer (11), capscrew (13), washer (11), spring (7), and spacer (12) from body (14). Discard locknut (10).
-
 7. Install spacer (12) and spring (7) to body (14) with washer (11), capscrew (13), washer (11), and locknut (10).
 
 #### B. Installation
 
-1. Install clevis (5) and clevis (19) on brake rod (6). 2. Install brake rod (6) to brake cable (18) with clevis pin (15), washer (16), and cotter pin (17). 3. Install clevis (5) on bellcrank (3) with clevis pin (4), washer (8), and cotter pin (9). 4. Connect spring (7) to brake rod (6). 5. Close boot (2) and install clip (1).
-
-# 7-6. Parking Brake Rod Replacement (Cont'D)
+1. Install clevis (5) and clevis (19) on brake rod (6). 
+2. Install brake rod (6) to brake cable (18) with clevis pin (15), washer (16), and cotter pin (17). 
+3. Install clevis (5) on bellcrank (3) with clevis pin (4), washer (8), and cotter pin (9). 
+4. Connect spring (7) to brake rod (6). 
+5. Close boot (2) and install clip (1).
 
 ![718_image_0.png](images/718_image_0.png)
 
@@ -348,6 +357,9 @@ Perform steps 6 and 7 if replacing spring. If not replacing spring, go to b., in
 
 FOLLOW-ON TASKS: - Install muffler and insulator (para. 3-48).
 - Adjust parking brake (para. 7-2).
+
+
+<a name="7-7"></a>
 
 # 7-7. Parking Brake Heat Shield Replacement
 
@@ -360,11 +372,16 @@ Materials/Parts Two lockwashers (Appendix G, Item 135)
 
 The following procedure applies to vehicles with serial numbers USBL Eff. 1 through 44824.
 
-a. Removal Remove two capscrews (1), lockwashers (2), and heat shield (3) from parking brake bracket (4). Discard lockwashers (2).
+a. Removal
+ Remove two capscrews (1), lockwashers (2), and heat shield (3) from parking brake bracket (4). Discard lockwashers (2).
 
-b. Installation Install heat shield (3) to parking brake bracket (4) with two lockwashers (2) and capscrews (1). Tighten capscrews (1) to 6 lb-ft (8 N•m).
+b. Installation 
+Install heat shield (3) to parking brake bracket (4) with two lockwashers (2) and capscrews (1). Tighten capscrews (1) to 6 lb-ft (8 N•m).
 
 ![719_image_0.png](images/719_image_0.png)
+
+
+<a name="7-8"></a>
 
 # 7-8. Parking Brake Heat Shield And Heat Shield Extension Replacement
 
@@ -397,14 +414,11 @@ a. Removal b. Installation Manual References TM 9-2320-280-24P
 
 shield extension (1). Discard lockwashers (11).
 
-## 7 - 8 . Parking Brake Heat Shield And Heat Shield Extension Replacement (Cont' D )
 
-b. Installation 1. Install heat shield (2) to heat shield extension (1) with two washers (10), capscrews (9),
+b. Installation 
+1. Install heat shield (2) to heat shield extension (1) with two washers (10), capscrews (9),
 lockwashers (11), and nuts (12).
-
 2. Install felt sheet (5) and heat shield extension (1) to crossmember (6) with capscrew (4). 3. Install heat shield extension (1) and heat shield (2) on parking brake bracket (3) with two lockwashers (7) and capscrews (8).
-
-7-8. PARKING BRAKE HEAT SHIELD AND HEAT SHIELD EXTENSION REPLACEMENT (Confb)
 
 ![722_image_0.png](images/722_image_0.png)
 
@@ -454,7 +468,6 @@ Perform steps 1 through 4 for vehicles equipped with 10,500 lb hydraulic winch o
 8. Remove four locknuts (11), washers (12), capscrews (15), washers (12), and brackets (7) and (14)
 from front rear crossmember (5) and front crossmember (13). Discard locknuts (11).
 
-# 7-8.1. Brake Protection Guards Replacement (Gnt'D)
 
 (14)
 
@@ -462,7 +475,6 @@ from front rear crossmember (5) and front crossmember (13). Discard locknuts (11
 
 ![724_image_1.png](images/724_image_1.png)
 
-# 7 - 8 . 1 . Brake Protection Guards Replacement (Co N T ' D)
 
 b. Installation
 
@@ -518,6 +530,9 @@ capscrews (18), washers (4), and locknuts (3). Tighten capscrews (18) to 378 lb-
 | The procedure for removing and installing all four coil springs are   |                                                 |
 | basically the same. This procedure covers the left front coil spring. |                                                 |
 
+
+<a name="7-10"></a>
+
 ## 7-10. Service Brake System Bleeding Instructions
 
 This task covers:
@@ -552,7 +567,6 @@ If only the front or rear half of the system has been serviced, it is usually ne
 
 Bleed brakes in the following order: right rear, left rear, right front, left front.
 
-# 7-10. Service Brake System Bleeding Instructions (Cont'D)
 
 a. Pressure Bleeding
 
@@ -656,7 +670,10 @@ FOLLOW-ON TASKS: Lower and secure hood (TM 9-2320-280-10).
 
  Operate vehicle (TM 9-2320-280-10) and check for proper operation.
 
-# 7 - 1 1 . S E Rvice Brake Pad Maintenance
+
+<a name="7-11"></a>
+
+# 7-11 Service Brake Pad Maintenance
 
 This task covers:
 a. Removal c. Installation b. Cleaning and Inspection INITIAL SETUP:
@@ -702,8 +719,6 @@ Note positioning of brake pad surfaces for installation.
 
 4. Inspect rotor (2) for heat cracks, discoloration, pitting, or scoring. Replace rotor (2) if cracked, pitted, or scored (para. 7-19).
 
-# 7 - 1 1 . S E Rvice Brake Pad Maintenance (Cont'D)
-
 > Note
 
 - To ensure proper brake function, replace brake pads in pairs on both sides of axle.
@@ -730,6 +745,9 @@ When installing yoke and caliper, use a "C" clamp and a block of wood to bottom 
 adapter (3) with two washers (6) and capscrews (7). Tighten two capscrews (7) to 30-40 lb-ft (41-54 N.m ) .
 
 FOLLOW-ON TASK: Install brake protection guards (para. 7-8.1) (M998A2 vehicle only).
+
+
+<a name="7-12"></a>
 
 # 7-12. Service Brake Caliper Maintenance
 
@@ -777,7 +795,6 @@ Note positioning of brake pad surfaces for installation.
 
 7-26 Change 3
 
-# 7-12. Service Brake Caliper Maintenance (Cont'D)
 
 8. Inspect rotor (3) for heat cracks, discoloration, pitting, or scoring. Replace rotor (3) if cracked, pitted, or scored (para. 7-19).
 
@@ -813,6 +830,9 @@ caliper (9) to adapter (4) with two washers (6) and capscrews (7). Tighten two c
 FOLLOW-ON TASKS - Bleed brake system (para. 7-10).
 
 - Install brake protection guards (para. 7-8.1) (M998A2 vehicles only).
+
+
+<a name="7-13"></a>
 
 # 7-13. Master Cylinder Maintenance
 
@@ -878,6 +898,9 @@ Repeat steps 1 through 3 for rear reservoir with brake line (6)
 
 FOLLOW-ON TASK: Bleed brake system (para. 7-10).
 
+
+<a name="7-14"></a>
+
 # 7-14. Hydro-Boost Replacement
 
 This task covers:
@@ -918,13 +941,15 @@ Discard lockwashers (11).
 
 3. Tighten nuts (12) to 21 lb-ft (28 N•m). 4. Connect two high pressure lines (4) and one return line (5) to hydro-boost (6).
 
-# 7-14. Hydro-Boost Replacement (Cont'D)
 
 ![739_image_0.png](images/739_image_0.png)
 
 FOLLOW-ON TASKS: - Install master cylinder (para. 7-13).
 
 - Bleed power steering system (para. 8-29).
+
+
+<a name="7-15"></a>
 
 ## 7-15. Brake Lines Replacement
 
@@ -1110,6 +1135,9 @@ k. Caliper to Tee Support Brackets Removal
 
 FOLLOW-ON TASK: Install brake protection guards (para. 7-8.1).
 
+
+<a name="7-16"></a>
+
 # 7-16. Service Brake Pedal (12338394) Replacement
 
 This task covers:
@@ -1161,6 +1189,9 @@ FOLLOW-ON TASKS: - Install protective control box (para. 4-5).
 
 - Operate vehicle (TM 9-2320-280-10) and check brakes for proper operation.
 
+
+<a name="7-17"></a>
+
 # 7-17. Service Brake Pedal (Ex 5935037) Replacement
 
 This task covers:
@@ -1204,6 +1235,9 @@ FOLLOW-ON TASKS: - Install stoplight switch (para. 4-61).
 · Install protective control box (para. 4-5).
 
 -  Operate vehicle (TM 9-2320-280-10) and check brakes for proper operation.
+
+
+<a name="7-18"></a>
 
 # 7-18. Proportioning Valve Replacement
 
@@ -1250,6 +1284,9 @@ Have drainage container ready to catch brake fluid.
 FOLLOW-ON TASKS: - Connect battery ground cable (para. 4-73).
 - Bleed brake system (para. 7-10).
 
+
+<a name="7-19"></a>
+
 # 7-19. Service Brake Rotor Replacement
 
 This task covers:
@@ -1278,7 +1315,10 @@ FOLLOW-ON TASK: Install service brake pad (para. 7-11).
 
 # Section Iii. Rear Dual Service/Parking Brake System Maintenance
 
-7-20. REAR DUAL SERVICE/PARKING BRAKE SYSTEM MAINTENANCE TASK SUMMARY
+
+<a name="7-20"></a>
+
+# 7-20. REAR DUAL SERVICE/PARKING BRAKE SYSTEM MAINTENANCE TASK SUMMARY
 
 | INITIAL SETUP:                               |                                        |
 |----------------------------------------------|----------------------------------------|
@@ -1294,6 +1334,9 @@ FOLLOW-ON TASK: Install service brake pad (para. 7-11).
 | (A2 Series)                                  |                                        |
 | a. Removal                                   |                                        |
 | CAUTION                                      |                                        |
+
+
+<a name="7-21"></a>
 
 # 7-21. Rear Dual Service/Parking Brake Pad Maintenance
 
@@ -1364,13 +1407,12 @@ and operation in wet and muddy conditions is expected.
 
 6. Inspect brake pads (5) for glazing, oil saturation, or wear. If glazed, oil saturated, or if brake pad thickness is less than 1/8 in. (3.2 mm), replace both pads (5) and pads on opposite caliper.
 
-7-21.  REAR DUAL SERVICE/PARKING BRAKE PAD MAINTENANCE (Cont'd)
 
 ![763_image_0.png](images/763_image_0.png)
 
 ![763_image_1.png](images/763_image_1.png)
 
-# 7-21. Rear Dual Service/Parking Brake Pad Maintenance (Cont'D)
+
 
 c. Installation
 
@@ -1402,11 +1444,13 @@ Check position of lever (11) and make sure it is in contact with caliper cable b
 
 ![765_image_0.png](images/765_image_0.png)
 
-# 7-21. Rear Dual Service/Parking Brake Pad Maintenance (Cont'D)
 
 FOLLOW-ON TASKS: •Adjust rear dual service/parking brake (para. 7-26).
 
 ●Install pioneer tool stowage rack (TM 9-2320-280-10).
+
+
+<a name="7-22"></a>
 
 # 7-22. Rear Dual Service/Parking Brake Caliper Maintenance
 
@@ -1460,7 +1504,7 @@ Caliper must be supported during removal to prevent damage to brake line.
 
 ![767_image_1.png](images/767_image_1.png)
 
-# 7-22. Rear Dual Service/Parking Brake Caliper Maintenance (Cont'D)
+
 
 b. Cleaning and Inspection
 
@@ -1503,13 +1547,16 @@ Damage to equipment and poor performance will result if not alined properly.
 
 8. Check position of lever (17) and ensure it is in contact with caliper cable bracket stop (16). 9. Install parking brake clevis (22) to lever (17) with clevis pin (23), washer (21), and cotter pin (20).
 
-# 7-22. Rear Dual Service/Parking Brake Caliper Maintenance (Cont'D)
+
 
 ![769_image_0.png](images/769_image_0.png)
 
 FOLLOW-ON TASKS: - Install service brake rotor (para. 7-19).
 
 - Bleed brake system (para. 7-10). · Adjust rear dual service/parking brake (para. 7-26). · Install pioneer tool stowage rack (TM 9-2320-280-10).
+
+
+<a name="7-23"></a>
 
 ## 7-23. Right Parking Brake Cable Replacement
 
@@ -1568,7 +1615,7 @@ bracket (3). Discard locknut (24).
 7-56 Change 3 INITIAL SETUP:
 Tools a. Removal
 
-## 7-23. Right Parking Brake Cable Replacement (Cont'D)
+
 
 2. Slide parking brake cable clamp (33) onto parking brake cable assembly (4) and install on clamp bracket (34) with lockwasher (32) and capscrew (31).
 
@@ -1588,6 +1635,9 @@ FOLLOW-ON TASKS: - Adjust parking brake lever (TM 9-2320-280-10).
 
 - Install muffler and catalytic converter (M1123 and "A2" vehicles only) (para. 3-49). - Install muffler and insulator (all models except M1123 and "A2" vehicles)
 (para. 3-48).
+
+
+<a name="7-24"></a>
 
 # 7-24. **Left Parking Brake Cable/Mounting Bracket Replacement**
 
@@ -1645,9 +1695,7 @@ NOTE
 
 ![773_image_0.png](images/773_image_0.png)
 
-7-24. LEFT PARKING BRAKE CABLE/MOUNTING BRACKET REPLACEMENT (Cont'd)
 
-# 7-24. **Left Parking Brake Cable/Mounting Bracket Replacement (Cont'D)**
 
 b. Installation
 
@@ -1684,7 +1732,10 @@ FOLLOW-ON TASKS: - Adjust parking brake lever (TM 9-2320-280-10).
 
 Change 3
 
-# 7-24. Left Parking Brake Cable/Mounting Bracket Replacement (Cont'D) 7-25. Rear Dual Service/Parking Brake Rod Replacement
+
+<a name="7-25"></a>
+
+# 7-25. Rear Dual Service/Parking Brake Rod Replacement
 
 This task covers:
 INITIAL SETUP:
@@ -1749,6 +1800,9 @@ FOLLOW-ON TASKS: - Adjust rear dual service/parking brake (para. 7-26).
 - Install muffler and insulator (all models except M1123 and "A2" vehicles)
 (para. 3-48).
 
+
+<a name="7-26"></a>
+
 # 7-26. Rear Dual Service/Parking Brake Adjustment
 
 This task covers:
@@ -1780,7 +1834,6 @@ Do not overtighten brake rod. Overtightening brake rod may result in dragging br
 5. If necessary, remove excess slack in parking brake cables by turning the parking brake rod (7)
 clockwise or counterclockwise into the clevis (5).
 
-# 7-26. Rear Dual Service/Parking Brake Adjustment (Cont'D)
 
 Ensure that the caliper cable bracket is secure with no signs of looseness and the lever is in contact with the caliper cable bracket stop. Darnage to equipment and poor performance will result if not aligned properly.
 
