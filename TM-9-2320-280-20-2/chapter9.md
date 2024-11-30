@@ -1,42 +1,50 @@
+| [9-1 ](#9-1)          | Frame Maintenance Task Summary
+| [9-2 ](#9-2)          | Front Bumper And Towing Brackets Replacement
+| [9-3 ](#9-3)          | Front Bumper And Towing Brackets Replacement
+| [9-4 ](#9-4)          | Front Bumper And Towing Brackets Replacement
+| [9-5 ](#9-5)          | Frame Extension Replacement
+| [9-6 ](#9-6)          | Tiedown Ring Replacement
+| [9-7 ](#9-7)          | Radiator Front Mount Bracket Replacement
+| [9-8 ](#9-8)          | Rear Bumper Brace Replacement
+| [9-9 ](#9-9)          | Rear Crossmember Brace Replacement
+| [9-10](#9-10)         | Rear Bumper Replacement
+| [9-11](#9-11)         | Rear Bumper Inner Mounting Bracket Replacement
+| [9-12](#9-12)         | Towing Pintle Maintenance
+| [9-13](#9-13)         | Lifting Shackle Replacement
+| [9-14](#9-14)         | Receptacle Mounting Bracket Replacement
+| [9-15](#9-15)         | Transmission Mount Crossmember Replacement
+| [9-16](#9-16)         | Rear Crossmember Replacement
+
+
+
 <a name="chapter-9"></a>
 
 # Chapter 9 Frame Maintenance 
+
+
+<a name="9-1"></a>
 
 ## 9-1. Frame Maintenance Task Summary
 | Chapter 9  |  TASK SUMMARY 
 |------------|-------------------------------
 | TASK       | PROCEDURES
-| [9-1 ](#9-1)          | 
-| [9-2 ](#9-2)          | 
-| [9-3 ](#9-3)          | 
-| [9-4 ](#9-4)          | 
-| [9-5 ](#9-5)          | 
-| [9-6 ](#9-6)          | 
-| [9-7 ](#9-7)          | 
-| [9-8 ](#9-8)          | 
-| [9-9 ](#9-9)          | 
-| [9-10](#9-10)         | 
-| [9-11](#9-11)         | 
-| [9-12](#9-12)         | 
-| [9-13](#9-13)         | 
-| [9-14](#9-14)         | 
-| [9-15](#9-15)         | 
-| [9-16](#9-16)         | 
-| [9-17](#9-17)         | 
-| [9-18](#9-18)         | 
-| [9-19](#9-19)         | 
-| [9-20](#9-20)         | 
-| [9-21](#9-21)         | 
-| [9-22](#9-22)         | 
-| [9-23](#9-23)         | 
-| [9-24](#9-24)         | 
-| [9-25](#9-25)         | 
-| [9-26](#9-26)         | 
-| [9-27](#9-27)         | 
-| [9-28](#9-28)         | 
-| [9-29](#9-29)         | 
-| [9-30](#9-30)         | 
-| [9-31](#9-31)         | 
+| [9-1 ](#9-1)          | Frame Maintenance Task Summary
+| [9-2 ](#9-2)          | Front Bumper And Towing Brackets Replacement
+| [9-3 ](#9-3)          | Front Bumper And Towing Brackets Replacement
+| [9-4 ](#9-4)          | Front Bumper And Towing Brackets Replacement
+| [9-5 ](#9-5)          | Frame Extension Replacement
+| [9-6 ](#9-6)          | Tiedown Ring Replacement
+| [9-7 ](#9-7)          | Radiator Front Mount Bracket Replacement
+| [9-8 ](#9-8)          | Rear Bumper Brace Replacement
+| [9-9 ](#9-9)          | Rear Crossmember Brace Replacement
+| [9-10](#9-10)         | Rear Bumper Replacement
+| [9-11](#9-11)         | Rear Bumper Inner Mounting Bracket Replacement
+| [9-12](#9-12)         | Towing Pintle Maintenance
+| [9-13](#9-13)         | Lifting Shackle Replacement
+| [9-14](#9-14)         | Receptacle Mounting Bracket Replacement
+| [9-15](#9-15)         | Transmission Mount Crossmember Replacement
+| [9-16](#9-16)         | Rear Crossmember Replacement
+ 
 
 
 | Applicable Models                                                                              | Materials/Parts                                                                                   |
@@ -73,6 +81,9 @@
 | and power steering front support bracket (23). Discard lockwasher (28).                        |                                                                                                   |
 | 8.                                                                                             | Remove power steering pump (3), pulley (10), and power steering bracket (14).                     |
 
+
+<a name="9-2"></a>
+
 # 9-2. Front Bumper And Towing Brackets Replacement
 
 This task covers:
@@ -96,6 +107,9 @@ Remove four locknuts (3), washers (4), capscrews (6), washers (4), bumper (1), a
 b. Installation Install bumper (1) and two towing brackets (5) on mounting brackets (2) with four washers (4), 
 
 ![895_image_0.png](images/895_image_0.png) capscrews (6), washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
+
+
+<a name="9-3"></a>
 
 # 9-3. Front Bumper And Towing Brackets Replacement
 
@@ -138,6 +152,9 @@ washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
 
 FOLLOW-ON TASK: Install winch (para. 10-107).
 
+
+<a name="9-4"></a>
+
 # 9-4. Front Bumper And Towing Brackets Replacement
 
 This task covers:
@@ -176,6 +193,9 @@ washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
 9-4. FRONT BUMPER AND TOWING BRACKETS REPLACEMENT (Cont'd)
 
 ![898_image_0.png](images/898_image_0.png)
+
+
+<a name="9-5"></a>
 
 # 9-5. Frame Extension Replacement
 
@@ -216,6 +236,9 @@ and locknut (2). Tighten locknuts (2) to 90 lb-ft (122 N•m).
 FOLLOW-ON TASKS: - Install hood and hinge (para. 10-5).
 - Install front bumper (para. 9-3 or 9-4).
 
+
+<a name="9-6"></a>
+
 # 9-6. Tiedown Ring Replacement
 
 This task covers:
@@ -235,6 +258,9 @@ a. Removal Remove cotter pin (2), nut (3), and tiedown ring (1) from mounting br
 b. Installation Install tiedown ring (1) on mounting bracket (4) with nut (3). Tighten nut (3) to 16 lb-ft (22 N•m), back off to the nearest cotter pin slot, and install cotter pin (2).
 
 ![901_image_0.png](images/901_image_0.png)
+
+
+<a name="9-7"></a>
 
 # 9-7. Radiator Front Mount Bracket Replacement
 
@@ -270,6 +296,9 @@ a. Removal **b. Installation**
 
 | PAGE  PROCEDURES   |
 |--------------------|
+
+
+<a name="9-8"></a>
 
 # 9-8. Rear Bumper Brace Replacement
 
@@ -321,6 +350,9 @@ b. Installation Install rear crossmember brace (4) on frame rail (1) with washer
 ![904_image_0.png](images/904_image_0.png) locknut (5). Tighten locknut (5) to 90 lb-ft (122 N•m).
 
 FOLLOW-ON TASK: Install towing pintle (para. 9-12).
+
+
+<a name="9-10"></a>
 
 # 9-10. Rear Bumper Replacement
 
@@ -394,6 +426,9 @@ washers (4), and locknuts (3). Tighten locknuts (3) to 90 lb-ft (122 N•m).
 assembled locknuts (9). Tighten assembled locknuts (9) to 8 lb-ft (11 N•m).
 
 FOLLOW-ON TASK: Install towing pintle (para. 9-12).
+
+
+<a name="9-11"></a>
 
 # 9-11. Rear Bumper Inner Mounting Bracket Replacement
 
@@ -482,6 +517,9 @@ Discard cotter pin (3).
 ![909_image_0.png](images/909_image_0.png)
 
 plate (5), and safety chain plate (8) from rear crossmember (7).
+
+
+<a name="9-12"></a>
 
 ## 9-12. Towing Pintle Maintenance
 
@@ -603,6 +641,9 @@ OPTIONAL
 
 FOLLOW-ON TASKS: Lubricate rear-mounted towing pintle (TM 9-2320-280-10).
 
+
+<a name="9-13"></a>
+
 # 9-13. Lifting Shackle Replacement
 
 This task covers:
@@ -633,6 +674,9 @@ b. Installation 1.Install shackle (6) on frame (3) with spring washer (4), capsc
 2.Back off slotted nut (2) to align with hole in capscrew (5) and install cotter pin (1) in slotted nut (2).
 
 ![914_image_0.png](images/914_image_0.png)
+
+
+<a name="9-14"></a>
 
 # 9-14. Receptacle Mounting Bracket Replacement
 
@@ -674,6 +718,9 @@ If bracket was held on to "D" beam with rivets, do step 1. If not, do step 2.
 1. With a 0.3125-in. drill bit, enlarge existing rivet holes on bracket (4) and "D" beam (3).
 
 ![915_image_0.png](images/915_image_0.png) 2. Install bracket (4) on "D" beam (3) with two washers (7), capscrews (8), and locknuts (2). 3. Install receptacle (1) and cover (5) on bracket (4) with four capscrews (6) and assembled locknuts (9).
+
+
+<a name="9-15"></a>
 
 # 9-15. Transmission Mount Crossmember Replacement
 
@@ -720,6 +767,9 @@ Tighten locknuts (15) to 28 lb-ft (38 N•m).
 9-15. TRANSMISSION MOUNT CROSSMEMBER REPLACEMENT (Cont'd)
 
 ![917_image_0.png](images/917_image_0.png)
+
+
+<a name="9-16"></a>
 
 ## 9-16. Rear Crossmember Replacement
 
