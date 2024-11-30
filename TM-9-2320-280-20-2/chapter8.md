@@ -1,40 +1,40 @@
+
 <a name="chapter-8"></a>
 
 # Chapter 8 Wheels And Steering Maintenance Section I. Wheel And Runflat System Maintenance
 
-| Chapter 8  |  TASK SUMMARY 
-|------------|-------------------------------
-| TASK       | PROCEDURES
-| [8-1 ](#8-1)          | 
-| [8-2 ](#8-2)          | 
-| [8-3 ](#8-3)          | 
-| [8-4 ](#8-4)          | 
-| [8-5 ](#8-5)          | 
-| [8-6 ](#8-6)          | 
-| [8-7 ](#8-7)          | 
-| [8-8 ](#8-8)          | 
-| [8-9 ](#8-9)          | 
-| [8-10](#8-10)         | 
-| [8-11](#8-11)         | 
-| [8-12](#8-12)         | 
-| [8-13](#8-13)         | 
-| [8-14](#8-14)         | 
-| [8-15](#8-15)         | 
-| [8-16](#8-16)         | 
-| [8-17](#8-17)         | 
-| [8-18](#8-18)         | 
-| [8-19](#8-19)         | 
-| [8-20](#8-20)         | 
-| [8-21](#8-21)         | 
-| [8-22](#8-22)         | 
-| [8-23](#8-23)         | 
-| [8-24](#8-24)         | 
-| [8-25](#8-25)         | 
-| [8-26](#8-26)         | 
-| [8-27](#8-27)         | 
-| [8-28](#8-28)         | 
-| [8-29](#8-29)         | 
-| [8-30](#8-30)         | 
+| Chapter 8             |  TASK SUMMARY 
+|------------           |-------------------------------
+| TASK                  | PROCEDURES
+| [8-2 ](#8-2)          | Jacking Instructions
+| [8-3 ](#8-3)          | Wheel Replacement
+| [8-4 ](#8-4)          | Tire, Wheel, And Runflat Maintenance
+| [8-5 ](#8-5)          | Radial Tire, Wheel, And Rubber Runflat Maintenance (All Except M1123 And "A2" Vehicles)
+| [8-6 ](#8-6)          | Runflat Compressor (P/N J39250) Belt Replacement
+| [8-7 ](#8-7)          | Runflat Compressor (P/N 528236) Belt Replacement
+| [8-8 ](#8-8)          | Inner Rim Stud Maintenance
+| [8-9 ](#8-9)          | Tire Balancing
+| [8-10](#8-10)         | Front Wheel Toe-In Alignment 
+| [8-11](#8-11)         | Rear Wheel Toe-Out Alignment
+| [8-12](#8-12)         |                               
+| [8-13](#8-13)         | Steering Wheel Replacement
+| [8-14](#8-14)         | Pitman Arm Replacement
+| [8-15](#8-15)         | Center Link Replacement
+| [8-16](#8-16)         | Tie Rod Maintenance
+| [8-17](#8-17)         | Tie Rod End Replacement
+| [8-18](#8-18)         | Idler Arm Maintenance
+| [8-19](#8-19)         | Steering Column Replacement
+| [8-20](#8-20)         | Intermediate Steering Shaft Replacement
+| [8-21](#8-21)         | Steering Gear Replacement
+| [8-22](#8-22)         | Steering Shaft U-Joint Replacement
+| [8-23](#8-23)         | Intermediate Steering Shaft Close-Off And Retainer Replacement
+| [8-24](#8-24)         | Power Steering Pump, Pulley, And Bracket Maintenance (6.2L)
+| [8-25](#8-25)         | Power Steering Hydraulic System Pressure And Return Hose Replacement
+| [8-26](#8-26)         | Power Steering System Hydraulic Control Valve Maintenance
+| [8-27](#8-27)         | Power Steering Cooler Hose Replacement
+| [8-28](#8-28)         | Power Steering Cooler Replacement
+| [8-29](#8-29)         |                                                   
+| [8-30](#8-30)         | Power Steering Relief Valve Cartridge Maintenance
 | [8-31](#8-31)         | 
 
 
@@ -58,6 +58,9 @@
 | 1.  Disconnect electrical connector (1) from proportioning valve (6). |                                                                |
 
 # 8 - 1 . Wheel And Runflat System Maintenance Task Summary
+
+
+<a name="8-2"></a>
 
 ## 8-2. Jacking Instructions
 
@@ -105,7 +108,6 @@ Hydraulic jacks are used for raising and lowering, and are not used to support v
 
 ![782_image_1.png](images/782_image_1.png)
 
-## 8 - 2 . Jacking Instructions( C O N T ' D )
 
 #### E. Raising Rear Of Vehicle
 
@@ -138,6 +140,9 @@ For vehicles with a heavy load such as S250 shelter carrier, an additional trest
 ![784_image_0.png](images/784_image_0.png)
 
 ![784_image_1.png](images/784_image_1.png)
+
+
+<a name="8-3"></a>
 
 ## 8-3. Wheel Replacement
 
@@ -175,6 +180,9 @@ Install lug nuts with fingers to full engagement. If nuts resist finger tighteni
 ![786_image_0.png](images/786_image_0.png)
 
 ![786_image_1.png](images/786_image_1.png)
+
+
+<a name="8-4"></a>
 
 # 8-4. Tire, Wheel, And Runflat Maintenance
 
@@ -632,6 +640,9 @@ Tighten locknuts gradually to avoid bent and broken studs, or damage to wheel co
 ![804_image_0.png](images/804_image_0.png)
 
 FOLLOW-ON TASK: Balance tire (para. 8-9).
+
+
+<a name="8-5"></a>
 
 # 8-5. Radial Tire, Wheel, And Rubber Runflat Maintenance (All Except M1123 And "A2" Vehicles)
 
@@ -1160,6 +1171,9 @@ Tighten locknuts gradually to avoid bent and broken studs, or
 
 FOLLOW-ON TASK: Balance tire (para. 8-9).
 
+
+<a name="8-6"></a>
+
 # 8-6. Runflat Compressor (P/N J39250) Belt Replacement
 
 This task covers:
@@ -1186,6 +1200,9 @@ Belt overlap is to be positioned so that you have equal amount of belt on each s
 
 ![824_image_0.png](images/824_image_0.png)
 
+
+<a name="8-7"></a>
+
 # 8-7. Runflat Compressor (P/N 528236) Belt Replacement
 
 This task covers:
@@ -1204,6 +1221,9 @@ Remove locknut (1), capscrew (2) and belt (3) from compressor (4). Discard lockn
 b. Installation 1. Install belt (3) on compressor (4) with capscrew (2) and locknut (1). 2. Loop free end of belt (3) around retaining bracket (5) as shown.
 
 ![825_image_0.png](images/825_image_0.png)
+
+
+<a name="8-8"></a>
 
 # 8-8. Inner Rim Stud Maintenance
 
@@ -1316,6 +1336,9 @@ FOLLOW-ON TASK: Install wheel (para.
 
 8-3).
 
+
+<a name="8-9"></a>
+
 ## 8-9. Tire Balancing
 
 This task covers:
@@ -1382,6 +1405,9 @@ WEIGHT PLACEMENT DIAGRAM
 ![830_image_2.png](images/830_image_2.png)
 
 FOLLOW-ON TASK: Install wheel (para. 8-3).
+
+
+<a name="8-10"></a>
 
 # 8 - 1 0 . Front Wheel Toe-In Alignment
 
@@ -1508,6 +1534,9 @@ Ensure bolt and nut on adjusting sleeve clamp nearest to geared hub is facing ha
 ![836_image_0.png](images/836_image_0.png)
 
 FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check for pull or wander.
+
+
+<a name="8-11"></a>
 
 # 8-11. Rear Wheel Toe-Out Alignment
 
@@ -1663,7 +1692,12 @@ to 30 lb-ft (40 N m).
 
 FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check for pull or wander.
 
-# Section Ii. Steering Components Maintenance 8-12. Steering Components Maintenance Task Summary
+# Section Ii. Steering Components Maintenance 
+
+
+<a name="8-12"></a>
+
+# 8-12. Steering Components Maintenance Task Summary
 
 | a.                                                                  | Disassembly                               | c.                                                    | Repair                                         | b.   | Inspection and Cleaning   | d.   | Assembly   |
 |---------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------|------------------------------------------------|------|---------------------------|------|------------|
@@ -1683,6 +1717,9 @@ FOLLOW-ON TASK: Operate vehicle (TM 9-2320-280-10) and check for pull or wander.
 | TM 9\-2610\-200\-14                                                 | inner and outer rim halves is aligned.    |                                                       |                                                |      |                           |      |            |
 | WARNING                                                             |                                           |                                                       |                                                |      |                           |      |            |
 | Do not use tire machine. Injury to personnel or damage to equipment | may result.                               |                                                       |                                                |      |                           |      |            |
+
+
+<a name="8-13"></a>
 
 ## 8-13. Steering Wheel Replacement
 
@@ -1708,6 +1745,9 @@ b. Installation 1. Align splines on steering wheel (1) with splines on shaft (3)
 FOLLOW-ON TASKS: - Install directional signal control cancelling ring (para. 4-66).
 
 - Install directional signal control (para. 4-65). - Install horn switch (para. 4-20).
+
+
+<a name="8-"></a>
 
 # 8-14. Pitman Arm Replacement
 
@@ -1750,6 +1790,9 @@ FOLLOW-ON TASKS: - Lubricate pitman arm (TM 9-2320-280-10).
 
 - Remove supports and lower front of vehicle (para. 8-2).
 
+
+<a name="8-15"></a>
+
 ## 8-15. Center Link Replacement
 
 This task covers:
@@ -1790,6 +1833,9 @@ Do not loosen slotted nut to install cotter pin. Doing this may result in damage
 ![848_image_0.png](images/848_image_0.png)
 
 FOLLOW-ON TASK: Remove supports and lower front of vehicle (para. 8-2).
+
+
+<a name="8-16"></a>
 
 # 8-16. Tie Rod Maintenance
 
@@ -1841,6 +1887,9 @@ FOLLOW-ON TASKS: - Lubricate tie rod end (TM 9-2320-280-10).
 ![850_image_1.png](images/850_image_1.png)
 
 - Remove supports and lower front of vehicle (para. 8-2). - Align toe-in (para. 8-10).
+
+
+<a name="8-17"></a>
 
 # 8-17. Tie Rod End Replacement
 
@@ -1896,6 +1945,9 @@ FOLLOW-ON TASKS: - Lubricate tie rod end (TM 9-2320-280-10).
 · Remove supports and lower front of vehicle (para. 8-2).
 
 -  Align toe-in (para. 8-10).
+
+
+<a name="8-18"></a>
 
 ## 8-18. Idler Arm Maintenance
 
@@ -1979,6 +2031,9 @@ FOLLOW-ON TASKS:• Lubricate idler arm (TM 9-2320-280-10).
 
 - Remove supports and lower front of vehicle (para. 8-2).
 
+
+<a name="8-19"></a>
+
 # 8-19. Steering Column Replacement
 
 This task covers:
@@ -2059,6 +2114,9 @@ lockwasher (2), and locknut (1). Tighten locknut (1) finger tight.
 FOLLOW-ON TASKS: •Install directional signal control (para. 4-64 or 4-65).
 - • Install steering wheel (para. 8-13).
 
+
+<a name="8-20"></a>
+
 # 8-20. Intermediate Steering Shaft Replacement
 
 This task covers:
@@ -2096,6 +2154,9 @@ Tighten locknut (2) to 40-50 lb-ft (54-68 N•m).
 ![862_image_0.png](images/862_image_0.png)
 
 FOLLOW-ON TASK: Lubricate steering shaft (TM 9-2320-280-10).
+
+
+<a name="8-21"></a>
 
 # 8-21. Steering Gear Replacement
 
@@ -2167,6 +2228,9 @@ FOLLOW-ON TASKS: - Fill power steering reservoir (TM 9-2320-280-10).
 -  Connect battery ground cable (para. 4-73).
 -  Bleed power steering system (para. 8-29).
 
+
+<a name="8-22"></a>
+
 # 8-22. Steering Shaft U-Joint Replacement
 
 This task covers:
@@ -2221,6 +2285,9 @@ FOLLOW-ON TASK: Install intermediate steering shaft (para. 8-20).
 
 ![868_image_1.png](images/868_image_1.png)
 
+
+<a name="8-23"></a>
+
 # 8-23. Intermediate Steering Shaft Close-Off And Retainer Replacement
 
 This task covers:
@@ -2258,6 +2325,9 @@ capscrew (11), washer (9), and locknut (8). Tighten locknut (8) to 40-50 lb-ft (
  8-23. INTERMEDIATE STEERING SHAFT CLOSE-OFF AND RETAINER REPLACEMENT (Cont'd)
 
 ![870_image_0.png](images/870_image_0.png)
+
+
+<a name="8-24"></a>
 
 # 8-24. Power Steering Pump, Pulley, And Bracket Maintenance (6.2L)
 
@@ -2471,6 +2541,9 @@ FOLLOW-ON TASK:
 Install power steering pump, pulley, and bracket
 (para 8-24 (6.2L)), (para 8-24.1 (6.5L)).
 
+
+<a name="8-25"></a>
+
 # 8-25. Power Steering Hydraulic System Pressure And Return Hose Replacement
 
 This task covers:
@@ -2528,6 +2601,9 @@ two washers (7), and locknut (6). Install tiedown strap (11.1) on return hose (8
 ![882_image_0.png](images/882_image_0.png)
 
 - Bleed power steering system (para. 8-29).
+
+<a name="8-26"></a>
+
 # 8-26. Power Steering System Hydraulic Control Valve Maintenance
 
 This task covers:
@@ -2653,6 +2729,9 @@ FOLLOW-ON TASK:
 
 · Bleed power steering system (para. 8-29).
 
+
+<a name="8-27"></a>
+
 # 8-27. Power Steering Cooler Hose Replacement
 
 This task covers:
@@ -2706,6 +2785,9 @@ Install tiedown strap (11) to oil cooler lines (12) and hoses (7) and (10).
 
 FOLLOW-ON TASK: Bleed power steering system (para. 8-29).
 
+
+<a name="8-28"></a>
+
 # 8-28. Power Steering Cooler Replacement
 
 This task covers:
@@ -2744,6 +2826,9 @@ screws (5) to 125-155 lb-in. (14-18 N·m).
 (4-5 N·m).
 
 FOLLOW-ON TASK: Bleed power steering system (para. 8-29).
+
+
+<a name="8-29"></a>
 
 # 8 - 2 9 . Power Steering System Bleeding
 
@@ -2785,6 +2870,9 @@ FOLLOW-ON TASKS: - Check power steering fluid level (TM 9-2320-280-10).
 
 Manual References TM 9-2320-280-10 TM 9-2320-280-24P
 Equipment Condition Hood raised and secured (TM 9-2320-280-10).
+
+
+<a name="8-30"></a>
 
 # 8-30. Power Steering Relief Valve Cartridge Maintenance
 
