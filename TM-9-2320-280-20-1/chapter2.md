@@ -2,21 +2,21 @@
 
 ## Section I. REPAIR PARTS, SPECIAL TOOLS, TEST, MEASUREMENT
 DIAGNOSTIC EQUIPMENT (TMDE), AND SUPPORT EQUIPMENT
-
+<a name="2-1"></a>
 ### 2-1. Common Tools And Equipment
 
 For authorized common tools and equipment, refer to the Modified Table of Organization and Equipment
 (MTOE) applicable to your unit.
-
+<a name="2-2"></a>
 ### 2-2. SPECIAL TOOLS, TMDE, AND SUPPORT EQUIPMENT
 Special Tools, Test, Measurement, Diagnostic Equipment (TMDE), and Support Equipment used to maintain the vehicles covered in this manual can be found in TM 9-2320-280-24P.
-
+<a name="2-3"></a>
 ### 2-3. REPAIR PARTS
 Repair parts are listed and illustrated in TM 9-2320-280-24P.
 
 ## Section II. Service Upon Receipt
-
-### #2-4. General
+<a name="2-4"></a>
+### 2-4. General
 
 a. Upon receipt of a new, used, or reconditioned vehicle, you must determine if the vehicle has been properly prepared for service. The following steps should be followed:
     1. Inspect all assemblies, subassemblies, and accessories to be sure they are in proper working order. 
@@ -26,7 +26,7 @@ a. Upon receipt of a new, used, or reconditioned vehicle, you must determine if 
 b. The operator will assist when performing service upon receipt inspections.
 c. See TM 9-2320-280-10 when checking equipment for proper operation.
 d. Refer to TM 9-2320-280-10 for information concerning brake-in procedures.
-
+<a name="2-5"></a>
 ### 2-5. General Inspection And Servicing Instructions
 
 The following steps should be taken while performing general inspection and services:
@@ -58,7 +58,9 @@ Use compressed air to dry electrical components. Use sealing compound (Appendix 
 
 (5) Read "Processing and Deprocessing Record of Shipping, Storage, and Issue of Vehicles and Spare Engines," tag (DD Form 1397) and follow all precautions listed. This tag should be attached to steering wheel, steering column, or rotary switch.
 
-## 2 - 6 . Specific Inspection And Servicing Instructions
+<a name="2-6"></a>
+
+### 2-6. Specific Inspection And Servicing Instructions
 
 The following steps should be taken while performing specific inspections and services:
 (1) Do the Semiannual (S) preventive maintenance checks and services listed in Section III in this chapter.
@@ -71,11 +73,17 @@ The following steps should be taken while performing specific inspections and se
 
 (7) Remove front lifting shackles from stowed position under passenger seat and install on towing brackets (para. 9-13).
 
-## Section Iii. Preventive Maintenance Checks And Serv I C E S 2 - 7 . G E N E R A L
+## Section Iii. Preventive Maintenance Checks And Serv I C E S 
+
+<a name="2-7"></a>
+
+### 2-7 . G E N E R A L
 
 The best way to maintain vehicles covered by this manual is to inspect them on a regular basis so minor faults can be discovered and corrected before they result in serious damage, failure, or injury. All intervals are based on normal operation. Hard time intervals may be shortened if your lubricants are contaminated or if you are operating the equipment under adverse conditions, including longer-than-usual operating hours. Hard time intervals may be extended during periods of low activity, though adequate preservation precautions must be taken. This section contains systematic instructions of inspection, adjustment, lubrication, and correction of vehicle components to avoid costly repairs or major breakdowns. This is Preventive Maintenance Checks and Services (PMCS).
 
-## 2 - 8 . I N T E Rva L S
+<a name="2-8"></a>
+
+## 2-8 . I N T E Rva L S
 
 a. Unit maintenance, assisted by operator/crew, will perform checks and services contained in Table 2-1 at the following intervals:
 (1) Semiannually (S). Every 6 months or 3,000 miles (4,800 km), whichever comes first. (2) Annually (A). Every 12 months or 6,000 miles (9,654 km), whichever comes first. (3) Biennially (B). Every 24 months or 12,000 miles (19,308 km), whichever comes first.
@@ -91,11 +99,15 @@ Remove lubricants prescribed in lubrication table for temperatures above -15°F 
 
 c. Perform all (S) inspections in addition to (A) inspections at the time of the annual inspection. Perform all (A) and (S) inspections in addition to (B) inspections at the time of the biennial inspection.
 
-## 2 - 9 . R E P O Rting Repa I R S
+<a name="2-9"></a>
+
+### 2-9 . R E P O Rting Repa I R S
 
 All vehicle shortcomings will be reported on DA Form 2404 Equipment Inspection and Maintenance Worksheet or DA Form 5988-E (automated) (DA Pam 738-750) immediately after the PMCS, and before taking corrective action. All vehicle deficiencies will be reported in the equipment record.
 
-## 2 - 1 0 . General Service And Inspection Procedures
+<a name="2-10"></a>
+
+### 2-10 . General Service And Inspection Procedures
 
 a. While performing specific PMCS procedures, make sure items are correctly assembled, secure, not worn, serviceable, not leaking, and adequately lubricated as defined below.
 
@@ -119,8 +131,8 @@ c. Where the instruction "clean" appears in a procedure, you must use drycleanin
 Item 18) to clean grease or oil from metal parts. After the item is cleaned, rinsed, and dried, apply a light grade of oil to unprotected surfaces to prevent rusting.
 
 d. Clean rubber and plastic materials with soap and water. Refer to TM 9-2320-280-10 for general vehicle cleaning instructions.
-
-## 2-11. Specific Pmcs Procedures
+<a name="2-11"></a>
+### 2-11. Specific Pmcs Procedures
 
 a. The preventive maintenance for which you are responsible is provided in Table 2-1. The checks and services listed are arranged in logical order requiring minimal time and effort on your part.
 
@@ -901,7 +913,11 @@ OE/HDO 15/40 (Grade 15W-40) lubricant may be used when expected temperatures are
 | paragraph 8\-9                                                                     |
 | para. 8\-4                                                                         |
 
-## Section Iv. Electrical/Mechanical Systems Troubleshooting 2-12. General
+## Section IV. Electrical/Mechanical Systems Troubleshooting 
+
+<a name="2-12"></a>
+
+### 2-12. General
 
 a. This section provides information to diagnose and correct malfunctions of the electrical/mechanical system.
 
@@ -914,7 +930,9 @@ d. Before taking any action to correct a possible malfunction, the following rul
 
 e. The STE/ICE-R is an integral part of these troubleshooting procedures. It should be used whenever possible, although other options are given, when available. The Vehicle Identification Number (VIN) assigned to the M998 series vehicles is 21 (14 is the temporary VIN). On page 2-753, you will find information on STE/ICE-R description and operation. Use this information to become familiar with STE/ICE-R operation and the equipment contained in the test set. On page 2-763 you will find STE/ICE- R setup and internal checks. These must be performed prior to performing tests.
 
-# 2 - 1 3 . Electrical/Mechanical Systems Troubleshooting Electrical/Mechanical Troubleshooting
+<a name="2-13"></a>
+
+### 2-13 . Electrical/Mechanical Systems Troubleshooting Electrical/Mechanical Troubleshooting
 
 | 19                                  | Semi\-                              | Tires                                   | e.   | Check for loose, missing, or   | e.   | Any broken studs, or   | Annual   | (Cont'd)   | broken wheel studs and nuts.   | loose or missing wheel   |
 |-------------------------------------|-------------------------------------|-----------------------------------------|------|--------------------------------|------|------------------------|----------|------------|--------------------------------|--------------------------|
@@ -931,8 +949,8 @@ e. The STE/ICE-R is an integral part of these troubleshooting procedures. It sho
 | in sequence shown; repeat torque    | sequence at 65 lb\-ft (88 N•m).     |                                         |      |                                |      |                        |          |            |                                |                          |
 | 8\-BOLT TIGHTENING SEQUENCE         |                                     |                                         |      |                                |      |                        |          |            |                                |                          |
 | (3)                                 | Inflate tire to recommended tire    | pressure (TM 9\-2320\-280\-10).         |      |                                |      |                        |          |            |                                |                          |
-
-# 2-14. How To Use This Troubleshooting Guide
+<a name="2-"></a>
+### 2-14. How To Use This Troubleshooting Guide
 
 #### Note To The Recipient Of This Manual
 
@@ -946,8 +964,8 @@ Use the cross-reference information listed below to guide you in the placement o
 | 3,000 miles (4,800 km), or 100 hours (if |                           |
 | hour meter is installed), or every six   |                           |
 | m o n t h s .                            |                           |
-
-# 2-14. How To Use This Troubleshooting Guide (Cont'D)
+<a name="2-"></a>
+### 2-14. How To Use This Troubleshooting Guide (Cont'D)
 
 | ITEM TO BE                            | NOT FULLY MISSION                        | ITEM                               | INTERVAL                             | PROCEDURES                             | INSPECTED               | CAPABLE IF:                          | NO.   |
 |---------------------------------------|------------------------------------------|------------------------------------|--------------------------------------|----------------------------------------|-------------------------|--------------------------------------|-------|
@@ -973,8 +991,8 @@ Use the cross-reference information listed below to guide you in the placement o
 | 23                                    | Semi\-                                   | Rear Cargo                         | Check rear cargo door for proper     | Annual                                 | Door                    | operation. Rotate gas springs (para. |       |
 | 11\-21) 180 degrees every six         | months and move left spring to right     |                                    |                                      |                                        |                         |                                      |       |
 | side and right spring to left side.   |                                          |                                    |                                      |                                        |                         |                                      |       |
-
-# 2-14. How To Use This Troubleshooting Guide (Cont'D)
+<a name="2-"></a>
+### 2-14. How To Use This Troubleshooting Guide (Cont'D)
 
 PAGE LAYOUT All diagnostic logic and flowcharts are on the left hand page, with supporting information, help, test, instructions and vehicle operation on the right.
 
@@ -997,8 +1015,8 @@ DIAGNOSTIC REFERENCE FLOWCHART INFORMATION
 PICK THE TESTS: Select either a top level or a system level test. DIAGNOSTIC PROCEDURE Just answer the questions on the left hand page and follow the YES or NO path. Helpful information about the question is also on the right hand page. If you aren't sure about a question or procedure, look on the right page for notes, instructions and help.
 
 Question to be answered.
-
-# 2-14. How To Use This Troubleshooting Guide (Cont'D)
+<a name="2-"></a>
+### 2-14. How To Use This Troubleshooting Guide (Cont'D)
 
 ## Page Layqut
 
@@ -1024,8 +1042,8 @@ Is the symbol for a CAUTION
 statement. If you see this symbol above a question, look on the right hand page for the text of the message. The CAUTION message on the right hand page will also have the symbol above it.
 
 ![125_image_2.png](images/125_image_2.png)
-
-# 2-14. How To Use This Troubleshooting Guide (Cont'D)
+<a name="2-"></a>
+### 2-14. How To Use This Troubleshooting Guide (Cont'D)
 
 ## Information About The Question Test Options:
 
@@ -1058,8 +1076,8 @@ This box is the opposite of 'KNOWN INFO'. Possible causes of the problem are lis
 ![126_image_3.png](images/126_image_3.png)
 
 ![126_image_4.png](images/126_image_4.png)
-
-# 2-14. How To Use This Troubleshooting Guide (Cont'D)
+<a name="2-"></a>
+### 2-14. How To Use This Troubleshooting Guide (Cont'D)
 
 ## Information About The Question
 
@@ -1091,36 +1109,36 @@ The pictures are supposed to make it easier to find what you're looking for, suc
 
 PICTURES ARE PROVIDED WHEREVER
 POSSIBLE.
+<a name="2-15"></a>
 
-# 2-15. Glossary Of Abbreviations And Commonly Used Terms
+### 2-15. Glossary Of Abbreviations And Commonly Used Terms
 
-PCB - Protective Control Box, located on the firewall above the brake pedal.
+* PCB - Protective Control Box, located on the firewall above the brake pedal.
 
-STE/ICE-R - Simplified Test Equipment for Internal Combustion Engines - Reprogrammable, a testing system used for performing tests and measurements on the vehicle. In addition to acting as a conventional digital multimeter to measure voltage, current and resistance, it is also capable of measuring pressure, speed, compression unbalance, engine power, and some specialized battery and starter evaluations. It is powered from the vehicle batteries. The complete system includes a vehicle test meter
+* STE/ICE-R - Simplified Test Equipment for Internal Combustion Engines - Reprogrammable, a testing system used for performing tests and measurements on the vehicle. In addition to acting as a conventional digital multimeter to measure voltage, current and resistance, it is also capable of measuring pressure, speed, compression unbalance, engine power, and some specialized battery and starter evaluations. It is powered from the vehicle batteries. The complete system includes a vehicle test meter
 (VTM), a transducer kit (TK), cables, transit case and technical publications.
 
-DCA - Diagnostic Connector Assembly, an electrical harness on the vehicle which allows the STE/ICE-R
+* DCA - Diagnostic Connector Assembly, an electrical harness on the vehicle which allows the STE/ICE-R
 to be powered and to make measurements of key vehicle signals from a single connection. In addition to many basic electrical signals such as starter voltage and current, it includes engine speed and fuel supply pressure. The STE/ICE-R can make TK measurements at the same time that it is connected to the DCA.
 
-VTM - Vehicle Test Meter, a box which performs the measurement and analysis functions of the STE/ICE-R systems.
+* VTM - Vehicle Test Meter, a box which performs the measurement and analysis functions of the STE/ICE-R systems.
 
-TK (and TK mode) - Transducer Kit, a collection of transducers, adapters and fittings which permit the STE/ICE-R to be used as a general purpose measurement system for any application. This allows the STE/lCE-R to be used anywhere that you want to measure voltage, current, resistance, pressure, or speed. TK mode of operation is what you are doing when you use this kit (as opposed to DCA mode where you are using the vehicle's built-in sensors to make measurements).
+* TK (and TK mode) - Transducer Kit, a collection of transducers, adapters and fittings which permit the STE/ICE-R to be used as a general purpose measurement system for any application. This allows the STE/lCE-R to be used anywhere that you want to measure voltage, current, resistance, pressure, or speed. TK mode of operation is what you are doing when you use this kit (as opposed to DCA mode where you are using the vehicle's built-in sensors to make measurements).
 
-Compression unbalance - A STE/ICE-R test that gives an indication of any engine cylinders that have lower compression then the average. It does this by monitoring the battery voltage during cranking. As each cylinder goes into compression, the extra load on the starter shows up as a drop in voltage. This works well for finding one or more cylinders that have a compression problem, but don't forget that it doesn't give the average compression. If all cylinders are low by the same amount, this test doesn't find it.
+* Compression unbalance - A STE/ICE-R test that gives an indication of any engine cylinders that have lower compression then the average. It does this by monitoring the battery voltage during cranking. As each cylinder goes into compression, the extra load on the starter shows up as a drop in voltage. This works well for finding one or more cylinders that have a compression problem, but don't forget that it doesn't give the average compression. If all cylinders are low by the same amount, this test doesn't find it.
 
-Troubleshooting - the process of making measurements and observing the operation of the vehicle to find out if anything is wrong with it and then to locate any problem that exists.
+* Troubleshooting - the process of making measurements and observing the operation of the vehicle to find out if anything is wrong with it and then to locate any problem that exists.
 
-Diagnostics - Troubleshooting by following an exact procedure.
+* Diagnostics - Troubleshooting by following an exact procedure.
 
-Test Chain - a series of tests to be followed in a particular order or sequence. It is referred to as a "chain" of tests because they are all connected one after another like the links of a chain.
+* Test Chain - a series of tests to be followed in a particular order or sequence. It is referred to as a "chain" of tests because they are all connected one after another like the links of a chain.
 
-System - a collection of devices which are all related to each other because they depend on each other to do some function or job. For instance, the function of the fuel system is to inject fuel into the cylinders at the correct time in the correct amount and with the correct quality. The collection of devices that are required to do this include the fuel pump, fuel lines, lift pump, fuel filter, injection pump, and injectors.
+* System - a collection of devices which are all related to each other because they depend on each other to do some function or job. For instance, the function of the fuel system is to inject fuel into the cylinders at the correct time in the correct amount and with the correct quality. The collection of devices that are required to do this include the fuel pump, fuel lines, lift pump, fuel filter, injection pump, and injectors.
 
-# 2-15. Glossary Of Abbreviations And Commonly Used Terms (Cont'D)
+* Functional flow schematic - a diagram which is much like a normal electrical circuit diagram, except that its purpose is to show the flow of information through the system (or the flow of a signal or the flow of some material such as the fuel). This kind of diagram shows how each component or device depends on the others. It is called functional flow because it shows the function (purpose of each component) and how the output of one component "flows" into the next. For troubleshooting, the functional flow schematic is better than the usual circuit diagram because it allows you to quickly see how the system works and what to expect when you make measurements on a system that has faults. You can't expect the output of a device to be good when it has a bad input.
 
-Functional flow schematic - a diagram which is much like a normal electrical circuit diagram, except that its purpose is to show the flow of information through the system (or the flow of a signal or the flow of some material such as the fuel). This kind of diagram shows how each component or device depends on the others. It is called functional flow because it shows the function (purpose of each component) and how the output of one component "flows" into the next. For troubleshooting, the functional flow schematic is better than the usual circuit diagram because it allows you to quickly see how the system works and what to expect when you make measurements on a system that has faults. You can't expect the output of a device to be good when it has a bad input.
-
-## 2-16. Electric Circuit Description
+<a name="2-16"></a>
+### 2-16. Electric Circuit Description
 
 An electrical circuit is a collection of electrical devices which are connected in a loop from a positive voltage source (the battery positive) to a negative source ( the battery negative). It must be continuous, with no breaks (no opening in the loop) so that electrical current can flow from the positive to the negative. You can think of it like the plumbing in your house. There must be a source of water under pressure or nothing will flow through the pipes. Water pressure is like the positive voltage of the battery. There may be branches (tees) in the pipes going to several different places, but if you don't connect the pipes, you don't get water. The same thing is true with the electrical circuit. If the wires aren't connected, no electricity will flow through them.
 
@@ -1146,7 +1164,9 @@ In the case of the starter's power relay, it is also called a "solenoid". A sole
 When testing a circuit, you will need to know how much current is flowing. Current is easilly measured with the STE/lCE-R. A device called a "shunt" is connected to the negative terminal of the battery. A
 shunt is a very precise resistor designed so that for every 1000 amps of current that flow through it there is a drop of .1 volts from one side of it to the other (different shunts may have different values). By measuring the voltage across the shunt you know how much current is flowing through the circuit. The shunt is placed on the negative side because it is safer (less chance of accidents which may short out the batteries). Since all of the current eventually goes through the negative battery terminal anyway, the shunt gives the same measurement as if it were connected to the positive terminal. You can think of the shunt as doing the same thing as the water meter in your house. As you turn devices such as lights on or off, you can use the shunt to measure how much current they are using.
 
-# 2-17. Startability Tests
+<a name="2-17"></a>
+
+### 2-17. Startability Tests
 
 This is a top level test for problems with an engine that doesn't start, or starts but immediately stops, or is very hard to start. If the engine starts but doesn't run well after starting. trv the "STARTABILITY" tests first.
 
@@ -1236,7 +1256,8 @@ PRIOR TO RUNNING THIS TEST.
 displays OFF.  A number less than 25%
 is passing.
 
-# 2-18. Engine Running Tests
+<a name="2-18"></a>
+### 2-18. Engine Running Tests
 
 This is a top level test for problems with an engine that starts but doesn't run well after starting. This includes an engine that starts but doesn't stay running for very long. If the engine doesn't start, or starts but immediately stops, or is very hard to start, try the "STARTABILITY" tests first.
 
@@ -1335,7 +1356,9 @@ REFERENCE INFORMATION
 
 ENGINE RUNNING
 
-# '2-19. Cooling System Tests
+<a name="2-29"></a>
+
+### 2-19. Cooling System Tests
 
 This paragraph is a top level test for problems with either the watercooling system or the oil cooling system. Just follow the path, answering the questions.
 
@@ -1401,8 +1424,8 @@ OF A HOT ENGINE.
 The coolant surge tank is clear, so you can see what is happening.
 
 ![151_image_1.png](images/151_image_1.png)
-
-# 2-20. Lubrication System Tests
+<a name="2-0"></a>
+### 2-20. Lubrication System Tests
 
 This paragraph is a top level test for all of the lubrication systems in the vehicle. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary.
 
@@ -1456,8 +1479,8 @@ Removal procedures for the vent lines are given in the repair procedure for the 
 ![156_image_1.png](images/156_image_1.png)
 
 Replace the fording valve. Refer to (para 12-9).
-
-## 2-21. Electrical Tests
+<a name="2-21"></a>
+### 2-21. Electrical Tests
 
 Most of the electrical circuits in the vehicle are included in one of the major systems covered by this manual. This is a top level paragraph to help you pick the right one. A number of schematics are also included to help you find the problem. If you go through the flowchart and can't solve the problem, use the schematics to find wires which may be causing trouble. The Electrical System consists of the batteries, which produce electrical power by a chemical reaction between the lead plates and the electrolyte solution (a mixture of acid and water).
 
@@ -1684,7 +1707,8 @@ ELECTRICAL
 
 ![180_image_0.png](images/180_image_0.png)
 
-## 2-22. **Fuel System Tests**
+<a name="2-22"></a>
+### 2-22. **Fuel System Tests**
 
 These Fuel System tests can be run any time you think there maybe a problem with the fuel system or if you were sent here from another test.
 
@@ -1704,12 +1728,10 @@ MAKE SURE ALL ELECTRICAL CONNECTIONS ARE CLEAN AND TIGHT. CHECK FUEL SOLENOID, C
 SWITCH, ETC.
 
 1. While cranking or running the engine open the drain fitting end drain some fuel into a clear container.
-
 2. The fuel should come out of the open drain valve in a steady stream, if it
-●
-3. 4.
-
-5.
+3. 
+4. 
+5. 
 
 doesn't, than ANSWER NO TO THIS
 QUESTION.
@@ -2504,8 +2526,8 @@ For  repair/replace instructions (PCB), refer to (para 4-5).
 2. Connect the RED and BLACK leads to the connections stated in the question.
 
 3. Be sure to read the correct scale.  Less than 5 ohms indicates continuity.  For an open circuit, the meter should peg full scale (needle all the way to the left).
-
-## 2-23. Air Intake/Exhaust Tests
+<a name="2-"></a>
+### 2-23. Air Intake/Exhaust Tests
 
 These Air Intake/Exhaust System tests can be run anytime you think there maybe a problem with the air intake or exhaust systems, or if you were sent here from another test.
 
@@ -2545,8 +2567,8 @@ Look for damage caused by rocks such as bent pipes or holes, loose or broken cla
 Replace muffler, refer to (para 3-48).
 
 INTAKE AIR/ EXHAUST
-
-# 2-24. Compression/Mechanical Tests
+<a name="2-"></a>
+### 2-24. Compression/Mechanical Tests
 
 The main intent of this paragraph is to determine if the engine has internal compression or mechanical problems and to fix everything possible without having to notify DS maintenance.
 
@@ -2726,8 +2748,8 @@ COMPRESSION / MECHANICAL
 If faults are found and corrected go to STEP 2 of the GO CHAIN. If no faults are found go to B2, page 2-150.
 
 If faults are found and corrected go to STEP 2 of the GO CHAIN. If no faults are found go to B2, page 2-150.
-
-## 2-25. Engine Cooling Tests
+<a name="2-"></a>
+### 2-25. Engine Cooling Tests
 
 These Engine Cooling tests may be run any time you think you have an engine cooling problem or if you were sent here by another test chain. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary. Please note that this paragraph is NOT for diagnoses of problems with the temperature sending unit or the gauge.
 
@@ -3228,8 +3250,8 @@ STE/lCE-R TEST 89 1. Connect RED clip to the indicated test point, BLACK clip to
 ![268_image_0.png](images/268_image_0.png)
 
 2-185(2-186 blank)
-
-# 2-26. Engine Lubrication Tests I
+<a name="2-"></a>
+### 2-26. Engine Lubrication Tests I
 
 These Engine Lubrication tests may be run any time there is an engine lubrication problem or if you were sent here by another test chain. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary.
 
@@ -3324,8 +3346,8 @@ Dial test 50.
 3. Start engine and observe display.
 
 VTM will display RPM's, then PSI.
-
-# 2-27. Alternator Tests
+<a name="2-"></a>
+### 2-27. Alternator Tests
 
 These Alternator tests can be run any time you think there may be a problem with the alternator or battery charging or if you were sent here from another system chain. 
 
@@ -4091,8 +4113,8 @@ STE/ICE-R TEST 90 1. Connect probe.
 2. Start Test 90, DC amps.
 
 3. Displayed reading is in amps.
-
-# 2-28. Protective Control Box/Distribution Box Tests
+<a name="2-"></a>
+### 2-28. Protective Control Box/Distribution Box Tests
 
 This protective control box /distribution box test can be run any time you think there may be a problem with the protective control box or distribution box, or if you were sent here from another system chain.
 
@@ -4506,8 +4528,8 @@ SWITCH AND/OR HARNESS WIRES 29A AND 29C.
 
 REFERENCE INFORMATION PROTECTIVE CONTROL BOX/DISTRIBUTION BOX
 Replace protective control box, refer to (para. 4-5). Replace distribution box, refer to (para. 4-5.1). Repair/replace rotary switch, refer to (para. 4-7). Repair/replace leads 29A and 29C, refer to (para. 4-85).
-
-## 2-29. Battery Circuit Test 1
+<a name="2-"></a>
+### 2-29. Battery Circuit Test 1
 
 These Battery Circuit tests maybe run any time you think you have a battery problem of if you were sent here by another test chain. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary.
 
@@ -4654,8 +4676,8 @@ See TM 9-4910-571-12&P for instructions on how to run these tests.
 5. Result is displayed in milliohms/second. Battery resistance change should be 50 milliohms/second max.
 
 1. Connect RED clip to the indicated test point, BLACK dip to negative or ground. 2. Start Test 89, DC volts. 3. Displayed reading is in volts.
-
-# 2-30. Starter Circuit Tests
+<a name="2-"></a>
+### 2-30. Starter Circuit Tests
 
 # Starter Circuit Without Starter Lockout
 
@@ -5502,8 +5524,8 @@ Replace distribution box, refer to
 
 1. Connect RED clip and BLACK clip to the indicated terminals in the question. RED to the first, BLACK to the second. 2. Start Test 91, 0-4500 ohms. 3. Displayed reading is in ohms. Less than 5 ohms is continuity. If the resistance is over 4500 ohms, STE/ICE displays '9.9.9.9.'
 STARTER CIRCUIT
-
-## 2-31. Glowplugs Circuit Tests (Protective Control Box)
+<a name="2-"></a>
+### 2-31. Glowplugs Circuit Tests (Protective Control Box)
 
 These tests of the Glowplugs Circuit can be run anytime you think there may be a problem with the glowplugs, or if you were sent here from another test. 
 
@@ -5896,8 +5918,8 @@ Repair wiring or replace harness, refer to
 Repair wiring or replace harness, refer to (para 4-85). Replace glowplug controller, refer to (para 4-29).
 
 1. Set the voltmeter to an ohms scale of about 1000 ohms. 2. Connect the RED and BLACK leads to the connections stated in the question. 3. Be sure to read the correct scale. Less than 5 ohms indicates continuity. For an open circuit, the meter should peg full scale (needle all the way to the left).
-
-## 2-31.1. Glowplugs Circuit Tests (Distribution Box)
+<a name="2-"></a>
+### 2-31.1. Glowplugs Circuit Tests (Distribution Box)
 
 These tests of the Glowplugs Circuit can be run anytime you think there may be a problem with the glowplugs, or if you were sent here from another test.
 
@@ -6240,15 +6262,15 @@ Repair wiring or replace harness, refer to (para. 4-85). Replace glowplug contro
 1. Set the voltmeter to an ohms scale of about 1000 ohms.
 
 2. Connect the RED and BLACK leads to the connections stated in the question. 3. Be sure to read the correct scale. Less than 5 ohms indicates continuity. For an open circuit, the meter should peg full scale (needle all the way to the left).
-
-# 2-32. Instrument Tests
+<a name="2-"></a>
+### 2-32. Instrument Tests
 
 These Instrument Tests can be run any time you think there is a problem with the instruments or if you were sent here from another test.
 
 If you get an unusual gauge reading it is a good idea to check out the system that the gauge monitors to be sure that it is a gauge problem and not a real problem in the engine or electrical system.
 
 Refer to fold-out page FO-10 and leave fold-out open for reference during testing. Diagrams of the individual gauge circuits will be found on the page that deals with that circuit.
-
+<a name="2-"></a>
 ### 2-319
 
 ![426_image_0.png](images/426_image_0.png)
@@ -7290,11 +7312,11 @@ Replace the PCB, refer to (para 4-5).
 1. Set the voltmeter to an ohms scale of about 1000 ohms.
 
 2. Connect the RED and BLACK leads to the connections stated in the question. 3. Be sure to read the correct scale.  Less than 5 ohms indicates continuity.  For an open circuit, the meter should peg full scale (needle all the way to the left).
-
-## 2-33. Light Tests
+<a name="2-"></a>
+### 2-33. Light Tests
 
 The Lights paragraph has almost no flow chart to guide you through a problem. This is because there aren't very many problems that can occur. The most common problems are burned-out bulbs and loose or corroded connections. Aside from bulbs and wiring, the only components are the PCB and the lights switch. If either of these is found to be faulty, you just replace the bad unit. On the following pages you will find diagrams of the major portions of the Lights Circuit. These are designed to help you isolate a problem without wasting too much time.
-
+<a name="2-"></a>
 ### 2-389
 
 ## Lights Diagnostic Flowchart
@@ -7453,8 +7475,8 @@ AND "E" AND PIN "F" TO "G".
 "E" AND PIN "F" TO "G".
 
 ![502_image_1.png](images/502_image_1.png)
-
-# 2-34. Transmission System Tests (3L80)
+<a name="2-"></a>
+### 2-34. Transmission System Tests (3L80)
 
 These Transmission System tests may be run any time you think you have a transmission problem or if you were sent hereby another test chain. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary.
 
@@ -7624,8 +7646,8 @@ Recheck everything in the circuit. If you don't find anything wrong, notify DS m
 2. Connect the RED lead to positive and the BLACK lead to negative.
 
 3. Be sure to read the correct scale.
-
-# 2-35. Transmission System Tests (4L80-E)
+<a name="2-"></a>
+### 2-35. Transmission System Tests (4L80-E)
 
 The 4L80-E Transmission system is equipped with a computer called the Transmission Control Module (TCM) (located left rear seat compartment; for M996A2 and M997A2 vehicles, located in the left exterior stowage compartment) which interprets, analyzes and records electronic signals form sensors and switches located on the engine, brake pedal, and transmission. The recorded codes stored in the TCM are known as TROUBLE CODES which are retrieved using the Diagnostic Switch Cable on the J2 connector of the TCM. The TCM
 can protect the transmission from damage by locking it in Second Gear, with maximum fluid pressure, until the problem has been corrected. The following procedures will detail diagnostic testing, troubleshooting and corrective action for any existing faults. These Transmission System tests may be run any time you think there is a transmission problem or if you were sent here by another test chain. This paragraph has a different kind of flow chart to guide you through testing because of the may problems that can occur. The most common problems are loose or corroded wiring connections. To troubleshoot the transmission, you will need a diagnostic switch cable, digital multimeter and a throttle position (TP) sensor test cable.
@@ -7643,7 +7665,7 @@ Diagnostic test code 63 will be set at all times.
 For example if the TCM is sending the trouble code 74, the lamp will flash 12 three times, flash 63 three times, which is set all the time and is to be disregarded, flash code 7 and 4,7 and 4, 7 and 4 for code 74, and then 12, 12, 12, which ends the diagnostic check. These codes will repeat again, if not taken out of diagnostic mode.
 
 The TCM J1 connector will be used to diagnose and troubleshoot wiring, sensor connectors, pins, solenoids, and brake switch, to insure all external problems are checked and corrected prior to TCM and transmission faults. On the following pages you will find diagrams and charts of the major portions of the transmission circuits. These are designed to help you isolate a problem and correct it.
-
+<a name="2-"></a>
 ### 2-411
 
 ![515_image_0.png](images/515_image_0.png)
@@ -8359,7 +8381,7 @@ Is continuity present from pin h wire 349A of J1 to pin 1 wire 359B of J1 to 2 w
 sensor, (para. 4-33).
 
 Repair wire 349A/349B, and/or wire 359B/359J, (para. 4-85).
-
+<a name="2-"></a>
 ### 2-434 Change 2
 
 # Diagnostic Flowchart
@@ -8533,8 +8555,8 @@ Disconnect transmission connector from transmission. Check continuity from J1 pi
 
 Check continuity from J1 pin c to transmission connector pin M.
 Refer to DS maintenance.
-
-## 2-36. Brake System Tests
+<a name="2-"></a>
+### 2-36. Brake System Tests
 
 These Brake System tests may be run any time you think you have a braking problem or if you were sent here by another test chain. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary. 
 
@@ -8688,15 +8710,15 @@ Check belts using the belt tension
 ![559_image_1.png](images/559_image_1.png) gauge, refer to (pars 3-82) (All except "A2" vehicles).
 
 A defective power steering pump, gear, hoses, or control valve could affect hydro-booster operation.
-
-## 2-37. Steering System Tests
+<a name="2-"></a>
+### 2-37. Steering System Tests
 
 These Steering System tests may be run any time you have a steering problem or if you were sent here by another test chain. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary.
 
 The fold-out page shows the location of the major components of the steering in case you are not familiar with them. These parts are shown in a schematic manner. Illustrations of the actual components are given wherever applicable on the reference pages of the diagnostics.
 
 Fold-out page FO-14 may be left open for reference while testing. The functional flow diagram shows the mechanical and hydraulic parts of the system and how they interact. Even if the hydraulic system fails, you will still be able to steer the vehicle, although it will require more effort.
-
+<a name="2-"></a>
 ### 2-459
 
 ![561_image_0.png](images/561_image_0.png)
@@ -8975,8 +8997,8 @@ Replace the stabilizer bar, refer to (para 6-23).
 ![580_image_1.png](images/580_image_1.png)
 
 If you still have a problem, rerun the test chain to make sure you didn't miss anything. If you didn't go down the "A" chain, you may want to run those tests in order to check out the hydraulic parts of the steering system.
-
-## 2-38. Drivetrain Tests
+<a name="2-"></a>
+### 2-38. Drivetrain Tests
 
 These Drivetrain tests maybe run anytime you think you have a drivetrain problem or if you were sent here by another test chain. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary.
 
@@ -8986,7 +9008,7 @@ Fold-out page FO-15 may be left open for reference while testing. Also, due to t
 
 NOTE
 Problems with the transmission and drivetrain cooling system are dealt with in Paragraph 2-34 or 2-35.
-
+<a name="2-"></a>
 ### 2-479
 
 ![582_image_0.png](images/582_image_0.png)
@@ -9194,8 +9216,8 @@ Replace the cable, refer to (para 4-15).
 Replace speedometer, refer to (para 4-14).
 
 ![597_image_1.png](images/597_image_1.png)
-
-## 2-39. Ambulance Electrical System Tests
+<a name="2-"></a>
+### 2-39. Ambulance Electrical System Tests
 
 This section provides information to diagnose and correct malfunctions of the ambulance electrical system.
 
@@ -10990,8 +11012,8 @@ Figure 16. Heater Control System
 ![791_image_0.png](images/791_image_0.png)
 
 Figure 17. NBC Control System
-
-## 2-40. Ambulance Mechanical System Tests
+<a name="2-"></a>
+### 2-40. Ambulance Mechanical System Tests
 
 These ambulance system mechanical tests may be run anytime you think you have an ambulance mechanical problem or if you were sent here by another test chain. Just follow the path, answering the questions. Additional information and notes are given on the facing page when necessary.
 
@@ -11152,8 +11174,8 @@ Repair or replace latch, refer to (para. 11-163).
 ![812_image_3.png](images/812_image_3.png)
 
 ![812_image_4.png](images/812_image_4.png)
-
-## 2-41. Winch System Tests
+<a name="2-"></a>
+### 2-41. Winch System Tests
 
 These winch system tests may be run anytime you think you have a winch problem or if you were sent here by another test chain, Just follow the path and answer the questions. Additional information and notes are given on the facing page when necessary.
 
@@ -11202,15 +11224,15 @@ ARMAMENT/TOW CARRIERS
 ![819_image_0.png](images/819_image_0.png)
 
 ![819_image_1.png](images/819_image_1.png)
-
-# 2-42. Dca Troubleshooting
+<a name="2-"></a>
+### 2-42. Dca Troubleshooting
 
 These DCA tests can be run anytime you think there is a problem with the vehicle's DCA or its on board transducers. Do not use this paragraph to test the STE/lCE-R and its cables and transducers. Refer to TM 9-4910-571-12&P to test the STE/ICE-R. This paragraph will also supply instructions on how to use the STE/lCE-R in the TK mode to substitute for tests run through the DCA.
 
 The HMMWV is equipped with three transducers - the pulse tachometer, the fuel pressure transducer, and the current shunt. A power test (12, 13) or RPM test (10) uses the pulse tachometer. The fuel pressure test (24) uses the pressure transducer. All of the starting circuit tests and battery tests done through the DCA use the shunt. Check to see that the wires are connected to the transducer for the test you're trying to run. There is a four wire connector for the fuel pressure transducer, a two wire connector for the pulse tachometer, and there are four wires connected to the shunt in addition to the battery cables.
 
 The fold-out page FO-16 gives a cross reference between DCA tests and TK tests. Use this cross reference to find out how to substitute TK tests for DCA tests if you have a bad DCA. The Location of Parts page has a schematic of the HMMWV DCA.
-
+<a name="2-"></a>
 ### 2-723
 
 ![821_image_0.png](images/821_image_0.png)
@@ -11286,7 +11308,7 @@ If the TK test gave a substantially different result than the DCA test, answer "
 
 NOTE
 Vehicle DCA faulty. Use the STEACE-R in the TK mode for the rest of your testing. See the chart on the foldout page for a way to run the rest of the DCA tests in the TK mode. Have DS maintenance repair the DCA when you're finished.
-
+<a name="2-"></a>
 ### 2-43. Ste/Ice-R Test Procedures
 
 This paragraph will be helpful when using the STE/lCE-R to answer diagnostic questions. Use this paragraph as a reference if you need additional information about a specific test. This paragraph contains information such as possible errors, test procedure, control codes, and additional notes as necessary. The following chart will help you find the test you need. The STE/lCE setup and internal checks (test no. G01, Page 2-763) must be perfomed prior to performing tests. A complete description and operation of the STE/lCE-R is found on Page 2-753. See TM 9-4910-571-12&P for additional information.
@@ -11492,7 +11514,7 @@ Troubteshooting Procedure.
 5. Energize system 6. Press and release TEST button. 7. Observe displayed value.
 
 Possible Error Messages E005 Offset not perfomed. E002 Transducer not connected
-
+<a name="2-"></a>
 ### 2-739
 
 # Battery Voltage Test #67
@@ -12130,8 +12152,8 @@ Table 2-4. Transducer Kit Components
 pipe threads. Each measurement device (transducer) in the transducer kit has its own identification resistor. The VTM uses this identification resistor to check that the correct transducer is connected for the measurement being made. If the correct transducer is not connected, error code E002 will be displayed.
 
 TRANSDUCER KIT
-
-## 2-44. Vehicle Testing
+<a name="2-"></a>
+### 2-44. Vehicle Testing
 
 a. General. To troubleshoot a vehicle problem, the technician can use the STE/ICE-R (vehicle test meter and transducers) and the vehicle test card.
 
