@@ -1,5 +1,53 @@
 # Chapter 2 Service And Troubleshooting Instructions
 
+Task      | Description
+----------|------------------
+[2-1](#2-1)  |  Common Tools And Equipment
+[2-2](#2-2)  |  SPECIAL TOOLS, TMDE, AND SUPPORT EQUIPMENT
+[2-3](#2-3)  |  REPAIR PARTS
+[2-4](#2-4)  |  General
+[2-5](#2-5)  |  General Inspection And Servicing Instructions
+[2-6](#2-6)  |  Specific Inspection And Servicing Instructions
+[2-7](#2-7)  |   G E N E R A L
+[2-8](#2-8)  |   I N T E Rva L S
+[2-9](#2-9)  |   R E P O Rting Repa I R S
+[2-10](#2-10)  |  . General Service And Inspection Procedures
+[2-11](#2-11)  |   Specific Pmcs Procedures
+[2-12](#2-12)  |   General
+[2-13](#2-13)  |  . Electrical/Mechanical Systems Troubleshooting Electrical/Mechanical Troubleshooting
+[2-14](#2-14)  |   How To Use This Troubleshooting Guide
+[2-15](#2-15)  |   Glossary Of Abbreviations And Commonly Used Terms
+[2-16](#2-16)  |   Electric Circuit Description
+[2-17](#2-17)  |   Startability Tests
+[2-18](#2-18)  |   Engine Running Tests
+[2-19](#2-19)  |   Cooling System Tests
+[2-20](#2-20)  |   Lubrication System Tests
+[2-21](#2-21)  |   Electrical Tests
+[2-22](#2-22)  |   Fuel System Tests
+[2-23](#2-23)  |   Air Intake/Exhaust Tests
+[2-24](#2-24)  |   Compression/Mechanical Tests
+[2-25](#2-25)  |   Engine Cooling Tests
+[2-26](#2-26)  |   Engine Lubrication Tests I
+[2-27](#2-27)  |   Alternator Tests
+[2-28](#2-28)  |   Protective Control Box/Distribution Box Tests
+[2-29](#2-29)  |   Battery Circuit Test 1
+[2-30](#2-30)  |   Starter Circuit Tests
+[2-31](#2-31)  |   Glowplugs Circuit Tests (Protective Control Box)
+[2-31](#2-31)  |  1. Glowplugs Circuit Tests (Distribution Box)
+[2-32](#2-32)  |   Instrument Tests
+[2-33](#2-33)  |   Light Tests
+[2-34](#2-34)  |   Transmission System Tests (3L80)
+[2-35](#2-35)  |   Transmission System Tests (4L80-E)
+[2-36](#2-36)  |   Brake System Tests
+[2-37](#2-37)  |   Steering System Tests
+[2-38](#2-38)  |   Drivetrain Tests
+[2-39](#2-39)  |   Ambulance Electrical System Tests
+[2-40](#2-40)  |   Ambulance Mechanical System Tests
+[2-41](#2-41)  |   Winch System Tests
+[2-42](#2-42)  |   Dca Troubleshooting
+[2-43](#2-43)  |   Ste/Ice-R Test Procedures
+[2-44](#2-44)  |   Vehicle Testing
+
 ## Section I. REPAIR PARTS, SPECIAL TOOLS, TEST, MEASUREMENT
 DIAGNOSTIC EQUIPMENT (TMDE), AND SUPPORT EQUIPMENT
 <a name="2-1"></a>
