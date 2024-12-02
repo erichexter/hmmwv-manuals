@@ -1,6 +1,10 @@
 # Chapter 1 Introduction
 
-## Section I. General Information 1-1. Scope
+## Section I. General Information 
+
+<a NAME="1-1"><a>
+
+## 1-1. Scope
 
 a. This technical manual contains instructions for organizational maintenance of the 1-1/4 ton, 4X4, M998 series vehicles.
 
@@ -8,39 +12,65 @@ b. Models included are:
 (1) M998 and M998A1, Cargo/Troop Carrier (2) M1038 and M1038A1, Cargo/Troop Carrier, W/Winch (3) M1097, M1097A1, M1097A2, and M1123 Heavy Variant (4) M966, M966A1, and M1121 TOW Carrier, Armored (5) M1036, TOW Carrier, Armored, W/Winch (6) M1045, M1045A1, and M1045A2 TOW Carrier, W/Supplemental Armor (7) M1046 and M1046A1, TOW Carrier, W/Supplemental Armor, W/Winch (8) M1025, M1025A1, and M1025A2 Armament Carrier, Armored (9) M1026 and M1026A1, Armament Carrier, Armored, W/Winch
 (10) M1043, M1043A1, and M1043A2 Armament Carrier, W/Supplemental Armor (11) M1044 and M1044A1, Armament Carrier, W/Supplemental Armor, W/Winch (12) M1037, S250 Shelter Carrier (13) M1042, S250 Shelter Carrier, W/Winch (14) M996 and M996A1 2-Litter Ambulance, Armored (15) M997, M997A1, and M997A2 4-Litter Ambulance, Armored (16) M1035, M1035A1, and M1035A2 2-Litter Ambulance, Soft Top
 
+<a name="1-2"><a>
+
 ## 1-2. Maintenance Forms, Records, And Reports
 
 (Army) Department of the Army forms and procedures used for equipment maintenance will be those prescribed by DA Pam 738-750, The Army Maintenance Management System (TAMMS). (Marine Corps) Refer to TM 4700-15/1–.
+
+
+<a name="1-3"><a>
 
 ## 1-3. Destruction Of Army Equipment To Prevent Enemy Use
 
 Refer to TM 750-244-6, Procedures for Destruction of Army Tank-Automotive Equipment to Prevent Enemy Use.
 
+
+<a name="1-4"><a>
+
 ## 1-4. Preparation For Shipment
 
 (Army) Refer to TM 746-10, Marking, Packaging and Shipment of Supplies and Equipment:General Packaging Instructions for Field Use. (Marine Corps) Refer to MCO 4450-7.
+
+
+<a name="1-5"><a>
 
 ## 1-5. Reporting Equipment Improvement Recommendations (Eir)
 
 (Army) If your vehicle needs improvement, let us know. Send us an EIR. You, the user, are the only one who can tell us what you don't like about your equipment. Let us know why you don't like the design or performance. The preferred method for submitting QDRs is through the Army Electronic Product Support (AEPS) website under the Electronic Deficiency Reporting System (EDRS). The web address is: http://aeps.ria.army.mil. This is a secured site requiring a password that can be applied for on the front page of the website. If the above method is not available to you, put it on an SF 368, Product Quality Deficiency Report (PQDR), and mail it to us at: Department of the Army, U.S. Army Tank-automotive and Armaments Command, ATTN: AMSTA-TR-E/PQDR MS 267, 6501 E. 11 Mile Road, Warren, MI 48397-500. We'll send you a reply. (Marine Corps) Submit QDR's in accordance with MCO 4855-10.
 
+
+<a name="1-6"><a>
+
 ## 1-6. Equipment Improvement Report And Maintenance Digest (Eir Md)
 
 The quarterly Equipment Improvement Report and Maintenance Digest, TB 43-0001-62 series, contains valuable field information on the equipment covered in this manual. The information in the TB 43-0001-62 series is compiled from some of the Equipment Improvement Reports that you prepared on the vehicles covered in this manual. Many of these articles result from comments, suggestions, and improvement recommendations that you submitted to the EIR program. The TB 43-0001-62 series contains information on equipment improvements, minor alterations, proposed Modification Work Orders (MWOs), warranties (if applicable), actions taken on some of your DA Form 2028s (Recommended Changes to Publications and Blank Forms), and advance information on proposed changes that may affect this manual. The information will help you in doing your job better and will help in keeping you advised of the latest changes to this manual. Also refer to DA Pam 25-30, Consolidated Index of Army Publications and Blank Forms, and appendix A, References, of this manual. (Marine Corps) Submit QDR's in accordance with MCO 4855-10. For those with access to the World Wide Web (WWW), the EIR MD can be viewed through the Army Electronic Product Support. The site is http://aeps.ria.army.mil.
+
+
+<a name="1-7"><a>
 
 ## 1-7. Metric System
 
 The equipment described herein contains metric components and requires metric common and special tools; therefore, metric units in addition to standard units will be used throughout this publication. In addition, a metric conversion table is located on the inside back cover of this publication.
 
+
+<a name="1-8"><a>
+
 ## 1-8. Mandatory Replacement Parts
 
 The maintenance instructions contained herein make reference to removing and discarding piece parts such as: gaskets, lockwashers, cotter pins, O-rings, seals; etc.; these items should be considered mandatory replacement items and replaced with new parts during assembly/installation.
+
+
+<a name="1-9"><a>
 
 ## 1-9. Break-In Procedure
 
 Upon receipt of vehicles, or after engine replacement, break-in procedures must be observed during the first 500 miles (804 kilometers) of operation. For break-in procedure, refer to TM 9-2320-280-10.
 
 # Section II. Equipment Description And Data 
+
+
+<a name="1-10"><a>
 
 ## 1-10. Equipment Characteristics, Capabilities, And Features
 
@@ -169,6 +199,9 @@ M1035/M1035A1
 
 ### M1035A2
 
+
+<a name="1-11"><a>
+
 ## 1-11 . Location And Description Of Major Exterior Components
 
 The exterior components described below are common to all vehicles covered in this manual. Special differences are found in TM 9-2320-280-10 or table 1-1, differences between models, of this manual.
@@ -238,6 +271,9 @@ WINCH (6000 lb)
 L
 (M) WINCH (9000 Ib)
 
+
+<a name="1-12"><a>
+
 ## 1-12. Location And Description Of Major Interior
 
 COMPONENTS
@@ -301,6 +337,9 @@ COMPONENTS (Cont'd)
 
 ![46_image_1.png](images/46_image_1.png)
 
+
+<a name="1-13"><a>
+
 ## 1-13. Location And Contents Of Warning, Caution, And Data Plates
 
 The location and contents of caution, data, and warning plates are provided in this paragraph. If any of
@@ -353,12 +392,12 @@ IS FULLY WARMED UP
 |-------------------------|----------------------------|-----------------------------------------------------|---------------------------|--------|---------------------------------|----------------------|
 | FUEL                    |                            | DIESEL NO. 1. NO. 2. DFA ALL MODELS EXCEPT FRONT    |                           | REAR   |                                 |                      |
 | FUEL TANK CAPACITY      |                            | 25 GALS M996, M997, M1037.                          | P.S.I.                    | P.S.I. |                                 |                      |
-| COOLING SYSTEM CAPACITY |                            | 25 QTS AND MID47                                    | 20                        | 22     | MAINTENANCE TM 9\-2320\-280\-20 |                      |
-| CRANKCASE CAPACITY      |                            | 7 QTS + 1 QT FOR FILTER \| M996. M997. M1037. M1042 | 22                        | 30     | MANUAL                          | TM 9\-2320\-280\-34  |
-| TEMPERATURE             | ABOVE +15ºF +40° TO \-15°F | +40° TO \-65°F                                      | TO DRAIN COOLING SYSTEM   |        | OPERATOR'S                      | TM 9\-2320\-280\-10  |
-| ENGINE OIL              | QE\-30 OE\-10              | OEA                                                 | OPEN DRAINCOCK LOCATED    |        | MANUAL                          |                      |
-| GEAR OIL                | GO 80/90 GO 80/90          | GO 75                                               | AT LOWER RADIATOR TUBE    |        | PARTS LIST                      | TM 9\-2320\-280\-20P |
-| GREASE                  | GAA GAA                    | GAA                                                 |                           |        |                                 | TM 9\-2320\-280\-34P |
+| COOLING SYSTEM CAPACITY |                            | 25 QTS AND MID47                                    | 20                        | 22     | MAINTENANCE TM 9-2320-280-20 |                      |
+| CRANKCASE CAPACITY      |                            | 7 QTS + 1 QT FOR FILTER \| M996. M997. M1037. M1042 | 22                        | 30     | MANUAL                          | TM 9-2320-280-34  |
+| TEMPERATURE             | ABOVE +15ºF +40° TO -15°F | +40° TO -65°F                                      | TO DRAIN COOLING SYSTEM   |        | OPERATOR'S                      | TM 9-2320-280-10  |
+| ENGINE OIL              | QE-30 OE-10              | OEA                                                 | OPEN DRAINCOCK LOCATED    |        | MANUAL                          |                      |
+| GEAR OIL                | GO 80/90 GO 80/90          | GO 75                                               | AT LOWER RADIATOR TUBE    |        | PARTS LIST                      | TM 9-2320-280-20P |
+| GREASE                  | GAA GAA                    | GAA                                                 |                           |        |                                 | TM 9-2320-280-34P |
 
 1-13. LOCATION AND CONTENTS OF WARNING, CAUTION, AND DATA PIÆS
 (Cont'd)
@@ -484,6 +523,9 @@ REQUIRED
 |                       |                                          |                                 |                                 | 12\-70.1 1                                    | 12\-171 0             |
 |                       |                                          |                                 |                                 | 12\-68 \- 12\-70 2                            | 12\-170 2             |
 
+
+<a name="1-2"><a>
+
 ## 1-14. Differences Between Models 1-15. Tabulated Data
 
 Vehicle performance data for the M998 series vehicles is listed in table 1-2. This information includes only that data applicable to unit maintenance. Information not covered can be found in TM-9-2320-280-10.
@@ -547,34 +589,43 @@ Standard and metric measurements will be used in this table. A list of their abb
 
 # Section III Principles Of Operation
 
+
+<a name="1-16"><a>
+
 ## 1-16 . General
 
 This section explains how components of the M998 series vehicles work together. The systems (functional groups) covered are listed in the Principles of Operation Reference Index, paragraph 1-17.
 
+
+<a name="1-17"><a>
+
 ## 1-17 .PRINCIPLES OF OPERATION REFERENCE INDEX
 
-| REF.     | SYSTEM                                              
-|----------|-----------------------------------------------------
-| 1-18.   | Drivetrain Operation                                 
-| 1-19.   | Fuel System Operation                                
-| 1-20.   | Cooling System Operation                             
-| 1-21.   | Starting System Operation                            
-| 1-22.   | Generating System Operation                          
-| 1-23.   | Generating System Operation (200 Ampere Alternator)  
-| 1-23.1. | Generating System Operation (100 Ampere Dual Voltage Alternator)                                          
-| 1-23.2. | Generating System Operation (200 Ampere Dual Voltage Alternator)
-| 1-23.3. | Generating System Operation (400 Ampere Dual Voltage Alternator)
-| 1-24.   | Battery System Operation                             
-| 1-25.   | Windshield Wiper/Washer System Operation             
-| 1-26.   | Parking Brake System Operation                       
-| 1-27.   | Service/Parking Brake System Operation               
-| 1-28.   | Service Brake System Operation                       
-| 1-29.   | Steering Control System Operation                    
-| 1-30.   | Suspension System Operation                          
-| 1-31.   | Ambulance Patient Compartment Fuel Burning Heater    System Operation
-| 1-32.   | M997, M997A1, and M997A2 Ambulance Air-Conditioning System Operation
-| 1-33.   | Stowage Racks and Tiedown Straps                     
-| 1-34.   | 200 Ampere Umbilical Power Cable                     
+| REF.   | SYSTEM                                              
+|--------|-----------------------------------------------------
+| (1-18  )[#1-18] | Drivetrain Operation                                 
+| (1-19  )[#1-19] | Fuel System Operation                                
+| (1-20  )[#1-20] | Cooling System Operation                             
+| (1-21  )[#1-21] | Starting System Operation                            
+| (1-22  )[#1-22] | Generating System Operation                          
+| (1-23  )[#1-23] | Generating System Operation (200 Ampere Alternator)  
+| (1-23.1)[#1-23] | Generating System Operation (100 Ampere Dual Voltage Alternator)                                          
+| (1-23.2)[#1-23] | Generating System Operation (200 Ampere Dual Voltage Alternator)
+| (1-23.3)[#1-23] | Generating System Operation (400 Ampere Dual Voltage Alternator)
+| (1-24  )[#1-24] | Battery System Operation                             
+| (1-25  )[#1-25] | Windshield Wiper/Washer System Operation             
+| (1-26  )[#1-26] | Parking Brake System Operation                       
+| (1-27  )[#1-27] | Service/Parking Brake System Operation               
+| (1-28  )[#1-28] | Service Brake System Operation                       
+| (1-29  )[#1-29] | Steering Control System Operation                    
+| (1-30  )[#1-30] | Suspension System Operation                          
+| (1-31  )[#1-31] | Ambulance Patient Compartment Fuel Burning Heater    System Operation
+| (1-32  )[#1-32] | M997, M997A1, and M997A2 Ambulance Air-Conditioning System Operation
+| (1-33  )[#1-33] | Stowage Racks and Tiedown Straps                     
+| (1-34  )[#1-34] | 200 Ampere Umbilical Power Cable                     
+
+
+<a name="1-18"><a>
 
 ## 1-18. Drivetrain Operation
 
@@ -590,6 +641,9 @@ DIFFERENTIALS - Transmit driving power, via halfshafts and geared hubs, to left 
 GEARED HUBS - Serve as the front wheel steering spindle and act as the final drive components
 
 ![65_image_0.png](images/65_image_0.png) to front and rear wheels.
+
+
+<a name="1-19"><a>
 
 ## 1-19. Fuel System Operation
 
@@ -614,7 +668,10 @@ INJECTION PUMP - Directs metered and pressurized fuel to the eight injector nozz
 
 mounted on top of the engine under the intake manifold.
 
-## 1 - 2 0 . Cooling System Operat I O N
+
+<a name="1-20"><a>
+
+## 1-20. Cooling System Operat I O N
 
 The cooling system removes excess heat from the engine, engine oil, transfer oil, and transmission oil. This system is identical on all models covered in this manual. Major components of the cooling system are:
 A**ENGINE TEMPERATURE SENDING UNIT** - Sends signal indicating coolant temperature to gauge on instrument cluster.
@@ -657,6 +714,9 @@ RADIATOR SHROUD - Permits a greater concentration of air to be pulled through th
 
 ![68_image_0.png](images/68_image_0.png)
 
+
+<a name="1-21"><a>
+
 ## 1-21. Starting System Operation
 
 The starting system is identical for all vehicles covered in this manual, and consists of the following components and circuits.
@@ -670,6 +730,9 @@ STARTER SOLENOID - A magnetic relay that transmits 24-volt battery power to the 
 STARTER MOTOR - Cranks the engine for starting, and is supplied 24-volt battery power through
 
 ![69_image_0.png](images/69_image_0.png) circuit 6A.
+
+
+<a name="1-22"><a>
 
 # 1-22. Generating System Operation (60/100 Ampere Alternator)
 
@@ -694,6 +757,9 @@ CIRCUIT 568 - Senses vehicle voltage activating the field current in the alterna
 
 ![70_image_0.png](images/70_image_0.png)
 
+
+<a name="1-23"><a>
+
 ## 1-23. Generating System Operation (200 Ampere Alternator)
 
 The 200 ampere generating system maintains battery charge and provides electrical power to operate vehicle circuits. Major components of the generating system are:
@@ -711,7 +777,10 @@ POSITIVE CABLE - Transmits alternator output to maintain battery charge. A fuse 
 
 CIRCUIT 3 - Connects to negative stud on alternator with engine ground strap to provide a ground circuit to alternator.
 
-## 1 - 2 3 . 1 . G E N E R Ating System Operation (100 Ampere Dual Voltage Alt E R N At O R )
+
+<a name="1-23-1"><a>
+
+## 1- 2 3 . 1 . G E N E R Ating System Operation (100 Ampere Dual Voltage Alt E R N At O R )
 
 The 100-ampere dual voltage generating system maintains battery charge and provides electrical power to operate vehicle circuits. Major components of the generating system are:
 C D
@@ -733,7 +802,10 @@ BATTERIES - Two 12-volt batteries are connected in a series to provide 24 volts 
 
 G **POSITIVE CABLE 6** - Provides 28-volt alternator output to maintain charge across two batteries. 
 
-## 1 - 2 3 . 2 . G E N E R Ating System Operation (200 Ampere Dual Voltage Alt E R N At O R )
+
+<a name="1-23-2"><a>
+
+## 1- 2 3 . 2 . G E N E R Ating System Operation (200 Ampere Dual Voltage Alt E R N At O R )
 
 The 200-ampere dual voltage generating system maintains battery charge and provides electrical power to operate vehicle circuits. Major components of the generating system are:
 C
@@ -762,7 +834,10 @@ A**BATTERY GAUGE** - Indicates electrical system voltage. It is connected to the
 
 CIRCUIT 568 - Senses vehicle voltage, and activates the field current in the alternator circuit to alternator.
 
-## 1 - 2 3 . 3 . G E N E R Ating System Operation (400 Ampere Dual Voltage Alt E R N At O R )
+
+<a name="1-23-3"><a>
+
+## 1- 2 3 . 3 . G E N E R Ating System Operation (400 Ampere Dual Voltage Alt E R N At O R )
 
 The 400-ampere dual voltage generating system maintains battery charge and provides electrical power to operate vehicle circuits. Major components of the generating system are:
 A**BATTERY GAUGE** - Indicates electrical system voltage. It is connected to the electrical system through circuit 567.
@@ -785,6 +860,9 @@ CIRCUIT 3 - Connects to negative stud on alternator with engine ground strap to 
 
 * Distribution box provides same function as protective control box except distribution box does not protect against reversal of battery polarity.
 
+
+<a name="1-24"><a>
+
 ## 1-24. Battery System Operation
 
 The battery system is identical for all vehicles covered in this manual and consists of the following circuits and components.
@@ -797,6 +875,9 @@ CIRCUIT 7A- Connects the battery system to the starter negative terminal and cha
 
 ![75_image_0.png](images/75_image_0.png)
 
+
+<a name="1-25"><a>
+
 ## 1-25. Windshield Wiper/Washer System Operation
 
 The following miscellaneous components and circuits are not covered in any of the other electrical systems:
@@ -807,6 +888,9 @@ CIRCUIT 57- Provides a ground circuit for wiper motor.
 WINDSHIELD WASHER MOTOR - When knob on wiper motor is pushed, the washer motor is
 
 ![76_image_0.png](images/76_image_0.png) activated through circuit 71 to spray water onto windshield.
+
+
+<a name="1-26"><a>
 
 ## 1-26. Parking Brake System Operation
 
@@ -824,6 +908,9 @@ PARKING BRAKE HAND LEVER - Permits operator to engage the parking brake.
 PARKING BRAKE HAND LEVER ADJUSTING CAP - Permits operator to make minor tension
 
 ![77_image_0.png](images/77_image_0.png) adjustment of parking brake.
+
+
+<a name="1-27"><a>
 
 ## 1-27. Service/Parking Brake System Operation
 
@@ -845,6 +932,9 @@ PARKING BRAKE HAND LEVER - Permits operator to engage the parking brake.
 PARKING BRAKE HAND LEVER ADJUSTING CAP - Permits operator to make minor tension
 
 ![78_image_0.png](images/78_image_0.png) adjustment of parking brake.
+
+
+<a name="1-28"><a>
 
 ## 1-28. Service Brake System Operation
 
@@ -872,6 +962,9 @@ BRAKE ROTOR - Attached to output flange on front and rear differentials, rotor p
 BRAKE PADS - Apply friction to brake rotor when brake pedal is depressed.
 
 ![80_image_0.png](images/80_image_0.png)
+
+
+<a name="1-29"><a>
 
 ## 1-29. Steering Control System Operation
 
@@ -910,7 +1003,10 @@ IDLER ARM - Supports right side of center link.
 
 ![82_image_0.png](images/82_image_0.png)
 
-## 1 - 3 0 . Suspension System Operat I O N
+
+<a name="1-30"><a>
+
+## 1-30. Suspension System Operation
 
 The suspension system is identical for all models covered in this manual. It is an independent coil spring type system. Major components of the suspension system are:
 A**BALL JOINTS** - Connects geared hub to control arms, and allows change of angle between geared hub and control arms during suspension movement.
@@ -937,6 +1033,9 @@ RADIUS ROD (REAR ONLY) - Connects geared hub to frame, to maintain rear end alin
 
 ![84_image_0.png](images/84_image_0.png)
 
+
+<a name="1-31"><a>
+
 ## 1-31. Ambulance Patlent Compartment Fuel Burning Heater System Operation
 
 The ambulance patient compartment fuel burning heater in the M996, M996A1, M997, M997A1, and M997A2 vehicles are similar in that they are multi-fuel burning and heat filtered fresh air. Major components of the fuel burning heater system are:
@@ -959,7 +1058,10 @@ FUEL LINES - Supply fuel to the fuel burning heater.
 
 ![85_image_0.png](images/85_image_0.png)
 
-1-32. M997, M997A1, AND M997A2 AMBULANCE AIR-CONDITIONING
+
+<a name="1-32"><a>
+
+## 1-32. M997, M997A1, AND M997A2 AMBULANCE AIR-CONDITIONING
 SYSTEM OPERATION
 The air-conditioning system covered in this manual applies only to the M997, M997A1, and M997A2 vehicles and consists of the following major components:
 COMPRESSOR - Inside the compressor, low pressure gas refrigerant is compressed into a high pressure gas that is pushed into the condenser by the compressor.
@@ -980,7 +1082,10 @@ SUCTION LINE - Refrigerant in low pressure gas form is drawn from the evaporator
 
 suction action of the compressor.
 
-## 1 - 3 3 . S T O Wage Racks And Tiedown Straps
+
+<a name="1-33"><a>
+
+## 1- 3 3 . S T O Wage Racks And Tiedown Straps
 
 The stowage racks and tiedown straps covered in this manual apply to the M1097, M1097A1, M1097A2, and M1123 vehicles and consist of the following major components:
 A
@@ -1040,7 +1145,10 @@ CAMOUFLAGE STOWAGE RACK AND STRAPS (three) - Provide stowage for camouflage
 
 screen and support system during transportation.
 
-## 1 - 3 4 . 200 Ampere Umbilical Power Cable
+
+<a name="1-34"><a>
+
+## 1-34 . 200 Ampere Umbilical Power Cable
 
 The 200 ampere umbilical power cable covered in this manual applies to the M1097A2 and M1123 vehicles and consists of the following major component.
 
