@@ -603,26 +603,26 @@ This section explains how components of the M998 series vehicles work together. 
 
 | REF.   | SYSTEM                                              
 |--------|-----------------------------------------------------
-| (1-18  )[#1-18] | Drivetrain Operation                                 
-| (1-19  )[#1-19] | Fuel System Operation                                
-| (1-20  )[#1-20] | Cooling System Operation                             
-| (1-21  )[#1-21] | Starting System Operation                            
-| (1-22  )[#1-22] | Generating System Operation                          
-| (1-23  )[#1-23] | Generating System Operation (200 Ampere Alternator)  
-| (1-23.1)[#1-23] | Generating System Operation (100 Ampere Dual Voltage Alternator)                                          
-| (1-23.2)[#1-23] | Generating System Operation (200 Ampere Dual Voltage Alternator)
-| (1-23.3)[#1-23] | Generating System Operation (400 Ampere Dual Voltage Alternator)
-| (1-24  )[#1-24] | Battery System Operation                             
-| (1-25  )[#1-25] | Windshield Wiper/Washer System Operation             
-| (1-26  )[#1-26] | Parking Brake System Operation                       
-| (1-27  )[#1-27] | Service/Parking Brake System Operation               
-| (1-28  )[#1-28] | Service Brake System Operation                       
-| (1-29  )[#1-29] | Steering Control System Operation                    
-| (1-30  )[#1-30] | Suspension System Operation                          
-| (1-31  )[#1-31] | Ambulance Patient Compartment Fuel Burning Heater    System Operation
-| (1-32  )[#1-32] | M997, M997A1, and M997A2 Ambulance Air-Conditioning System Operation
-| (1-33  )[#1-33] | Stowage Racks and Tiedown Straps                     
-| (1-34  )[#1-34] | 200 Ampere Umbilical Power Cable                     
+| [1-18  ](#1-18) | Drivetrain Operation                                 
+| [1-19  ](#1-19) | Fuel System Operation                                
+| [1-20  ](#1-20) | Cooling System Operation                             
+| [1-21  ](#1-21) | Starting System Operation                            
+| [1-22  ](#1-22) | Generating System Operation                          
+| [1-23  ](#1-23) | Generating System Operation (200 Ampere Alternator)  
+| [1-23.1](#1-23-1) | Generating System Operation (100 Ampere Dual Voltage Alternator)                                          
+| [1-23.2](#1-23-2) | Generating System Operation (200 Ampere Dual Voltage Alternator)
+| [1-23.3](#1-23-3) | Generating System Operation (400 Ampere Dual Voltage Alternator)
+| [1-24  ](#1-24) | Battery System Operation                             
+| [1-25  ](#1-25) | Windshield Wiper/Washer System Operation             
+| [1-26  ](#1-26) | Parking Brake System Operation                       
+| [1-27  ](#1-27) | Service/Parking Brake System Operation               
+| [1-28  ](#1-28) | Service Brake System Operation                       
+| [1-29  ](#1-29) | Steering Control System Operation                    
+| [1-30  ](#1-30) | Suspension System Operation                          
+| [1-31  ](#1-31) | Ambulance Patient Compartment Fuel Burning Heater    System Operation
+| [1-32  ](#1-32) | M997, M997A1, and M997A2 Ambulance Air-Conditioning System Operation
+| [1-33  ](#1-33) | Stowage Racks and Tiedown Straps                     
+| [1-34  ](#1-34) | 200 Ampere Umbilical Power Cable                     
 
 
 <a name="1-18"><a>
