@@ -3,15 +3,16 @@
 ### About Your Manual
 
 a. Spend some time looking through this manual. You'll find that it has a new look, different than most of the TMs you've been using. New features added to improve the convenience of this manual and increase your efficiency are:
-1. Accessing Information - These include physical entry features such as the bleed-to-edge indicators on the cover and edge of the manual. Extensive troubleshooting guides for specific systems lead directly to step by step directions for problem solving and maintenance tasks.
 
-2. Illustrations - A variety of methods are used to make locating and fixing components much easier.
+    1. Accessing Information - These include physical entry features such as the bleed-to-edge indicators on the cover and edge of the manual. Extensive troubleshooting guides for specific systems lead directly to step by step directions for problem solving and maintenance tasks.
 
-Locator illustrations with keyed text, exploded views, and cut-away diagrams make the information in this manual easier to understand.
+    2. Illustrations - A variety of methods are used to make locating and fixing components much easier.
 
-3. Keying Text With Illustrations - Instructions are located together with figures that illustrate the specific task you are working on. In most cases, the task steps and figures are located side by side making part identification and procedure sequence easier to follow.
+    Locator illustrations with keyed text, exploded views, and cut-away diagrams make the information in this manual easier to understand.
 
-The TM is the fundamental means by which the Army communicates to soldiers the requirements and procedures necessary to perform equipment operations and maintenance. This manual describes in detail the Unit Maintenance authorized by the Maintenance Allocation Chart (appendix B) and Source, Maintenance, and Recovery (SMR) codes (TM 9-2320-280-24P).
+    3. Keying Text With Illustrations - Instructions are located together with figures that illustrate the specific task you are working on. In most cases, the task steps and figures are located side by side making part identification and procedure sequence easier to follow.
+
+    The TM is the fundamental means by which the Army communicates to soldiers the requirements and procedures necessary to perform equipment operations and maintenance. This manual describes in detail the Unit Maintenance authorized by the Maintenance Allocation Chart (appendix B) and Source, Maintenance, and Recovery (SMR) codes (TM 9-2320-280-24P).
 
 b. General Features. Your TM is the best source available for providing information and data critical to vehicle operation and maintenance:
 Safety summary (warning page a, b, and c) General information, equipment descriptions, and data (chapter 1)
@@ -45,7 +46,9 @@ This is where the troubleshooting information is located.
 4. Turn to those pages with the edge indicator matching the black bar for service and troubleshooting instructions. Page numbers are also listed next to chapter titles.
 
 5. Chapter 2 is divided into four sections:
- Section I - Repair Parts, Special Tools, TMDE, and Support Equipment Ž Section II - Service Upon Receipt Ž Section III - PMCS Ž Section IV - Electrical/Mechanical Systems Troubleshooting vi 6. Turn to section IV, "ELECTRICAL/
+ Section I - Repair Parts, Special Tools, TMDE, and Support Equipment Ž Section II - Service Upon Receipt Ž Section III - PMCS Ž Section IV - Electrical/Mechanical Systems Troubleshooting vi 
+
+6. Turn to section IV, "ELECTRICAL/
 
 ![25_image_0.png](images/25_image_0.png)
 
@@ -63,29 +66,17 @@ One of the first pages of this section is the "ELECTRICAL/MECHANICAL SYSTEM TROU
 Look down the list of symptoms until you find
 "ENGINE LUBRICATION TESTS". In that paragraph you will find the diagnostic flow chart that the vehicle operator can pick the test as "OIL LEAKS OR ENGINE PROBLEMS".
 
-9.
-
-Turn to the test indicated.
-
-On page 2-188, steps relating to
+9. Turn to the test indicated. On page 2-188, steps relating to
 
 ![26_image_0.png](images/26_image_0.png) resolving the problem of excessive oil loss are listed. Read the diagnostic flow chart until you find "OIL LEAKS OR ENGINE PROBLEMS". The tests listed are shown in the example page to the right of this text.
 
-10.
+10. In accordance with Test 1, you checked the oil level and filter for leaks. The oil level and filter appears normal and you move on to Test 2.
 
-In accordance with Test 1, you checked the oil level and filter for leaks. The oil level and filter appears normal and you move on to Test 2.
+11. In Test 2, you begin a methodical check of the engine lubricating system. You discover a leak in the oil cooler assembly adjacent to one of the mounting brackets. One of the welds has cracked, allowing a class III leak from a small area of the cooling fins. The oil cooler assembly must be repaired or replaced.
 
-11.
+12. At this point, the engine lubrication diagnostic flow chart would direct you to a specific detailed procedure to solve the problem. However, the engine lubricating system is complex and you must now refer to the table of contents to locate the proper task paragraph.
 
-In Test 2, you begin a methodical check of the engine lubricating system. You discover a leak in the oil cooler assembly adjacent to one of the mounting brackets. One of the welds has cracked, allowing a class III leak from a small area of the cooling fins. The oil cooler assembly must be repaired or replaced.
-
-12.
-
-At this point, the engine lubrication diagnostic flow chart would direct you to a specific detailed procedure to solve the problem. However, the engine lubricating system is complex and you must now refer to the table of contents to locate the proper task paragraph.
-
-13.
-
-NOTE: Before attempting to repair or replace the oil cooler assembly, as a Unit mechanic, you must:
+13. NOTE: Before attempting to repair or replace the oil cooler assembly, as a Unit mechanic, you must:
 a. Determine the maintenance responsibility of repair or replacement of the component. b. If the task is at your echelon of maintenance responsibility, you must identify the tools needed and the replacement parts required.
 
 Refer to the Maintenance Allocation Chart - MAC (appendix B) to determine not only the maintenance responsibility of the item, but also to obtain an estimate of the time required to perform the task, tools needed, and any special notes/requirements necessary.

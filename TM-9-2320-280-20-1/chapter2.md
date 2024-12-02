@@ -1,37 +1,33 @@
 # Chapter 2 Service And Troubleshooting Instructions
 
-Section I. REPAIR PARTS, SPECIAL TOOLS, TEST, MEASUREMENT
+## Section I. REPAIR PARTS, SPECIAL TOOLS, TEST, MEASUREMENT
 DIAGNOSTIC EQUIPMENT (TMDE), AND SUPPORT EQUIPMENT
 
-## 2-1. Common Tools And Equipment
+### 2-1. Common Tools And Equipment
 
 For authorized common tools and equipment, refer to the Modified Table of Organization and Equipment
 (MTOE) applicable to your unit.
 
-2-2. SPECIAL TOOLS, TMDE, AND SUPPORT EQUIPMENT
+### 2-2. SPECIAL TOOLS, TMDE, AND SUPPORT EQUIPMENT
 Special Tools, Test, Measurement, Diagnostic Equipment (TMDE), and Support Equipment used to maintain the vehicles covered in this manual can be found in TM 9-2320-280-24P.
 
-2-3. REPAIR PARTS
+### 2-3. REPAIR PARTS
 Repair parts are listed and illustrated in TM 9-2320-280-24P.
 
-### Section Ii. Service Upon Receipt
+## Section II. Service Upon Receipt
 
-## 2-4. General
+### #2-4. General
 
 a. Upon receipt of a new, used, or reconditioned vehicle, you must determine if the vehicle has been properly prepared for service. The following steps should be followed:
-(1) Inspect all assemblies, subassemblies, and accessories to be sure they are in proper working order. (2) Secure, clean, lubricate, or adjust as needed.
-
-(3) Check all Basic Issue Items (TM 9-2320-280-10) to be sure every item is present, in good condition, and properly mounted, or stowed.
-
-(4) Follow general procedures for all services and inspections given in TM 9-2320-280-10.
-
+    1. Inspect all assemblies, subassemblies, and accessories to be sure they are in proper working order. 
+    2. Secure, clean, lubricate, or adjust as needed.
+    3. Check all Basic Issue Items (TM 9-2320-280-10) to be sure every item is present, in good condition, and properly mounted, or stowed.
+    4. Follow general procedures for all services and inspections given in TM 9-2320-280-10.
 b. The operator will assist when performing service upon receipt inspections.
-
 c. See TM 9-2320-280-10 when checking equipment for proper operation.
-
 d. Refer to TM 9-2320-280-10 for information concerning brake-in procedures.
 
-## 2-5. General Inspection And Servicing Instructions
+### 2-5. General Inspection And Servicing Instructions
 
 The following steps should be taken while performing general inspection and services:
 NOTE

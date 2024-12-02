@@ -40,7 +40,9 @@ The maintenance instructions contained herein make reference to removing and dis
 
 Upon receipt of vehicles, or after engine replacement, break-in procedures must be observed during the first 500 miles (804 kilometers) of operation. For break-in procedure, refer to TM 9-2320-280-10.
 
-## Section Ii. Equipment Description And Data 1-10. Equipment Characteristics, Capabilities, And Features
+# Section II. Equipment Description And Data 
+
+## 1-10. Equipment Characteristics, Capabilities, And Features
 
 The 1-1/4 ton, 4x4, M998 series of vehicles are tactical vehicles designed for use over all types of roads, as well as cross-country terrain in all weather conditions. The vehicles have four driving wheels powered by a V-8, liquid-cooled, diesel engine. Four-wheel hydraulic service brakes and a mechanical parking brake are common to all models in the M998 series. All vehicles are equipped with a pintle hook for towing. Tiedown and lifting eyes are provided for air, rail, or sea shipment.
 
@@ -54,7 +56,7 @@ PURPOSE: These models are used to transport cargo and troops. The M1038 and M103
 
 which have a winch, can be used for recovery operations. Both models utilize a troop seat kit for troop transport operations.
 
-### H E Avy Variant Cargo/Troop Carriers: M1097, M1097A1, M1097A2, And M1123
+### Heavy Variant Cargo/Troop Carriers: M1097, M1097A1, M1097A2, And M1123
 
 PURPOSE: This model is used for transporting equipment, materials, and/or personnel (including crew)
 of 4,400 pounds (1,998 kilograms). The only difference between the M998 and M998A1 cargo/troop carriers and the M1097, M1097A1, M1097A2, and M1123 heavy variant cargo/troop carriers is that the M1097, M1097A1, M1097A2, and M1123 are specifically designed to accommodate a higher payload capacity. This difference affects vehicle length, width, and shipping dimensions, but does not affect the basic purpose and performance of the vehicle. The increased payload capabilities accomodate the following kit configurations:
@@ -167,7 +169,7 @@ M1035/M1035A1
 
 ### M1035A2
 
-## 1 - 1 1 . L O C Ation And Description Of Major Exterior C O M P O N E N T S
+## 1-11 . Location And Description Of Major Exterior Components
 
 The exterior components described below are common to all vehicles covered in this manual. Special differences are found in TM 9-2320-280-10 or table 1-1, differences between models, of this manual.
 
@@ -207,16 +209,16 @@ M **WINCH** - 9000 lb, can be used on "A2" models M1025A2, M1043A2, M1045A2, and
 1-11. LOCATION AND DESCRIPTION OF MAJOR EXTERIOR
 COMPONENTS (Cont'd)
 
-( M
+ M
 
 ![44_image_1.png](images/44_image_1.png)
 
 ![44_image_0.png](images/44_image_0.png)
 
-(L
+L
 (A) AIR CLEANER
 (B) ENGINE
-(C
+C
 TRANSMISSION
 D
 FUEL TANK
@@ -225,7 +227,7 @@ E
 (F)
 PINTLE HOOK
 REAR PROPELLER SHAFT
-(G
+G
 (H) TRANSFER CASE
 FRONT PROPELLER SHAFT
 I
@@ -305,23 +307,15 @@ The location and contents of caution, data, and warning plates are provided in t
 
 ![47_image_0.png](images/47_image_0.png) these plates are worn, broken, painted over, missing, or unreadable, they must be replaced. Information on data plate may vary per model.
 
-1-13. LOCATION AND CONTENTS OF WARNING, CAUTION, AND DATA PIATES
-(Cont'd)
 
 ![48_image_0.png](images/48_image_0.png)
 
-1-13. LOCATION AND CONTENTS OF WARNING, CAUTION, AND DATA PLATES
-(Cont'd)
 
 ![49_image_0.png](images/49_image_0.png)
 
-1-13. LOCATION AND CONTENTS OF WARNING, CAUTION, AND DATA PLATES
-(Cont'd)
 
 ![50_image_0.png](images/50_image_0.png)
 
-1-13. LOCATION AND CONTENTS OF WARNING, CAUTION, AND DATA PLATES
-(Cont'd)
 MAX. VEHICLE OPERATING SPEEDS
 TRANSFER CASE RANGE SELECTION
 
@@ -437,7 +431,7 @@ HIGH INTENSITY NOISE
 HEARING PROTECTION
 REQUIRED
 
-| Page No *Change No.   |                                          |                                 |                                 | Page No *Change No.                           | Page No *Change No.   |
+<!-- | Page No *Change No.   |                                          |                                 |                                 | Page No *Change No.                           | Page No *Change No.   |
 |-----------------------|------------------------------------------|---------------------------------|---------------------------------|-----------------------------------------------|-----------------------|
 |                       |                                          |                                 |                                 | 11\-326 Blank 0                               | 12\-70.4 2            |
 |                       |                                          |                                 |                                 | 12\-1 1                                       | 12\-71 1              |
@@ -490,7 +484,7 @@ REQUIRED
 |                       |                                          |                                 |                                 | 12\-70.1 1                                    | 12\-171 0             |
 |                       |                                          |                                 |                                 | 12\-68 \- 12\-70 2                            | 12\-170 2             |
 
-# 1-14. Differences Between Models 1-15. Tabulated Data
+## 1-14. Differences Between Models 1-15. Tabulated Data
 
 Vehicle performance data for the M998 series vehicles is listed in table 1-2. This information includes only that data applicable to unit maintenance. Information not covered can be found in TM-9-2320-280-10.
 
@@ -546,125 +540,41 @@ Standard and metric measurements will be used in this table. A list of their abb
 | 12\-252 2                | D\-70 \- D\-71 2                              |                         |
 | 12\-253 \- 12\-254 0     | D\-72 \- D\-77 0                              |                         |
 | 12\-255 \- 12\-266 2     | D\-78 \- D\-116 1                             |                         |
-|                          | *Zero in this column indicates original page. |                         |
+|                          | *Zero in this column indicates original page. |                         | -->
 
-|            | VOLUME 1 OF 3                                                             |         |
-|------------|---------------------------------------------------------------------------|---------|
-|            |                                                                           | Page    |
-|            | v  HOW TO USE THIS MANUAL                                                 |         |
-| CHAPTER 1  | INTRODUCTION                                                              | 1\-1    |
-| Section I. | General Information                                                       | 1\-1    |
-| II.        | Equipment Description and Data                                            | 1\-2    |
-| III.       | Principles of Operation                                                   | 1\-35   |
-| CHAPTER 2  | SERVICE AND TROUBLESHOOTING INSTRUCTIONS                                  | 2\-1    |
-| Section I. | Repair Parts, Special Tools, Test, Measurement, and Diagnostic            |         |
-|            | Equipment (TMDE), and Support Equipment                                   | 2\-1    |
-| II.        | Service Upon Receipt                                                      | 2\-1    |
-| III.       | Preventive Maintenance Checks and Services                                | 2\-2    |
-| IV.        | Electrical/Mechanical Systems Troubleshooting                             | 2\-30   |
-|            | VOLUME 2 OF 3                                                             |         |
-| CHAPTER 3  | ENGINE SYSTEMS MAINTENANCE                                                | 3\-1    |
-| Section I. | Lubrication System Maintenance                                            | 3\-1    |
-| II.        | Fuel System Maintenance                                                   | 3\-19   |
-| III.       | Accelerator System Maintenance                                            | 3\-77   |
-| IV.        | Exhaust System Maintenance                                                | 3\-86   |
-| V.         | Cooling System Maintenance                                                | 3\-107  |
-| CHAPTER 4  | ELECTRICAL SYSTEM MAINTENANCE                                             | 4\-1    |
-| Section I. | Generating and Protective Control Box/Distribution Box System Maintenance | .  4\-1 |
-| I.1.       | Dual Voltage Alternator and Regulator System Maintenance                  | 4\-12.5 |
-| II.        | Starter and Starting Control System Maintenance                           | 4\-14   |
-| III.       | Instruments, Sending Units, Switches, and Horn Maintenance                | 4\-23   |
-| IV.        | Transfer Case and Transmission Electrical Maintenance                     | 4\-58   |
-| V.         | Lighting System Maintenance                                               | 4\-77   |
-| VI.        | Battery System Maintenance                                                | 4\-113  |
-| VII.       | Ambulance Electrical System Maintenance                                   | 4\-157  |
+                         
 
-|            |                                                     | Page    |
-|------------|-----------------------------------------------------|---------|
-| CHAPTER 5  | TRANSMISSION AND TRANSFER CASE MAINTENANCE          | 5\-1    |
-| Section I. | Transmission Maintenance                            | 5\-1    |
-| II.        | Transfer Case Maintenance                           | 5\-47   |
-| CHAPTER 6  | PROPELLER SHAFTS, AXLES, AND SUSPENSION MAINTENANCE | 6\-1    |
-| Section I. | Propeller Shafts Maintenance                        | 6\-1    |
-| II.        | Front and Rear Axles Maintenance                    | 6\-16   |
-| III.       | Suspension Maintenance                              | 6\-54   |
-| CHAPTER 7  | BRAKE SYSTEM MAINTENANCE                            | 7\-1    |
-| Section I. | Parking Brake System Maintenance                    | 7\-1    |
-| II.        | Service Brake System Maintenance                    | 7\-19   |
-| III.       | Rear Dual Service/Parking Brake System Maintenance  | 7\-45   |
-| CHAPTER 8  | WHEELS AND STEERING MAINTENANCE                     | 8\-1    |
-| Section I. | Wheel and Runflat System Maintenance                | 8\-1    |
-| II.        | Steering Components Maintenance                     | 8\-43   |
-| CHAPTER 9  | FRAME MAINTENANCE                                   | 9\-1    |
-|            | VOLUME 3 OF 3                                       |         |
-| CHAPTER 10 | BODY AND ACCESSORIES MAINTENANCE                    | 10\-1   |
-| Section I. | Body Maintenance                                    | 10\-1   |
-| II.        | Body Accessories Maintenance                        | 10\-115 |
-| III.       | Winch Maintenance                                   | 10\-179 |
-| CHAPTER 11 | SPECIAL PURPOSE BODIES MAINTENANCE                  | 11\-1   |
 
-|                  |                                                              | Page           |
-|------------------|--------------------------------------------------------------|----------------|
-| CHAPTER 12       | SPECIAL PURPOSE KITS MAINTENANCE                             | 12\-1          |
-| Section I.       | Deep Water Fording Kit Maintenance                           | 12\-1          |
-| II.              | Troop Seat Kit Maintenance                                   | 12\-19         |
-| III.             | 100 Ampere Alternator Kit Maintenance                        | 12\-23         |
-| IV.              | Arctic Winterization Kits Maintenance                        | 12\-36         |
-| V.               | Arctic Winterization Crew Top Kits Maintenance               | 12\-104        |
-| VI.              | Troop/Cargo Winterization Kit Maintenance                    | 12\-114        |
-| VII.             | Communications Kits Maintenance                              | 12\-201        |
-| VIII.            | 81 MM Mortar Kit Maintenance                                 | 12\-235        |
-| IX.              | Traversing Bar Kit Maintenance                               | 12\-251        |
-| X.               | M1097, M1097A1, and M1097A2 Special Purpose Kits Maintenance | 12\-254        |
-| XI.              | Accessory Kits Installation                                  | 12\-282        |
-| XII.             | Cargo Barrier and Net Kit Maintenance                        | 12\-314        |
-| CHAPTER 13       | PREPARATION FOR STORAGE OR SHIPMENT                          | 13\-1          |
-| Section I.       | General Instructions                                         | 13\-1          |
-| II.              | Preparation for Storage and Shipment                         | 13\-2          |
-| APPENDIX A       | REFERENCES                                                   | A\-1           |
-| APPENDIX B       | MAINTENANCE ALLOCATION CHART                                 | B\-1           |
-| APPENDIX C       | EXPENDABLE/DURABLE SUPPLIES AND MATERIALS LIST               | C\-1           |
-| APPENDIX D       | ILLUSTRATED LIST OF MANUFACTURED ITEMS                       | D\-1           |
-| APPENDIX E       | TORQUE LIMITS                                                | E\-1           |
-| APPENDIX F       | WIRING DIAGRAMS AND SCHEMATIC                                | F\-1           |
-| APPENDIX G INDEX | MANDATORY REPLACEMENT PARTS                                  | G\-1   Index 1 |
+# Section III Principles Of Operation
 
-# Section Iii. Principles Of Operat I O N
-
-## 1 - 1 6 . G E N E R A L
+## 1-16 . General
 
 This section explains how components of the M998 series vehicles work together. The systems (functional groups) covered are listed in the Principles of Operation Reference Index, paragraph 1-17.
 
-1 - 1 7 . PRINCIPLES OF OPERATION REFERENCE INDEX
+## 1-17 .PRINCIPLES OF OPERATION REFERENCE INDEX
 
-| REF.     | SYSTEM                                               | PAGE    |
-|----------|------------------------------------------------------|---------|
-| PARA.    |                                                      | NO.     |
-| 1\-18.   | Drivetrain Operation                                 | 1\-36   |
-| 1\-19.   | Fuel System Operation                                | 1\-37   |
-| 1\-20.   | Cooling System Operation                             | 1\-38   |
-| 1\-21.   | Starting System Operation                            | 1\-40   |
-| 1\-22.   | Generating System Operation                          | 1\-41   |
-| 1\-23.   | Generating System Operation (200 Ampere Alternator)  | 1\-42   |
-| 1\-23.1. | Generating System Operation (100 Ampere Dual Voltage |         |
-|          | Alternator)                                          | 1\-42.1 |
-| 1\-23.2. | Generating System Operation (200 Ampere Dual Voltage |         |
-|          | Alternator)                                          | 1\-42.2 |
-| 1\-23.3. | Generating System Operation (400 Ampere Dual Voltage |         |
-|          | Alternator)                                          | 1\-42.3 |
-| 1\-24.   | Battery System Operation                             | 1\-43   |
-| 1\-25.   | Windshield Wiper/Washer System Operation             | 1\-44   |
-| 1\-26.   | Parking Brake System Operation                       | 1\-45   |
-| 1\-27.   | Service/Parking Brake System Operation               | 1\-46   |
-| 1\-28.   | Service Brake System Operation                       | 1\-47   |
-| 1\-29.   | Steering Control System Operation                    | 1\-49   |
-| 1\-30.   | Suspension System Operation                          | 1\-51   |
-| 1\-31.   | Ambulance Patient Compartment Fuel Burning Heater    | 1\-53   |
-|          | System Operation                                     |         |
-| 1\-32.   | M997, M997A1, and M997A2 Ambulance Air\-Conditioning | 1\-54   |
-|          | System Operation                                     |         |
-| 1\-33.   | Stowage Racks and Tiedown Straps                     | 1\-55   |
-| 1\-34.   | 200 Ampere Umbilical Power Cable                     | 1\-58   |
+| REF.     | SYSTEM                                              
+|----------|-----------------------------------------------------
+| 1-18.   | Drivetrain Operation                                 
+| 1-19.   | Fuel System Operation                                
+| 1-20.   | Cooling System Operation                             
+| 1-21.   | Starting System Operation                            
+| 1-22.   | Generating System Operation                          
+| 1-23.   | Generating System Operation (200 Ampere Alternator)  
+| 1-23.1. | Generating System Operation (100 Ampere Dual Voltage Alternator)                                          
+| 1-23.2. | Generating System Operation (200 Ampere Dual Voltage Alternator)
+| 1-23.3. | Generating System Operation (400 Ampere Dual Voltage Alternator)
+| 1-24.   | Battery System Operation                             
+| 1-25.   | Windshield Wiper/Washer System Operation             
+| 1-26.   | Parking Brake System Operation                       
+| 1-27.   | Service/Parking Brake System Operation               
+| 1-28.   | Service Brake System Operation                       
+| 1-29.   | Steering Control System Operation                    
+| 1-30.   | Suspension System Operation                          
+| 1-31.   | Ambulance Patient Compartment Fuel Burning Heater    System Operation
+| 1-32.   | M997, M997A1, and M997A2 Ambulance Air-Conditioning System Operation
+| 1-33.   | Stowage Racks and Tiedown Straps                     
+| 1-34.   | 200 Ampere Umbilical Power Cable                     
 
 ## 1-18. Drivetrain Operation
 
